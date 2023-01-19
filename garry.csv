@@ -1,0 +1,2583 @@
+rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
+2801,black,"Nepomniachtchi, Ian",2807,draw,30,A10,Zagreb,2021
+2801,white,"Vachier-Lagrave, Maxime",2794,lose,43,A04,Zagreb,2021
+2801,black,"Giri, Anish",2744,draw,39,A04,Zagreb,2021
+2801,white,"Mamedyarov, Shakhriyar",2716,lose,26,D61,Zagreb,2021
+2801,black,"Korobov, Anton",2668,lose,17,E73,Zagreb,2021
+2801,white,"Anand, Viswanathan",2785,lose,26,E21,Zagreb,2021
+2801,white,"Duda, Jan Krzysztof",2799,lose,33,B92,Zagreb,2021
+2801,black,"Grischuk, Alexander",2765,lose,24,D85,Zagreb,2021
+2801,white,"Van Foreest, Jorden",2622,win,41,C45,Zagreb,2021
+2801,white,"Nepomniachtchi, Ian",2807,lose,18,E21,Zagreb,2021
+2801,black,"Vachier-Lagrave, Maxime",2794,lose,47,B40,Zagreb,2021
+2801,white,"Giri, Anish",2744,lose,32,A16,Zagreb,2021
+2801,black,"Mamedyarov, Shakhriyar",2716,lose,7,D20,Zagreb,2021
+2801,white,"Korobov, Anton",2668,lose,26,A13,Zagreb,2021
+2801,black,"Anand, Viswanathan",2785,lose,30,B96,Zagreb,2021
+2801,black,"Duda, Jan Krzysztof",2799,lose,26,B96,Zagreb,2021
+2801,white,"Grischuk, Alexander",2765,draw,41,D32,Zagreb,2021
+2801,black,"Van Foreest, Jorden",2622,lose,25,B96,Zagreb,2021
+2812,white,"Navara, David",2748,draw,39,E32,Saint Louis,2017
+2812,black,"Dominguez Perez, Leinier",2796,win,48,B90,Saint Louis,2017
+2812,black,"Aronian, Levon",2794,draw,20,A49,Saint Louis,2017
+2812,white,"Anand, Viswanathan",2756,draw,27,E32,Saint Louis,2017
+2812,black,"Le, Quang Liem",2747,draw,53,A48,Saint Louis,2017
+2812,white,"Nakamura, Hikaru",2868,win,44,E32,Saint Louis,2017
+2812,black,"Caruana, Fabiano",2806,win,54,B23,Saint Louis,2017
+2812,white,"Nepomniachtchi, Ian",2787,draw,27,B51,Saint Louis,2017
+2812,black,"Karjakin, Sergey",2807,lose,38,A01,Saint Louis,2017
+2812,black,"Navara, David",2748,draw,32,B90,Saint Louis,2017
+2812,white,"Dominguez Perez, Leinier",2796,win,62,C48,Saint Louis,2017
+2812,white,"Aronian, Levon",2794,lose,36,E32,Saint Louis,2017
+2812,black,"Anand, Viswanathan",2756,draw,56,B31,Saint Louis,2017
+2812,white,"Le, Quang Liem",2747,lose,31,C45,Saint Louis,2017
+2812,black,"Nakamura, Hikaru",2868,draw,71,A30,Saint Louis,2017
+2812,white,"Caruana, Fabiano",2806,lose,40,C11,Saint Louis,2017
+2812,black,"Nepomniachtchi, Ian",2787,draw,47,B84,Saint Louis,2017
+2812,white,"Karjakin, Sergey",2807,draw,60,C33,Saint Louis,2017
+2812,black,"Caruana, Fabiano",2700,lose,50,B52,Saint Louis,2017
+2812,white,"Le, Quang Liem",2761,win,41,E35,Saint Louis,2017
+2812,white,"Navara, David",2737,lose,50,B12,Saint Louis,2017
+2812,black,"Anand, Viswanathan",2778,draw,31,B51,Saint Louis,2017
+2812,white,"Nepomniachtchi, Ian",2810,lose,37,D90,Saint Louis,2017
+2812,black,"Aronian, Levon",2794,draw,42,A45,Saint Louis,2017
+2812,white,"Dominguez Perez, Leinier",2803,draw,29,A13,Saint Louis,2017
+2812,black,"Nakamura, Hikaru",2822,draw,77,D80,Saint Louis,2017
+2812,white,"Karjakin, Sergey",2765,draw,44,E34,Saint Louis,2017
+2812,white,"Schneider, Karl Heinz",1975,win,31,D00,Moenchengladbach,2016
+2812,white,"Paff, Volker",,win,32,B30,Moenchengladbach,2016
+2812,white,"Ophuels, Jan",,win,26,B40,Moenchengladbach,2016
+2812,white,"Fischer, Gert",,win,57,C43,Moenchengladbach,2016
+2812,white,"Noever, Niklas",1648,win,33,B31,Moenchengladbach,2016
+2812,white,"Schuster, Andreas",,win,40,D00,Moenchengladbach,2016
+2812,white,"Ingenerf, Willi",,win,35,B31,Moenchengladbach,2016
+2812,white,"Bartels, Simon",1631,win,43,A45,Moenchengladbach,2016
+2812,white,"Kircher, Roger",,win,41,B15,Moenchengladbach,2016
+2812,white,"Alonso, Jose Antonio",,win,28,C42,Moenchengladbach,2016
+2812,white,"Behne, Michael",,win,29,D02,Moenchengladbach,2016
+2812,white,"Stoer, Nathan",1884,win,31,D37,Moenchengladbach,2016
+2812,white,"Goertz, Wolfram",,win,27,C62,Moenchengladbach,2016
+2812,white,"Vovchik, Vladimir",1797,win,37,C54,Moenchengladbach,2016
+2812,white,"Fischdick, Werner",,win,46,C08,Moenchengladbach,2016
+2812,white,"Falk, Thomas",,win,35,B40,Moenchengladbach,2016
+2812,black,"Caruana, Fabiano",2795,win,37,A38,Saint Louis,2016
+2812,white,"Nakamura, Hikaru",2787,win,63,C45,Saint Louis,2016
+2812,black,"So, Wesley",2773,draw,46,A41,Saint Louis,2016
+2812,white,"Caruana, Fabiano",2795,lose,34,C45,Saint Louis,2016
+2812,black,"Nakamura, Hikaru",2787,draw,49,E60,Saint Louis,2016
+2812,white,"So, Wesley",2773,draw,37,A13,Saint Louis,2016
+2812,black,"Caruana, Fabiano",2795,win,40,B81,Saint Louis,2016
+2812,white,"Nakamura, Hikaru",2787,draw,70,C45,Saint Louis,2016
+2812,black,"So, Wesley",2773,lose,25,A41,Saint Louis,2016
+2812,white,"Caruana, Fabiano",2795,win,69,C28,Saint Louis,2016
+2812,black,"Nakamura, Hikaru",2787,lose,52,A65,Saint Louis,2016
+2812,white,"So, Wesley",2773,lose,41,B40,Saint Louis,2016
+2812,black,"Caruana, Fabiano",2795,draw,60,B31,Saint Louis,2016
+2812,white,"Nakamura, Hikaru",2787,win,49,C45,Saint Louis,2016
+2812,black,"So, Wesley",2773,lose,26,D85,Saint Louis,2016
+2812,white,"Caruana, Fabiano",2795,draw,45,C45,Saint Louis,2016
+2812,black,"Nakamura, Hikaru",2787,draw,47,E99,Saint Louis,2016
+2812,white,"So, Wesley",2773,win,38,C45,Saint Louis,2016
+2812,white,"Matic, Predrag",,win,31,D02,Pula,2015
+2812,white,"Miletic, Boris",,win,36,C41,Pula,2015
+2812,white,"Flego, Valter",,win,27,D20,Pula,2015
+2812,white,"Mikulic, Zdravko",,win,21,C40,Pula,2015
+2812,white,"Josipovic, Ivo",,win,25,B00,Pula,2015
+2812,white,"Rajkovic, Frano",1676,win,27,C00,Pula,2015
+2812,white,"Franc, Borna",,win,18,D00,Pula,2015
+2812,white,"Radikovic, Anamarija",1637,win,42,B01,Pula,2015
+2812,white,"Kocijancic, Benjamin",,win,20,B07,Pula,2015
+2812,white,"Lovric, Dino",1696,win,36,A83,Pula,2015
+2812,white,"Pahljina, Marko",1737,win,27,B07,Pula,2015
+2812,white,"Ghersinich, Enrico",1779,win,32,A43,Pula,2015
+2812,black,"Short, Nigel D",2664,win,38,A48,Saint Louis,2015
+2812,white,"Short, Nigel D",2664,win,40,C00,Saint Louis,2015
+2812,black,"Short, Nigel D",2664,win,29,B63,Saint Louis,2015
+2812,white,"Short, Nigel D",2664,win,49,A50,Saint Louis,2015
+2812,black,"Short, Nigel D",2664,win,52,B91,Saint Louis,2015
+2812,white,"Short, Nigel D",2664,win,65,D07,Saint Louis,2015
+2812,black,"Short, Nigel D",2664,win,38,A05,Saint Louis,2015
+2812,white,"Short, Nigel D",2664,lose,33,B08,Saint Louis,2015
+2812,white,"Short, Nigel D",2664,draw,43,E11,Saint Louis,2015
+2812,black,"Short, Nigel D",2664,win,36,A36,Saint Louis,2015
+2812,black,"Habu, Yoshiharu",2415,win,48,B06,Tokyo,2014
+2812,white,"Habu, Yoshiharu",2415,win,39,C00,Tokyo,2014
+2812,white,"Barrish, Daniel",1742,draw,47,B52,Cape Town,2012
+2812,white,"Cerulik, Roman",,win,36,C28,Bratislava,2011
+2812,white,"Drugda, Branislav",,win,31,D35,Bratislava,2011
+2812,white,"Fiala, Viliam",,win,43,D06,Bratislava,2011
+2812,white,"Foldesi, Marek",2072,win,26,C90,Bratislava,2011
+2812,white,"Kocisky, Eduard",,win,26,D00,Bratislava,2011
+2812,white,"Mecar, Stefan",,win,24,C60,Bratislava,2011
+2812,white,"Slamka, Pavol",,win,31,A40,Bratislava,2011
+2812,black,"Short, Nigel D",2698,win,41,C58,Leuven,2011
+2812,white,"Short, Nigel D",2698,lose,65,B28,Leuven,2011
+2812,black,"Short, Nigel D",2698,lose,35,C33,Leuven,2011
+2812,white,"Short, Nigel D",2698,win,61,A30,Leuven,2011
+2812,black,"Short, Nigel D",2698,win,59,C52,Leuven,2011
+2812,white,"Short, Nigel D",2698,draw,58,D37,Leuven,2011
+2812,black,"Short, Nigel D",2698,draw,51,B06,Leuven,2011
+2812,white,"Short, Nigel D",2698,draw,66,E21,Leuven,2011
+2812,black,"Vachier-Lagrave, Maxime",2715,draw,49,C88,Clichy,2011
+2812,white,"Vachier-Lagrave, Maxime",2715,win,59,B51,Clichy,2011
+2812,white,"Barreto Reyna, Estefania",,win,43,E70,Mexico City,2010
+2812,white,"Garcia Almaguer, Juan Manuel",2108,win,35,A10,Mexico City,2010
+2812,white,"Gutierrez Garcia, Vicente",,win,26,D02,Mexico City,2010
+2812,white,"Lopez de Nava, Hernandez Carlos",,win,41,C55,Mexico City,2010
+2812,black,"Karpov, Anatoly",2619,draw,25,D72,Valencia,2009
+2812,white,"Karpov, Anatoly",2619,win,96,D35,Valencia,2009
+2812,black,"Karpov, Anatoly",2619,win,26,D35,Valencia,2009
+2812,white,"Karpov, Anatoly",2619,win,56,D35,Valencia,2009
+2812,black,"Karpov, Anatoly",2619,win,36,D72,Valencia,2009
+2812,white,"Karpov, Anatoly",2619,win,51,D31,Valencia,2009
+2812,black,"Karpov, Anatoly",2619,draw,17,D22,Valencia,2009
+2812,white,"Karpov, Anatoly",2619,lose,60,D31,Valencia,2009
+2812,white,"Karpov, Anatoly",2619,win,33,D31,Valencia,2009
+2812,black,"Karpov, Anatoly",2619,lose,36,D72,Valencia,2009
+2812,white,"Karpov, Anatoly",2619,win,28,D31,Valencia,2009
+2812,black,"Karpov, Anatoly",2619,win,24,D72,Valencia,2009
+2812,white,"Bredl, Harald",2346,win,35,D94,Zuerich,2009
+2812,white,"Gaehwiler, Gabriel",2247,win,35,B52,Zuerich,2009
+2812,white,"Bicchierai, Gregory",2090,win,26,D30,Bastia,2008
+2812,white,"Cristofari, Antoine",2136,win,32,C97,Bastia,2008
+2812,white,"Humeau, Cyril",2203,win,32,D31,Bastia,2008
+2812,white,"Massoni, Michael",2244,win,25,B40,Bastia,2008
+2812,white,"Vilaisarn, Akkhavanh",2248,win,24,C11,Bastia,2008
+2812,white,"Vaculik, Martin",2260,win,54,D27,Hluboka,2008
+2812,white,"Bivoj, Fridrich",,win,26,C41,Prague,2008
+2812,white,"Jaburek, Jiri",,win,16,C09,Prague,2008
+2812,white,"Marikova, Jana",,win,5,B50,Prague,2008
+2812,white,"Matocha, Pavel",2005,win,25,C77,Prague,2008
+2812,white,"Nemec, Igor",,win,25,B07,Prague,2008
+2812,black,"Karpov, Anatoly",2668,draw,19,D27,Zuerich,2006
+2812,white,"Polgar, Judit",2710,win,47,E60,Zuerich,2006
+2812,black,"Korchnoi, Viktor",2600,draw,45,D25,Zuerich,2006
+2812,white,"Karpov, Anatoly",2668,draw,53,E12,Zuerich,2006
+2812,black,"Polgar, Judit",2710,win,28,B80,Zuerich,2006
+2812,white,"Korchnoi, Viktor",2600,win,23,E11,Zuerich,2006
+2812,white,"Ansel, Andrew",,win,30,C54,New York,2006
+2804,black,"Topalov, Veselin",2757,lose,30,B30,Linares,2005
+2804,white,"Anand, Viswanathan",2786,draw,22,C42,Linares,2005
+2804,black,"Adams, Michael",2741,win,26,B84,Linares,2005
+2804,white,"Vallejo Pons, Francisco",2686,win,54,D12,Linares,2005
+2804,black,"Kasimdzhanov, Rustam",2678,win,36,D48,Linares,2005
+2804,white,"Leko, Peter",2749,draw,31,B30,Linares,2005
+2804,white,"Topalov, Veselin",2757,draw,21,C88,Linares,2005
+2804,black,"Anand, Viswanathan",2786,draw,44,B33,Linares,2005
+2804,white,"Adams, Michael",2741,win,54,E37,Linares,2005
+2804,black,"Vallejo Pons, Francisco",2686,win,29,D21,Linares,2005
+2804,white,"Kasimdzhanov, Rustam",2678,draw,51,C42,Linares,2005
+2804,black,"Leko, Peter",2749,draw,26,B80,Linares,2005
+2813,black,"Grischuk, Alexander",2704,draw,39,B90,Moscow,2004
+2813,white,"Morozevich, Alexander",2758,draw,52,D10,Moscow,2004
+2813,black,"Timofeev, Artyom",2611,win,42,B50,Moscow,2004
+2813,white,"Svidler, Peter",2735,win,57,D10,Moscow,2004
+2813,black,"Tseshkovsky, Vitaly",2577,win,39,B85,Moscow,2004
+2813,white,"Dreev, Alexey",2698,win,59,D43,Moscow,2004
+2813,black,"Epishin, Vladimir",2599,draw,42,E46,Moscow,2004
+2813,white,"Motylev, Alexander",2651,draw,76,C42,Moscow,2004
+2813,black,"Korotylev, Alexey",2596,draw,26,E12,Moscow,2004
+2813,white,"Bareev, Evgeny",2715,win,48,B19,Moscow,2004
+2813,white,"Huzman, Alexander",2581,draw,66,C41,Izmir,2004
+2813,black,"Sax, Gyula",2560,draw,20,B51,Izmir,2004
+2813,white,"Adams, Michael",2740,draw,30,E37,Izmir,2004
+2813,black,"Azarov, Sergei",2556,draw,27,B97,Izmir,2004
+2813,white,"Shirov, Alexei",2726,win,40,C83,Izmir,2004
+2813,black,"Rublevsky, Sergei",2649,lose,57,B30,Izmir,2004
+2817,white,"Abud, Ronaldo",,win,24,C68,Sao Paulo,2004
+2817,white,"Bann, Ellery",,win,44,A48,Sao Paulo,2004
+2817,white,"Carneiro, Marco Paulo",,win,29,A45,Sao Paulo,2004
+2817,white,"Gambale, Eduardo de Aquino",,win,32,B31,Sao Paulo,2004
+2817,white,"Gomez, Gustavo Pizzocaro",1907,win,26,C54,Sao Paulo,2004
+2817,white,"Horiguti, Augusto",,win,37,A48,Sao Paulo,2004
+2817,white,"Jukemura, Leandro",1965,win,29,D06,Sao Paulo,2004
+2817,white,"Meyer, Joseph Nigra",,win,30,B12,Sao Paulo,2004
+2817,white,"Morales, Cesar",,win,28,B05,Sao Paulo,2004
+2817,white,"Oliveira, Silvio Eduardo",,win,7,B18,Sao Paulo,2004
+2817,white,"Pereira, Amanda Marques",,win,34,B12,Sao Paulo,2004
+2817,white,"Quadros, Andre",,win,46,A49,Sao Paulo,2004
+2817,white,"Queiroz, Agnelo",,win,23,C54,Sao Paulo,2004
+2817,white,"Tambasso, Claudia",,win,29,C05,Sao Paulo,2004
+2817,white,"Terao, Juliana Sayumi",1992,win,20,D35,Sao Paulo,2004
+2817,white,"Yamamoto, Paulo de Carvalho",,win,28,B50,Sao Paulo,2004
+2817,black,"Anand, Viswanathan",2774,draw,26,B33,Moscow,2004
+2817,black,"Svidler, Peter",2733,draw,58,B31,Moscow,2004
+2817,white,"Adams, Michael",2731,draw,45,A30,Moscow,2004
+2817,white,"Bacrot, Etienne",2675,draw,66,C88,Moscow,2004
+2817,black,"Vallejo Pons, Francisco",2666,draw,34,B97,Moscow,2004
+2817,white,"Van Wely, Loek",2651,win,33,A33,Moscow,2004
+2831,white,"Short, Nigel D",2702,draw,53,D47,Reykjavik,2004
+2831,black,"Short, Nigel D",2702,win,36,B84,Reykjavik,2004
+2831,white,"Nielsen, Peter Heine",2638,win,41,D45,Reykjavik,2004
+2831,black,"Nielsen, Peter Heine",2638,draw,31,D37,Reykjavik,2004
+2831,white,"Nielsen, Peter Heine",2638,draw,36,D45,Reykjavik,2004
+2831,white,"Timman, Jan H",2578,win,31,E01,Reykjavik,2004
+2831,black,"Timman, Jan H",2578,draw,20,D45,Reykjavik,2004
+2831,white,"Carlsen, Magnus",2484,win,32,E92,Reykjavik,2004
+2831,black,"Carlsen, Magnus",2484,draw,52,D52,Reykjavik,2004
+2831,white,"Petursson, Margeir",2540,win,26,B51,Reykjavik,2004
+2831,white,"Hjartarson, Johann",2640,win,31,E21,Reykjavik,2004
+2831,white,"Carlsen, Magnus",2484,win,21,A31,Reykjavik,2004
+2831,black,"Karpov, Anatoly",2682,draw,35,D48,Reykjavik,2004
+2831,white,"Olafsson, Helgi",2504,win,22,D39,Reykjavik,2004
+2831,black,"Vallejo Pons, Francisco",2663,draw,54,B90,Linares,2004
+2831,white,"Topalov, Veselin",2735,draw,38,C88,Linares,2004
+2831,black,"Kramnik, Vladimir",2777,draw,17,D27,Linares,2004
+2831,white,"Leko, Peter",2722,draw,19,B30,Linares,2004
+2831,black,"Radjabov, Teimour",2656,draw,58,C45,Linares,2004
+2831,white,"Shirov, Alexei",2736,draw,50,C88,Linares,2004
+2831,white,"Vallejo Pons, Francisco",2663,win,37,D46,Linares,2004
+2831,black,"Topalov, Veselin",2735,draw,36,D15,Linares,2004
+2831,white,"Kramnik, Vladimir",2777,draw,44,E12,Linares,2004
+2831,black,"Leko, Peter",2722,draw,41,B90,Linares,2004
+2831,white,"Radjabov, Teimour",2656,draw,42,B30,Linares,2004
+2831,black,"Shirov, Alexei",2736,draw,35,B90,Linares,2004
+2830,black,Comp Fritz X3D,,draw,26,D27,New York,2003
+2830,white,Comp Fritz X3D,,win,45,D45,New York,2003
+2830,black,Comp Fritz X3D,,lose,39,B07,New York,2003
+2830,white,Comp Fritz X3D,,draw,37,D45,New York,2003
+2830,white,"Belzberg, Sid",,win,28,D78,London,2003
+2830,white,"Faulks, Nick",2041,win,40,A29,London,2003
+2830,white,"Hogarth, Mark J",,win,29,B52,London,2003
+2830,white,"Van Beurden, Mark",,win,34,C00,London,2003
+2830,white,"Wilson, Jonathan",2303,win,56,D32,London,2003
+2830,black,"Ivanchuk, Vassily",2710,draw,42,E32,Rethymnon,2003
+2830,black,"Huzman, Alexander",2574,lose,22,D45,Rethymnon,2003
+2830,white,"Grischuk, Alexander",2732,win,63,E32,Rethymnon,2003
+2830,black,"Sakaev, Konstantin",2655,win,41,D18,Rethymnon,2003
+2830,white,"Jobava, Baadur",2596,win,52,B12,Rethymnon,2003
+2830,white,"Chuchelov, Vladimir",2608,win,27,E39,Rethymnon,2003
+2830,black,"Azmaiparashvili, Zurab",2702,win,38,A04,Crete,2003
+2830,white,"Azmaiparashvili, Zurab",2702,draw,57,B07,Crete,2003
+2830,black,"Azmaiparashvili, Zurab",2702,win,52,A07,Crete,2003
+2830,white,"Azmaiparashvili, Zurab",2702,win,32,B07,Crete,2003
+2847,black,"Anand, Viswanathan",2753,draw,32,B72,Linares,2003
+2847,white,"Vallejo Pons, Francisco",2629,draw,40,B12,Linares,2003
+2847,black,"Ponomariov, Ruslan",2734,draw,34,E50,Linares,2003
+2847,white,"Leko, Peter",2736,draw,33,B30,Linares,2003
+2847,black,"Radjabov, Teimour",2624,draw,39,D29,Linares,2003
+2847,white,"Kramnik, Vladimir",2807,draw,33,C88,Linares,2003
+2847,white,"Anand, Viswanathan",2753,win,62,B19,Linares,2003
+2847,black,"Vallejo Pons, Francisco",2629,draw,41,D17,Linares,2003
+2847,white,"Ponomariov, Ruslan",2734,win,43,E18,Linares,2003
+2847,black,"Leko, Peter",2736,draw,87,B80,Linares,2003
+2847,white,"Radjabov, Teimour",2624,lose,39,C11,Linares,2003
+2847,black,"Kramnik, Vladimir",2807,draw,18,D27,Linares,2003
+2847,black,Comp Deep Junior,,draw,28,B92,New York,2003
+2847,white,Comp Deep Junior,,draw,19,E48,New York,2003
+2847,black,Comp Deep Junior,,draw,61,B44,New York,2003
+2847,white,Comp Deep Junior,,lose,36,D45,New York,2003
+2847,black,Comp Deep Junior,,draw,30,B42,New York,2003
+2847,white,Comp Deep Junior,,win,27,D45,New York,2003
+2838,white,"Karpov, Anatoly",2688,draw,28,C42,New York,2002
+2838,black,"Karpov, Anatoly",2688,lose,46,D92,New York,2002
+2838,white,"Karpov, Anatoly",2688,lose,47,C42,New York,2002
+2838,black,"Karpov, Anatoly",2688,win,52,D92,New York,2002
+2838,white,"Paehtz, Elisabeth",2349,win,43,A26,Munich,2002
+2838,black,"Paehtz, Elisabeth",2349,win,34,B42,Munich,2002
+2838,white,"Paehtz, Elisabeth",2349,win,43,E32,Munich,2002
+2838,black,"Paehtz, Elisabeth",2349,win,44,B43,Munich,2002
+2838,white,"Paehtz, Elisabeth",2349,win,35,B52,Munich,2002
+2838,black,"Paehtz, Elisabeth",2349,win,36,B42,Munich,2002
+2838,white,"Gelfand, Boris",2704,draw,17,C42,Bled,2002
+2838,black,"Lutz, Christopher",2645,win,42,B85,Bled,2002
+2838,white,"Ye, Jiangchuan",2667,win,66,B48,Bled,2002
+2838,black,"Leko, Peter",2743,draw,54,B90,Bled,2002
+2838,white,"Krasenkow, Michal",2651,win,24,C82,Bled,2002
+2838,black,"Akopian, Vladimir",2689,draw,24,B52,Bled,2002
+2838,white,"Mchedlishvili, Mikheil",2551,win,37,B66,Bled,2002
+2838,black,"Sasikiran, Krishnan",2670,win,38,D15,Bled,2002
+2838,white,"Aleksandrov, Aleksej",2621,win,40,D38,Bled,2002
+2838,black,"Anand, Viswanathan",2755,draw,35,B80,Moscow,2002
+2838,white,"Ponomariov, Ruslan",2743,draw,27,C96,Moscow,2002
+2838,black,"Akopian, Vladimir",2678,lose,25,B30,Moscow,2002
+2838,white,"Radjabov, Teimour",2610,draw,78,C11,Moscow,2002
+2838,white,"Short, Nigel D",2682,draw,56,B04,Moscow,2002
+2838,black,"Polgar, Judit",2681,lose,42,C67,Moscow,2002
+2838,white,"Shirov, Alexei",2697,win,30,B12,Moscow,2002
+2838,black,"Gelfand, Boris",2710,draw,76,D15,Moscow,2002
+2838,white,"Leko, Peter",2722,draw,45,B30,Moscow,2002
+2838,black,"Ivanchuk, Vassily",2711,lose,40,B90,Moscow,2002
+2838,black,"Radjabov, Teimour",2610,draw,45,D15,Moscow,2002
+2838,white,"Radjabov, Teimour",2610,win,25,B06,Moscow,2002
+2838,white,"Khalifman, Alexander",2698,win,23,C61,Moscow,2002
+2838,black,"Khalifman, Alexander",2698,draw,33,D11,Moscow,2002
+2838,white,"Khalifman, Alexander",2698,draw,73,C61,Moscow,2002
+2838,black,"Khalifman, Alexander",2698,draw,21,D15,Moscow,2002
+2838,black,"Grischuk, Alexander",2702,win,58,B30,Moscow,2002
+2838,white,"Grischuk, Alexander",2702,draw,39,C88,Moscow,2002
+2838,white,"Lautier, Joel",2675,win,34,B32,Moscow,2002
+2838,black,"Lautier, Joel",2675,win,45,A29,Moscow,2002
+2838,black,"Ehlvest, Jaan",2588,win,48,A15,Moscow,2002
+2838,white,"Ehlvest, Jaan",2588,win,61,C42,Moscow,2002
+2838,white,"Ivanchuk, Vassily",2711,lose,36,C90,Prague,2002
+2838,white,"Ivanchuk, Vassily",2711,draw,45,C97,Prague,2002
+2838,black,"Ivanchuk, Vassily",2711,draw,45,D15,Prague,2002
+2838,black,"Ivanchuk, Vassily",2711,draw,64,D15,Prague,2002
+2838,white,"Ivanchuk, Vassily",2711,draw,36,B34,Prague,2002
+2838,white,"Polgar, Judit",2677,win,51,B51,Prague,2002
+2838,black,"Polgar, Judit",2677,win,45,B33,Prague,2002
+2838,black,"Milos, Gilberto",2574,win,52,C65,Prague,2002
+2838,white,"Milos, Gilberto",2574,win,53,D35,Prague,2002
+2838,black,"Shirov, Alexei",2715,win,28,B33,Linares,2002
+2838,white,"Ponomariov, Ruslan",2727,win,38,C10,Linares,2002
+2838,black,"Adams, Michael",2742,draw,34,B80,Linares,2002
+2838,white,"Ivanchuk, Vassily",2717,draw,29,B41,Linares,2002
+2838,black,"Anand, Viswanathan",2757,draw,39,B90,Linares,2002
+2838,white,"Vallejo Pons, Francisco",2629,win,50,B41,Linares,2002
+2838,white,"Shirov, Alexei",2715,draw,26,B31,Linares,2002
+2838,black,"Ponomariov, Ruslan",2727,draw,44,B80,Linares,2002
+2838,white,"Adams, Michael",2742,win,47,C42,Linares,2002
+2838,black,"Ivanchuk, Vassily",2717,draw,34,A04,Linares,2002
+2838,white,"Anand, Viswanathan",2757,draw,42,B49,Linares,2002
+2838,black,"Vallejo Pons, Francisco",2629,draw,49,A28,Linares,2002
+2838,white,"Kramnik, Vladimir",2802,draw,52,E18,Moscow,2001
+2838,black,"Kramnik, Vladimir",2802,lose,43,D27,Moscow,2001
+2838,white,"Kramnik, Vladimir",2802,win,31,A32,Moscow,2001
+2838,black,"Kramnik, Vladimir",2802,win,34,D27,Moscow,2001
+2838,white,"Kramnik, Vladimir",2802,win,50,E38,Moscow,2001
+2838,black,"Kramnik, Vladimir",2802,draw,31,D27,Moscow,2001
+2838,white,"Kramnik, Vladimir",2802,draw,24,D37,Moscow,2001
+2838,black,"Kramnik, Vladimir",2802,draw,39,D27,Moscow,2001
+2838,white,"Kramnik, Vladimir",2802,draw,47,E12,Moscow,2001
+2838,black,"Kramnik, Vladimir",2802,win,55,E14,Moscow,2001
+2838,white,"Kramnik, Vladimir",2802,lose,52,E44,Moscow,2001
+2838,black,"Kramnik, Vladimir",2802,draw,31,D02,Moscow,2001
+2838,white,"Kramnik, Vladimir",2802,draw,42,A10,Moscow,2001
+2838,black,"Kramnik, Vladimir",2802,draw,62,D15,Moscow,2001
+2838,white,"Kramnik, Vladimir",2802,draw,30,E34,Moscow,2001
+2838,black,"Kramnik, Vladimir",2802,win,54,D27,Moscow,2001
+2838,white,"Kramnik, Vladimir",2802,draw,19,C80,Moscow,2001
+2838,black,"Kramnik, Vladimir",2802,draw,21,D58,Moscow,2001
+2838,white,"Kramnik, Vladimir",2802,draw,72,B41,Moscow,2001
+2838,black,"Kramnik, Vladimir",2802,draw,18,D27,Moscow,2001
+2838,white,"Hracek, Zbynek",2610,draw,35,B38,Prague,2001
+2838,white,"Oral, Tomas",2546,win,36,A33,Prague,2001
+2838,black,"Babula, Vlastimil",2566,win,44,D92,Prague,2001
+2838,black,"Movsesian, Sergei",2631,draw,36,B91,Prague,2001
+2838,white,"Babula, Vlastimil",2566,win,54,B30,Prague,2001
+2838,white,"Movsesian, Sergei",2631,win,43,B46,Prague,2001
+2838,black,"Hracek, Zbynek",2610,draw,40,D10,Prague,2001
+2838,black,"Oral, Tomas",2546,lose,74,B52,Prague,2001
+2838,black,"Kasimdzhanov, Rustam",2704,win,29,A60,Batumi,2001
+2838,white,"Kasimdzhanov, Rustam",2704,win,70,B36,Batumi,2001
+2838,white,"Ye, Jiangchuan",2677,draw,25,B43,Batumi,2001
+2838,black,"Ye, Jiangchuan",2677,win,41,B92,Batumi,2001
+2838,black,"Vladimirov, Yevgeniy",2612,win,23,E54,Batumi,2001
+2838,white,"Vladimirov, Yevgeniy",2612,win,25,C88,Batumi,2001
+2838,white,"Adianto, Utut",2598,draw,49,D61,Batumi,2001
+2838,black,"Adianto, Utut",2598,win,62,D77,Batumi,2001
+2838,black,"Dao, Thien Hai",2572,win,27,E35,Batumi,2001
+2838,white,"Dao, Thien Hai",2572,win,45,C42,Batumi,2001
+2838,white,"Rogers, Ian",2538,win,48,B01,Batumi,2001
+2838,black,"Rogers, Ian",2538,win,47,D00,Batumi,2001
+2838,black,"Banikas, Hristos",2531,win,40,D13,Patras,2001
+2838,white,"Banikas, Hristos",2531,win,34,B40,Patras,2001
+2838,black,"Banikas, Hristos",2531,win,52,D11,Patras,2001
+2838,white,"Banikas, Hristos",2531,win,47,B40,Patras,2001
+2838,black,"Banikas, Hristos",2531,win,24,D11,Patras,2001
+2838,white,"Banikas, Hristos",2531,draw,48,B51,Patras,2001
+2838,white,"Anagnostopoulos, Ioannis",,win,24,A67,Patras,2001
+2838,white,"Androutselis, Thomas",,win,22,E44,Patras,2001
+2838,white,"Athanasiou, Georgios",,win,26,D35,Patras,2001
+2838,white,"Boudalakis, Filippos",,win,28,D35,Patras,2001
+2838,white,"Diamantopoulos, Nikolaos",,win,30,D35,Patras,2001
+2838,white,"Doukas, Dimitrios",,win,16,A45,Patras,2001
+2838,white,"Hahabis, Nikolaos",,win,28,D30,Patras,2001
+2838,white,"Iliopoulos, Alexios",,win,40,B07,Patras,2001
+2838,white,"Manolessos, George",,win,30,B07,Patras,2001
+2838,white,"Mourouti, Paraskevi",,win,15,B31,Patras,2001
+2838,white,"Papaioannou, Hristos",,win,23,B31,Patras,2001
+2838,white,"Pashos, Alexandros",,win,31,B22,Patras,2001
+2838,white,"Poliviou, Evangelos",,win,28,D10,Patras,2001
+2838,white,"Polizou, Dionisia",,win,30,B51,Patras,2001
+2838,white,"Seretis, Ioannis",,win,50,C05,Patras,2001
+2838,white,"Stefanatos, Stefanos",,win,26,D46,Patras,2001
+2838,white,"Tsekouras, Orestis",,win,19,C54,Patras,2001
+2838,white,Vayenas,,win,35,B46,Patras,2001
+2827,white,"Poellner, Ludwig",2000,win,45,B06,Ebersberg ,2001
+2827,white,"Raedler, Walter",,draw,53,B05,Ebersberg ,2001
+2827,white,"Rupprecht, Andreas",2313,win,52,A48,Ebersberg ,2001
+2827,white,"Nolsoe, Eydun",2211,win,39,E36,Torshavn,2001
+2827,white,"Rodgaard, John",2365,win,37,C06,Torshavn,2001
+2827,white,"Simonsen, Olavur",2195,win,41,A25,Torshavn,2001
+2827,black,"Nilssen, John Arni",2345,draw,26,D47,Torshavn,2001
+2827,black,"Olsen, Heini",2302,draw,21,D15,Torshavn,2001
+2827,black,"Thomsen, Torbjorn",2212,win,24,D30,Torshavn,2001
+2827,black,"Kramnik, Vladimir",2797,draw,57,D11,Kasparovchess INT,2001
+2827,white,"Kramnik, Vladimir",2797,lose,47,E12,Kasparovchess INT,2001
+2827,white,"Kramnik, Vladimir",2797,win,41,C67,Astana,2001
+2827,black,"Sadvakasov, Darmen",2585,draw,37,B52,Astana,2001
+2827,white,"Morozevich, Alexander",2749,draw,43,D17,Astana,2001
+2827,black,"Gelfand, Boris",2712,draw,19,D80,Astana,2001
+2827,white,"Shirov, Alexei",2722,win,35,C11,Astana,2001
+2827,white,"Sadvakasov, Darmen",2585,draw,43,A29,Astana,2001
+2827,black,"Kramnik, Vladimir",2797,draw,30,D85,Astana,2001
+2827,black,"Morozevich, Alexander",2749,win,57,B87,Astana,2001
+2827,white,"Gelfand, Boris",2712,draw,41,C07,Astana,2001
+2827,black,"Shirov, Alexei",2722,win,37,B84,Astana,2001
+2827,black,"Kramnik, Vladimir",2797,lose,36,D48,Zuerich,2001
+2827,white,"Kramnik, Vladimir",2797,draw,27,C67,Zuerich,2001
+2827,black,"Short, Nigel D",2676,draw,26,B50,Zuerich,2001
+2827,white,"Short, Nigel D",2676,win,24,C05,Zuerich,2001
+2849,black,"Korchnoi, Viktor",2639,draw,25,A25,Zuerich,2001
+2827,white,"Korchnoi, Viktor",2643,win,26,C14,Zuerich,2001
+2827,white,"Unzicker, Wolfgang",2432,win,26,C45,Zuerich,2001
+2827,black,"Pelletier, Yannick",2531,win,41,D39,Zuerich,2001
+2827,black,"Forster, Richard",2462,win,41,B23,Zuerich,2001
+2827,white,"Piket, Jeroen",2628,win,31,B30,Zuerich,2001
+2827,black,"Short, Nigel D",2676,draw,41,B25,Zuerich,2001
+2827,white,"Chapman, Terry PD",,win,24,,London,2001
+2827,black,"Chapman, Terry PD",,lose,37,,London,2001
+2827,white,"Chapman, Terry PD",,draw,34,,London,2001
+2827,black,"Chapman, Terry PD",,win,37,,London,2001
+2849,white,"Bareev, Evgeny",2709,win,44,C09,Cannes,2001
+2849,black,"Bareev, Evgeny",2709,draw,23,A34,Cannes,2001
+2849,black,"Grischuk, Alexander",2663,win,39,B80,Cannes,2001
+2849,white,"Grischuk, Alexander",2663,win,43,C96,Cannes,2001
+2849,white,"Grischuk, Alexander",2663,draw,58,B45,Cannes,2001
+2849,black,"Grischuk, Alexander",2663,draw,20,B90,Cannes,2001
+2849,white,"Tkachiev, Vladislav",2672,win,33,C88,Cannes,2001
+2849,black,"Tkachiev, Vladislav",2672,draw,57,D71,Cannes,2001
+2849,black,"Gulko, Boris F",2622,draw,14,D97,Cannes,2001
+2849,white,"Svidler, Peter",2695,draw,48,B54,Cannes,2001
+2849,black,"Polgar, Judit",2676,win,50,B80,Cannes,2001
+2849,white,"Lautier, Joel",2658,win,37,B49,Cannes,2001
+2849,black,"Bauer, Christian",2618,win,44,B86,Cannes,2001
+2849,white,"Grischuk, Alexander",2663,draw,48,B45,Cannes,2001
+2849,white,"Bareev, Evgeny",2709,win,41,C06,Cannes,2001
+2849,white,"Grischuk, Alexander",2663,win,45,B45,Linares,2001
+2849,black,"Karpov, Anatoly",2679,draw,36,D77,Linares,2001
+2849,white,"Shirov, Alexei",2718,win,38,C80,Linares,2001
+2849,black,"Polgar, Judit",2676,draw,35,B80,Linares,2001
+2849,white,"Leko, Peter",2745,win,36,C88,Linares,2001
+2849,white,"Karpov, Anatoly",2679,win,31,B12,Linares,2001
+2849,black,"Grischuk, Alexander",2663,win,37,B90,Linares,2001
+2849,black,"Shirov, Alexei",2718,draw,48,B84,Linares,2001
+2849,white,"Polgar, Judit",2676,draw,27,B90,Linares,2001
+2849,black,"Leko, Peter",2745,draw,55,B97,Linares,2001
+2849,white,"Adams, Michael",2746,draw,27,E04,Wijk aan Zee,2001
+2849,black,"Van Wely, Loek",2700,draw,43,D37,Wijk aan Zee,2001
+2849,white,"Timman, Jan H",2629,win,47,A29,Wijk aan Zee,2001
+2849,black,"Piket, Jeroen",2632,draw,55,D58,Wijk aan Zee,2001
+2849,white,"Shirov, Alexei",2718,win,45,C42,Wijk aan Zee,2001
+2849,black,"Leko, Peter",2745,draw,28,A12,Wijk aan Zee,2001
+2849,white,"Topalov, Veselin",2718,win,34,B80,Wijk aan Zee,2001
+2849,black,"Morozevich, Alexander",2745,draw,14,B52,Wijk aan Zee,2001
+2849,white,"Kramnik, Vladimir",2772,draw,46,C67,Wijk aan Zee,2001
+2849,black,"Ivanchuk, Vassily",2717,draw,28,B84,Wijk aan Zee,2001
+2849,white,"Anand, Viswanathan",2790,draw,37,C78,Wijk aan Zee,2001
+2845,black,"Fedorov, Alexei",2575,win,25,B20,Wijk aan Zee,2001
+2849,black,"Tiviakov, Sergei",2597,win,53,B23,Wijk aan Zee,2001
+2849,white,"Kramnik, Vladimir",2770,draw,38,E05,London,2000
+2849,black,"Kramnik, Vladimir",2770,draw,57,A30,London,2000
+2849,white,"Kramnik, Vladimir",2770,draw,14,C67,London,2000
+2849,black,"Kramnik, Vladimir",2770,draw,33,E55,London,2000
+2849,white,"Kramnik, Vladimir",2770,draw,41,C78,London,2000
+2849,black,"Kramnik, Vladimir",2770,lose,25,E54,London,2000
+2849,white,"Kramnik, Vladimir",2770,draw,33,C67,London,2000
+2849,black,"Kramnik, Vladimir",2770,draw,38,E32,London,2000
+2849,white,"Kramnik, Vladimir",2770,draw,11,A32,London,2000
+2849,black,"Kramnik, Vladimir",2770,draw,66,D27,London,2000
+2849,white,"Kramnik, Vladimir",2770,draw,24,A34,London,2000
+2849,black,"Kramnik, Vladimir",2770,draw,74,D27,London,2000
+2849,white,"Kramnik, Vladimir",2770,draw,53,C67,London,2000
+2849,black,"Kramnik, Vladimir",2770,lose,40,D85,London,2000
+2849,white,"Kramnik, Vladimir",2770,draw,25,C67,London,2000
+2849,white,ABN AMRO,,win,41,B06,Deurne,2000
+2849,white,ACE,,win,39,D11,Deurne,2000
+2849,white,ATV,,win,30,D35,Deurne,2000
+2849,white,Antwerpen Topsport,,win,29,C02,Deurne,2000
+2849,white,Centea,,win,41,A45,Deurne,2000
+2849,white,Colindo,,win,23,C05,Deurne,2000
+2849,white,Deurne,,win,28,B28,Deurne,2000
+2849,white,Gazet Van Antwerpen,,win,25,C10,Deurne,2000
+2849,white,"Gysen, Cies",,win,38,D30,Deurne,2000
+2849,white,KAOSK,,win,31,E81,Deurne,2000
+2849,white,Print It,,win,27,B00,Deurne,2000
+2849,white,Rom Koffie,,win,34,E09,Deurne,2000
+2849,white,Www.msn.nl,,win,35,D72,Deurne,2000
+2851,white,"Botti, Chris",,win,42,A01,New York,2000
+2851,white,"Miller, Dominic",,win,31,A01,New York,2000
+2851,white,"Rebello, Jason",,win,28,A00,New York,2000
+2851,white,Sting,,win,45,A29,New York,2000
+2851,black,"Morozevich, Alexander",2748,win,44,A00,Frankfurt,2000
+2851,white,"Kramnik, Vladimir",2758,draw,35,B33,Frankfurt,2000
+2851,black,"Shirov, Alexei",2751,draw,19,B90,Frankfurt,2000
+2851,white,"Leko, Peter",2725,lose,47,D97,Frankfurt,2000
+2851,black,"Anand, Viswanathan",2769,draw,30,B85,Frankfurt,2000
+2851,white,"Morozevich, Alexander",2748,draw,38,A40,Frankfurt,2000
+2851,black,"Kramnik, Vladimir",2758,draw,32,A30,Frankfurt,2000
+2851,white,"Shirov, Alexei",2751,win,35,C13,Frankfurt,2000
+2851,black,"Leko, Peter",2725,win,48,B52,Frankfurt,2000
+2851,white,"Anand, Viswanathan",2769,draw,33,B49,Frankfurt,2000
+2851,white,"Baramidze, David",2154,draw,15,D00,Frankfurt,2000
+2851,white,"Beutel, Jens",,draw,23,C54,Frankfurt,2000
+2851,white,"Busche, Markus",,win,22,B50,Frankfurt,2000
+2851,white,"Gypser, Andreas",2175,draw,36,A14,Frankfurt,2000
+2851,white,"Miklos, Robert",,win,48,B01,Frankfurt,2000
+2851,white,"Niebling, Ferdinand",2191,win,40,B31,Frankfurt,2000
+2851,white,"Rahn, Vincenzo",,win,45,B50,Frankfurt,2000
+2851,white,"Ringel, Andreas",,win,37,B50,Frankfurt,2000
+2851,white,"Schmitt, Hans Walter",,draw,29,D46,Frankfurt,2000
+2851,white,"Thiele, M.",,win,36,B01,Frankfurt,2000
+2851,white,"Wendt, Rene",2332,draw,45,A36,Frankfurt,2000
+2851,black,"Movsesian, Sergei",2668,win,32,B80,Sarajevo,2000
+2850,white,"Georgiev, Kiril",2675,win,34,B90,Sarajevo,2000
+2851,white,"Bareev, Evgeny",2709,win,41,C13,Sarajevo,2000
+2851,black,"Shirov, Alexei",2751,draw,27,B90,Sarajevo,2000
+2851,white,"Morozevich, Alexander",2748,draw,26,D39,Sarajevo,2000
+2851,black,"Short, Nigel D",2683,draw,55,B95,Sarajevo,2000
+2851,white,"Sokolov, Ivan",2637,win,26,C42,Sarajevo,2000
+2851,black,"Topalov, Veselin",2702,draw,19,E07,Sarajevo,2000
+2851,white,"Gurevich, Mikhail",2694,win,53,C13,Sarajevo,2000
+2851,black,"Adams, Michael",2715,draw,47,B84,Sarajevo,2000
+2851,white,"Bacrot, Etienne",2594,win,39,C45,Sarajevo,2000
+2851,white,"Polgar, Judit",2658,win,27,D02,Internet KC,2000
+2851,black,"Polgar, Judit",2658,draw,49,C95,Internet KC,2000
+2851,black,"Avrukh, Boris",2620,draw,38,D85,Ramat Aviv,2000
+2851,black,"Anand, Viswanathan",2769,win,29,B80,Kopavogur,2000
+2851,white,"Anand, Viswanathan",2769,win,37,C10,Kopavogur,2000
+2851,white,"Anand, Viswanathan",2769,draw,28,C13,Kopavogur,2000
+2851,white,"Wojtkiewicz, Aleksander",2563,win,26,B80,Kopavogur,2000
+2851,black,"Anand, Viswanathan",2769,draw,41,B80,Kopavogur,2000
+2851,black,"Wojtkiewicz, Aleksander",2563,draw,32,D46,Kopavogur,2000
+2851,white,"Petursson, Margeir",2544,win,23,B51,Kopavogur,2000
+2851,black,"Timman, Jan H",2655,win,53,D85,Kopavogur,2000
+2851,white,"Olafsson, Helgi",2491,win,64,C42,Kopavogur,2000
+2851,white,"Korchnoi, Viktor",2659,draw,19,C12,Kopavogur,2000
+2851,black,"Becker, Boris",,win,18,C20,New York,2000
+2851,white,"Karmann, Alexander",,win,34,C54,New York,2000
+2851,white,"Benbachir, Amine",,win,37,E40,New York,2000
+2851,white,"Chow, Samuel",,win,46,A81,New York,2000
+2851,white,"Kascak, Milos",,win,43,B31,New York,2000
+2851,white,"Hillman, Jamie",,win,38,B12,New York,2000
+2851,white,"Shachori, Dotan",,win,57,A45,New York,2000
+2851,white,"Tomasso, Santiago",,win,27,B01,New York,2000
+2851,white,"Abdullah, Che Hassan",,win,51,E48,New York,2000
+2851,white,"Telegin, Anton",,win,31,C55,New York,2000
+2851,white,"Salzberg, Jacob James",,win,24,A45,New York,2000
+2851,white,"Gomes, Mary Ann",,win,24,A80,New York,2000
+2851,white,"Borodavkin, Anatoly",,win,61,C54,New York,2000
+2851,white,"Zaks, Victoria",,draw,31,C54,New York,2000
+2851,white,"Stoffers, Jeffrey",,win,34,D35,New York,2000
+2851,white,"Kruse, Raphael",,win,28,B01,New York,2000
+2851,white,"Hayes, Peter",,win,31,A80,New York,2000
+2851,white,"Haynes, Nicolas",,win,47,A55,New York,2000
+2851,white,"Michiels, Bart",2023,win,23,A43,New York,2000
+2851,white,"Pita Romero Rodriguez, Rafael",,win,45,B01,New York,2000
+2851,white,"Anand, Viswanathan",2769,draw,30,C42,Linares,2000
+2851,black,"Leko, Peter",2725,draw,37,B90,Linares,2000
+2851,black,"Kramnik, Vladimir",2758,draw,41,D23,Linares,2000
+2851,white,"Khalifman, Alexander",2656,draw,55,C18,Linares,2000
+2851,black,"Shirov, Alexei",2751,draw,36,B90,Linares,2000
+2851,white,"Leko, Peter",2725,draw,38,D97,Linares,2000
+2851,black,"Anand, Viswanathan",2769,win,32,B92,Linares,2000
+2851,white,"Kramnik, Vladimir",2758,draw,21,C42,Linares,2000
+2851,black,"Khalifman, Alexander",2656,draw,29,D97,Linares,2000
+2851,white,"Shirov, Alexei",2751,win,52,C42,Linares,2000
+2851,black,"Piket, Jeroen",2633,lose,50,A34,Internet,2000
+2851,white,"Piket, Jeroen",2633,draw,49,C99,Internet,2000
+2851,black,"Adams, Michael",2715,draw,64,B90,Internet,2000
+2851,white,"Adams, Michael",2715,win,77,C45,Internet,2000
+2851,black,"Van Wely, Loek",2646,win,56,D46,Internet,2000
+2851,white,"Van Wely, Loek",2646,draw,38,B80,Internet,2000
+2851,black,"Barua, Dibyendu",2555,win,57,B43,Internet,2000
+2851,white,"Barua, Dibyendu",2555,win,74,D36,Internet,2000
+2851,white,"Polgar, Judit",2658,win,44,B90,Wijk aan Zee,2000
+2851,black,"Kramnik, Vladimir",2758,draw,37,D85,Wijk aan Zee,2000
+2851,white,"Leko, Peter",2725,draw,34,B33,Wijk aan Zee,2000
+2851,black,"Nikolic, Predrag",2659,win,65,D71,Wijk aan Zee,2000
+2851,white,"Timman, Jan H",2655,win,36,C45,Wijk aan Zee,2000
+2851,black,"Lputian, Smbat G",2605,draw,30,D85,Wijk aan Zee,2000
+2851,white,"Anand, Viswanathan",2769,draw,56,E20,Wijk aan Zee,2000
+2851,black,"Short, Nigel D",2683,draw,34,B26,Wijk aan Zee,2000
+2851,white,"Morozevich, Alexander",2748,win,45,D17,Wijk aan Zee,2000
+2851,black,"Adams, Michael",2715,draw,61,B50,Wijk aan Zee,2000
+2851,white,"Van Wely, Loek",2646,win,25,B80,Wijk aan Zee,2000
+2851,black,"Piket, Jeroen",2633,draw,41,D97,Wijk aan Zee,2000
+2851,black,"Korchnoi, Viktor",2659,win,54,D90,Wijk aan Zee,2000
+2851,white,"Afonso, Sara Cerqueira",,win,27,D24,Lisbon,1999
+2851,white,"Baptista, Ana Filipa",,win,23,B00,Lisbon,1999
+2851,white,"Caeiro, Maria Joao",,win,21,C54,Lisbon,1999
+2851,white,"Carvalho, Catarina",,win,28,D24,Lisbon,1999
+2851,white,"Coimbra, Margarida Goncalves",2066,win,31,D13,Lisbon,1999
+2851,white,"Cortinhas, Mariana Santos",,win,27,C54,Lisbon,1999
+2851,white,"Costa, Carlos",,win,26,B13,Lisbon,1999
+2851,white,"Cruz, Manuel Joao",,win,23,B51,Lisbon,1999
+2851,white,"Ferreira, Sara Cristina",,win,24,B27,Lisbon,1999
+2851,white,"Gaspar, Joao",,win,31,D06,Lisbon,1999
+2581,white,"Lobo, Patricia",,win,29,C54,Lisbon,1999
+2851,white,"Louro, Ivo",,win,26,D20,Lisbon,1999
+2851,white,"Martins, Bruno Diogo da Silv",,win,25,D06,Lisbon,1999
+2851,white,"Oliveira, Vera",2025,win,36,E68,Lisbon,1999
+2851,white,"Pinheiro, Tiago",,win,31,C54,Lisbon,1999
+2851,white,"Quintino, Luis Felipe Pires",,win,25,B01,Lisbon,1999
+2851,white,"Rebelo, Joao Vitor Gomes",,win,22,D06,Lisbon,1999
+2851,white,"Reis, Ana",,win,31,D94,Lisbon,1999
+2851,white,"Reynolds, Oriana",,win,21,C54,Lisbon,1999
+2851,white,"Ribeiro, Luis Landeiro",,win,26,A45,Lisbon,1999
+2851,white,"Soares, Diana",,win,30,C54,Lisbon,1999
+2851,white,"Teixeira, Rafael Goltsman",,win,29,C54,Lisbon,1999
+2851,white,"Viana, Catarina",,win,22,D20,Lisbon,1999
+2851,white,"Timman, Jan H",2650,lose,59,C54,Rotterdam,1999
+2812,white,"Bacrot, Nathalie",,win,34,B06,Besancon,1999
+2812,white,"Bastin, Eugene",,win,31,A80,Besancon,1999
+2812,white,"Biyidi, Thomas",2120,win,29,D00,Besancon,1999
+2812,white,"Bonnet, Edouard",2147,win,32,D27,Besancon,1999
+2812,white,"Bordet, Christophe",,win,31,A34,Besancon,1999
+2812,white,"Bottagisi, Aline",,win,32,E06,Besancon,1999
+2812,white,"Cid, Nadia",,win,26,C28,Besancon,1999
+2812,white,"Guillot, Blandine",,win,23,C54,Besancon,1999
+2812,white,"Harnois, Clementine",,win,14,C63,Besancon,1999
+2812,white,"Kharmadi, Ismael",,win,26,D35,Besancon,1999
+2812,white,"Lamorelle, Julien",2145,win,26,C54,Besancon,1999
+2812,white,"Michaud, Luois",,win,22,D06,Besancon,1999
+2841,white,NN,,win,45,B07,Besancon,1999
+2812,white,"Nicoara, Malina",2245,win,33,B51,Besancon,1999
+2812,white,"Parnet, Arnaud",,win,33,A45,Besancon,1999
+2812,white,"Scamps, Roland",,win,24,D06,Besancon,1999
+2812,white,"Sermier, Alain",2175,win,45,A90,Besancon,1999
+2812,white,"Tran, Hien Mai",,win,42,C54,Besancon,1999
+2812,black,"Harrelson, Woody",,draw,30,C20,Prague,1999
+2812,white,"Anand, Viswanathan",2781,draw,22,E34,Frankfurt,1999
+2812,black,"Kramnik, Vladimir",2751,draw,25,D36,Frankfurt,1999
+2812,white,"Karpov, Anatoly",2710,win,43,E32,Frankfurt,1999
+2812,black,"Anand, Viswanathan",2781,draw,16,D97,Frankfurt,1999
+2810,white,"Kramnik, Vladimir",2750,win,36,B66,Frankfurt,1999
+2812,black,"Karpov, Anatoly",2710,draw,48,D12,Frankfurt,1999
+2812,white,"Anand, Viswanathan",2781,draw,28,C45,Frankfurt,1999
+2812,black,"Kramnik, Vladimir",2751,draw,36,D85,Frankfurt,1999
+2812,white,"Karpov, Anatoly",2710,draw,49,E32,Frankfurt,1999
+2812,black,"Anand, Viswanathan",2781,win,26,D97,Frankfurt,1999
+2812,white,"Kramnik, Vladimir",2751,draw,24,B66,Frankfurt,1999
+2812,black,"Karpov, Anatoly",2710,draw,38,D77,Frankfurt,1999
+2851,white,The World,,win,62,B52,Internet MSN,1999
+2812,white,"Adams, Michael",2716,win,31,C45,Sarajevo,1999
+2812,black,"Timman, Jan H",2670,win,60,D97,Sarajevo,1999
+2812,white,"Morozevich, Alexander",2723,win,55,D10,Sarajevo,1999
+2812,black,"Leko, Peter",2694,draw,26,B93,Sarajevo,1999
+2812,white,"Sokolov, Ivan",2624,win,49,D10,Sarajevo,1999
+2812,black,"Topalov, Veselin",2700,draw,21,D97,Sarajevo,1999
+2812,white,"Short, Nigel D",2697,win,40,E20,Sarajevo,1999
+2812,black,"Shirov, Alexei",2726,draw,39,B90,Sarajevo,1999
+2812,black,"Bareev, Evgeny",2679,draw,21,D80,Sarajevo,1999
+2775,white,Comp Fritz 5.32,,draw,47,D02,Hannover,1999
+2775,black,Comp Fritz 5.32,,draw,33,B12,Hannover,1999
+2812,black,"Schily, Otto",,win,30,C55,Hannover,1999
+2812,white,"Topalov, Veselin",2700,draw,68,E68,Linares,1999
+2812,black,"Leko, Peter",2694,draw,28,B90,Linares,1999
+2812,white,"Adams, Michael",2716,win,65,C88,Linares,1999
+2812,black,"Kramnik, Vladimir",2751,draw,35,D88,Linares,1999
+2812,black,"Anand, Viswanathan",2781,win,50,B80,Linares,1999
+2812,white,"Ivanchuk, Vassily",2714,win,36,D27,Linares,1999
+2812,black,"Svidler, Peter",2713,win,42,B53,Linares,1999
+2812,black,"Topalov, Veselin",2700,win,61,B80,Linares,1999
+2812,white,"Leko, Peter",2694,draw,48,B45,Linares,1999
+2812,black,"Adams, Michael",2716,win,59,B26,Linares,1999
+2812,white,"Kramnik, Vladimir",2751,draw,20,E34,Linares,1999
+2812,white,"Anand, Viswanathan",2781,draw,29,D20,Linares,1999
+2812,black,"Ivanchuk, Vassily",2714,win,31,B90,Linares,1999
+2812,white,"Svidler, Peter",2713,draw,31,C90,Linares,1999
+2812,black,"Kramnik, Vladimir",2751,draw,28,D49,Wijk aan Zee,1999
+2812,white,"Svidler, Peter",2713,win,31,D97,Wijk aan Zee,1999
+2812,black,"Timman, Jan H",2649,draw,16,B81,Wijk aan Zee,1999
+2812,white,"Anand, Viswanathan",2784,draw,22,D27,Wijk aan Zee,1999
+2812,black,"Sokolov, Ivan",2610,lose,28,E59,Wijk aan Zee,1999
+2812,white,"Kasimdzhanov, Rustam",2595,win,36,D72,Wijk aan Zee,1999
+2812,black,"Shirov, Alexei",2726,win,49,B90,Wijk aan Zee,1999
+2812,white,"Piket, Jeroen",2609,win,41,C43,Wijk aan Zee,1999
+2812,black,"Reinderman, Dimitri",2542,win,48,B88,Wijk aan Zee,1999
+2812,white,"Topalov, Veselin",2700,win,44,B07,Wijk aan Zee,1999
+2812,black,"Yermolinsky, Alex",2597,win,47,D85,Wijk aan Zee,1999
+2812,white,"Van Wely, Loek",2636,draw,45,B01,Wijk aan Zee,1999
+2812,black,"Timman, Jan H",2649,win,63,D00,Wijk aan Zee,1999
+2812,black,"Yermolinsky, Alex",2597,draw,36,A30,Wijk aan Zee,1999
+2812,white,"Bosboom, Manuel",2490,lose,54,B50,Wijk aan Zee,1999
+2812,black,"Ivanchuk, Vassily",2714,win,40,E12,Wijk aan Zee,1999
+2812,white,"Kramnik, Vladimir",2751,draw,36,E20,Wijk aan Zee,1999
+2812,black,"Svidler, Peter",2713,win,41,B90,Wijk aan Zee,1999
+2812,white,"Reinderman, Dimitri",2542,win,47,A45,Wijk aan Zee,1999
+2812,black,"Topalov, Veselin",2700,win,54,A30,Wijk aan Zee,1999
+2812,white,"Anand, Viswanathan",2784,win,33,E20,Wijk aan Zee,1999
+2812,black,"Piket, Jeroen",2609,win,41,E12,Wijk aan Zee,1999
+2812,white,"Sokolov, Ivan",2610,win,62,A45,Wijk aan Zee,1999
+2812,black,"Kasimdzhanov, Rustam",2595,win,45,B53,Wijk aan Zee,1999
+2812,white,"Van Wely, Loek",2636,win,43,B33,Wijk aan Zee,1999
+2812,white,"Ivanchuk, Vassily",2714,draw,22,D36,Wijk aan Zee,1999
+2815,white,"Brown, Steve",,win,20,C55,London,1998
+2815,white,"Chate, Fred",,win,29,D10,London,1998
+2815,white,"Howell, David",,win,50,D78,London,1998
+2815,white,"Johnson, Daniel",,win,29,C54,London,1998
+2815,white,"Jones, Gawain C",,win,55,B50,London,1998
+2815,white,"Mughreblian, Ben",,win,33,C54,London,1998
+2815,white,"Mutkin, Henry",,win,23,A45,London,1998
+2815,white,"Rendle, Thomas",,win,47,C00,London,1998
+2815,white,"Thiruchelvam, Murugan",2020,win,38,D55,London,1998
+2815,white,"Williams, Alan P",2230,win,40,B40,London,1998
+2815,white,"Wood, Gabriel",,win,19,C65,London,1998
+2815,white,The Times A,,win,50,E62,London,1998
+2815,white,"Flores, Diego",2205,draw,38,C54,Buenos Aires,1998
+2815,white,"Kramnik, Vladimir",2780,draw,17,D30,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,draw,28,D36,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,win,37,D47,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,draw,51,D35,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,win,62,E32,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,lose,39,D85,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,win,41,E34,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,lose,51,D36,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,win,61,E32,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,draw,21,D26,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,lose,22,E20,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,draw,46,D47,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,lose,36,D43,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,win,27,A39,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,draw,58,D45,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,draw,66,D00,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,lose,30,D45,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,draw,42,A31,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,lose,42,E97,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,lose,44,A33,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,win,41,E37,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,draw,39,C00,Moscow,1998
+2815,black,"Kramnik, Vladimir",2780,win,58,E36,Moscow,1998
+2815,white,"Kramnik, Vladimir",2780,draw,45,C42,Moscow,1998
+2815,black,"Timman, Jan H",2655,draw,31,D52,Prague,1998
+2815,white,"Timman, Jan H",2655,draw,28,E32,Prague,1998
+2815,black,"Timman, Jan H",2655,draw,40,D58,Prague,1998
+2815,white,"Timman, Jan H",2655,win,26,E32,Prague,1998
+2815,black,"Timman, Jan H",2655,win,30,D15,Prague,1998
+2815,white,"Timman, Jan H",2655,draw,57,D24,Prague,1998
+2825,white,SAMMOUR,,win,22,D17,ICC INT,1998
+2825,white,"Zarnicki, Pablo",2515,win,50,C55,ICC INT,1998
+2825,black,"Appel, Ralf",2495,draw,45,A47,ICC INT,1998
+2825,black,"Zarnicki, Pablo",2515,draw,49,B83,ICC INT,1998
+2825,white,"Schmaltz, Roland",2470,lose,44,A49,ICC INT,1998
+2825,white,"Zarnicki, Pablo",2515,lose,58,A18,ICC INT,1998
+2825,black,"Schmaltz, Roland",2470,draw,51,B15,ICC INT,1998
+2825,black,"Zarnicki, Pablo",2515,lose,58,B19,ICC INT,1998
+2825,white,"Nataf, Igor Alexandre",2485,win,30,A24,ICC INT,1998
+2825,white,"Schmaltz, Roland",2470,win,63,B07,ICC INT,1998
+2825,black,"Nataf, Igor Alexandre",2485,win,25,B06,ICC INT,1998
+2825,black,"Schmaltz, Roland",2470,draw,76,B33,ICC INT,1998
+2825,white,"Dlugy, Maxim",2540,win,38,D06,ICC INT,1998
+2825,white,SAMMOUR,,win,52,D11,ICC INT,1998
+2825,black,"Dlugy, Maxim",2540,win,33,D36,ICC INT,1998
+2825,white,TALPA,,win,41,B01,ICC INT,1998
+2825,white,"Zarnicki, Pablo",2515,win,56,C44,ICC INT,1998
+2825,black,TALPA,,win,23,B23,ICC INT,1998
+2825,black,"Zarnicki, Pablo",2515,draw,65,C04,ICC INT,1998
+2825,white,Wagner,,win,26,E81,ICC INT,1998
+2825,white,"Zarnicki, Pablo",2515,win,34,A07,ICC INT,1998
+2825,black,"Zarnicki, Pablo",2515,draw,56,B06,ICC INT,1998
+2825,black,Wagner,,win,36,B07,ICC INT,1998
+2825,white,"Abegg, M.",,win,31,C54,Colmar,1998
+2825,white,"Brellmann, L.",,win,34,D35,Colmar,1998
+2825,white,"Bronner, Daniel",,win,37,E81,Colmar,1998
+2825,white,"Chatte, Anne Sophie",1670,win,33,A45,Colmar,1998
+2825,white,"Groshenny, Claude",1790,win,62,C05,Colmar,1998
+2825,white,"Hartweg, Nicolas",1680,win,35,E09,Colmar,1998
+2825,white,"Inguimberty, JL.",2130,win,26,D46,Colmar,1998
+2825,white,"Krick, M.",,win,29,B50,Colmar,1998
+2825,white,"Lefevre, Charles",1970,win,40,B12,Colmar,1998
+2825,white,"Martin, L.",1690,win,45,D35,Colmar,1998
+2825,white,"Munch, Paul",1830,win,24,A80,Colmar,1998
+2825,white,"Netzer, Jean",1730,win,27,D32,Colmar,1998
+2825,white,"Supper, Y.",1880,win,35,A45,Colmar,1998
+2825,white,"Wendling, Jens",,win,38,C62,Colmar,1998
+2825,white,"Winkelmueller, Jean Luc",1960,win,22,B30,Colmar,1998
+2825,white,"Wurtz, F.",,win,32,B22,Colmar,1998
+2825,white,CHUKCHA,,win,30,D35,ICC INT,1998
+2825,white,ILERDENSE,,win,34,A49,ICC INT,1998
+2825,white,NNG,,win,33,C55,ICC INT,1998
+2825,black,ILERDENSE,,win,38,B43,ICC INT,1998
+2825,black,NNG,,win,31,B23,ICC INT,1998
+2825,white,"Gurevich, Ilya",2580,draw,39,B43,ICC INT,1998
+2825,black,"Gurevich, Ilya",2580,win,43,B83,ICC INT,1998
+2825,white,"Akopian, Vladimir",2660,win,60,B52,ICC INT,1998
+2825,white,KEB,,win,36,E62,ICC INT,1998
+2825,white,NNG,,lose,54,B31,ICC INT,1998
+2825,black,"Akopian, Vladimir",2660,win,51,D36,ICC INT,1998
+2825,black,KEB,,win,35,A21,ICC INT,1998
+2825,black,"Ivanchuk, Vassily",2740,draw,43,D37,Frankfurt,1998
+2825,white,"Ivanchuk, Vassily",2740,draw,72,C11,Frankfurt,1998
+2825,black,"Ivanchuk, Vassily",2740,draw,33,D52,Frankfurt,1998
+2825,white,"Ivanchuk, Vassily",2740,win,70,B90,Frankfurt,1998
+2825,white,"Anand, Viswanathan",2770,draw,23,B44,Frankfurt,1998
+2825,black,"Ivanchuk, Vassily",2740,draw,48,E32,Frankfurt,1998
+2825,white,"Kramnik, Vladimir",2790,draw,31,A38,Frankfurt,1998
+2825,white,"Ivanchuk, Vassily",2740,win,35,B66,Frankfurt,1998
+2825,black,"Anand, Viswanathan",2770,lose,39,B90,Frankfurt,1998
+2825,black,"Kramnik, Vladimir",2790,lose,52,D92,Frankfurt,1998
+2825,black,"Topalov, Veselin",2740,win,52,B33,Leon,1998
+2825,white,"Topalov, Veselin",2740,draw,35,B18,Leon,1998
+2825,white,"Topalov, Veselin",2740,lose,50,E68,Leon,1998
+2825,black,"Topalov, Veselin",2740,win,65,B89,Leon,1998
+2825,white,"Topalov, Veselin",2740,draw,25,A32,Leon,1998
+2825,black,"Topalov, Veselin",2740,lose,51,B90,Leon,1998
+2825,white,"Topalov, Veselin",2740,win,41,E60,Leon,1998
+2825,black,"Topalov, Veselin",2740,draw,58,B90,Leon,1998
+2825,white,"Topalov, Veselin",2740,win,36,D79,Leon,1998
+2825,black,"Topalov, Veselin",2740,lose,43,B33,Leon,1998
+2825,white,"Gurevich, Ilya",2580,win,34,D02,ICC INT,1998
+2825,white,TALPA,,win,28,E01,ICC INT,1998
+2825,black,"Gurevich, Ilya",2580,win,48,B63,ICC INT,1998
+2825,black,TALPA,,draw,35,B96,ICC INT,1998
+2825,black,NNG,,draw,40,A30,ICC INT,1998
+2825,white,"Akopian, Vladimir",2660,win,40,E16,ICC INT,1998
+2825,white,VERDUGO,,win,36,B53,ICC INT,1998
+2825,black,"Akopian, Vladimir",2660,win,32,B31,ICC INT,1998
+2825,black,VERDUGO,,win,42,A45,ICC INT,1998
+2825,white,"Serper, Grigory",2540,win,47,B01,ICC INT,1998
+2825,black,"Serper, Grigory",2540,win,35,B33,ICC INT,1998
+2825,white,BUZZO,,win,38,E62,ICC INT,1998
+2825,white,"Serper, Grigory",2540,win,21,D35,ICC INT,1998
+2825,black,BUZZO,,win,20,A47,ICC INT,1998
+2825,black,"Nataf, Igor Alexandre",2485,win,38,B43,ICC INT,1998
+2825,white,NOSAINT,,win,50,A46,ICC INT,1998
+2825,black,GRANMAESTRO,,win,38,E12,ICC INT,1998
+2825,white,KOCHO,,win,33,C54,ICC INT,1998
+2825,white,NNG,,win,39,B27,ICC INT,1998
+2825,black,KOCHO,,win,28,A30,ICC INT,1998
+2825,black,NNG,,draw,45,E90,ICC INT,1998
+2825,white,KOCHO,,win,43,C00,ICC INT,1998
+2825,white,NNG,,win,30,B27,ICC INT,1998
+2825,black,GOA,,draw,55,A47,ICC INT,1998
+2825,black,NNG,,draw,55,A21,ICC INT,1998
+2825,white,"Miles, Anthony J",2595,win,44,B15,ICC INT,1998
+2825,black,"Svidler, Peter",2690,win,40,B90,ICC INT,1998
+2825,black,"Miles, Anthony J",2595,lose,76,A46,ICC INT,1998
+2825,white,"Svidler, Peter",2690,win,54,C85,ICC INT,1998
+2825,white,"Miles, Anthony J",2595,draw,53,B15,ICC INT,1998
+2825,white,Achileus,,win,53,A49,ICC INT,1998
+2825,white,BODHIBOY,,draw,57,D46,ICC INT,1998
+2825,black,Achileus,,win,40,E42,ICC INT,1998
+2825,black,BODHIBOY,,win,59,D05,ICC INT,1998
+2825,black,YUCO,,win,26,B12,ICC INT,1998
+2825,white,"Psakhis, Lev",2565,win,49,E32,ICC INT,1998
+2825,white,Ariela,,win,39,A05,ICC INT,1998
+2825,black,Ariela,,win,44,E16,ICC INT,1998
+2825,black,Gambrinus,,win,42,E32,ICC INT,1998
+2825,black,"Svidler, Peter",2690,win,50,B33,ICC INT,1998
+2825,white,"Svidler, Peter",2690,win,59,D77,ICC INT,1998
+2825,black,"Svidler, Peter",2690,lose,35,B43,ICC INT,1998
+2825,white,"Svidler, Peter",2690,win,41,B51,ICC INT,1998
+2825,white,"Huzman, Alexander",2610,win,41,B90,Tel Aviv,1998
+2825,black,"Smirin, Ilia",2590,win,54,D12,Tel Aviv,1998
+2825,white,"Sutovsky, Emil",2595,win,41,B30,Tel Aviv,1998
+2825,black,"Alterman, Boris",2615,win,50,D37,Tel Aviv,1998
+2825,black,"Huzman, Alexander",2610,win,42,E15,Tel Aviv,1998
+2820,white,"Smirin, Ilia",2595,draw,39,B43,Tel Aviv,1998
+2820,black,"Sutovsky, Emil",2590,win,53,B85,Tel Aviv,1998
+2825,white,"Alterman, Boris",2615,draw,25,B36,Tel Aviv,1998
+2825,white,"Topalov, Veselin",2740,win,37,B43,Sofia,1998
+2825,black,"Topalov, Veselin",2740,win,47,D58,Sofia,1998
+2825,white,"Topalov, Veselin",2740,win,39,B90,Sofia,1998
+2825,black,"Topalov, Veselin",2740,win,32,D58,Sofia,1998
+2825,white,"Conyers, Anthony",,win,31,B01,Peoria,1998
+2825,white,"Reading, M.",,win,48,A41,Peoria,1998
+2825,black,"Shirov, Alexei",2710,draw,17,B81,Linares,1998
+2825,white,"Kramnik, Vladimir",2790,draw,52,E32,Linares,1998
+2825,black,"Topalov, Veselin",2740,draw,19,D85,Linares,1998
+2825,white,"Ivanchuk, Vassily",2740,draw,54,C92,Linares,1998
+2825,black,"Anand, Viswanathan",2770,draw,24,B90,Linares,1998
+2825,white,"Svidler, Peter",2690,draw,64,C92,Linares,1998
+2825,white,"Shirov, Alexei",2710,draw,22,C78,Linares,1998
+2825,black,"Kramnik, Vladimir",2790,draw,26,D85,Linares,1998
+2825,white,"Topalov, Veselin",2740,draw,22,B91,Linares,1998
+2825,black,"Ivanchuk, Vassily",2740,draw,50,D79,Linares,1998
+2825,white,"Anand, Viswanathan",2770,win,35,B17,Linares,1998
+2825,black,"Svidler, Peter",2690,draw,52,B85,Linares,1998
+2820,white,"Botteley, Gerald",,win,28,C83,Oakham,1997
+2820,white,"Lee, Graham D",2350,win,43,A30,Oakham,1997
+2820,white,"Pert, Richard G",2230,win,22,B50,Oakham,1997
+2820,black,"Garner, David",2110,win,38,B22,Oakham,1997
+2820,black,"Hunt, Harriet",2360,win,60,B33,Oakham,1997
+2820,black,"Pert, Nicholas",2240,win,44,D77,Oakham,1997
+2820,black,"Lautier, Joel",2660,draw,20,A34,Tilburg,1997
+2820,white,"Kramnik, Vladimir",2770,draw,35,E39,Tilburg,1997
+2820,black,"Adams, Michael",2680,draw,27,B43,Tilburg,1997
+2820,white,"Piket, Jeroen",2630,win,30,D27,Tilburg,1997
+2820,black,"Svidler, Peter",2660,lose,37,B50,Tilburg,1997
+2820,white,"Leko, Peter",2635,win,31,C45,Tilburg,1997
+2820,black,"Shirov, Alexei",2700,win,40,B90,Tilburg,1997
+2820,white,"Onischuk, Alexander",2625,draw,60,E13,Tilburg,1997
+2820,black,"Shaked, Tal",2500,win,20,D85,Tilburg,1997
+2820,white,"Polgar, Judit",2670,win,32,E25,Tilburg,1997
+2820,black,"Van Wely, Loek",2655,win,51,A25,Tilburg,1997
+2795,black,"Gelfand, Boris",2700,win,41,E12,Novgorod,1997
+2820,white,"Ricardi, Pablo",2575,win,27,B90,Buenos Aires,1997
+2820,white,"Sorin, Ariel",2460,win,54,C45,Buenos Aires,1997
+2820,white,"Zarnicki, Pablo",2550,win,38,E15,Buenos Aires,1997
+2820,black,"German, Gustavo",2495,draw,30,B86,Buenos Aires,1997
+2820,black,"Panno, Oscar",2450,draw,15,A33,Buenos Aires,1997
+2820,black,"Spangenberg, Hugo",2565,lose,28,B91,Buenos Aires,1997
+2820,white,"German, Gustavo",2495,draw,24,E17,Buenos Aires,1997
+2820,white,"Panno, Oscar",2450,win,38,E32,Buenos Aires,1997
+2820,white,"Spangenberg, Hugo",2565,win,26,B22,Buenos Aires,1997
+2820,black,"Ricardi, Pablo",2575,draw,35,B52,Buenos Aires,1997
+2820,black,"Sorin, Ariel",2460,win,30,D91,Buenos Aires,1997
+2820,black,"Zarnicki, Pablo",2550,draw,20,B22,Buenos Aires,1997
+2795,black,"Short, Nigel D",2690,draw,25,B87,Novgorod,1997
+2795,white,"Kramnik, Vladimir",2740,draw,41,B66,Novgorod,1997
+2795,black,"Bareev, Evgeny",2665,draw,42,D27,Novgorod,1997
+2795,white,"Topalov, Veselin",2725,draw,30,C78,Novgorod,1997
+2795,black,"Kramnik, Vladimir",2740,lose,32,E97,Novgorod,1997
+2795,white,"Short, Nigel D",2690,win,31,C18,Novgorod,1997
+2795,white,"Bareev, Evgeny",2665,win,73,C11,Novgorod,1997
+2795,black,"Topalov, Veselin",2725,draw,29,B97,Novgorod,1997
+2795,white,"Gelfand, Boris",2700,win,37,E15,Novgorod,1997
+2795,white,"Altarriba Gracia, Sergio",,draw,41,B04,Madrid,1997
+2795,white,"Alvaro, Raul",,win,32,D30,Madrid,1997
+2795,white,"Baches Garcia, Guillermo",2235,win,43,A48,Madrid,1997
+2795,white,"Balam, Hugo",,win,30,C09,Madrid,1997
+2795,white,"Blasco, Luis",,win,27,A81,Madrid,1997
+2795,white,"Charambalos, J.",,win,9,B50,Madrid,1997
+2795,white,EuropChess,,draw,37,A52,Madrid,1997
+2795,white,Grup Equs,,win,28,A45,Madrid,1997
+2795,white,"Guerrero, P.",,win,36,B12,Madrid,1997
+2795,white,"Jimenez Clavero, Miguel Angel",,win,41,A57,Madrid,1997
+2795,white,"Munoz, Luis Gerardo",2245,win,26,E69,Madrid,1997
+2795,white,"Paco, Albalate",,win,29,C00,Madrid,1997
+2795,white,"Prados Montano, Antonio",,win,31,A45,Madrid,1997
+2795,white,Revista Web,,win,25,E92,Madrid,1997
+2795,white,"Sacco, Gelabert",,win,4,C65,Madrid,1997
+2795,white,"Vivanco del Hoyo, Juan Pedro",,win,15,B12,Madrid,1997
+2795,white,"Atlas, Dimitry",2310,draw,25,E06,Catonsville,1997
+2795,white,"Kaufman, Raymond",,win,63,D03,Catonsville,1997
+2795,white,"Lefstein, Ben",,win,40,A40,Catonsville,1997
+2795,black,"Barakh, Alex",,win,28,D04,Catonsville,1997
+2795,black,"Morrison, William",2390,win,53,B91,Catonsville,1997
+2795,black,"Shahade, Gregory P",2325,win,52,B22,Catonsville,1997
+2795,black,"Tsibulevsky, Edic",,win,43,B32,Catonsville,1997
+2785,black,Comp Deep Blue,,lose,19,B17,New York,1997
+2785,white,Comp Deep Blue,,draw,49,A07,New York,1997
+2785,black,Comp Deep Blue,,draw,56,B07,New York,1997
+2785,white,Comp Deep Blue,,draw,48,A29,New York,1997
+2785,black,Comp Deep Blue,,lose,45,C93,New York,1997
+2785,white,Comp Deep Blue,,win,45,A07,New York,1997
+2795,white,"Kramnik, Vladimir",2740,win,57,E59,Linares,1997
+2795,black,"Shirov, Alexei",2690,win,38,B90,Linares,1997
+2795,white,"Polgar, Judit",2645,win,41,B49,Linares,1997
+2795,black,"Ivanchuk, Vassily",2740,lose,36,E81,Linares,1997
+2795,white,"Adams, Michael",2665,win,33,B04,Linares,1997
+2795,black,"Topalov, Veselin",2725,win,39,D35,Linares,1997
+2795,white,"Nikolic, Predrag",2655,win,27,C45,Linares,1997
+2795,black,"Piket, Jeroen",2640,draw,51,E99,Linares,1997
+2795,white,"Gelfand, Boris",2700,draw,47,B92,Linares,1997
+2795,black,"Dreev, Alexey",2650,draw,49,E81,Linares,1997
+2795,black,"Anand, Viswanathan",2765,win,41,B85,Linares,1997
+2820,white,BCF Girls,,draw,50,B30,London,1997
+2820,white,ICC,,draw,29,E97,London,1997
+2785,black,"Anand, Viswanathan",2735,draw,33,B85,Las Palmas,1996
+2785,white,"Karpov, Anatoly",2775,win,44,E32,Las Palmas,1996
+2785,black,"Kramnik, Vladimir",2765,draw,58,D56,Las Palmas,1996
+2785,white,"Ivanchuk, Vassily",2730,win,36,B04,Las Palmas,1996
+2785,white,"Topalov, Veselin",2750,draw,28,C45,Las Palmas,1996
+2785,black,"Karpov, Anatoly",2775,draw,45,D43,Las Palmas,1996
+2785,white,"Anand, Viswanathan",2735,draw,63,B92,Las Palmas,1996
+2785,white,"Kramnik, Vladimir",2765,draw,19,E71,Las Palmas,1996
+2785,black,"Ivanchuk, Vassily",2730,draw,23,B50,Las Palmas,1996
+2785,black,"Topalov, Veselin",2750,win,59,E11,Las Palmas,1996
+2785,white,"Burstein, Almog",,draw,40,C85,Jerusalem,1996
+2785,white,"Geller, I.",,win,43,C54,Jerusalem,1996
+2785,white,"Kreizberg, Michael",2245,lose,29,A84,Jerusalem,1996
+2785,white,"Lurie, Michael",2070,lose,41,A16,Jerusalem,1996
+2785,white,"Scharansky, Nathan",,lose,28,C01,Jerusalem,1996
+2785,white,"Agistriotis, Mihail",2090,win,30,D55,Corfu,1996
+2785,white,"Balaskas, Panayotis",2265,win,32,E20,Corfu,1996
+2785,white,"Dragon, Zygmunt",2240,win,44,A31,Corfu,1996
+2785,white,"Drissner, George",,win,13,B31,Corfu,1996
+2785,white,"Exarhos, D.",,win,44,E76,Corfu,1996
+2785,white,"Georgaras, S.",,win,36,D16,Corfu,1996
+2785,white,"Georgiadis, Alexandros",,win,39,C42,Corfu,1996
+2785,white,"Gountas, I.",,win,30,C40,Corfu,1996
+2785,white,"Holis, Hristos",,win,39,B22,Corfu,1996
+2785,white,"Karambinas, A.",,win,30,B07,Corfu,1996
+2785,white,"Kostayiolas, L.",,win,33,C05,Corfu,1996
+2785,white,"Maroulis, G.",,win,42,E70,Corfu,1996
+2785,white,"Mavromihalis, G.",,win,29,B51,Corfu,1996
+2785,white,"Mehteridis, I.",,win,32,C00,Corfu,1996
+2785,white,"Mouzakis, Gerasimos",,win,27,C01,Corfu,1996
+2785,white,"Nathanail, Emanouel",2245,win,42,D35,Corfu,1996
+2785,white,"Pandis, Ippokratis",2090,win,35,C88,Corfu,1996
+2785,white,"Papathanasiou, Panayotis",2185,win,47,E81,Corfu,1996
+2785,white,"Petsetidi, Maria",,draw,38,D12,Corfu,1996
+2785,white,"Politis, Dionisos",2090,win,17,C43,Corfu,1996
+2785,white,"Prasinou, K.",,win,24,C45,Corfu,1996
+2785,white,"Saltis, P.",,draw,30,A45,Corfu,1996
+2785,white,"Sansourekidou, P.",,win,20,D03,Corfu,1996
+2785,white,"Saripanidis, S.",,win,47,B01,Corfu,1996
+2785,white,"Sfikas, N.",,win,39,C89,Corfu,1996
+2785,white,"Thanopoulos, F.",,win,33,D20,Corfu,1996
+2785,white,"Trifonas, Spyridon",2260,win,49,A55,Corfu,1996
+2785,white,"Voulgaris, G.",,win,24,C65,Corfu,1996
+2785,white,"Xanthoudakis, H.",,win,22,C68,Corfu,1996
+2785,white,"Ziogas, Hristos",,win,39,A48,Corfu,1996
+2785,white,"Yermolinsky, Alex",2610,win,51,E10,Yerevan,1996
+2785,black,"Smirin, Ilia",2625,win,40,B90,Yerevan,1996
+2785,white,"Sokolov, Ivan",2670,win,36,C45,Yerevan,1996
+2785,black,"Topalov, Veselin",2750,win,63,B85,Yerevan,1996
+2785,black,"Shirov, Alexei",2685,draw,27,B52,Yerevan,1996
+2785,white,"Hracek, Zbynek",2625,win,25,B66,Yerevan,1996
+2785,white,"Akopian, Vladimir",2630,draw,27,D48,Yerevan,1996
+2785,black,"Jussupow, Artur",2665,draw,31,E99,Yerevan,1996
+2785,white,"Lautier, Joel",2620,draw,25,E15,Yerevan,1996
+2785,black,"Anand, Viswanathan",2750,lose,54,B90,Geneve,1996
+2785,white,"Anand, Viswanathan",2750,draw,66,A29,Geneve,1996
+2785,white,"Anand, Viswanathan",2750,lose,44,E97,Geneve,1996
+2785,black,"Anand, Viswanathan",2735,win,55,B90,Geneve,1996
+2785,black,"Polgar, Judit",2665,win,60,B82,Geneve,1996
+2785,white,"Polgar, Judit",2665,draw,26,B22,Geneve,1996
+2785,black,"Topalov, Veselin",2750,win,64,B90,Geneve,1996
+2785,white,"Topalov, Veselin",2750,draw,76,B22,Geneve,1996
+2785,black,"Graf, Alexander",2580,win,61,E43,Geneve,1996
+2785,white,"Graf, Alexander",2580,win,48,A43,Geneve,1996
+2775,black,"Gelfand, Boris",2700,win,57,A34,Dos Hermanas,1996
+2775,white,"Topalov, Veselin",2700,draw,48,B85,Dos Hermanas,1996
+2775,black,"Polgar, Judit",2675,win,90,B82,Dos Hermanas,1996
+2775,white,"Kramnik, Vladimir",2775,lose,35,D48,Dos Hermanas,1996
+2775,black,"Ivanchuk, Vassily",2735,draw,20,E89,Dos Hermanas,1996
+2775,white,"Illescas Cordoba, Miguel",2635,draw,48,A80,Dos Hermanas,1996
+2775,white,"Shirov, Alexei",2690,win,30,D17,Dos Hermanas,1996
+2775,black,"Anand, Viswanathan",2725,draw,25,B81,Dos Hermanas,1996
+2775,white,"Kamsky, Gata",2735,draw,53,C88,Dos Hermanas,1996
+2775,black,"Kramnik, Vladimir",2775,draw,47,B08,Moscow,1996
+2775,white,"Kramnik, Vladimir",2775,lose,63,D32,Moscow,1996
+2775,black,"Kramnik, Vladimir",2775,draw,29,B31,Moscow,1996
+2775,white,"Kramnik, Vladimir",2775,draw,28,B66,Moscow,1996
+2775,black,"Anand, Viswanathan",2725,draw,39,B87,Moscow,1996
+2775,white,"Anand, Viswanathan",2725,win,35,B85,Moscow,1996
+2775,black,"Dreev, Alexey",2670,win,50,A65,Moscow,1996
+2775,black,"Dreev, Alexey",2670,win,82,A65,Moscow,1996
+2775,white,"Dreev, Alexey",2670,lose,81,B13,Moscow,1996
+2775,black,"Gelfand, Boris",2700,win,54,E12,Moscow,1996
+2775,white,"Gelfand, Boris",2700,win,57,E05,Moscow,1996
+2775,white,"Gelfand, Boris",2700,win,36,B92,Amsterdam,1996
+2775,black,"Lautier, Joel",2630,draw,27,A65,Amsterdam,1996
+2775,white,"Kramnik, Vladimir",2775,win,43,B66,Amsterdam,1996
+2775,black,"Timman, Jan H",2620,draw,45,E89,Amsterdam,1996
+2775,white,"Seirawan, Yasser",2630,win,34,D37,Amsterdam,1996
+2775,black,"Short, Nigel D",2665,draw,43,B88,Amsterdam,1996
+2775,white,"Anand, Viswanathan",2725,win,36,B14,Amsterdam,1996
+2775,black,"Piket, Jeroen",2570,win,39,E89,Amsterdam,1996
+2775,black,"Topalov, Veselin",2700,lose,66,B86,Amsterdam,1996
+2795,white,Comp Deep Blue,,win,43,D30,Philadelphia,1996
+2795,black,Comp Deep Blue,,win,45,C47,Philadelphia,1996
+2795,white,Comp Deep Blue,,draw,50,D46,Philadelphia,1996
+2795,black,Comp Deep Blue,,draw,39,B22,Philadelphia,1996
+2795,white,Comp Deep Blue,,win,73,E04,Philadelphia,1996
+2795,black,Comp Deep Blue,,lose,37,B22,Philadelphia,1996
+2775,black,"Gouveia, Carlos Eduardo",2390,win,36,A46,Rio de Janeiro,1996
+2775,white,"Miranda, Marcio MC",2305,win,46,B31,Rio de Janeiro,1996
+2775,black,"Toth, Christian Endre",2375,win,43,D35,Rio de Janeiro,1996
+2775,white,"Vescovi, Giovanni P",2475,win,48,E93,Rio de Janeiro,1996
+2775,black,"Lima, Darcy",2440,draw,20,E94,Rio de Janeiro,1996
+2775,white,"Milos, Gilberto",2565,draw,27,B48,Rio de Janeiro,1996
+2805,white,"Firor, Jon",,win,33,B50,ICC INT,1995
+2805,white,"Frolik, Erhard",2265,draw,44,D15,ICC INT,1995
+2805,white,"Hvarre, K.",,draw,43,B80,ICC INT,1995
+2805,white,"Larso, E.",,win,33,D38,ICC INT,1995
+2805,white,"Lerner, Al",,draw,26,E43,ICC INT,1995
+2805,white,"Matabeek, Sunil",,win,24,C54,ICC INT,1995
+2805,white,"McShane, Luke J",2145,win,28,A36,ICC INT,1995
+2805,white,"Mozes, Dany",,lose,36,B22,ICC INT,1995
+2805,white,"Ronksley, S.",,win,49,B70,ICC INT,1995
+2805,white,"Srinavasan, J.",,win,20,E41,ICC INT,1995
+2795,black,"Akopian, Vladimir",2625,draw,31,D77,Ljubljana,1995
+2795,black,"Yudasin, Leonid",2630,win,33,B51,Ljubljana,1995
+2795,black,"Kramnik, Vladimir",2730,win,31,E92,Paris,1995
+2795,white,"Kramnik, Vladimir",2730,draw,26,B31,Paris,1995
+2795,black,"Kramnik, Vladimir",2730,win,65,E92,Paris,1995
+2795,white,"Kramnik, Vladimir",2730,lose,63,B30,Paris,1995
+2795,black,"Anand, Viswanathan",2725,win,29,B65,Paris,1995
+2795,white,"Georgiev, Kiril",2605,win,66,D17,Paris,1995
+2795,black,"Georgiev, Kiril",2605,win,58,B90,Paris,1995
+2795,white,"Morozevich, Alexander",2630,win,47,C55,Paris,1995
+2795,black,"Morozevich, Alexander",2630,win,23,C34,Paris,1995
+2795,black,"Vaganian, Rafael A",2645,draw,16,D36,Horgen,1995
+2795,white,"Kramnik, Vladimir",2730,draw,13,B57,Horgen,1995
+2795,white,"Korchnoi, Viktor",2635,win,27,D43,Horgen,1995
+2795,black,"Lautier, Joel",2645,draw,27,A65,Horgen,1995
+2795,white,"Ivanchuk, Vassily",2740,lose,31,C16,Horgen,1995
+2795,black,"Short, Nigel D",2645,draw,37,B90,Horgen,1995
+2795,white,"Jussupow, Artur",2680,draw,20,C43,Horgen,1995
+2795,black,"Gulko, Boris F",2620,draw,39,A26,Horgen,1995
+2795,white,"Timman, Jan H",2595,draw,40,C11,Horgen,1995
+2795,black,"Ehlvest, Jaan",2630,draw,48,E61,Horgen,1995
+2795,white,"Anand, Viswanathan",2725,draw,12,B85,New York,1995
+2795,black,"Anand, Viswanathan",2725,draw,63,B78,New York,1995
+2795,white,"Anand, Viswanathan",2725,draw,20,B85,New York,1995
+2795,black,"Anand, Viswanathan",2725,draw,16,B76,New York,1995
+2795,white,"Anand, Viswanathan",2725,win,41,B01,New York,1995
+2795,black,"Anand, Viswanathan",2725,win,25,B77,New York,1995
+2795,white,"Anand, Viswanathan",2725,draw,43,C78,New York,1995
+2795,black,"Anand, Viswanathan",2725,win,31,B78,New York,1995
+2795,white,"Anand, Viswanathan",2725,win,38,C80,New York,1995
+2795,black,"Anand, Viswanathan",2725,lose,35,B85,New York,1995
+2795,white,"Anand, Viswanathan",2725,draw,22,C45,New York,1995
+2795,black,"Anand, Viswanathan",2725,draw,25,B85,New York,1995
+2795,white,"Anand, Viswanathan",2725,draw,28,C80,New York,1995
+2795,black,"Anand, Viswanathan",2725,draw,27,B85,New York,1995
+2795,white,"Anand, Viswanathan",2725,draw,21,A17,New York,1995
+2795,black,"Anand, Viswanathan",2725,draw,36,B85,New York,1995
+2795,white,"Anand, Viswanathan",2725,draw,29,E34,New York,1995
+2795,black,"Anand, Viswanathan",2725,draw,27,B85,New York,1995
+2805,white,"Ivanchuk, Vassily",2700,win,28,D07,New York,1995
+2805,black,"Ivanchuk, Vassily",2700,win,35,B90,New York,1995
+2805,black,"Kramnik, Vladimir",2715,draw,66,C42,New York,1995
+2805,white,"Kramnik, Vladimir",2715,draw,31,A37,New York,1995
+2805,black,"Kramnik, Vladimir",2715,draw,41,C55,New York,1995
+2805,black,"De Firmian, Nick E",2590,draw,58,B85,New York,1995
+2805,white,"De Firmian, Nick E",2590,win,54,B92,New York,1995
+2805,white,"Adams, Michael",2655,win,30,E62,New York,1995
+2805,black,"Adams, Michael",2655,win,41,B50,New York,1995
+2805,white,"Timman, Jan H",2635,draw,33,E35,Novgorod,1995
+2805,black,"Short, Nigel D",2655,draw,18,B97,Novgorod,1995
+2805,white,"Ehlvest, Jaan",2615,draw,43,D37,Novgorod,1995
+2805,black,"Kramnik, Vladimir",2715,draw,58,C55,Novgorod,1995
+2805,white,"Vaganian, Rafael A",2640,win,24,D37,Novgorod,1995
+2805,black,"Topalov, Veselin",2630,win,40,B80,Novgorod,1995
+2805,black,"Jussupow, Artur",2660,win,43,A48,Novgorod,1995
+2805,white,"Ivanchuk, Vassily",2700,draw,28,B17,Novgorod,1995
+2805,black,"Gulko, Boris F",2595,win,44,E92,Novgorod,1995
+2805,black,Comp Chess Genius 3.0,,draw,52,A04,Cologne,1995
+2805,white,Comp Chess Genius 3.0,,win,39,D15,Cologne,1995
+2805,black,"Piket, Jeroen",2670,lose,41,D97,Amsterdam,1995
+2805,white,"Topalov, Veselin",2630,win,42,B76,Amsterdam,1995
+2805,white,"Lautier, Joel",2655,lose,31,B48,Amsterdam,1995
+2805,black,"Topalov, Veselin",2630,win,28,B80,Amsterdam,1995
+2805,white,"Piket, Jeroen",2670,win,29,C51,Amsterdam,1995
+2805,black,"Lautier, Joel",2655,draw,28,E76,Amsterdam,1995
+2805,white,"Anand, Viswanathan",2715,draw,24,A41,Moscow,1995
+2805,black,"Anand, Viswanathan",2715,lose,28,B53,Moscow,1995
+2805,white,"Speelman, Jonathan S",2610,win,35,D37,Moscow,1995
+2805,black,"Speelman, Jonathan S",2610,draw,37,A49,Moscow,1995
+2805,white,"Epishin, Vladimir",2635,draw,36,B17,Moscow,1995
+2805,black,"Epishin, Vladimir",2635,win,73,E69,Moscow,1995
+2805,black,"Gulko, Boris F",2595,draw,15,E92,Riga,1995
+2805,white,"Kengis, Edvins",2575,win,24,B47,Riga,1995
+2805,black,"Short, Nigel D",2655,draw,30,B97,Riga,1995
+2805,white,"Ehlvest, Jaan",2615,draw,17,D43,Riga,1995
+2805,black,"Vaganian, Rafael A",2640,win,35,A24,Riga,1995
+2805,white,"Ivanchuk, Vassily",2700,draw,53,E62,Riga,1995
+2805,black,"Jussupow, Artur",2660,win,37,A48,Riga,1995
+2805,white,"Anand, Viswanathan",2715,win,25,C51,Riga,1995
+2805,black,"Olafsson, Helgi",2520,win,24,B67,Reykjavik,1995
+2805,black,"Kramnik, Vladimir",2715,draw,14,C54,Riga,1995
+2795,white,Comp Pentium Fritz4,,draw,62,D34,London,1995
+2805,white,"Hjartarson, Johann",2590,draw,53,A17,Reykjavik,1995
+2805,white,"Timman, Jan H",2635,win,22,D17,Riga,1995
+2795,black,Comp Pentium Fritz4,,win,46,E32,London,1995
+2805,black,"Stefansson, Hannes",2530,win,40,B93,Reykjavik,1995
+2805,white,"Regnier, Bruno",,draw,40,C56,Geneve,1995
+2805,black,"Jussupow, Artur",2655,win,32,E70,Moscow,1994
+2805,white,"Short, Nigel D",2655,win,42,B84,Moscow,1994
+2805,white,"Azmaiparashvili, Zurab",2625,win,50,A41,Moscow,1994
+2805,black,"Oll, Lembit",2615,draw,43,B92,Moscow,1994
+2805,black,"Ivanchuk, Vassily",2695,draw,35,B70,Moscow,1994
+2805,white,"Nikolic, Predrag",2655,draw,20,E34,Moscow,1994
+2805,white,"Lautier, Joel",2645,win,28,B33,Moscow,1994
+2805,black,"Topalov, Veselin",2645,lose,29,B81,Moscow,1994
+2805,white,"Gelfand, Boris",2680,draw,38,B87,Moscow,1994
+2805,black,"Ljubojevic, Ljubomir",2580,draw,28,B22,Moscow,1994
+2805,white,"Dembo, Yelena",,win,30,A45,Tel Aviv,1994
+2805,white,"Finkel, Alexander",2465,draw,22,A25,Tel Aviv,1994
+2805,white,"Gershon, Alik",2355,win,46,A86,Tel Aviv,1994
+2805,white,"Kogan, Artur",2470,draw,44,B30,Tel Aviv,1994
+2805,white,"Kundin, Alexander",2295,win,33,D15,Tel Aviv,1994
+2805,white,"Liss, Eran",2480,win,32,A16,Tel Aviv,1994
+2805,white,"Rabinovich, Alexander",2255,win,61,D36,Tel Aviv,1994
+2805,white,"Ravia, Mosi",2320,draw,32,E01,Tel Aviv,1994
+2805,white,"Segal, Anna",2220,win,52,E81,Tel Aviv,1994
+2805,white,"Sutovsky, Emil",2480,draw,32,E81,Tel Aviv,1994
+2805,white,"Teplitsky, Yan",2395,win,54,B57,Tel Aviv,1994
+2805,white,"Tyomkin, Dimitri",2310,win,27,D31,Tel Aviv,1994
+2805,white,"Wapner, Jonathan",2175,win,47,D13,Tel Aviv,1994
+2805,white,"Zelkind, Carmi",2290,win,43,B52,Tel Aviv,1994
+2805,white,"Zifroni, Dov",2370,win,45,C09,Tel Aviv,1994
+2805,black,"Short, Nigel D",2655,draw,25,B54,Amsterdam,1994
+2805,white,"Timman, Jan H",2620,win,30,C42,Amsterdam,1994
+2805,black,"Ivanchuk, Vassily",2710,lose,39,B93,Amsterdam,1994
+2805,black,"Timman, Jan H",2620,win,40,A48,Amsterdam,1994
+2805,white,"Short, Nigel D",2655,win,32,C11,Amsterdam,1994
+2805,white,"Ivanchuk, Vassily",2710,draw,20,C45,Amsterdam,1994
+2810,black,"Nikolic, Predrag",2655,win,47,E60,Paris,1994
+2810,white,"Nikolic, Predrag",2655,win,30,C18,Paris,1994
+2810,white,"Kramnik, Vladimir",2725,win,86,D19,Paris,1994
+2810,black,"Kramnik, Vladimir",2725,draw,37,B22,Paris,1994
+2810,white,"Hjartarson, Johann",2585,win,23,A46,Paris,1994
+2810,black,"Hjartarson, Johann",2585,win,32,E90,Paris,1994
+2810,white,"Arbakov, Valentin",2570,win,49,A15,Paris,1994
+2810,black,"Arbakov, Valentin",2570,win,33,E89,Paris,1994
+2805,white,"Lautier, Joel",2625,lose,29,C54,Linares,1994
+2805,black,"Beliavsky, Alexander G",2650,draw,41,E66,Linares,1994
+2805,white,"Anand, Viswanathan",2715,win,35,B80,Linares,1994
+2805,black,"Miles, Anthony J",2600,draw,52,A46,Horgen,1994
+2805,white,"Jussupow, Artur",2655,win,36,C45,Horgen,1994
+2805,black,"Kramnik, Vladimir",2710,lose,40,E93,Linares,1994
+2805,black,"Kramnik, Vladimir",2725,draw,26,D85,Novgorod,1994
+2805,white,"Kamsky, Gata",2695,win,40,B17,Linares,1994
+2805,white,"Short, Nigel D",2665,draw,44,D20,Novgorod,1994
+2805,white,"Shirov, Alexei",2740,win,38,B33,Horgen,1994
+2805,black,"Shirov, Alexei",2705,draw,29,B51,Linares,1994
+2805,black,"Ivanchuk, Vassily",2695,draw,29,E71,Novgorod,1994
+2805,black,"Korchnoi, Viktor",2615,draw,13,A33,Horgen,1994
+2800,white,"Karpov, Anatoly",2740,draw,41,B17,Linares,1994
+2805,white,"Bareev, Evgeny",2675,win,35,D19,Novgorod,1994
+2805,white,"Nikolic, Predrag",2655,win,39,C18,Horgen,1994
+2800,black,"Gelfand, Boris",2685,draw,49,D35,Linares,1994
+2805,black,"Shirov, Alexei",2740,draw,48,B54,Novgorod,1994
+2805,black,"Lautier, Joel",2645,draw,34,E81,Horgen,1994
+2805,white,"Gelfand, Boris",2680,win,47,B93,Horgen,1994
+2805,black,"Polgar, Judit",2630,win,46,B84,Linares,1994
+2805,black,"Short, Nigel D",2665,win,40,B92,Novgorod,1994
+2805,white,"Ivanchuk, Vassily",2710,win,39,D44,Linares,1994
+2805,white,"Kramnik, Vladimir",2710,draw,35,D44,New York,1994
+2805,white,"Kramnik, Vladimir",2725,win,35,B33,Novgorod,1994
+2805,black,"Kramnik, Vladimir",2710,lose,74,B44,New York,1994
+2805,black,"Gavrikov, Viktor",2600,draw,42,E69,Horgen,1994
+2815,white,"Nikolic, Predrag",2655,win,71,A90,New York,1994
+2805,white,"Ivanchuk, Vassily",2695,draw,24,B48,Novgorod,1994
+2805,white,"Benjamin, Joel",2610,draw,58,D56,Horgen,1994
+2805,black,"Topalov, Veselin",2640,draw,44,E76,Linares,1994
+2815,black,"Nikolic, Predrag",2655,win,45,E69,New York,1994
+2805,white,"Illescas Cordoba, Miguel",2590,win,43,D34,Linares,1994
+2805,white,"Kramnik, Vladimir",2710,draw,30,B33,Moscow,1994
+2815,white,"Anand, Viswanathan",2720,draw,24,A04,New York,1994
+2805,black,"Kramnik, Vladimir",2710,lose,41,E93,Moscow,1994
+2815,black,"Anand, Viswanathan",2720,win,66,B24,New York,1994
+2805,black,"Bareev, Evgeny",2675,draw,25,D99,Novgorod,1994
+2805,black,"Lutz, Christopher",2580,win,47,E81,Horgen,1994
+2805,white,"Timman, Jan H",2620,win,44,C59,Moscow,1994
+2815,white,"Kamsky, Gata",2695,win,30,D27,New York,1994
+2805,white,"Shirov, Alexei",2740,win,37,A21,Novgorod,1994
+2815,white,Comp Genius,,lose,60,D23,London,1994
+2805,white,"Leko, Peter",2555,win,45,A38,Horgen,1994
+2805,black,"Bareev, Evgeny",2685,win,31,A58,Linares,1994
+2805,black,"Timman, Jan H",2620,draw,51,D00,Moscow,1994
+2815,black,"Kamsky, Gata",2695,win,43,E97,New York,1994
+2815,black,Comp Genius,,draw,56,E12,London,1994
+2815,white,"Fontaine, Robert",2150,win,33,D46,Clichy,1994
+2815,white,"Bukal, Vladimir Jr",2265,lose,26,C01,Zagreb,1994
+2815,white,Comp Fritz 3,,lose,47,D20,Munich,1994
+2815,white,"Dreev, Alexey",2645,lose,30,C11,Munich,1994
+2815,white,"Georgiev, Kiril",2615,win,46,D19,Munich,1994
+2815,white,"Leko, Peter",2545,win,60,D03,Munich,1994
+2815,white,"Short, Nigel D",2665,win,35,C18,Munich,1994
+2805,white,"Lautier, Joel",2645,draw,42,C74,Lyon,1994
+2815,black,"Chernin, Alexander",2630,win,22,E71,Munich,1994
+2815,black,"Cvitan, Ognjen",2570,lose,44,A38,Munich,1994
+2815,black,"Hertneck, Gerald",2615,win,29,D85,Munich,1994
+2815,black,"Hjartarson, Johann",2595,win,33,A57,Munich,1994
+2815,black,"Kramnik, Vladimir",2710,win,39,E92,Munich,1994
+2815,black,"Nikolic, Predrag",2625,win,31,A58,Munich,1994
+2815,black,Comp Fritz 3,,draw,79,B08,Munich,1994
+2805,black,"Almasi, Zoltan",2620,win,36,B82,Lyon,1994
+2805,black,"Shneider, Aleksandr",2535,lose,39,A39,Lyon,1994
+2805,black,"Short, Nigel D",2655,draw,36,B87,London,1993
+2805,white,"Short, Nigel D",2655,draw,26,C73,London,1993
+2805,black,"Short, Nigel D",2655,draw,33,B87,London,1993
+2805,white,"Short, Nigel D",2655,draw,41,C45,London,1993
+2805,black,"Short, Nigel D",2655,lose,38,B87,London,1993
+2805,white,"Short, Nigel D",2655,win,39,D36,London,1993
+2805,black,"Short, Nigel D",2655,draw,39,B88,London,1993
+2805,white,"Short, Nigel D",2655,draw,34,D19,London,1993
+2805,black,"Short, Nigel D",2655,draw,40,B88,London,1993
+2805,white,"Short, Nigel D",2655,draw,50,C45,London,1993
+2805,black,"Short, Nigel D",2655,draw,43,B86,London,1993
+2805,white,"Short, Nigel D",2655,win,52,E35,London,1993
+2805,black,"Short, Nigel D",2655,draw,41,B86,London,1993
+2805,white,"Short, Nigel D",2655,win,36,C88,London,1993
+2805,black,"Short, Nigel D",2655,draw,31,B86,London,1993
+2805,white,"Short, Nigel D",2655,draw,18,E35,London,1993
+2805,black,"Short, Nigel D",2655,win,40,B97,London,1993
+2805,white,"Short, Nigel D",2655,win,59,C88,London,1993
+2805,black,"Short, Nigel D",2655,draw,51,B67,London,1993
+2805,white,"Short, Nigel D",2655,win,39,C88,London,1993
+2805,white,Allen/Overy,,win,46,A54,London,1993
+2805,white,Bankers Trust,,win,49,D20,London,1993
+2805,white,Barclays,,win,38,B31,London,1993
+2805,white,CIA Communications,,win,27,A50,London,1993
+2805,white,CITY Warburg,,win,30,B50,London,1993
+2805,white,Chambers of Michael,,win,32,C70,London,1993
+2805,white,Colet Court,,win,56,D35,London,1993
+2805,white,Leigh Interest PLC,,draw,38,A80,London,1993
+2805,white,Lloyds Bank CC,,draw,36,A60,London,1993
+2805,white,London Electricity,,win,52,B22,London,1993
+2805,white,Mercury Asset Management,,win,37,A52,London,1993
+2805,white,Norfolk Champions,,draw,46,B40,London,1993
+2805,white,Oxford United Football,,win,26,C30,London,1993
+2805,white,Reuters Ltd,,win,33,C41,London,1993
+2805,white,Royal Automobile Club,,win,41,A57,London,1993
+2805,white,Sick Children&#039;s Trust,,win,41,D42,London,1993
+2805,white,"Kamsky, Gata",2655,win,35,B80,Linares,1993
+2805,black,"Shirov, Alexei",2670,draw,47,E69,Linares,1993
+2805,white,"Gelfand, Boris",2690,win,25,B87,Linares,1993
+2805,black,"Pinter, Jozsef",2580,draw,114,A65,Auxerre,1993
+2805,black,"Chabanon, Jean Luc",2425,win,26,A20,Auxerre,1993
+2805,black,"Karpov, Anatoly",2725,win,27,E86,Linares,1993
+2805,white,"Salov, Valery",2685,draw,26,B31,Auxerre,1993
+2805,white,"Anand, Viswanathan",2710,win,65,D18,Linares,1993
+2805,black,"Renet, Olivier",2535,win,28,B82,Auxerre,1993
+2805,black,"Beliavsky, Alexander G",2610,draw,22,E86,Linares,1993
+2805,white,"Timman, Jan H",2635,win,53,E32,Linares,1993
+2805,black,"Munoz Pantoja, Miguel Angel",,win,64,A37,Lima,1993
+2805,black,"Salov, Valery",2660,draw,47,B22,Linares,1993
+2805,white,"Requejo, Oswaldo",,win,48,A24,Lima,1993
+2805,white,"Bareev, Evgeny",2670,win,34,C24,Linares,1993
+2805,black,"Miguel Aparicio, Fernando",,win,44,D00,Lima,1993
+2805,black,"Kramnik, Vladimir",2685,draw,19,E86,Linares,1993
+2815,black,"Short, Nigel D",2665,win,37,B22,London,1993
+2805,white,"Oblitas Guerrero, Carlomagno",2425,win,29,A41,Lima,1993
+2805,white,"Jussupow, Artur",2645,draw,118,D35,Linares,1993
+2815,white,"Short, Nigel D",2665,win,27,D46,London,1993
+2805,black,"Short, Nigel D",2655,lose,15,C33,London,1993
+2805,black,"Reyes Larena, Juan",2450,draw,37,B50,Lima,1993
+2805,black,"Short, Nigel D",2655,draw,53,C35,London,1993
+2805,black,"Ivanchuk, Vassily",2710,draw,26,B85,Linares,1993
+2805,white,"Urday Caceres, Henry",2465,win,53,E11,Lima,1993
+2805,white,"Short, Nigel D",2655,draw,54,C51,London,1993
+2805,black,"Ljubojevic, Ljubomir",2605,win,29,E97,Linares,1993
+2805,white,"Bartosik, Olimpia",2030,win,37,B07,Katowice,1993
+2805,white,"Dubiel, Jacek",2275,win,41,E09,Katowice,1993
+2805,white,"Gratka, Krzysztof",,win,42,E69,Katowice,1993
+2805,white,"Hurnik, Zbigniew",2230,win,35,B22,Katowice,1993
+2805,white,"Klimczok, Krystian",,win,21,C02,Katowice,1993
+2805,white,"Masternak, Grzegorz",2300,win,28,E06,Katowice,1993
+2805,white,"Rzymelka, Jan",,win,46,C91,Katowice,1993
+2805,white,"Stefanek, Piotr",,win,32,D15,Katowice,1993
+2805,white,"Swol, Michal",2140,win,42,D91,Katowice,1993
+2805,white,"Wrobel, Grzegorz",,win,24,D06,Katowice,1993
+2805,white,"Azmaiparashvili, Zurab",2655,win,28,B06,London,1993
+2805,white,"Taylor Bowd, Philip J",,win,22,A01,London,1993
+2805,white,"Adams, Michael",2630,win,39,B17,London,1993
+2805,white,NN,,win,29,D36,London,1993
+2805,black,Channel 4 Viewers,,win,23,B31,London,1993
+2805,black,"Azmaiparashvili, Zurab",2655,win,39,B50,London,1993
+2805,black,"Taylor Bowd, Philip J",,win,40,B08,London,1993
+2805,black,"Adams, Michael",2630,lose,53,A45,London,1993
+2780,black,"Giorgadze, Giorgi",,draw,32,E42,Debrecen,1992
+2780,white,"Portisch, Lajos",2575,draw,37,B48,Debrecen,1992
+2780,white,"Vaganian, Rafael A",2590,win,23,D37,Debrecen,1992
+2780,black,"Short, Nigel D",2685,win,37,B82,Debrecen,1992
+2780,white,"Ivanchuk, Vassily",2720,win,50,C43,Debrecen,1992
+2780,black,"Nikolic, Predrag",2635,draw,24,E68,Debrecen,1992
+2780,white,"Rozentalis, Eduardas",2585,win,22,A13,Debrecen,1992
+2780,black,"Korchnoi, Viktor",2585,draw,44,E98,Debrecen,1992
+2780,black,"Psakhis, Lev",2605,draw,18,B85,Manila,1992
+2780,white,"Nikolic, Predrag",2635,win,37,D10,Manila,1992
+2780,white,"Hjartarson, Johann",2580,win,34,E32,Manila,1992
+2780,black,"Vaganian, Rafael A",2590,draw,32,E97,Manila,1992
+2780,white,"Ivanchuk, Vassily",2720,win,45,A31,Manila,1992
+2780,black,"Kamsky, Gata",2655,win,41,E88,Manila,1992
+2780,white,"Loginov, Valery A",2540,win,36,E84,Manila,1992
+2780,black,"Shirov, Alexei",2655,win,62,E98,Manila,1992
+2780,white,"Cebalo, Miso",2515,win,39,E65,Manila,1992
+2780,white,"Timman, Jan H",2620,draw,29,B57,Manila,1992
+2780,black,"Ljubojevic, Ljubomir",2610,win,46,A21,Linares,1992
+2780,white,"Salov, Valery",2655,draw,61,B33,Linares,1992
+2780,black,"Jussupow, Artur",2655,win,59,E68,Linares,1992
+2780,white,"Illescas Cordoba, Miguel",2555,win,32,B45,Linares,1992
+2770,white,"Khalifman, Alexander",2630,draw,33,D37,Reggio Emilia,1992
+2780,white,"Salov, Valery",2655,win,54,B31,Dortmund,1992
+2780,black,"Beliavsky, Alexander G",2620,draw,29,D87,Linares,1992
+2780,white,"Short, Nigel D",2685,win,48,C45,Linares,1992
+2770,black,"Polugaevsky, Lev",2630,draw,16,D73,Reggio Emilia,1992
+2780,black,"Adams, Michael",2620,win,22,D45,Dortmund,1992
+2780,white,"Bareev, Evgeny",2635,draw,40,C11,Dortmund,1992
+2770,black,"Salov, Valery",2665,draw,26,E69,Reggio Emilia,1992
+2780,black,"Bareev, Evgeny",2635,draw,48,E73,Linares,1992
+2770,white,"Beliavsky, Alexander G",2655,win,28,A36,Reggio Emilia,1992
+2780,white,"Speelman, Jonathan S",2630,draw,60,B17,Linares,1992
+2780,black,"Huebner, Robert",2615,lose,50,E69,Dortmund,1992
+2770,black,"Gelfand, Boris",2665,draw,43,E99,Reggio Emilia,1992
+2780,black,"Gelfand, Boris",2665,win,60,E92,Linares,1992
+2780,black,"Ivanchuk, Vassily",2720,draw,27,B22,Dortmund,1992
+2770,white,"Ivanchuk, Vassily",2735,win,32,E92,Reggio Emilia,1992
+2790,white,"Huebner, Robert",2630,lose,48,C54,Cologne,1992
+2780,white,"Anand, Viswanathan",2670,draw,34,C18,Linares,1992
+2780,white,"Piket, Jeroen",2615,win,40,C45,Dortmund,1992
+2790,white,"Anand, Viswanathan",2690,win,37,A41,Paris,1992
+2790,black,"Anand, Viswanathan",2690,lose,39,B82,Paris,1992
+2790,white,"Kamsky, Gata",2655,win,52,C90,Paris,1992
+2770,black,"Karpov, Anatoly",2730,draw,61,E88,Reggio Emilia,1992
+2790,black,"Huebner, Robert",2630,win,37,D71,Cologne,1992
+2780,black,"Ivanchuk, Vassily",2720,draw,41,E97,Linares,1992
+2780,black,"Kamsky, Gata",2655,lose,38,E97,Dortmund,1992
+2790,black,"Kamsky, Gata",2655,win,37,E97,Paris,1992
+2770,white,"Anand, Viswanathan",2650,lose,49,C07,Reggio Emilia,1992
+2780,white,"Amura, Claudia Noemi",2355,win,28,D61,Buenos Aires,1992
+2780,white,"Panno, Oscar",2465,draw,30,C01,Buenos Aires,1992
+2780,white,"Ricardi, Pablo",2465,win,40,A33,Buenos Aires,1992
+2780,white,"Karpov, Anatoly",2725,win,41,B17,Linares,1992
+2780,white,"Anand, Viswanathan",2670,win,17,D19,Dortmund,1992
+2790,white,"Polugaevsky, Lev",2640,win,57,E16,Paris,1992
+2780,black,"Rubinetti, Jorge Alberto",2450,win,40,A43,Buenos Aires,1992
+2780,black,"Spangenberg, Hugo",2305,draw,28,B23,Buenos Aires,1992
+2780,black,"Zarnicki, Pablo",2385,win,27,B84,Buenos Aires,1992
+2790,black,"Huebner, Robert",2630,win,15,D45,Cologne,1992
+2790,black,"Polugaevsky, Lev",2640,win,44,D02,Paris,1992
+2780,white,"Rubinetti, Jorge Alberto",2450,draw,47,C01,Buenos Aires,1992
+2780,white,"Spangenberg, Hugo",2305,win,42,D24,Buenos Aires,1992
+2780,white,"Zarnicki, Pablo",2385,draw,36,E13,Buenos Aires,1992
+2790,white,"Huebner, Robert",2630,draw,49,D94,Cologne,1992
+2790,white,"Kramnik, Vladimir",2625,win,26,B30,Paris,1992
+2770,black,"Gurevich, Mikhail",2630,win,54,A21,Reggio Emilia,1992
+2780,black,"Amura, Claudia Noemi",2355,win,45,E74,Buenos Aires,1992
+2790,black,"Panno, Oscar",2485,win,38,D40,Buenos Aires,1992
+2780,black,"Ricardi, Pablo",2465,lose,34,E97,Buenos Aires,1992
+2780,black,"Timman, Jan H",2620,win,25,E87,Linares,1992
+2780,black,"Shirov, Alexei",2655,win,40,E86,Dortmund,1992
+2790,black,"Kramnik, Vladimir",2625,draw,30,D85,Paris,1992
+2780,white,Comp Fritz 2,,win,54,A00,Cologne,1992
+2790,white,"Bazan, Osvaldo",2240,win,35,C67,Cordoba ,1992
+2790,white,"Bertona, Fernando",2345,win,41,D45,Cordoba ,1992
+2790,white,"Boissonet, Carlos P",2430,draw,32,A30,Cordoba ,1992
+2790,white,"Brusa, Eduardo",,draw,36,E84,Cordoba ,1992
+2790,white,"Burijovich, Liliana",2195,win,37,E85,Cordoba ,1992
+2790,white,"Cagliero, Hugo",1980,win,56,B50,Cordoba ,1992
+2790,white,"Castellano, Pablo",,win,47,D85,Cordoba ,1992
+2790,white,"Dalmagro, Daniel",,draw,35,E02,Cordoba ,1992
+2790,white,"Demaria, Juan Pablo",,draw,57,B22,Cordoba ,1992
+2790,white,"Diani, Jose Angel",2100,win,52,D24,Cordoba ,1992
+2790,white,"Echevarria, Carlos",,win,48,E85,Cordoba ,1992
+2790,white,"Fernandez, Jorge A",2200,win,57,B22,Cordoba ,1992
+2790,white,"Garrido Fernandez, Daniel",1905,win,27,B23,Cordoba ,1992
+2790,white,"Gimenez, Ismael",2075,draw,37,B51,Cordoba ,1992
+2790,white,"Halac, Matias",2245,win,37,B01,Cordoba ,1992
+2790,white,"Herrera, Laura",,win,43,B50,Cordoba ,1992
+2790,white,"Hutt, Alejandro",1960,win,34,D15,Cordoba ,1992
+2790,white,"Lopez, Gabriela",,win,24,B22,Cordoba ,1992
+2790,white,"Maiques, Raul",1995,win,29,D03,Cordoba ,1992
+2790,white,"Monier, Raul",2355,win,78,D03,Cordoba ,1992
+2790,white,"Moreira, Juan Carlos",2220,win,28,B31,Cordoba ,1992
+2790,white,"Moscovich, Fabian",2095,win,38,A80,Cordoba ,1992
+2790,white,"Natali, Federico",,win,35,B50,Cordoba ,1992
+2790,white,"Pereiro, Jorge",1970,win,49,C10,Cordoba ,1992
+2790,white,"Pinus, Ruben",2005,win,33,D34,Cordoba ,1992
+2790,white,"Porro, Fernando",,win,63,A19,Cordoba ,1992
+2790,white,"Resnik, Isaac",,win,45,A57,Cordoba ,1992
+2790,white,"Sanchez Lopez, Jose Luis",2050,win,38,D36,Cordoba ,1992
+2790,white,"Tejero, Maximiliano",,win,23,E49,Cordoba ,1992
+2790,white,"Yosifides, Aris",2295,win,29,E43,Cordoba ,1992
+2780,white,"Hort, Vlastimil",2560,draw,23,E86,Baden-Baden,1992
+2780,white,"Wahls, Matthias",2570,win,37,B07,Baden-Baden,1992
+2780,black,Comp Fritz 2,,lose,57,B43,Cologne,1992
+2780,black,"Hertneck, Gerald",2530,draw,26,D31,Baden-Baden,1992
+2780,black,"Lobron, Eric",2575,win,46,E91,Baden-Baden,1992
+2800,white,"Bavagnoli, Gabriele",,win,30,A57,Asiag,1991
+2800,white,"Bellemo, Luca",,draw,44,D36,Asiag,1991
+2800,white,"Bertacco, Piero",,win,15,B18,Asiag,1991
+2800,white,"Boscolo, Max",,win,54,A48,Asiag,1991
+2800,white,"Capitelli, Paolo",,win,38,E69,Asiag,1991
+2800,white,"De Poi, Paolo",,win,48,D45,Asiag,1991
+2800,white,"Dellair, Malek Abdul",,win,25,B08,Asiag,1991
+2800,white,"Di Fonzo, Valerio",,win,60,C80,Asiag,1991
+2800,white,"Ferioli, Franco",,win,27,E91,Asiag,1991
+2800,white,"Guaglianone, Mario",,win,38,E14,Asiag,1991
+2800,white,"Mosna, Stefano",,draw,33,C01,Asiag,1991
+2800,white,"Negra, Massimiliano",,win,29,D20,Asiag,1991
+2800,white,"Paci, Daniele",,win,44,D06,Asiag,1991
+2800,white,"Piva, Giorgio",,draw,45,E08,Asiag,1991
+2800,white,"Rigoni, Vinicio",,win,42,C68,Asiag,1991
+2800,white,"Sbarra, Marco",,win,42,D94,Asiag,1991
+2800,white,"Spanghero, Nicola",,win,50,A18,Asiag,1991
+2800,white,"Spinelli, Doriano",,win,35,A80,Asiag,1991
+2800,white,"Viaggi, Giovanni",,win,45,D35,Asiag,1991
+2800,white,"Ziglio, Roberto",,draw,29,A04,Asiag,1991
+2800,white,"Beade Franco, Cesar Justo E",,draw,23,B14,Galicia,1991
+2800,white,"Carrazoni, Aitor",,win,39,E91,Galicia,1991
+2800,white,"Carrera Perez, Francisco",2270,draw,48,A33,Galicia,1991
+2800,white,"Casares, F.",,win,36,D06,Galicia,1991
+2800,white,"Cid, D.",,win,13,C62,Galicia,1991
+2800,white,"De la Fuente Gonzalez, Francisco",,win,40,D03,Galicia,1991
+2800,white,"Fernandez, Rodrigo Amaral",,win,38,B01,Galicia,1991
+2800,white,"Freire, R.",,win,40,C66,Galicia,1991
+2800,white,"Garcia Santos, Gabriel Francisco",,win,36,C60,Galicia,1991
+2800,white,"Garza Castro, Ramon",,win,41,C42,Galicia,1991
+2800,white,"Gonzalez Larranaga, Y.",,win,36,C54,Galicia,1991
+2800,white,"Iglesias, Alejandro",2275,win,43,A25,Galicia,1991
+2800,white,"Lago, Victor Miguel",,win,36,E94,Galicia,1991
+2800,white,"Larrosa Vila, Jose",2260,draw,35,D30,Galicia,1991
+2800,white,"Marcote, P.",,win,17,A25,Galicia,1991
+2800,white,"Marcote Nunez, Javier",,win,45,E68,Galicia,1991
+2800,white,Martinez,,win,57,A28,Galicia,1991
+2800,white,"Nunez, A.",2285,win,30,A04,Galicia,1991
+2800,white,"Paleo Magdaleno, David",,win,16,D20,Galicia,1991
+2800,white,"Permuy Lorenzo, Carlos Javier",2260,draw,40,A86,Galicia,1991
+2800,white,"Prieto Martin, Alfonso",,win,21,E61,Galicia,1991
+2800,white,Rey,,win,42,D13,Galicia,1991
+2800,white,"Rodriguez Miguens, D.",,draw,21,D36,Galicia,1991
+2800,white,"Rodriguez Pena, Xose Henrique",,win,27,E94,Galicia,1991
+2800,white,"Souto Fernandez, Estela",,win,19,A82,Galicia,1991
+2800,white,"Suarez Pousa, Diego",,win,31,A18,Galicia,1991
+2800,white,"Vazquez, Fermin",,win,35,A04,Galicia,1991
+2800,white,"Veiga Goy, Jose Luis",,win,50,E41,Galicia,1991
+2770,white,"Karpov, Anatoly",2730,win,44,C45,Tilburg,1991
+2800,white,"Jussupow, Artur",2605,draw,40,A21,Linares,1991
+2770,black,"Short, Nigel D",2660,draw,25,B40,Tilburg,1991
+2800,black,"Ljubojevic, Ljubomir",2590,win,43,B23,Linares,1991
+2800,white,"Anand, Viswanathan",2635,draw,27,C43,Linares,1991
+2770,white,"Bareev, Evgeny",2680,win,33,D18,Tilburg,1991
+2770,white,"Kamsky, Gata",2595,draw,40,C45,Tilburg,1991
+2800,black,"Ehlvest, Jaan",2650,win,40,B41,Linares,1991
+2800,white,"Beliavsky, Alexander G",2640,win,34,A19,Linares,1991
+2800,black,"Ljubojevic, Ljubomir",2590,win,40,B51,Amsterdam,1991
+2770,black,"Korchnoi, Viktor",2610,draw,27,E92,Tilburg,1991
+2800,white,"Timman, Jan H",2630,draw,29,E12,Amsterdam,1991
+2770,white,"Timman, Jan H",2630,win,32,D94,Tilburg,1991
+2800,black,"Karpov, Anatoly",2725,draw,32,D45,Linares,1991
+2800,white,"Kamsky, Gata",2640,win,29,A50,Linares,1991
+2800,black,"Korchnoi, Viktor",2615,win,31,E99,Amsterdam,1991
+2770,black,"Karpov, Anatoly",2730,draw,114,E97,Tilburg,1991
+2800,white,"Karpov, Anatoly",2725,draw,61,C92,Amsterdam,1991
+2770,white,"Short, Nigel D",2660,draw,58,C01,Tilburg,1991
+2800,black,"Salov, Valery",2645,draw,31,E68,Linares,1991
+2770,black,"Anand, Viswanathan",2650,lose,29,B82,Tilburg,1991
+2800,white,"Speelman, Jonathan S",2610,draw,50,A35,Linares,1991
+2770,white,"Anand, Viswanathan",2650,win,29,B48,Tilburg,1991
+2800,black,"Hjartarson, Johann",2535,draw,44,E81,Amsterdam,1991
+2800,white,"Salov, Valery",2645,draw,38,B30,Amsterdam,1991
+2770,white,"Timman, Jan H",2630,draw,74,C43,Paris,1991
+2800,black,"Gurevich, Mikhail",2650,win,42,E21,Linares,1991
+2770,black,"Bareev, Evgeny",2680,win,45,E92,Tilburg,1991
+2770,black,"Timman, Jan H",2630,lose,35,E88,Paris,1991
+2770,white,"Bareev, Evgeny",2680,win,46,C01,Paris,1991
+2800,black,"Timman, Jan H",2630,draw,29,D03,Linares,1991
+2800,black,"Short, Nigel D",2635,draw,37,B85,Amsterdam,1991
+2770,black,"Kamsky, Gata",2595,draw,45,B85,Tilburg,1991
+2770,black,"Bareev, Evgeny",2680,win,19,D94,Paris,1991
+2800,white,"Gelfand, Boris",2700,win,38,D45,Linares,1991
+2800,white,"Gurevich, Mikhail",2650,draw,38,A88,Amsterdam,1991
+2770,white,"Korchnoi, Viktor",2610,win,45,C01,Tilburg,1991
+2770,white,"Gelfand, Boris",2665,win,36,B87,Paris,1991
+2770,black,"Gelfand, Boris",2665,win,75,E97,Paris,1991
+2770,white,"Khalifman, Alexander",2630,draw,45,D55,Paris,1991
+2800,black,"Ivanchuk, Vassily",2695,lose,38,B51,Linares,1991
+2800,black,"Van der Wiel, John",2530,draw,24,B96,Amsterdam,1991
+2770,black,"Timman, Jan H",2630,win,35,E67,Tilburg,1991
+2770,black,"Khalifman, Alexander",2630,win,32,E97,Paris,1991
+2800,white,"Karpov, Anatoly",2730,draw,36,A17,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,lose,29,E87,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,draw,43,C92,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,draw,86,E87,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,win,41,C92,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,draw,39,E92,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,win,57,C92,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,lose,40,D85,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,win,102,C45,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,draw,33,D85,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,draw,40,C45,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,draw,42,D85,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,draw,37,C92,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,draw,24,E92,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,draw,18,C43,Lyon/New York,1990
+2800,white,"Short, Nigel D",2635,win,59,A10,Paris,1990
+2800,black,"Short, Nigel D",2635,lose,52,B21,Paris,1990
+2800,white,"Korchnoi, Viktor",2625,draw,31,A29,Paris,1990
+2800,black,"Korchnoi, Viktor",2625,draw,41,E61,Paris,1990
+2800,white,"Speelman, Jonathan S",2610,win,36,B07,Paris,1990
+2800,black,"Speelman, Jonathan S",2610,draw,42,E92,Paris,1990
+2800,black,"Karpov, Anatoly",2730,draw,34,D85,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,draw,84,C92,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,lose,44,E94,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,draw,41,C92,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,draw,36,E94,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,draw,40,C92,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,draw,53,E92,Lyon/New York,1990
+2800,white,"Karpov, Anatoly",2730,win,44,C92,Lyon/New York,1990
+2800,black,"Karpov, Anatoly",2730,draw,30,E81,Lyon/New York,1990
+2800,white,"Illescas Cordoba, Miguel",2530,win,61,D34,Linares,1990
+2800,black,"Beliavsky, Alexander G",2640,draw,41,E84,Linares,1990
+2800,white,"Salov, Valery",2645,draw,56,E20,Linares,1990
+2800,black,"Gulko, Boris F",2610,lose,54,E88,Linares,1990
+2800,black,"Ivanchuk, Vassily",2665,win,43,B97,Linares,1990
+2800,white,"Psakhis, Lev",2575,win,36,E42,Murcia,1990
+2800,white,"Ljubojevic, Ljubomir",2625,draw,27,E20,Linares,1990
+2800,black,"Psakhis, Lev",2575,win,30,A26,Murcia,1990
+2800,black,"Jussupow, Artur",2615,win,63,E69,Linares,1990
+2800,white,"Psakhis, Lev",2575,win,43,A46,Murcia,1990
+2800,white,"Spassky, Boris V",2560,win,29,E35,Linares,1990
+2800,black,"Psakhis, Lev",2575,draw,49,E89,Murcia,1990
+2800,black,"Portisch, Lajos",2605,win,27,E97,Linares,1990
+2800,white,"Psakhis, Lev",2575,draw,43,E13,Murcia,1990
+2800,white,"Short, Nigel D",2635,win,48,A26,Linares,1990
+2800,black,"Hansen, Curt",2570,draw,39,E90,Svendborg,1990
+2800,white,"Hansen, Curt",2570,win,29,B07,Svendborg,1990
+2800,black,"Psakhis, Lev",2575,win,36,E81,Murcia,1990
+2800,black,"Gelfand, Boris",2615,draw,45,E99,Linares,1990
+2800,white,"Cesetti, Claudio",,win,47,C85,Italy,1990
+2800,white,"Galli, Fabio",,win,45,D17,Italy,1990
+2775,white,"Nikolic, Predrag",2600,win,41,E35,Belgrade,1989
+2775,black,"Agdestein, Simen",2605,win,57,E60,Belgrade,1989
+2775,black,"Short, Nigel D",2660,win,103,B82,Belgrade,1989
+2775,white,"Hjartarson, Johann",2555,draw,61,E12,Belgrade,1989
+2775,black,"Kozul, Zdenko",2560,win,21,E32,Belgrade,1989
+2775,white,"Ehlvest, Jaan",2620,win,59,D58,Belgrade,1989
+2775,black,"Ljubojevic, Ljubomir",2635,win,37,B96,Belgrade,1989
+2775,white,"Timman, Jan H",2635,draw,48,E11,Belgrade,1989
+2775,black,"Damljanovic, Branko",2555,win,32,B70,Belgrade,1989
+2775,white,"Popovic, Petar",2550,win,39,A16,Belgrade,1989
+2775,black,"Jussupow, Artur",2610,draw,22,D76,Belgrade,1989
+2775,black,Comp Deep Thought,,win,52,B22,New York,1989
+2775,white,Comp Deep Thought,,win,37,D20,New York,1989
+2775,white,"Letterman, David",,win,23,B01,New York,1989
+2775,white,"Agdestein, Simen",2605,win,30,C03,Tilburg,1989
+2775,black,"Hjartarson, Johann",2555,win,31,A39,Tilburg,1989
+2775,black,"Ivanchuk, Vassily",2660,draw,35,B96,Tilburg,1989
+2775,white,"Korchnoi, Viktor",2655,win,29,E35,Tilburg,1989
+2775,black,"Sax, Gyula",2580,draw,15,B52,Tilburg,1989
+2775,white,"Ljubojevic, Ljubomir",2635,win,38,E11,Tilburg,1989
+2775,black,"Piket, Jeroen",2540,win,28,E99,Tilburg,1989
+2775,black,"Agdestein, Simen",2605,win,24,A36,Tilburg,1989
+2775,white,"Hjartarson, Johann",2555,win,26,D39,Tilburg,1989
+2775,white,"Ivanchuk, Vassily",2660,win,41,E15,Tilburg,1989
+2775,black,"Korchnoi, Viktor",2655,draw,27,D76,Tilburg,1989
+2775,white,"Sax, Gyula",2580,win,31,B81,Tilburg,1989
+2775,black,"Ljubojevic, Ljubomir",2635,draw,27,B50,Tilburg,1989
+2775,white,"Piket, Jeroen",2540,win,40,B78,Tilburg,1989
+2775,black,"Nikolic, Predrag",2600,draw,68,D76,Skelleftea,1989
+2775,white,"Ribli, Zoltan",2605,draw,26,A30,Skelleftea,1989
+2775,black,"Seirawan, Yasser",2585,draw,43,A65,Skelleftea,1989
+2775,white,"Vaganian, Rafael A",2585,win,43,A33,Skelleftea,1989
+2775,black,"Ehlvest, Jaan",2620,draw,23,B86,Skelleftea,1989
+2775,white,"Nunn, John DM",2575,draw,42,E92,Skelleftea,1989
+2775,black,"Portisch, Lajos",2600,win,62,D36,Skelleftea,1989
+2775,white,"Salov, Valery",2645,draw,17,E18,Skelleftea,1989
+2775,white,"Tal, Mikhail",2585,draw,60,D35,Skelleftea,1989
+2775,black,"Sax, Gyula",2580,draw,31,B93,Skelleftea,1989
+2775,white,"Andersson, Ulf",2635,draw,35,E32,Skelleftea,1989
+2775,black,"Short, Nigel D",2660,win,45,A46,Skelleftea,1989
+2775,white,"Huebner, Robert",2605,draw,60,D20,Skelleftea,1989
+2775,black,"Karpov, Anatoly",2755,draw,42,E97,Skelleftea,1989
+2775,white,"Korchnoi, Viktor",2655,win,23,A34,Skelleftea,1989
+2775,black,"Haik, Aldo",2390,draw,31,A65,Evry,1989
+2775,white,"Koch, Jean Rene",2390,draw,25,B38,Evry,1989
+2775,black,"Miralles, Gilles",2400,draw,48,D76,Evry,1989
+2775,white,"Sharif, Mershad",2420,win,38,A17,Evry,1989
+2775,black,"Kouatly, Bachar",2470,win,31,E93,Evry,1989
+2775,white,"Renet, Olivier",2480,win,43,E37,Evry,1989
+2775,black,"Illescas Cordoba, Miguel",2525,win,86,B84,Barcelona,1989
+2775,white,"Spassky, Boris V",2580,win,52,D35,Barcelona,1989
+2775,black,"Nogueiras Santiago, Jesus",2575,draw,29,A68,Barcelona,1989
+2775,white,"Nikolic, Predrag",2605,draw,37,E37,Barcelona,1989
+2775,black,"Vaganian, Rafael A",2600,draw,43,D76,Barcelona,1989
+2775,white,"Salov, Valery",2630,win,29,A34,Barcelona,1989
+2775,black,"Beliavsky, Alexander G",2640,win,61,B85,Barcelona,1989
+2775,white,"Speelman, Jonathan S",2640,win,25,A42,Barcelona,1989
+2775,black,"Ljubojevic, Ljubomir",2580,draw,17,D76,Barcelona,1989
+2775,white,"Short, Nigel D",2650,win,51,A21,Barcelona,1989
+2775,black,"Hjartarson, Johann",2615,draw,60,D76,Barcelona,1989
+2775,white,"Huebner, Robert",2600,draw,17,D17,Barcelona,1989
+2775,black,"Korchnoi, Viktor",2610,win,59,E97,Barcelona,1989
+2775,white,"Seirawan, Yasser",2610,draw,34,E87,Barcelona,1989
+2775,black,"Jussupow, Artur",2610,lose,41,E92,Barcelona,1989
+2775,white,"Ribli, Zoltan",2625,draw,40,D39,Barcelona,1989
+2775,black,"Kamsky, Gata",2345,win,107,C02,New York,1989
+2775,white,"Kamsky, Gata",2345,win,51,E08,New York,1989
+2775,white,"Tebb, David",,lose,31,E94,Chester,1989
+2775,white,"Rao, Vivek",,win,32,A29,Harvard,1989
+2775,black,Comp Sargon,,win,24,A01,Cambridge,1989
+2775,black,"Akhsharumova, Anna M",2395,win,30,B07,Harvard,1989
+2775,black,Dalyell,,win,28,A07,London,1989
+2775,black,"Hanley, James L",,win,37,B34,London,1989
+2595,white,"Georgiev, Kiril",2515,win,61,E37,Thessaloniki,1988
+2595,black,"Hansen, Curt",2505,draw,41,D76,Thessaloniki,1988
+2595,black,"Portisch, Lajos",2630,draw,23,D76,Thessaloniki,1988
+2595,white,"Seirawan, Yasser",2510,win,38,D21,Thessaloniki,1988
+2595,black,"Ljubojevic, Ljubomir",2605,win,51,A41,Thessaloniki,1988
+2750,white,"Short, Nigel D",2630,win,23,D31,Thessaloniki,1988
+2595,black,"Hjartarson, Johann",2250,draw,54,B80,Thessaloniki,1988
+2595,black,"Gheorghiu, Florin",2520,win,36,E89,Thessaloniki,1988
+2595,white,"Campora, Daniel Hugo",2370,win,36,D35,Thessaloniki,1988
+2595,black,"Torre, Eugenio",2505,win,42,D03,Thessaloniki,1988
+2760,white,"Ballo, Harald",,win,40,E16,Cologne,1988
+2760,white,"Evers, Leo",,win,16,B50,Cologne,1988
+2760,white,"Holzke, Frank",,lose,30,B07,Cologne,1988
+2760,white,"Van de Vlierd, Claus",,win,34,B18,Cologne,1988
+2775,white,"Milotzki, Kurt",,lose,32,B47,Essen,1988
+2760,white,"Nikolic, Predrag",2585,draw,24,D18,Reykjavik,1988
+2760,black,"Ehlvest, Jaan",2580,win,25,A28,Reykjavik,1988
+2760,white,"Sax, Gyula",2600,win,38,E32,Reykjavik,1988
+2760,black,"Timman, Jan H",2660,win,45,E88,Reykjavik,1988
+2760,white,"Beliavsky, Alexander G",2655,draw,62,C85,Reykjavik,1988
+2760,black,"Spassky, Boris V",2560,draw,19,B30,Reykjavik,1988
+2760,white,"Nunn, John DM",2625,draw,41,E92,Reykjavik,1988
+2760,black,"Korchnoi, Viktor",2595,win,43,D87,Reykjavik,1988
+2760,white,"Tal, Mikhail",2610,draw,42,D17,Reykjavik,1988
+2760,black,"Petursson, Margeir",2530,draw,26,E94,Reykjavik,1988
+2760,black,"Sokolov, Andrei",2600,lose,44,B85,Reykjavik,1988
+2760,white,"Hjartarson, Johann",2610,win,56,E32,Reykjavik,1988
+2760,black,"Portisch, Lajos",2635,draw,46,D76,Reykjavik,1988
+2760,white,"Ribli, Zoltan",2630,draw,18,E12,Reykjavik,1988
+2760,black,"Speelman, Jonathan S",2645,draw,17,D78,Reykjavik,1988
+2760,white,"Andersson, Ulf",2625,win,44,D36,Reykjavik,1988
+2760,black,"Jussupow, Artur",2615,draw,21,D85,Reykjavik,1988
+2760,white,"Eingorn, Vereslav S",2560,draw,20,D35,Moscow,1988
+2760,black,"Vaganian, Rafael A",2625,draw,34,E92,Moscow,1988
+2760,black,"Khalifman, Alexander",2530,draw,34,B80,Moscow,1988
+2760,white,"Salov, Valery",2595,win,58,A29,Moscow,1988
+2760,black,"Yudasin, Leonid",2505,win,30,B82,Moscow,1988
+2760,white,"Smirin, Ilia",2500,win,41,E97,Moscow,1988
+2760,black,"Beliavsky, Alexander G",2665,draw,23,D89,Moscow,1988
+2760,white,"Kharitonov, Andrei Y",2550,win,35,C08,Moscow,1988
+2760,black,"Ehlvest, Jaan",2580,draw,42,B85,Moscow,1988
+2760,white,"Malaniuk, Vladimir P",2520,draw,21,A88,Moscow,1988
+2760,black,"Karpov, Anatoly",2725,draw,30,E32,Moscow,1988
+2760,white,"Smyslov, Vassily",2550,draw,20,D36,Moscow,1988
+2760,black,"Gavrikov, Viktor",2545,draw,40,E97,Moscow,1988
+2760,white,"Sokolov, Andrei",2600,draw,32,A29,Moscow,1988
+2760,black,"Gurevich, Mikhail",2630,win,32,D97,Moscow,1988
+2760,white,"Ivanchuk, Vassily",2625,win,24,A29,Moscow,1988
+2760,black,"Jussupow, Artur",2450,draw,31,D89,Moscow,1988
+2750,white,"Sokolov, Andrei",2595,win,42,A19,Belfort,1988
+2750,black,"Karpov, Anatoly",2715,lose,38,D87,Belfort,1988
+2750,black,"Short, Nigel D",2630,win,40,B80,Belfort,1988
+2750,white,"Ehlvest, Jaan",2585,win,34,E12,Belfort,1988
+2750,black,"Beliavsky, Alexander G",2645,win,29,D97,Belfort,1988
+2750,white,"Andersson, Ulf",2605,win,38,D36,Belfort,1988
+2750,black,"Ljubojevic, Ljubomir",2610,win,39,B81,Belfort,1988
+2750,white,"Hjartarson, Johann",2590,draw,44,A20,Belfort,1988
+2750,black,"Spassky, Boris V",2565,draw,41,A39,Belfort,1988
+2750,white,"Speelman, Jonathan S",2625,draw,41,A54,Belfort,1988
+2750,black,"Timman, Jan H",2675,win,45,D82,Belfort,1988
+2750,white,"Huebner, Robert",2595,draw,38,D10,Belfort,1988
+2750,black,"Ribli, Zoltan",2620,draw,13,B39,Belfort,1988
+2750,white,"Nogueiras Santiago, Jesus",2560,win,29,D24,Belfort,1988
+2750,black,"Jussupow, Artur",2620,win,60,D00,Belfort,1988
+2750,white,"Alexopoulos, Georgios",2235,win,33,D61,New York,1988
+2735,white,"Adams, Michael",2430,lose,37,E14,Cannes,1988
+2735,white,"Arlandi, Ennio",2380,win,26,A33,Cannes,1988
+2735,white,"Gerber, Richard",2320,win,43,E68,Cannes,1988
+2735,white,"Gonda, Gentaro",2205,win,38,D41,Cannes,1988
+2735,white,"Gueye, Gorgui",2205,win,24,A90,Cannes,1988
+2735,white,"Hamilton, Robert",2365,win,43,A39,Cannes,1988
+2735,white,"Jones, Lee",,win,38,E47,Cannes,1988
+2735,white,"Savereide, Diane",2280,win,36,A30,Cannes,1988
+2735,white,"Ulibin, Mikhail",2390,draw,40,A14,Cannes,1988
+2735,white,"Weemaes, Ronald",2350,win,24,A18,Cannes,1988
+2750,white,"Ljubojevic, Ljubomir",2610,draw,52,D36,Madrid,1988
+2750,black,"Andersson, Ulf",2605,draw,65,A87,Madrid,1988
+2750,white,"Illescas Cordoba, Miguel",2495,win,48,A43,Madrid,1988
+2750,black,"Korchnoi, Viktor",2640,draw,30,E73,Madrid,1988
+2750,white,"Karpov, Anatoly",2715,win,62,B17,Amsterdam,1988
+2750,black,"Timman, Jan H",2675,draw,24,D82,Amsterdam,1988
+2750,black,"Van der Wiel, John",2555,win,44,B85,Amsterdam,1988
+2750,black,"Portisch, Lajos",2610,draw,69,A34,Madrid,1988
+2750,white,"Georgiev, Kiril",2595,draw,50,A29,Saint John,1988
+2750,white,"Timman, Jan H",2675,win,55,D18,Amsterdam,1988
+2750,white,"Van der Wiel, John",2555,win,45,E12,Amsterdam,1988
+2750,white,"Hjartarson, Johann",2590,win,32,E32,Madrid,1988
+2750,black,"Georgiev, Kiril",2595,lose,53,A38,Saint John,1988
+2750,black,"Karpov, Anatoly",2715,draw,58,D87,Amsterdam,1988
+2760,black,"Hort, Vlastimil",2595,win,50,D34,Cologne,1988
+2750,white,"Dlugy, Maxim",2550,win,27,D26,Saint John,1988
+2750,white,"Karpov, Anatoly",2715,win,39,B17,Amsterdam,1988
+2760,white,"Hort, Vlastimil",2595,draw,24,A25,Cologne,1988
+2750,black,"Dlugy, Maxim",2550,lose,53,B07,Saint John,1988
+2750,black,"Timman, Jan H",2675,draw,45,D82,Amsterdam,1988
+2750,black,"Van der Wiel, John",2555,draw,17,B84,Amsterdam,1988
+2750,black,"Speelman, Jonathan S",2625,win,39,E92,Madrid,1988
+2750,white,"Thorsteins, Karl",2440,win,39,D35,Saint John,1988
+2750,white,"Timman, Jan H",2675,draw,25,D55,Amsterdam,1988
+2750,white,"Van der Wiel, John",2555,win,31,E12,Amsterdam,1988
+2750,white,"Nogueiras Santiago, Jesus",2560,draw,40,B14,Madrid,1988
+2750,black,"Thorsteins, Karl",2440,draw,42,B08,Saint John,1988
+2750,black,"Karpov, Anatoly",2715,draw,37,D76,Amsterdam,1988
+2760,black,"Hort, Vlastimil",2595,win,35,D00,Cologne,1988
+2750,white,"De la Riva, M.",,win,35,A38,Barcelona,1988
+2750,white,"Pablo Marin, Alejandro",2395,win,37,E69,Barcelona,1988
+2750,white,"Pares Vives, Jose",2290,win,40,D76,Barcelona,1988
+2750,white,"Pomes Marcet, Juan",,win,37,A86,Barcelona,1988
+2750,white,"Ballmann, Martin",2280,draw,43,E08,Basel,1988
+2750,white,"Christoffel, Martin",,win,55,E68,Basel,1988
+2750,white,"Haldemann, Paul",,draw,41,E33,Basel,1988
+2750,white,"Hund, Barbara",2315,win,63,A14,Basel,1988
+2750,white,"Maser, Fabian",,draw,55,E74,Basel,1988
+2750,white,"Hausrath, Daniel",,win,53,D13,Duesseldorf,1988
+2750,white,"Lorenz, Beatrix",,draw,57,D36,Duesseldorf,1988
+2750,white,"Nordsieck, Thomas",,win,36,A31,Duesseldorf,1988
+2750,white,"Haik, Aldo",2370,win,49,A41,Evry,1988
+2750,white,"Kouatly, Bachar",2450,draw,51,A16,Evry,1988
+2750,white,"Miralles, Gilles",2430,win,50,E20,Evry,1988
+2750,white,"Baude, Herwig",,win,46,C19,Zuerich,1988
+2750,white,"Bohrer, E.",,win,21,D06,Zuerich,1988
+2750,white,"Cahn, R.",,win,31,D51,Zuerich,1988
+2750,white,Comp Leonardo Maestro,,win,25,A29,Zuerich,1988
+2750,white,"Egli, K.",,win,33,A60,Zuerich,1988
+2750,white,"Felder, Markus",,win,34,D85,Zuerich,1988
+2750,white,"Hirzel, Rene",,win,27,B06,Zuerich,1988
+2750,white,"Joris, Pierre",,win,23,D36,Zuerich,1988
+2750,white,"Karrer, Hans",,win,28,B04,Zuerich,1988
+2750,white,"Kupper, Josef",2380,draw,27,B39,Zuerich,1988
+2750,white,"Lauper, X.",,win,31,D07,Zuerich,1988
+2750,white,"Moggi, Christoph",,win,42,E69,Zuerich,1988
+2750,white,"Scherrer, B.",,win,29,D07,Zuerich,1988
+2750,white,"Schiendorfer, Reinhard",,win,48,E13,Zuerich,1988
+2750,white,"Schuerer, P.",,win,16,D13,Zuerich,1988
+2750,white,"Schweizer, Wolfgang",,win,28,D89,Zuerich,1988
+2750,white,"Simon, A.",,win,30,D20,Zuerich,1988
+2750,white,"Wirth, Wolfgang",,win,45,B01,Zuerich,1988
+2750,white,"Waitzkin, Joshua",,draw,28,A67,New York,1988
+2750,white,"Gurevich, Ilya",2400,win,49,E66,New York,1988
+2750,white,"Rachels, Stuart",2350,win,42,A65,New York,1988
+2750,white,"Wolff, Patrick G",2530,lose,25,A20,New York,1988
+2750,black,"Bofill Mas, Alejandro",2410,win,41,B84,Barcelona,1988
+2750,black,"Juanpera, J.",,win,39,D71,Barcelona,1988
+2750,black,"Rosich Valles, Alfredo",2220,win,24,B21,Barcelona,1988
+2750,black,"Bellet, Georges",,win,27,B87,Evry,1988
+2750,black,"Koch, Jean Rene",2380,win,50,B33,Evry,1988
+2750,black,"Sharif, Mershad",2440,lose,31,B82,Evry,1988
+2750,black,"Edelman, Daniel",2360,draw,14,B33,New York,1988
+2750,black,"Fishbein, Alexander",2435,draw,63,B33,New York,1988
+2750,black,"Rao, Vivek",2355,win,51,D97,New York,1988
+2740,white,"Karpov, Anatoly",2700,win,64,A14,Seville,1987
+2740,black,"Karpov, Anatoly",2700,lose,57,A34,Seville,1987
+2740,white,"Karpov, Anatoly",2700,draw,19,D37,Seville,1987
+2740,black,"Karpov, Anatoly",2700,draw,28,D97,Seville,1987
+2740,white,"Karpov, Anatoly",2700,draw,37,D53,Seville,1987
+2740,black,"Karpov, Anatoly",2700,draw,60,D58,Seville,1987
+2740,white,"Karpov, Anatoly",2700,draw,40,D58,Seville,1987
+2740,black,"Karpov, Anatoly",2700,draw,46,E97,Seville,1987
+2740,white,"Karpov, Anatoly",2700,lose,41,A29,Seville,1987
+2740,black,"Karpov, Anatoly",2700,draw,43,D97,Seville,1987
+2740,white,"Karpov, Anatoly",2700,draw,21,B17,Seville,1987
+2740,black,"Karpov, Anatoly",2700,draw,36,D85,Seville,1987
+2740,white,"Karpov, Anatoly",2700,draw,21,D35,Seville,1987
+2740,black,"Karpov, Anatoly",2700,win,50,D87,Seville,1987
+2740,white,"Karpov, Anatoly",2700,draw,20,B17,Seville,1987
+2740,black,"Karpov, Anatoly",2700,draw,70,D87,Seville,1987
+2740,white,"Karpov, Anatoly",2700,win,50,A36,Seville,1987
+2740,black,"Karpov, Anatoly",2700,draw,79,D87,Seville,1987
+2740,white,"Karpov, Anatoly",2700,draw,28,A25,Seville,1987
+2740,black,"Karpov, Anatoly",2700,lose,38,D87,Seville,1987
+2740,white,"Karpov, Anatoly",2700,win,41,A29,Seville,1987
+2740,black,"Karpov, Anatoly",2700,draw,29,D79,Seville,1987
+2740,white,"Karpov, Anatoly",2700,lose,32,A29,Seville,1987
+2740,black,"Karpov, Anatoly",2700,draw,30,D79,Seville,1987
+2735,white,"Tal, Mikhail",2605,win,31,E48,Brussels,1987
+2735,black,"Karpov, Anatoly",2710,draw,53,E60,Brussels,1987
+2735,white,"Ljubojevic, Ljubomir",2620,draw,15,D95,Brussels,1987
+2735,black,"Larsen, Bent",2565,win,43,D34,Brussels,1987
+2735,black,"Korchnoi, Viktor",2625,draw,17,A16,Brussels,1987
+2735,white,"Timman, Jan H",2590,draw,25,E11,Brussels,1987
+2735,black,"Torre, Eugenio",2540,draw,29,D03,Brussels,1987
+2735,white,"Short, Nigel D",2615,win,61,A92,Brussels,1987
+2735,black,"Winants, Luc",2415,win,55,D59,Brussels,1987
+2735,white,"Van der Wiel, John",2590,win,27,D46,Brussels,1987
+2735,black,"Meulders, Richard",2360,win,62,E48,Brussels,1987
+2735,black,"Short, Nigel D",2615,lose,45,B80,London,1987
+2735,white,"Short, Nigel D",2615,win,52,A41,London,1987
+2735,black,"Short, Nigel D",2615,win,56,B52,London,1987
+2735,white,"Short, Nigel D",2615,lose,50,D02,London,1987
+2735,black,"Short, Nigel D",2615,win,52,B80,London,1987
+2735,white,"Short, Nigel D",2615,win,60,A90,London,1987
+2735,white,"Cordes, Hans Joerg",2385,win,34,D38,Hamburg,1987
+2735,black,"Gruenberg, Rainer",2285,win,22,A21,Hamburg,1987
+2735,white,"Behrhorst, Frank",2335,draw,52,D30,Hamburg,1987
+2735,black,"Reefschlaeger, Helmut",2365,win,40,A58,Hamburg,1987
+2735,black,"Wegner, Hannu",2345,win,23,D97,Hamburg,1987
+2735,white,"Schulte, Oliver",2370,draw,30,D40,Hamburg,1987
+2735,white,"Timman, Jan H",2590,win,64,E11,Brussels,1987
+2735,black,"Wahls, Matthias",2440,win,50,B33,Hamburg,1987
+2735,white,"Stein, Bernd",2385,win,25,A55,Hamburg,1987
+2735,black,"Timman, Jan H",2590,draw,39,B52,Brussels,1987
+2735,white,"Krabbe, Tim",,win,38,D43,Amsterdam,1987
+2735,white,"Arts, J.",,win,23,A51,Rotterdam,1987
+2735,white,Comp,,win,28,D15,Rotterdam,1987
+2735,white,"Huss, Andreas",2375,win,38,E09,Switzerland,1987
+2735,white,"Trepp, Markus",2405,win,27,A55,Switzerland,1987
+2735,white,"Wirthensohn, Heinz",2435,win,25,E43,Switzerland,1987
+2735,white,"Huebner, Robert",2615,draw,48,D20,Brussels,1987
+2735,white,"Karpov, Anatoly",2710,win,59,E12,Brussels,1987
+2735,white,"Korchnoi, Viktor",2625,draw,51,A13,Brussels,1987
+2735,white,"Larsen, Bent",2565,win,24,D40,Brussels,1987
+2735,white,"Ljubojevic, Ljubomir",2620,win,38,B06,Brussels,1987
+2735,white,"Short, Nigel D",2615,win,24,E14,Brussels,1987
+2735,white,"Sosonko, Gennadi",2545,win,34,A14,Brussels,1987
+2735,white,"Tal, Mikhail",2605,win,36,E42,Brussels,1987
+2735,white,"Timman, Jan H",2590,win,16,A43,Brussels,1987
+2735,white,"Torre, Eugenio",2540,win,25,D15,Brussels,1987
+2735,white,"Van der Wiel, John",2590,win,42,E63,Brussels,1987
+2735,white,"Beliavsky, Alexander G",2585,win,44,D36,Moscow,1987
+2735,white,"Tal, Mikhail",2605,draw,70,E41,Moscow,1987
+2745,black,"Janjgava, Lasha",,win,32,D97,Baku,1987
+2735,black,"Gobet, Fernand",2355,win,34,B33,Switzerland,1987
+2735,black,"Hug, Werner",2430,draw,35,B25,Switzerland,1987
+2735,black,"Zueger, Beat",2400,win,41,D34,Switzerland,1987
+2735,black,"Huebner, Robert",2615,win,36,A21,Brussels,1987
+2735,black,"Karpov, Anatoly",2710,draw,42,E60,Brussels,1987
+2735,black,"Korchnoi, Viktor",2625,draw,35,A16,Brussels,1987
+2735,black,"Larsen, Bent",2565,win,46,B45,Brussels,1987
+2735,black,"Ljubojevic, Ljubomir",2620,lose,40,A21,Brussels,1987
+2735,black,"Short, Nigel D",2615,lose,41,B50,Brussels,1987
+2735,black,"Sosonko, Gennadi",2545,win,63,D97,Brussels,1987
+2735,black,"Tal, Mikhail",2605,draw,66,B85,Brussels,1987
+2735,black,"Timman, Jan H",2590,draw,34,D91,Brussels,1987
+2735,black,"Torre, Eugenio",2540,win,82,D03,Brussels,1987
+2735,black,"Van der Wiel, John",2590,win,35,B50,Brussels,1987
+2735,black,"Beliavsky, Alexander G",2630,draw,26,D97,Moscow,1987
+2735,black,"Tal, Mikhail",2605,draw,37,E65,Moscow,1987
+2595,black,"Schmidt, Wlodzimierz",2505,win,56,A57,Dubai,1986
+2740,black,"Portisch, Lajos",2605,draw,21,D58,Brussels,1986
+2740,white,"Short, Nigel D",2615,win,33,D55,Brussels,1986
+2740,white,"Huebner, Robert",2620,win,32,D46,Brussels,1986
+2740,black,"Korchnoi, Viktor",2650,draw,24,D37,Brussels,1986
+2740,white,"Nunn, John DM",2590,win,18,D79,Brussels,1986
+2740,white,"Portisch, Lajos",2605,win,64,D61,Brussels,1986
+2740,black,"Short, Nigel D",2615,lose,45,B80,Brussels,1986
+2740,black,"Huebner, Robert",2620,win,38,D90,Brussels,1986
+2740,white,"Korchnoi, Viktor",2650,draw,42,E11,Brussels,1986
+2740,black,"Nunn, John DM",2585,win,27,B97,Brussels,1986
+2595,white,"Tatai, Stefano",2465,win,41,D38,Dubai,1986
+2595,black,"Fernandez Garcia, Jose Luis",2400,win,40,B44,Dubai,1986
+2595,white,"Suba, Mihai",2430,draw,63,E20,Dubai,1986
+2595,white,"Spassky, Boris V",2590,draw,11,E20,Dubai,1986
+2595,black,"Seirawan, Yasser",2510,lose,62,D91,Dubai,1986
+2595,white,"Olafsson, Helgi",2545,win,41,D55,Dubai,1986
+2595,white,"Miles, Anthony J",2510,win,41,E13,Dubai,1986
+2595,black,"Portisch, Lajos",2630,draw,71,D45,Dubai,1986
+2595,white,"Smejkal, Jan",2565,win,41,C92,Dubai,1986
+2595,black,"Granda Zuniga, Julio E",2475,win,24,D77,Dubai,1986
+2740,white,"Karpov, Anatoly",2705,draw,41,E16,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,draw,32,A30,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,win,46,D55,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,draw,45,E15,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,draw,21,E05,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,lose,40,D97,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,lose,58,E13,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,lose,31,D98,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,win,41,C92,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,draw,29,D98,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,win,41,C92,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,draw,40,D79,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,draw,34,D55,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,draw,41,D93,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,draw,43,D55,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,draw,20,D93,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,win,31,D35,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,draw,41,D31,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,draw,42,C42,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,lose,32,D82,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,win,40,E20,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,draw,35,D79,London/Leningrad,1986
+2740,white,"Karpov, Anatoly",2705,draw,52,E20,London/Leningrad,1986
+2740,black,"Karpov, Anatoly",2705,draw,21,D93,London/Leningrad,1986
+2720,white,"Argueso Palomino, Manuel",,win,48,B12,Zaragoza,1986
+2720,white,"Cisneros, German",,win,50,E91,Zaragoza,1986
+2720,white,"Colas Longares, Rafael P",,draw,28,C88,Zaragoza,1986
+2720,white,"De la Riva Fernandez, Eduardo",,draw,31,D61,Zaragoza,1986
+2720,white,"Diaz, A.",,win,39,E11,Zaragoza,1986
+2720,white,"Felez Casedas, Carlos",,draw,25,C36,Zaragoza,1986
+2720,white,"Fernandez, Felix Eduardo",,lose,43,A44,Zaragoza,1986
+2720,white,"Fontana Sotomayour, Luis Javier",,draw,44,A55,Zaragoza,1986
+2720,white,"Gadea Beneito, Jose Luis",,win,52,C69,Zaragoza,1986
+2720,white,"Lafarga Santorroman, David",,win,46,C91,Zaragoza,1986
+2720,white,"Magallon Miguel, A.",,draw,34,D36,Zaragoza,1986
+2720,white,"Martin Catalan, Juan Vicente",,draw,29,B76,Zaragoza,1986
+2720,white,"Miguel, E.",,win,58,B31,Zaragoza,1986
+2720,white,"Miravete, A.",,lose,41,A97,Zaragoza,1986
+2720,white,"Palacios, Eduardo F",,draw,49,C10,Zaragoza,1986
+2720,white,"Ramo Frontinan, Cristobal",,lose,44,B12,Zaragoza,1986
+2720,white,"Ramon Perez, Jose Luis",,win,36,B06,Zaragoza,1986
+2720,white,"Romero Coca, Albert",,win,47,B69,Zaragoza,1986
+2720,white,"Tejero Lamana, Santiago",,draw,34,B14,Zaragoza,1986
+2720,white,"Wahls, Matthias",2330,win,26,A70,Frankfurt,1986
+2720,black,"Biehler, Thomas",,win,40,A21,Frankfurt,1986
+2720,white,"Stangl, Markus",,draw,52,A31,Frankfurt,1986
+2720,black,"Schlosser, Philipp",,draw,39,E66,Frankfurt,1986
+2720,white,"Richter, Wolfgang",,draw,36,A80,Frankfurt,1986
+2720,black,"Maus, Soenke",,win,30,A14,Frankfurt,1986
+2720,white,"Lutz, Christopher",,win,39,D88,Frankfurt,1986
+2720,black,"Brunner, Lucas",2350,win,30,A07,Frankfurt,1986
+2720,black,"Miles, Anthony J",2610,win,29,D49,Basel,1986
+2720,white,"Miles, Anthony J",2610,win,28,D44,Basel,1986
+2720,black,"Miles, Anthony J",2610,draw,23,D49,Basel,1986
+2720,white,"Miles, Anthony J",2610,win,31,A43,Basel,1986
+2720,black,"Miles, Anthony J",2610,win,69,D97,Basel,1986
+2720,white,"Miles, Anthony J",2610,win,42,A56,Basel,1986
+2720,white,"Akopian, Vladimir",2315,win,41,E97,Moscow,1986
+2730,white,"Shirov, Alexei",,draw,44,A34,Soviet Union,1986
+2700,white,"Timman, Jan H",2640,win,41,E13,Hilversum,1985
+2700,black,"Timman, Jan H",2640,draw,34,C69,Hilversum,1985
+2700,white,"Timman, Jan H",2640,draw,62,E13,Hilversum,1985
+2700,black,"Timman, Jan H",2640,lose,41,C93,Hilversum,1985
+2700,white,"Timman, Jan H",2640,win,35,E13,Hilversum,1985
+2700,black,"Timman, Jan H",2640,win,51,C93,Hilversum,1985
+2700,black,"Karpov, Anatoly",2720,win,42,B85,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,draw,41,D55,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,lose,42,D35,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,draw,44,D31,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,draw,85,D37,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,win,42,E21,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,draw,23,B85,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,draw,29,E20,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,win,40,B44,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,draw,22,C42,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,draw,32,B54,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,draw,24,E20,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,draw,18,B44,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,win,25,E21,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,draw,37,B85,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,draw,53,C92,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,draw,49,D58,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,draw,31,E32,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,draw,27,D55,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,lose,41,C92,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,lose,63,D55,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,draw,20,D55,Moscow,1985
+2700,black,"Karpov, Anatoly",2720,draw,65,B85,Moscow,1985
+2700,white,"Karpov, Anatoly",2720,win,42,E20,Moscow,1985
+2715,white,"Huebner, Robert",2605,win,60,E15,Hamburg,1985
+2715,white,"Karpov, Anatoly",2705,win,67,C42,Moscow,1985
+2715,black,"Karpov, Anatoly",2705,win,32,D52,Moscow,1985
+2715,white,"Karpov, Anatoly",2705,draw,41,C92,Moscow,1985
+2715,black,"Karpov, Anatoly",2705,draw,36,B85,Moscow,1985
+2715,white,"Karpov, Anatoly",2705,draw,38,C92,Moscow,1985
+2715,black,"Karpov, Anatoly",2705,draw,21,B84,Moscow,1985
+2715,white,"Karpov, Anatoly",2705,draw,26,D58,Moscow,1985
+2715,black,"Karpov, Anatoly",2705,draw,71,C42,Moscow,1985
+2715,white,"Karpov, Anatoly",2705,draw,70,D58,Moscow,1985
+2715,black,"Karpov, Anatoly",2705,draw,48,D58,Moscow,1985
+2715,white,"Karpov, Anatoly",2705,draw,25,D58,Moscow,1985
+2715,black,"Karpov, Anatoly",2705,draw,15,B63,Moscow,1985
+2715,white,Comp Superstar 36K,,win,54,B15,Hamburg,1985
+2715,white,Comp Superstar 36K,,win,53,A57,Hamburg,1985
+2715,white,Comp Superstar 36K,,win,29,D85,Hamburg,1985
+2715,white,Comp Superstar 36K,,win,29,D38,Hamburg,1985
+2715,white,Comp Turbostar 432,,win,50,D85,Hamburg,1985
+2715,white,Comp Turbostar 432,,win,34,A20,Hamburg,1985
+2715,white,Comp Turbostar 432,,win,44,A13,Hamburg,1985
+2715,white,Comp Turbostar 432,,win,45,C00,Hamburg,1985
+2715,white,Comp Super Constellation,,win,36,A25,Hamburg,1985
+2715,white,Comp Super Constellation,,win,40,A67,Hamburg,1985
+2715,white,Comp Super Constellation,,win,73,A34,Hamburg,1985
+2715,white,Comp Super Constellation,,win,60,A32,Hamburg,1985
+2715,white,Comp Super Constellation,,win,34,D85,Hamburg,1985
+2715,white,Comp Super Constellation,,win,40,C97,Hamburg,1985
+2715,white,Comp Fidelity Excellence,,win,33,A55,Hamburg,1985
+2715,white,Comp Constellation 36K,,win,44,C85,Hamburg,1985
+2715,white,Comp Constellation 36K,,win,59,D20,Hamburg,1985
+2715,white,Comp Elite A/S,,win,35,D85,Hamburg,1985
+2715,white,Comp Elite A/S,,win,34,B22,Hamburg,1985
+2715,white,Comp Elite A/S,,win,37,D20,Hamburg,1985
+2715,white,Comp Fidelity SC,,win,40,D03,Hamburg,1985
+2715,white,Comp Elite privat,,win,36,D24,Hamburg,1985
+2715,white,Comp Elite privat,,win,74,D20,Hamburg,1985
+2715,white,Comp Fidelity Playmatic,,win,40,B07,Hamburg,1985
+2715,white,Comp Meph Exclusive S,,win,33,B05,Hamburg,1985
+2715,white,Comp Meph Exclusive S,,win,21,A08,Hamburg,1985
+2715,white,Comp Meph Modular B+P,,win,43,E01,Hamburg,1985
+2715,white,"Huebner, Robert",2605,draw,28,E11,Hamburg,1985
+2715,black,"Andersson, Ulf",2575,draw,24,E02,Belgrade,1985
+2715,white,"Andersson, Ulf",2575,win,50,E06,Belgrade,1985
+2715,white,Comp Meph Munchen B+P,,win,42,B90,Hamburg,1985
+2715,black,"Huebner, Robert",2605,draw,40,B66,Hamburg,1985
+2715,white,Comp Meph Experimental,,win,55,C97,Hamburg,1985
+2715,black,"Andersson, Ulf",2575,draw,24,A30,Belgrade,1985
+2715,white,"Andersson, Ulf",2575,win,40,E04,Belgrade,1985
+2715,white,Comp Mephisto 68000,,win,41,C90,Hamburg,1985
+2715,black,"Huebner, Robert",2605,draw,40,B63,Hamburg,1985
+2715,white,Comp Meph Exclusive B+P,,win,41,D11,Hamburg,1985
+2715,white,"Huebner, Robert",2605,win,39,D55,Hamburg,1985
+2715,black,"Andersson, Ulf",2575,draw,44,D36,Belgrade,1985
+2715,white,"Andersson, Ulf",2575,draw,36,E04,Belgrade,1985
+2715,white,Comp Meph Exclusive B+P,,win,43,B14,Hamburg,1985
+2715,black,"Huebner, Robert",2605,win,28,A21,Hamburg,1985
+2700,white,"Gruenberg, Rainer",2270,win,50,A34,Hamburg,1985
+2700,white,"Hess, Christian Mathias",2260,draw,28,A57,Hamburg,1985
+2700,white,"Reefschlaeger, Helmut",2395,draw,26,D16,Hamburg,1985
+2700,white,"Wegner, Hannu",2210,draw,33,A33,Hamburg,1985
+2700,black,"Behrhorst, Frank",2320,win,50,D93,Hamburg,1985
+2700,black,"Chandler, Murray G",2525,lose,33,B45,Hamburg,1985
+2700,black,"Cordes, Hans Joerg",2310,lose,53,D44,Hamburg,1985
+2700,black,"Wahls, Matthias",2285,lose,29,B52,Hamburg,1985
+2715,white,"Karpov, Anatoly",2705,draw,41,D58,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,17,B64,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,20,D58,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,20,D45,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,win,41,E12,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,35,D58,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,20,C42,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,13,D47,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,25,C42,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,lose,59,D55,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,23,A33,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,21,D58,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,17,A33,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,22,D53,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,20,E05,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,31,D53,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,15,A30,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,44,D55,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,22,E15,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,22,D58,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,35,E15,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,93,E15,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,16,E15,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,33,A30,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,21,D58,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,41,A30,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,15,E12,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,lose,70,D34,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,20,E05,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,lose,42,D34,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,lose,70,E15,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,21,B85,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,44,E15,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,lose,31,B44,Moscow,1984
+2715,white,"Karpov, Anatoly",2705,draw,47,E17,Moscow,1984
+2715,black,"Karpov, Anatoly",2705,draw,36,B81,Moscow,1984
+2710,white,"Timman, Jan H",2610,win,34,D55,London,1984
+2710,black,"Timman, Jan H",2610,draw,58,C95,London,1984
+2710,white,"Timman, Jan H",2610,draw,24,D59,London,1984
+2710,white,"Smyslov, Vassily",2600,draw,15,D52,Vilnius,1984
+2710,black,"Smyslov, Vassily",2600,win,40,D34,Vilnius,1984
+2710,black,"Timman, Jan H",2610,draw,23,D36,London,1984
+2710,white,"Smyslov, Vassily",2600,draw,26,D07,Vilnius,1984
+2710,black,"Smyslov, Vassily",2600,draw,38,D34,Vilnius,1984
+2710,white,"Smyslov, Vassily",2600,win,44,D52,Vilnius,1984
+2710,black,"Smyslov, Vassily",2600,draw,28,D34,Vilnius,1984
+2710,white,"Smyslov, Vassily",2600,draw,14,D52,Vilnius,1984
+2710,black,"Smyslov, Vassily",2600,draw,43,D56,Vilnius,1984
+2710,white,"Smyslov, Vassily",2600,draw,36,D44,Vilnius,1984
+2710,black,"Smyslov, Vassily",2600,win,41,D37,Vilnius,1984
+2710,white,"Smyslov, Vassily",2600,win,41,D52,Vilnius,1984
+2710,black,"Smyslov, Vassily",2600,draw,41,D34,Vilnius,1984
+2710,white,"Smyslov, Vassily",2600,draw,33,D91,Vilnius,1984
+2710,white,"Cuadras Avellana, Jordi",,win,29,E12,Barcelona,1984
+2710,white,"Gil, Jorge Luis",,draw,55,A48,Barcelona,1984
+2710,white,"Illescas Cordoba, Miguel",,win,44,A57,Barcelona,1984
+2710,white,"Mateus, Martha",,win,45,A56,Barcelona,1984
+2710,white,"Adams, Michael",,draw,20,B17,London/New York,1984
+2710,white,"Carr, Neil L",,draw,30,E84,London/New York,1984
+2710,white,"Conquest, Stuart",2260,win,28,D16,London/New York,1984
+2710,white,"Forbes, Cathy",1890,draw,29,E16,London/New York,1984
+2710,white,"Lane, Gary William",2310,draw,36,E94,London/New York,1984
+2710,white,"Eckert, Doug D",,win,24,E84,New York/London,1984
+2710,white,"Gurevich, Ilya",,win,34,D75,New York/London,1984
+2710,white,"Truong, Paul",,win,41,E13,New York/London,1984
+2710,white,"Wolff, Patrick G",2225,win,34,C42,New York/London,1984
+2710,white,"Younglove, Dennis",,win,33,D44,New York/London,1984
+2710,black,"Ferrer, Pedro",,draw,31,B74,Barcelona,1984
+2710,black,"Pablo Marin, Alejandro",2345,draw,48,A04,Barcelona,1984
+2710,black,"Romero Holmes, Alfonso",2250,draw,28,A45,Barcelona,1984
+2690,white,"Korchnoi, Viktor",2610,win,32,A60,London,1983
+2690,black,"Korchnoi, Viktor",2610,draw,42,D58,London,1983
+2690,white,"Korchnoi, Viktor",2610,win,30,E04,London,1983
+2690,black,"Korchnoi, Viktor",2610,draw,39,E04,London,1983
+2690,white,"Korchnoi, Viktor",2610,win,46,E04,London,1983
+2690,black,"Korchnoi, Viktor",2610,win,78,D30,London,1983
+2690,white,"Korchnoi, Viktor",2610,draw,21,E04,London,1983
+2690,black,"Korchnoi, Viktor",2610,draw,41,E05,London,1983
+2690,white,"Korchnoi, Viktor",2610,draw,18,E12,London,1983
+2690,black,"Korchnoi, Viktor",2610,draw,31,D34,London,1983
+2690,white,"Korchnoi, Viktor",2610,lose,52,E12,London,1983
+2690,white,"Beliavsky, Alexander G",2570,win,32,A43,Moscow,1983
+2690,black,"Beliavsky, Alexander G",2570,win,47,E81,Moscow,1983
+2690,white,"Beliavsky, Alexander G",2570,draw,21,D58,Moscow,1983
+2690,black,"Beliavsky, Alexander G",2570,draw,31,D34,Moscow,1983
+2690,white,"Beliavsky, Alexander G",2570,win,38,D58,Moscow,1983
+2690,black,"Beliavsky, Alexander G",2570,lose,38,E54,Moscow,1983
+2690,white,"Beliavsky, Alexander G",2570,draw,24,D58,Moscow,1983
+2690,black,"Beliavsky, Alexander G",2570,win,38,D34,Moscow,1983
+2690,white,"Beliavsky, Alexander G",2590,draw,64,D58,Moscow,1983
+2690,white,"Gligoric, Svetozar",2505,win,37,E17,Niksic,1983
+2690,black,"Timman, Jan H",2605,win,66,B67,Niksic,1983
+2690,white,"Andersson, Ulf",2640,draw,33,E04,Niksic,1983
+2690,black,"Miles, Anthony J",2585,draw,40,D34,Niksic,1983
+2690,white,"Tal, Mikhail",2620,draw,33,E11,Niksic,1983
+2690,black,"Nikolic, Predrag",2540,win,71,D34,Niksic,1983
+2690,white,"Spassky, Boris V",2605,lose,33,E84,Niksic,1983
+2690,black,"Larsen, Bent",2565,win,56,D34,Niksic,1983
+2690,white,"Ivanovic, Bozidar",2515,win,26,E49,Niksic,1983
+2690,white,"Beliavsky, Alexander G",2570,draw,48,E26,Moscow,1983
+2690,black,"Ljubojevic, Ljubomir",2645,win,25,A08,Niksic,1983
+2690,white,"Portisch, Lajos",2600,win,35,E12,Niksic,1983
+2690,black,"Sax, Gyula",2570,draw,39,B82,Niksic,1983
+2690,white,"Tal, Mikhail",2620,draw,43,D44,Moscow,1983
+2690,white,Petrosian Tigran V.,2580,win,51,A93,Niksic,1983
+2690,black,"Seirawan, Yasser",2605,win,54,D34,Niksic,1983
+2690,white,"Bradbury, Neil H",2305,lose,32,E27,London,1983
+2690,white,"Conquest, Stuart",2255,lose,29,A57,London,1983
+2595,white,"Andersson, Ulf",2585,draw,17,E11,Luzern,1982
+2595,white,"Suba, Mihai",2430,win,48,A75,Luzern,1982
+2595,black,"Korchnoi, Viktor",2665,win,36,A64,Luzern,1982
+2595,white,"Nunn, John DM",2435,win,21,A67,Luzern,1982
+2595,black,"Ribli, Zoltan",2585,draw,18,D75,Luzern,1982
+2595,black,"Huebner, Robert",2595,draw,13,E92,Luzern,1982
+2595,white,"Sosonko, Gennadi",2505,draw,12,E12,Luzern,1982
+2595,black,"Smejkal, Jan",2565,draw,16,A30,Luzern,1982
+2595,white,"Gligoric, Svetozar",2565,win,51,E32,Luzern,1982
+2595,black,"Alburt, Lev O",2515,win,57,E73,Luzern,1982
+2595,black,"Sarapu, Ortvin",2290,win,46,B87,Luzern,1982
+2640,white,"Balashov, Yuri S",2595,draw,88,C92,Kislovodsk,1982
+2640,white,"Gulko, Boris F",2565,lose,23,D27,Kislovodsk,1982
+2640,white,"Tukmakov, Vladimir B",2500,draw,45,E12,Kislovodsk,1982
+2640,black,"Romanishin, Oleg M",2580,lose,45,D02,Kislovodsk,1982
+2640,black,"Andersson, Ulf",2605,draw,13,E65,Bugojno,1982
+2675,black,"Velimirovic, Dragoljub",2495,win,40,B12,Moscow,1982
+2640,white,"Huebner, Robert",2620,draw,17,E15,Bugojno,1982
+2675,white,"Gheorghiu, Florin",2535,win,27,E12,Moscow,1982
+2630,black,"Timman, Jan H",2625,draw,28,E84,Bugojno,1982
+2675,black,"Van der Wiel, John",2520,win,22,A45,Moscow,1982
+2640,white,"Ljubojevic, Ljubomir",2600,draw,13,E12,Bugojno,1982
+2675,white,"Rodriguez, Ruben",2415,win,58,D52,Moscow,1982
+2630,black,"Kavalek, Lubomir",2595,win,27,E90,Bugojno,1982
+2675,black,"Andersson, Ulf",2610,draw,28,E95,Moscow,1982
+2640,white,"Larsen, Bent",2605,win,39,A55,Bugojno,1982
+2675,white,"Garcia Gonzales, Guillermo",2500,draw,23,E11,Moscow,1982
+2640,black,"Spassky, Boris V",2625,draw,32,B23,Bugojno,1982
+2675,black,"Christiansen, Larry Mark",2575,win,40,E76,Moscow,1982
+2630,white,Petrosian Tigran V.,2585,win,24,E11,Bugojno,1982
+2675,white,"Beliavsky, Alexander G",2620,draw,41,C92,Moscow,1982
+2675,white,"Tal, Mikhail",2610,draw,24,D43,Moscow,1982
+2640,black,"Polugaevsky, Lev",2600,draw,35,E74,Bugojno,1982
+2640,white,"Ivkov, Borislav",2480,win,39,E12,Bugojno,1982
+2675,black,"Geller, Efim P",2565,draw,29,B83,Moscow,1982
+2630,white,"Najdorf, Miguel",2510,win,25,E12,Bugojno,1982
+2630,white,"Murey, Jacob",2500,win,26,E12,Moscow,1982
+2640,black,"Ivanovic, Bozidar",2485,draw,19,B88,Bugojno,1982
+2675,black,"Quinteros, Miguel Angel",2520,draw,22,A32,Moscow,1982
+2640,white,"Gligoric, Svetozar",2535,win,42,E12,Bugojno,1982
+2675,white,"Sax, Gyula",2590,win,38,D86,Moscow,1982
+2640,white,"Averbakh, Yuri L",2490,win,68,D52,Kislovodsk,1982
+2640,black,"Kasparov, A.",,win,20,A34,Azerbaijan,1982
+2640,black,"Kupreichik, Viktor D",2570,win,30,B83,Kislovodsk,1982
+2640,black,"Palatnik, Semon",2505,win,42,A31,Kislovodsk,1982
+2630,black,"Tukmakov, Vladimir B",2480,win,29,E74,Frunze,1981
+2630,white,"Sveshnikov, Evgeny",2535,draw,22,D43,Frunze,1981
+2630,black,"Romanishin, Oleg M",2590,draw,62,D93,Frunze,1981
+2630,white,"Dorfman, Josif D",2505,win,43,D44,Frunze,1981
+2630,white,"Timoscenko, Gennadij",2505,win,43,D44,Frunze,1981
+2630,black,"Yudasin, Leonid",2365,win,24,B96,Frunze,1981
+2630,white,"Agzamov, Georgy",2435,draw,33,D32,Frunze,1981
+2630,black,"Gulko, Boris F",2590,lose,37,A65,Frunze,1981
+2630,white,"Kupreichik, Viktor D",2580,draw,60,D18,Frunze,1981
+2630,black,"Kuzmin, Gennadi P",2550,draw,58,B83,Frunze,1981
+2630,white,"Dolmatov, Sergey",2545,win,46,D18,Frunze,1981
+2630,black,"Tseshkovsky, Vitaly",2575,win,25,B80,Frunze,1981
+2630,white,"Beliavsky, Alexander G",2615,win,66,D18,Frunze,1981
+2630,black,"Mikhalchishin, Adrian",2535,win,38,A31,Frunze,1981
+2630,white,"Jussupow, Artur",2575,win,39,E15,Frunze,1981
+2630,black,"Psakhis, Lev",2535,lose,44,E55,Frunze,1981
+2630,white,"Gavrikov, Viktor",2365,win,33,D34,Frunze,1981
+2630,black,"Miles, Anthony J",2565,draw,38,D77,Tilburg,1981
+2630,white,"Larsen, Bent",2610,draw,48,A54,Tilburg,1981
+2630,black,"Ljubojevic, Ljubomir",2590,draw,28,B44,Tilburg,1981
+2630,white,"Andersson, Ulf",2600,win,30,E12,Tilburg,1981
+2630,white,Petrosian Tigran V.,2585,lose,42,D22,Tilburg,1981
+2630,black,"Huebner, Robert",2640,win,49,A30,Tilburg,1981
+2630,white,"Spassky, Boris V",2630,lose,66,E74,Tilburg,1981
+2630,black,"Timman, Jan H",2630,lose,40,E66,Tilburg,1981
+2630,white,"Beliavsky, Alexander G",2615,draw,39,D18,Tilburg,1981
+2630,black,"Portisch, Lajos",2620,draw,41,A75,Tilburg,1981
+2630,white,"Sosonko, Gennadi",2585,win,29,D38,Tilburg,1981
+,white,"Ivanov, Alexander V",,win,41,E12,Moscow,1981
+,white,"Kakageldyev, Amanmurad",,draw,24,D15,Moscow,1981
+,white,"Palatnik, Semon",,win,41,D34,Moscow,1981
+,white,"Yurtaev, Leonid",,win,30,E48,Moscow,1981
+,black,"Grigorian, Karen Ashotovich",,draw,21,E65,Moscow,1981
+,black,"Rashkovsky, Nukhim N",2535,draw,29,A32,Moscow,1981
+,black,"Slutzky, Leonid",,draw,17,E65,Moscow,1981
+,black,"Vaganian, Rafael A",,draw,21,E60,Moscow,1981
+,black,"Vaisser, Anatoli",,win,41,E77,Moscow,1981
+2625,white,"Karpov, Anatoly",2690,draw,18,D55,Moscow,1981
+2625,black,"Polugaevsky, Lev",2620,draw,16,D79,Moscow,1981
+2625,white,"Balashov, Yuri S",2600,draw,16,B71,Moscow,1981
+2625,black,"Geller, Efim P",2615,win,27,B83,Moscow,1981
+2625,black,"Smejkal, Jan",2535,draw,16,A30,Moscow,1981
+2625,white,Petrosian Tigran V.,2585,lose,42,E12,Moscow,1981
+2625,black,"Smyslov, Vassily",2545,draw,13,D77,Moscow,1981
+2625,white,"Andersson, Ulf",2610,draw,83,E42,Moscow,1981
+2625,black,"Timman, Jan H",2620,draw,24,E83,Moscow,1981
+2625,white,"Torre, Eugenio",2550,win,36,D58,Moscow,1981
+2625,black,"Portisch, Lajos",2650,draw,49,A75,Moscow,1981
+2625,white,"Gheorghiu, Florin",2605,draw,40,E16,Moscow,1981
+2625,black,"Beliavsky, Alexander G",2620,win,40,E83,Moscow,1981
+2625,black,"Karpov, Anatoly",2690,draw,41,A30,Moscow,1981
+2625,white,"Smyslov, Vassily",2545,win,39,C70,Moscow,1981
+2625,black,"Romanishin, Oleg M",2585,lose,34,A39,Moscow,1981
+2625,white,"Karpov, Anatoly",2690,draw,41,C42,Moscow,1981
+2625,black,"Smyslov, Vassily",2545,win,27,A30,Moscow,1981
+2625,white,"Romanishin, Oleg M",2585,win,43,D85,Moscow,1981
+2625,white,"Nikitin, Aleksander S",,draw,28,E15,Moscow,1981
+2625,white,Nikitin/Sakarov,,win,38,E12,Moscow,1981
+2630,white,"Duer, Arne",,win,25,D55,Graz,1981
+2630,white,"Fedorowicz, John P",2435,win,34,E12,Graz,1981
+2630,white,"Groszpeter, Attila",2435,draw,30,E12,Graz,1981
+2630,white,"Kouatly, Bachar",2385,draw,26,D85,Graz,1981
+2630,white,"Morrison, Robert",,win,27,E92,Graz,1981
+2630,white,"Van der Wiel, John",2465,win,53,E12,Graz,1981
+2625,black,Nikitin/Sakarov,,win,40,B44,Moscow,1981
+2625,black,"Sluckij, Leonid",,draw,17,E65,Moscow,1981
+2630,black,"Klaric, Zlatko",2465,win,40,B06,Graz,1981
+2630,black,"Schussler, Harry",2365,win,32,D77,Graz,1981
+2630,black,"Speelman, Jonathan S",2535,win,70,A30,Graz,1981
+2630,black,"Sunye Neto, Jaime",2435,win,47,D32,Graz,1981
+2595,black,"Ost Hansen, Jacob",2350,draw,33,C00,Valetta,1980
+2595,white,"Ghitescu, Theodor",2450,draw,18,A65,Valetta,1980
+2595,black,"Shamkovich, Leonid",2515,win,55,D40,Valetta,1980
+2595,white,"Petursson, Margeir",2390,win,34,D15,Valetta,1980
+2595,white,"Speelman, Jonathan S",2490,win,37,E15,Valetta,1980
+2595,black,"Csom, Istvan",2510,draw,23,E69,Valetta,1980
+2595,black,"Georgiev, Krum",2465,lose,63,B96,Valetta,1980
+2595,black,"Roth, Peter",2300,win,45,B89,Valetta,1980
+2595,white,"Natsis, Trifon",2240,win,32,D85,Valetta,1980
+2595,black,"Giardelli, Sergio Carlos",2300,win,32,A16,Valetta,1980
+2595,white,"Ligterink, Gert",2455,win,24,E18,Valetta,1980
+2595,white,"Marjanovic, Slavoljub",2490,win,23,E17,Valetta,1980
+2595,white,"Martinovic, Slobodan",2475,win,39,A48,Baku,1980
+2595,black,"Padevsky, Nikola",2415,draw,41,E69,Baku,1980
+2595,white,"Antoshin, Vladimir S",2480,win,30,E12,Baku,1980
+2595,black,"Garcia Martinez, Silvino",2450,win,36,A70,Baku,1980
+2595,white,"Chiburdanidze, Maia",2400,win,40,E92,Baku,1980
+2595,black,"Vogt, Lothar",2510,draw,34,B12,Baku,1980
+2595,white,"Lechtynsky, Jiri",2450,draw,29,E46,Baku,1980
+2595,black,"Mikhalchishin, Adrian",2490,draw,42,A33,Baku,1980
+2595,white,"Zaitsev, Igor A",2490,win,30,D58,Baku,1980
+2595,black,"Magerramov, Elmar",2435,draw,18,E18,Baku,1980
+2595,white,"Torre, Eugenio",2520,win,57,A44,Baku,1980
+2595,black,"Gufeld, Eduard",2510,draw,33,B44,Baku,1980
+2595,white,"Beliavsky, Alexander G",2590,draw,33,A13,Baku,1980
+2595,black,"Grigorian, Karen Ashotovich",2475,win,30,A61,Baku,1980
+2595,white,"Csom, Istvan",2510,win,29,E42,Baku,1980
+2595,white,"Vukic, Milan",2460,win,37,B19,Skara,1980
+2595,white,"Pribyl, Josef",2395,win,31,D85,Skara,1980
+2595,black,"Spiridonov, Nikola",2470,win,40,A48,Skara,1980
+2595,black,"Renman, Nils Gustaf",2425,win,45,A30,Skara,1980
+2595,white,"Pinter, Jozsef",2535,draw,36,A09,Skara,1980
+2595,black,"Webb, Simon",2425,win,38,A38,Skara,1980
+2595,white,"Karolyi, Tibor Jr",,draw,28,E12,Dortmund,1980
+2595,white,"Morovic Fernandez, Ivan",2380,draw,14,A48,Dortmund,1980
+2595,black,"Danailov, Silvio",2295,win,30,E92,Dortmund,1980
+2595,white,"Hjorth, Greg",,win,27,D34,Dortmund,1980
+2595,black,"Short, Nigel D",2360,draw,41,B22,Dortmund,1980
+2595,white,"Toro Sanchez, Bernardo",2265,draw,22,A14,Dortmund,1980
+2595,black,"Tempone, Marcelo",2235,win,43,A38,Dortmund,1980
+2595,white,"Akesson, Ralf",2230,win,36,E12,Dortmund,1980
+2595,black,"Arnason, Jon L",2435,win,58,B92,Dortmund,1980
+2595,black,"Negulescu, Adrian",,draw,35,A26,Dortmund,1980
+2595,white,"McNab, Colin A",,win,40,B06,Dortmund,1980
+2595,black,"Tal, Mikhail",2705,win,40,B19,Baku,1980
+2595,black,"Gerbert, Philipp",,win,57,B85,Dortmund,1980
+2595,white,"Tal, Mikhail",2705,draw,27,E46,Baku,1980
+2595,white,"Cuijpers, Frans Andre",,win,28,A67,Dortmund,1980
+2595,white,"Burchardt, Brigitte",2230,lose,41,B91,Bydgoszcz,1980
+2595,white,"Crotto, Rachel",2115,draw,23,B43,Bydgoszcz,1980
+2595,white,"Zatulovskaya, Tatiana",2245,draw,28,B40,Bydgoszcz,1980
+2595,white,"Jussupow, Artur",2485,win,34,E11,Soviet Union,1980
+2595,black,"Jussupow, Artur",2485,draw,28,A65,Soviet Union,1980
+2545,black,"Tal, Mikhail",2615,draw,21,B85,Minsk,1979
+2545,white,"Dolmatov, Sergey",2495,win,65,D14,Minsk,1979
+2545,black,"Balashov, Yuri S",2600,draw,21,A43,Minsk,1979
+2545,white,"Kupreichik, Viktor D",2540,win,45,D15,Minsk,1979
+2545,black,"Beliavsky, Alexander G",2595,lose,35,A75,Minsk,1979
+2545,white,"Anikaev, Yuri N",2455,lose,68,B60,Minsk,1979
+2545,black,"Vaganian, Rafael A",2570,win,50,B07,Minsk,1979
+2545,white,"Lerner, Konstantin Z",2475,lose,45,E46,Minsk,1979
+2545,black,"Tseshkovsky, Vitaly",2560,draw,32,B44,Minsk,1979
+2545,white,"Razuvaev, Yuri S",2470,draw,31,D85,Minsk,1979
+2545,black,"Makarichev, Sergey",2500,draw,17,A30,Minsk,1979
+2545,white,"Romanishin, Oleg M",2560,draw,45,E42,Minsk,1979
+2545,black,"Geller, Efim P",2550,draw,64,B07,Minsk,1979
+2545,white,"Rashkovsky, Nukhim N",2500,draw,34,B97,Minsk,1979
+2545,white,"Jussupow, Artur",2490,win,41,C83,Minsk,1979
+2545,black,"Sveshnikov, Evgeny",2545,win,43,B22,Minsk,1979
+2545,white,"Giorgadze, Tamaz",2535,win,39,C24,Minsk,1979
+,white,"Butnorius, Algimantas",,win,41,E14,Moscow,1979
+2200,black,"Govbinder, Mikhail Y",2200,draw,42,B87,Moscow,1979
+2200,white,"Mnatsakanian, Eduard A",2425,win,33,A25,Moscow,1979
+2200,black,"Kudriashov, Anatoli",2380,win,58,B81,Moscow,1979
+2200,black,"Averkin, Orest N",2455,draw,44,E99,Moscow,1979
+2200,white,"Polugaevsky, Lev",2625,win,37,B81,Moscow,1979
+2200,black,"Veingold, Aleksandr",2370,lose,41,E92,Moscow,1979
+2200,white,"Gipslis, Aivars",2525,draw,23,A30,Moscow,1979
+,black,"Adorjan, Andras",2525,draw,33,B85,Banja Luka,1979
+,white,"Kurajica, Bojan",2515,draw,12,E46,Banja Luka,1979
+,black,"Garcia Gonzales, Guillermo",,draw,21,E97,Banja Luka,1979
+,white,"Matanovic, Aleksandar",2495,draw,19,C97,Banja Luka,1979
+,black,"Andersson, Ulf",2560,draw,12,A35,Banja Luka,1979
+,white,"Vukic, Milan",2485,win,40,E91,Banja Luka,1979
+,white,"Bukic, Enver",2495,win,67,E12,Banja Luka,1979
+,black,"Knezevic, Milorad",2500,win,40,E01,Banja Luka,1979
+,white,"Marjanovic, Slavoljub",2505,win,34,E12,Banja Luka,1979
+,black,"Smejkal, Jan",2550,draw,27,E62,Banja Luka,1979
+,white,"Marovic, Drazen",2470,win,35,D61,Banja Luka,1979
+,black,"Hernandez Onna, Roman",2500,win,26,E76,Banja Luka,1979
+,white,"Browne, Walter S",2540,win,39,E12,Banja Luka,1979
+,black,"Sibarevic, Milenko",2355,win,32,B85,Banja Luka,1979
+,white,Petrosian Tigran V.,2610,draw,23,C97,Banja Luka,1979
+,white,"Magerramov, Elmar",2435,draw,40,D85,Baku,1979
+,white,"Vdouvin, S.",,win,42,E46,Soviet Union,1979
+,black,"Magerramov, Elmar",2435,win,29,A75,Baku,1979
+,black,"Pavlenko, Oleg",,draw,33,A30,Soviet Union,1979
+,white,"Tal, Mikhail",2625,draw,17,C69,Tbilisi,1978
+,black,"Tseshkovsky, Vitaly",2550,lose,51,B19,Tbilisi,1978
+,white,"Romanishin, Oleg M",2610,draw,39,A28,Tbilisi,1978
+,black,"Sveshnikov, Evgeny",2565,draw,20,D41,Tbilisi,1978
+,white,"Dorfman, Josif D",2550,win,39,C92,Tbilisi,1978
+,black,"Mikhalchishin, Adrian",2460,lose,82,B82,Tbilisi,1978
+,black,"Gulko, Boris F",2575,draw,57,A12,Tbilisi,1978
+,white,"Beliavsky, Alexander G",2530,win,42,D58,Tbilisi,1978
+,black,"Razuvaev, Yuri S",2465,lose,35,B85,Tbilisi,1978
+,white,"Giorgadze, Tamaz",2535,draw,22,D55,Tbilisi,1978
+,black,"Timoscenko, Gennadij",2530,draw,41,B22,Tbilisi,1978
+,white,"Kuzmin, Gennadi P",2560,win,41,C98,Tbilisi,1978
+,black,"Tukmakov, Vladimir B",2570,draw,21,E91,Tbilisi,1978
+,white,"Polugaevsky, Lev",2620,win,46,B43,Tbilisi,1978
+,black,"Makarichev, Sergey",2495,draw,22,A36,Tbilisi,1978
+,white,"Bagirov, Vladimir",2505,draw,30,B17,Tbilisi,1978
+,black,"Geller, Efim P",2590,draw,42,B19,Tbilisi,1978
+2200,black,"Alburt, Lev O",2510,win,56,E74,Daugavpils,1978
+,white,"Palatnik, Semon",2490,win,37,B04,Daugavpils,1978
+2200,black,"Nikolaevsky, Yuri V",2200,draw,31,E67,Daugavpils,1978
+2200,black,"Tseshkovsky, Vitaly",2570,draw,14,B19,Daugavpils,1978
+2200,white,"Kupreichik, Viktor D",2200,draw,21,C61,Daugavpils,1978
+2200,black,"Mikhalchishin, Adrian",2460,draw,17,B19,Daugavpils,1978
+2200,black,"Kapengut, Albert Z",2465,draw,37,B19,Daugavpils,1978
+,white,"Ivanov, Igor V",2415,draw,40,B38,Daugavpils,1978
+2200,black,"Tseitlin, Mark D",2480,win,53,B13,Daugavpils,1978
+2200,white,"Lputian, Smbat G",2200,win,28,D37,Daugavpils,1978
+2200,white,"Korsunsky, Rostislav R",2200,win,52,B85,Daugavpils,1978
+2200,black,"Kholmov, Ratmir D",2540,lose,65,B18,Daugavpils,1978
+2200,white,"Panchenko, Alexander N",2495,win,35,B67,Daugavpils,1978
+,white,"Lutikov, Anatoly S",2540,win,57,A41,Minsk,1978
+,black,"Shereshevski, Mikhail",,win,32,A48,Minsk,1978
+,white,"Roizman, Abram Y",,win,27,C61,Minsk,1978
+,black,"Yuferov, Sergey N",2450,win,60,E99,Minsk,1978
+,black,"Butnorius, Algimantas",,draw,42,D78,Baku,1978
+,white,"Govashelishvili, Genadij",,win,36,A14,Baku,1978
+,black,"Lapienis, Donatas",,draw,48,A67,Baku,1978
+,white,"Sideif Sade, Fikret I",2320,lose,28,A16,Baku,1978
+,black,"Averkin, Orest N",2455,draw,37,D03,Baku,1978
+,white,"Gufeld, Eduard",2525,win,48,B74,Baku,1978
+,white,"Sokolov, Andrei",,win,41,B85,Baku,1978
+,black,"Andrianov, Nikolai",,lose,46,E01,Baku,1978
+,white,"Korzubov, Peter",,win,37,C08,Baku,1978
+,black,"Graf, Alexander",,win,32,E01,Baku,1978
+,white,"Maiorov, A.",,draw,30,C42,Baku,1978
+,black,"Fedoruk, Y.",,win,30,B18,Baku,1978
+,white,"Ehlvest, Jaan",,win,38,B96,Baku,1978
+,black,"Alienkin, Aleksander",,draw,46,B22,Baku,1978
+,white,"Begun, Sergei M",2380,win,24,D42,Minsk,1978
+,white,"Kapengut, Albert Z",2465,win,44,A34,Minsk,1978
+,white,"Klovans, Janis",,draw,15,D37,Minsk,1978
+,white,"Kupreichik, Viktor D",2490,draw,59,D38,Minsk,1978
+,white,"Litvinov, Vladimir",,win,27,C91,Minsk,1978
+,white,"Smirnov, Valerij",,draw,44,B47,Minsk,1978
+,black,"Dydyshko, Viacheslav",,lose,42,E74,Minsk,1978
+,black,"Kagan, Naum",2340,win,41,A48,Minsk,1978
+,black,"Ljuboschitz, Alexander",,win,38,B10,Minsk,1978
+,black,"Maryasin, Boris",,win,50,B84,Minsk,1978
+,black,"Mochalov, Evgeny V",2450,lose,40,E60,Minsk,1978
+,black,"Veremeichik, Vladimir",2300,win,41,E84,Minsk,1978
+,black,"Zakharov, Alexander V",,draw,14,B10,Minsk,1978
+,black,"Magerramov, Elmar",,win,30,D58,Baku,1977
+,white,"Nikitin, Aleksander S",,draw,36,D90,Baku,1977
+,black,"Arnason, Jon L",,win,40,B85,Cagnes sur Mer,1977
+,white,"McNab, Colin A",,draw,43,B06,Cagnes sur Mer,1977
+,black,"Kappe, Markus",,lose,52,A49,Cagnes sur Mer,1977
+,white,"Negulescu, Adrian",,win,43,A48,Cagnes sur Mer,1977
+,white,"Andersen, Morten",,win,53,C69,Cagnes sur Mer,1977
+,white,"Morovic Fernandez, Ivan",,draw,31,A54,Cagnes sur Mer,1977
+,white,"Weider, Dariusz",,win,25,A50,Cagnes sur Mer,1977
+,white,"Whitehead, Jay E",,draw,28,D02,Cagnes sur Mer,1977
+,black,"Jansson, Joran",2380,win,22,B45,Cagnes sur Mer,1977
+,black,"Santo Roman, Marc",,draw,42,B85,Cagnes sur Mer,1977
+,black,"Sendur, Adnan",,win,41,E61,Cagnes sur Mer,1977
+2309,white,"Dolmatov, Sergey",2480,lose,46,D30,Moscow ,1977
+,black,"Ehlvest, Jaan",,win,40,B13,Moscow ,1977
+,black,"Zaid, Leonid D",2400,lose,83,A75,Moscow ,1977
+2309,black,"Korzubov, Peter",,win,35,B82,Moscow ,1977
+,black,"Nikitin, Aleksander S",,draw,72,E92,Baku,1977
+,white,"Zaid, Leonid D",2400,win,42,B97,Leningrad,1977
+,white,"Pigusov, Evgeny",,win,37,D36,Riga,1977
+,white,"West, Guy",,win,12,B40,telex,1977
+,black,"Zaid, Leonid D",2400,lose,37,E66,Leningrad,1977
+,black,"Sturua, Zurab",,win,45,A48,Riga,1977
+,white,"Jussupow, Artur",,win,48,E14,Riga,1977
+,white,"Kengis, Edvins",,win,23,A48,Riga,1977
+,black,"Lanka, Zigurds",,win,37,B19,Riga,1977
+,black,"Eolian, Levon S",,win,41,B18,Riga,1977
+,white,"Efimov, Igor",,draw,17,C18,Riga,1977
+,black,"Romanchenko, V.",,win,45,B95,Riga,1977
+,white,Gicin,,win,44,B05,Riga,1977
+,white,"Jussupow, Artur",,draw,20,C42,Leningrad,1977
+,white,"Magerramov, Elmar",,draw,29,B85,Soviet Union,1977
+,white,"Dolmatov, Sergey",,draw,28,B33,Leningrad,1977
+,white,"Kharitonov, Andrei Y",,win,34,C69,Leningrad,1977
+,white,"Lanka, Zigurds",,win,40,E90,Leningrad,1977
+,white,"Yermolinsky, Alex",,lose,48,B67,Leningrad,1977
+,white,"Yurtaev, Leonid",2200,win,30,A65,Leningrad,1977
+,black,"Avshalumov, Alex",,draw,41,B18,Soviet Union,1977
+,black,"Dolmatov, Sergey",,win,22,B10,Leningrad,1977
+,black,"Jussupow, Artur",,draw,41,A49,Leningrad,1977
+,black,"Kharitonov, Andrei Y",,lose,43,E63,Leningrad,1977
+,black,"Lanka, Zigurds",,draw,49,B13,Leningrad,1977
+,black,"Magerramov, Elmar",,draw,20,D59,Leningrad,1977
+,black,"Yermolinsky, Alex",,win,68,B50,Leningrad,1977
+,black,"Lputian, Smbat G",,win,38,E80,Tbilisi,1976
+,white,"Grinberg, Nir",,draw,17,B45,Wattignies,1976
+,white,"Rogers, Ian",,win,34,B33,Wattignies,1976
+,black,"Dunne, David Joseph",,win,57,B51,Wattignies,1976
+,white,"Cramling, Pia",,draw,19,C42,Wattignies,1976
+,white,"Sendur, Adnan",,win,22,B08,Wattignies,1976
+,black,"Roos, Daniel",,win,25,B50,Wattignies,1976
+,black,"Chandler, Murray G",,lose,41,B22,Wattignies,1976
+,white,"Galle, Andre",,win,38,C11,Wattignies,1976
+,black,"Van der Wiel, John",,lose,42,B93,Wattignies,1976
+,white,"Donchenko, Anatoly G",2395,win,38,C97,Moscow,1976
+,white,"Lanka, Zigurds",,draw,60,B39,Tbilisi,1976
+,black,"Listengarten, Leonid",,draw,16,B56,Moscow,1976
+,black,"Nikolaevsky, Yuri V",,lose,47,A49,Moscow,1976
+,black,"Sideif Sade, Fikret I",2320,draw,42,B53,Tbilisi,1976
+,white,"Eolian, Levon S",,win,41,D35,Tbilisi,1976
+,black,"Murey, Jacob",,win,39,E76,Moscow,1976
+,black,"Sturua, Zurab",,lose,28,A48,Tbilisi,1976
+,black,"Korsunsky, Rostislav R",,lose,76,B92,Moscow,1976
+,black,"Eolian, Levon S",,win,33,B96,Tbilisi,1976
+,white,"Sturua, Zurab",,draw,38,D37,Tbilisi,1976
+,black,"Velibekov, A.",,lose,23,B84,Moscow,1976
+,white,Vasalomidze,,win,34,C75,Tbilisi,1976
+,white,"Guseinov, Aidyn",,win,32,B93,Moscow,1976
+,black,"Shakarov, Alexander",,draw,22,B84,Moscow,1976
+,white,"Badalian, Armen",,draw,97,C68,Tbilisi,1976
+,white,"Merkulov, M.",,win,43,B36,Tbilisi,1976
+,white,"Magerramov, Elmar",,lose,35,C83,Moscow,1976
+,white,"Lputian, Smbat G",,win,34,B15,Tbilisi,1976
+,white,"Sturua, Zurab",,draw,29,C00,Tbilisi,1976
+,white,Vasilienko,,draw,19,C67,Tbilisi,1976
+,white,"Kaiumov, Dmitry D",,win,36,B12,Tbilisi,1976
+,white,"Morgulov, Alexsander M",2375,draw,19,B84,Tbilisi,1976
+,white,"Pavlenko, Oleg",,draw,35,B03,Tbilisi,1976
+,black,"Gabdrakhmanov, Rafail",,draw,31,E99,Tbilisi,1976
+,black,Tiliskin,,win,43,B87,Tbilisi,1976
+,black,"Yudasin, Leonid",,win,46,B26,Tbilisi,1976
+,black,"Yurtaev, Leonid",,win,46,B22,Tbilisi,1976
+,black,"Korchnoi, Viktor",,draw,43,E80,Leningrad,1975
+,white,"Kantsler, Boris",,win,32,A08,Leningrad,1975
+,white,"Yermolinsky, Alex",,lose,48,B05,Vilnius,1975
+,black,"Dvoirys, Semen I",,draw,45,B89,Vilnius,1975
+,white,"Kengis, Edvins",,draw,27,B52,Vilnius,1975
+,white,"Gorelov, Sergey G",,win,58,C61,Vilnius,1975
+,black,"Vladimirov, Yevgeniy",,draw,30,E18,Vilnius,1975
+,white,"Yurtaev, Leonid",,lose,44,B39,Vilnius,1975
+,black,"Einoris, Edmundas",,win,42,B59,Vilnius,1975
+,white,"Sokolov, Andrei",,win,32,B67,Vilnius,1975
+,black,"Rizvonov, Zurkhon",,win,37,E19,Vilnius,1975
+,white,"Polugaevsky, Lev",,draw,25,A08,Leningrad,1975
+,white,"Smyslov, Vassily",,lose,30,C60,Leningrad,1975
+,black,"Pavlenko, Oleg",,win,34,E71,Baku,1975
+,black,"Romanishin, Oleg M",,win,32,A03,Leningrad,1975
+,black,"Karpov, Anatoly",,lose,45,B92,Leningrad,1975
+,white,"Privorotsky, Oleg",,win,46,C00,Baku,1974
+,black,"Sarkisov, Rafael",,win,39,B56,Baku,1974
+,black,"Gasarjan, Aram",,win,56,D86,Baku,1974
+,black,"Sarkisov, Rafael",,win,35,E90,Baku,1974
+,white,"Averbakh, Yuri L",,win,48,C68,Moscow,1974
+,black,"Magerramov, Elmar",,win,35,B84,Baku,1973
+,black,"Kengis, Edvins",,draw,54,B89,Vilnius,1973
+,white,"Muratkuliev, Shohrat",,win,32,C84,Baku,1973
+,white,Vasilienko,,win,40,C04,Kiev,1973
