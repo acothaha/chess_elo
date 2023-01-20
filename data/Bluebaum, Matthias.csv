@@ -37,10 +37,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2651,black,"Cesar Maestre, Bernardo",2344,win,69,B17,Barcelona,2022
 2651,black,"Plat, Vojtech",2546,draw,55,B13,Germany,2022
 2647,white,"Duda, Jan-Krzysztof",2731,draw,22,D10,Deizisau,2022
-2651,white,"Vachier-Lagrave, Maxime",2736,draw,31,,D94,2022
-2651,black,"Saric, Ivan",2674,win,66,,C42,2022
-2647,black,"Kraemer, Martin",2579,win,63,,A07,2022
-2647,white,"Bartel, Mateusz",2630,draw,27,,A22,2022
+2651,white,"Vachier-Lagrave, Maxime",2736,draw,31,D94,,2022
+2651,black,"Saric, Ivan",2674,win,66,C42,,2022
+2647,black,"Kraemer, Martin",2579,win,63,A07,,2022
+2647,white,"Bartel, Mateusz",2630,draw,27,A22,,2022
 2647,black,"Kuzubov, Yuriy",2627,draw,50,D41,Wojtaszek,2022
 2647,white,"Luch, Michal",2364,draw,102,A13,Wojtaszek,2022
 2647,black,"Navara, David",2681,draw,52,C42,Wojtaszek,2022
@@ -72,11 +72,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2673,black,"Bjerre, Jonas Buhl",2608,draw,29,E10,Germany,2022
 2642,black,Santos Latasa,2648,draw,29,C42,Germany,2022
 2642,white,"Maghsoodloo, Parham",2701,draw,67,D35,Germany,2022
-2642,black,"Pechac, Jergus",2599,draw,30,,E48,2022
-2637,black,"Piorun, Kacper",2635,draw,25,,C24,2022
-2637,white,"Rabiega, Robert",2503,win,57,,D07,2022
-2637,white,"Nagy, Gabor",2518,win,43,,D31,2022
-2637,black,"Levin, Felix",2450,win,39,,A07,2022
+2642,black,"Pechac, Jergus",2599,draw,30,E48,,2022
+2637,black,"Piorun, Kacper",2635,draw,25,C24,,2022
+2637,white,"Rabiega, Robert",2503,win,57,D07,,2022
+2637,white,"Nagy, Gabor",2518,win,43,D31,,2022
+2637,black,"Levin, Felix",2450,win,39,A07,,2022
 2642,white,"Saric, Ivan",2687,draw,44,E97,Terme Catez,2022
 2642,black,"Lagarde, Maxime",2626,draw,74,C43,Terme Catez,2022
 2642,white,"Nisipeanu, Liviu-Dieter",2652,draw,9,A52,Terme Catez,2022
@@ -276,9 +276,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2643,white,"Vidit, Santosh Gujrathi",2718,draw,54,E10,Douglas,2019
 2643,black,"Danielian, Elina",2385,win,67,E48,Douglas,2019
 2619,white,"Duda, Jan Krzysztof",2730,draw,47,E46,Poland,2019
-2618,black,"Nisipeanu, Liviu-Dieter",2667,draw,51,,C07,2019
-2618,white,"Meier, Georg",2636,draw,33,,D31,2019
-2618,black,"Fridman, Daniel",2644,draw,46,,D11,2019
+2618,black,"Nisipeanu, Liviu-Dieter",2667,draw,51,C07,,2019
+2618,white,"Meier, Georg",2636,draw,33,D31,,2019
+2618,black,"Fridman, Daniel",2644,draw,46,D11,,2019
 2610,black,"Van Wely, Loek",2612,draw,27,D16,Germany,2019
 2616,black,"Safarli, Eltaj",2662,lose,29,C07,Skopje,2019
 2616,black,"Ragger, Markus",2696,draw,19,C07,Skopje,2019
@@ -528,7 +528,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2633,white,"Stevic, Hrvoje",2607,draw,31,D20,Drancy,2016
 2633,black,"Baklan, Vladimir",2614,draw,46,C07,Drancy,2016
 2580,white,"Enders, Peter",2460,draw,51,A61,Germany,2016
-,black,"Gharamian, Tigran",,win,41,,2016,
+,black,"Gharamian, Tigran",,win,41,,,2016
 2628,white,"Hera, Imre Jr",2622,draw,31,D20,Bad Ragaz,2016
 2628,black,"Demuth, Adrien",2550,draw,31,A18,Bad Ragaz,2016
 2628,black,"Vuilleumier, Alexandre",2370,win,7,D39,Bad Ragaz,2016
