@@ -1,0 +1,54 @@
+rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
+2673,black,"Woodward, Andy",2457,draw,48,D70,Sitges,2022
+2673,white,"Saydaliev, Saidakbar",2419,draw,57,A05,Sitges,2022
+2673,black,"Sousa, Andre Ventura",2466,draw,35,D85,Sitges,2022
+2673,black,"Injac, Teodora",2365,draw,45,E17,Sitges,2022
+2673,white,"Nilssen, Ellen Fredericia",2187,win,34,D83,Sitges,2022
+2686,black,"Yakubboev, Nodirbek",2563,draw,40,,A30,2022
+2686,white,"Yakubboev, Nodirbek",2563,draw,31,,E91,2022
+2686,white,"Van Foreest, Jorden",2699,lose,54,D32,Jerusalem,2022
+2686,black,Santos Latasa,2622,draw,33,C88,Jerusalem,2022
+2686,black,"Lu, Shanglei",2627,draw,15,C43,Jerusalem,2022
+2686,black,"Vachier-Lagrave, Maxime",2775,draw,71,C84,Jerusalem,2022
+2678,black,"Eljanov, Pavel",2697,lose,23,,D12,2022
+2678,white,Narayanan.S.L,2663,draw,32,,C89,2022
+2678,black,"Anand, Viswanathan",2753,draw,59,D37,chess24.com INT,2020
+2678,black,"Anand, Viswanathan",2753,draw,23,C84,chess24.com INT,2020
+2678,white,"Anand, Viswanathan",2753,draw,41,E51,chess24.com INT,2020
+2678,black,"Anand, Viswanathan",2753,draw,42,C84,chess24.com INT,2020
+2678,white,"Anand, Viswanathan",2753,draw,57,D38,chess24.com INT,2020
+2678,white,"Giri, Anish",2764,win,55,D19,chess24.com INT,2020
+2678,white,"Giri, Anish",2764,draw,34,E51,chess24.com INT,2020
+2678,black,"Giri, Anish",2764,win,45,A15,chess24.com INT,2020
+2678,white,"Giri, Anish",2764,lose,42,C65,chess24.com INT,2020
+2678,black,"Giri, Anish",2764,draw,46,A30,chess24.com INT,2020
+2678,black,"Kramnik, Vladimir",2753,win,47,C50,chess24.com INT,2020
+2678,white,"Kramnik, Vladimir",2753,lose,42,A32,chess24.com INT,2020
+2678,black,"Kramnik, Vladimir",2753,win,38,B76,chess24.com INT,2020
+2678,white,"Kramnik, Vladimir",2753,win,57,D40,chess24.com INT,2020
+2678,black,"Svidler, Peter",2723,lose,56,B90,chess24.com INT,2020
+2678,black,"Svidler, Peter",2723,draw,55,A11,chess24.com INT,2020
+2678,white,"Svidler, Peter",2723,draw,40,E60,chess24.com INT,2020
+2678,black,"Svidler, Peter",2723,lose,49,A13,chess24.com INT,2020
+2678,white,"Svidler, Peter",2723,win,38,D94,chess24.com INT,2020
+2678,white,"Carlsen, Magnus",2863,lose,36,E00,chess24.com INT,2020
+2678,white,"Carlsen, Magnus",2863,draw,47,D37,chess24.com INT,2020
+2678,black,"Carlsen, Magnus",2863,lose,46,E11,chess24.com INT,2020
+2678,white,"Carlsen, Magnus",2863,draw,61,D37,chess24.com INT,2020
+2678,black,"Carlsen, Magnus",2863,win,74,E11,chess24.com INT,2020
+2678,white,"Nepomniachtchi, Ian",2784,lose,41,D83,chess24.com INT,2020
+2678,black,"Nepomniachtchi, Ian",2784,draw,45,C82,chess24.com INT,2020
+2678,white,"Nepomniachtchi, Ian",2784,draw,57,D83,chess24.com INT,2020
+2678,white,"Ding, Liren",2791,win,25,E50,chess24.com INT,2020
+2678,black,"Ding, Liren",2791,lose,25,E00,chess24.com INT,2020
+2678,white,"Ding, Liren",2791,win,48,C45,chess24.com INT,2020
+2678,black,"Ding, Liren",2791,draw,45,E15,chess24.com INT,2020
+2678,black,"Gelfand, Boris",2676,lose,39,A15,chess24.com INT,2020
+2678,white,"Gelfand, Boris",2676,draw,40,D30,chess24.com INT,2020
+2678,black,"Gelfand, Boris",2676,draw,66,D87,chess24.com INT,2020
+2678,white,"Gelfand, Boris",2676,draw,42,D43,chess24.com INT,2020
+2678,white,"Leko, Peter",2663,lose,79,A30,chess24.com INT,2020
+2678,white,"Leko, Peter",2663,win,56,C34,chess24.com INT,2020
+2678,black,"Leko, Peter",2663,draw,46,B07,chess24.com INT,2020
+2678,white,"Leko, Peter",2663,lose,43,C65,chess24.com INT,2020
+2678,black,"Leko, Peter",2663,draw,49,D27,chess24.com INT,2020

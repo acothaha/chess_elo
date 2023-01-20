@@ -1878,18 +1878,18 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2779,white,"Aronian, Levon",2744,draw,32,C89,Wijk aan Zee,2007
 2779,black,"Motylev, Alexander",2647,win,31,B97,Wijk aan Zee,2007
 2779,black,"Ponomariov, Ruslan",2723,draw,22,E05,Wijk aan Zee,2007
-2779,black,"Aronian, Levon",2744,draw,12,,Mainz,2007
-2779,white,"Bacrot, Etienne",2705,win,11,,Mainz,2007
-2779,white,"Kasimdzhanov, Rustam",2682,win,21,,Mainz,2007
-2779,white,"Aronian, Levon",2744,draw,26,,Mainz,2007
-2779,black,"Bacrot, Etienne",2705,draw,26,,Mainz,2007
-2779,black,"Kasimdzhanov, Rustam",2682,draw,26,,Mainz,2007
-2779,white,"Aronian, Levon",2744,draw,15,,Mainz,2007
-2779,black,"Aronian, Levon",2744,lose,25,,Mainz,2007
-2779,white,"Aronian, Levon",2744,win,53,,Mainz,2007
-2779,black,"Aronian, Levon",2744,draw,25,,Mainz,2007
-2779,white,"Aronian, Levon",2744,draw,33,,Mainz,2007
-2779,black,"Aronian, Levon",2744,lose,28,,Mainz,2007
+2779,black,"Aronian, Levon",2744,draw,12,Mainz,,2007
+2779,white,"Bacrot, Etienne",2705,win,11,Mainz,,2007
+2779,white,"Kasimdzhanov, Rustam",2682,win,21,Mainz,,2007
+2779,white,"Aronian, Levon",2744,draw,26,Mainz,,2007
+2779,black,"Bacrot, Etienne",2705,draw,26,Mainz,,2007
+2779,black,"Kasimdzhanov, Rustam",2682,draw,26,Mainz,,2007
+2779,white,"Aronian, Levon",2744,draw,15,Mainz,,2007
+2779,black,"Aronian, Levon",2744,lose,25,Mainz,,2007
+2779,white,"Aronian, Levon",2744,win,53,Mainz,,2007
+2779,black,"Aronian, Levon",2744,draw,25,Mainz,,2007
+2779,white,"Aronian, Levon",2744,draw,33,Mainz,,2007
+2779,black,"Aronian, Levon",2744,lose,28,Mainz,,2007
 2801,white,"Albert Dasmas, Juan",,win,26,C42,Benidorm,2007
 2801,white,"Aretxabaleta Saez, Julen",1680,win,20,B30,Benidorm,2007
 2801,white,"Becking, Franz Josef",2045,lose,26,E17,Benidorm,2007
@@ -1930,7 +1930,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2792,white,"Kazhgaleyev, Murtas",2607,win,62,C78,Bastia,2006
 2792,black,"Gurevich, Mikhail",2633,win,58,A36,Bastia,2006
 2792,white,"Gurevich, Mikhail",2633,win,44,C10,Bastia,2006
-2792,black,"Golod, Vitali",2577,draw,18,,Bastia,2006
+2792,black,"Golod, Vitali",2577,draw,18,Bastia,,2006
 2792,white,"Golod, Vitali",2577,win,39,C77,Bastia,2006
 2779,white,"Macieja, Bartlomiej",2622,win,32,B19,Germany,2006
 2779,black,"Jussupow, Artur",2600,win,46,D43,Germany,2006

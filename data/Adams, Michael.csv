@@ -1738,14 +1738,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2744,black,"Leko, Peter",2730,lose,49,C42,Dortmund,2001
 2750,black,Comp Pocket Fritz,,win,38,C16,Mainz,2001
 2750,white,Comp Pocket Fritz,,win,25,B50,Mainz,2001
-2750,black,"Leko, Peter",2730,draw,4,,Mainz,2001
-2730,white,"Leko, Peter",2750,draw,22,,Mainz,2001
-2730,white,"Leko, Peter",2750,win,55,,Mainz,2001
-2750,black,"Leko, Peter",2730,draw,36,,Mainz,2001
-2750,black,"Leko, Peter",2730,lose,9,,Mainz,2001
-2730,white,"Leko, Peter",2750,draw,8,,Mainz,2001
-2750,white,"Leko, Peter",2730,lose,11,,Mainz,2001
-2750,black,"Leko, Peter",2730,draw,32,,Mainz,2001
+2750,black,"Leko, Peter",2730,draw,4,Mainz,,2001
+2730,white,"Leko, Peter",2750,draw,22,Mainz,,2001
+2730,white,"Leko, Peter",2750,win,55,Mainz,,2001
+2750,black,"Leko, Peter",2730,draw,36,Mainz,,2001
+2750,black,"Leko, Peter",2730,lose,9,Mainz,,2001
+2730,white,"Leko, Peter",2750,draw,8,Mainz,,2001
+2750,white,"Leko, Peter",2730,lose,11,Mainz,,2001
+2750,black,"Leko, Peter",2730,draw,32,Mainz,,2001
 2750,black,"Pomes Marcet, Juan",2411,win,36,E25,Mainz,2001
 2750,black,"Bonnaire, Ulrich",,win,27,C86,Mainz,2001
 2750,black,"Short, Nigel D",2676,draw,33,C88,Birmingham,2001

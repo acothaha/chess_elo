@@ -589,8 +589,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2700,white,"Palac, Mladen",2577,win,28,B96,Gjakovo,2016
 2700,black,"Prohaszka, Peter",2593,draw,18,A46,Gjakovo,2016
 2700,white,"Getz, Nicolai",2431,win,40,C53,Gjakovo,2016
-2691,black,"Heberla, Bartlomiej",2532,win,51,,Germany,2016
-2691,black,"Levin, Felix",2506,draw,85,,Germany,2016
+2691,black,"Heberla, Bartlomiej",2532,win,51,Germany,,2016
+2691,black,"Levin, Felix",2506,draw,85,Germany,,2016
 2691,black,"Short, Nigel D",2671,win,43,B40,Bangkok,2016
 2691,white,"Ganguly, Surya Shekhar",2647,draw,82,B47,Bangkok,2016
 2691,white,"Wynn, Zaw Htung",2407,win,29,B99,Bangkok,2016

@@ -178,15 +178,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2688,white,"Kryvoruchko, Yuriy",2682,draw,50,C67,Varadero,2016
 2688,black,"Ivanchuk, Vassily",2710,lose,32,A46,Varadero,2016
 2688,white,"Dominguez Perez, Leinier",2723,draw,39,A07,Varadero,2016
-2682,black,"Vidit, Santosh Gujrathi",2648,draw,37,,Stockholm,2016
-2682,white,"Bok, Benjamin",2605,win,40,,Stockholm,2016
-2682,black,"Almasi, Istvan",2420,win,38,,Stockholm,2016
-2682,white,"Maze, Sebastien",2617,lose,40,,Stockholm,2016
-2682,black,"Mareco, Sandro",2625,draw,31,,Stockholm,2016
-2682,white,"Goganov, Aleksey",2591,win,44,,Stockholm,2016
-2682,black,"Kjartansson, Gudmundur",2457,win,32,,Stockholm,2016
-2682,white,"Jacobs, Florian",2229,win,49,,Stockholm,2016
-2682,black,"Schoonackers, Jeroen",2032,win,43,,Stockholm,2016
+2682,black,"Vidit, Santosh Gujrathi",2648,draw,37,Stockholm,,2016
+2682,white,"Bok, Benjamin",2605,win,40,Stockholm,,2016
+2682,black,"Almasi, Istvan",2420,win,38,Stockholm,,2016
+2682,white,"Maze, Sebastien",2617,lose,40,Stockholm,,2016
+2682,black,"Mareco, Sandro",2625,draw,31,Stockholm,,2016
+2682,white,"Goganov, Aleksey",2591,win,44,Stockholm,,2016
+2682,black,"Kjartansson, Gudmundur",2457,win,32,Stockholm,,2016
+2682,white,"Jacobs, Florian",2229,win,49,Stockholm,,2016
+2682,black,"Schoonackers, Jeroen",2032,win,43,Stockholm,,2016
 2700,black,"Wagner, Dennis",2579,draw,25,E21,Germany,2016
 2700,white,"Bulski, Krzysztof",2532,win,60,B85,Germany,2016
 2700,white,"Kasimdzhanov, Rustam",2704,draw,24,C67,Germany,2016
@@ -721,16 +721,16 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2682,black,"Medvegy, Nora",2369,draw,52,E10,Mainz,2007
 2682,white,"Schaefer, Markus",2411,win,27,B33,Mainz,2007
 2682,black,"Gerdell, Frank",2095,win,24,A28,Mainz,2007
-2682,white,"Doettling, Fabian",2537,win,15,,Mainz,2007
-2682,white,"Ivanchuk, Vassily",2762,lose,22,,Mainz,2007
-2682,white,"Bacrot, Etienne",2695,draw,22,,Mainz,2007
-2682,black,"Kamsky, Gata",2718,draw,15,,Mainz,2007
-2682,black,"Shirov, Alexei",2735,win,17,,Mainz,2007
-2682,white,"Balogh, Csaba",2568,win,18,,Mainz,2007
-2682,black,"Vaganian, Rafael A",2594,win,19,,Mainz,2007
-2682,white,"Medvegy, Zoltan",2512,win,27,,Mainz,2007
-2682,black,"Poldauf, Dirk",2402,win,20,,Mainz,2007
-2682,white,"Heinl, Thomas",2213,win,29,,Mainz,2007
+2682,white,"Doettling, Fabian",2537,win,15,Mainz,,2007
+2682,white,"Ivanchuk, Vassily",2762,lose,22,Mainz,,2007
+2682,white,"Bacrot, Etienne",2695,draw,22,Mainz,,2007
+2682,black,"Kamsky, Gata",2718,draw,15,Mainz,,2007
+2682,black,"Shirov, Alexei",2735,win,17,Mainz,,2007
+2682,white,"Balogh, Csaba",2568,win,18,Mainz,,2007
+2682,black,"Vaganian, Rafael A",2594,win,19,Mainz,,2007
+2682,white,"Medvegy, Zoltan",2512,win,27,Mainz,,2007
+2682,black,"Poldauf, Dirk",2402,win,20,Mainz,,2007
+2682,white,"Heinl, Thomas",2213,win,29,Mainz,,2007
 2675,black,"Narciso Dublan, Marc",2539,win,20,E32,Torrelavega,2007
 2675,white,"Areshchenko, Alexander",2647,draw,27,B90,Torrelavega,2007
 2675,white,"Gashimov, Vugar",2644,draw,26,C42,Torrelavega,2007

@@ -2088,9 +2088,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2656,black,"Berend, Fred",2346,win,28,B48,Mainz,2007
 2656,white,"Dergatschova Daus, Anna",2239,win,36,D07,Mainz,2007
 2656,black,"Wyss, Peter",2091,win,28,B85,Mainz,2007
-2656,white,"Bacrot, Etienne",2695,win,17,,Mainz,2007
-2656,black,"Akopian, Vladimir",2708,win,15,,Mainz,2007
-2656,white,"Vogt, Lothar",2473,win,9,,Mainz,2007
+2656,white,"Bacrot, Etienne",2695,win,17,Mainz,,2007
+2656,black,"Akopian, Vladimir",2708,win,15,Mainz,,2007
+2656,white,"Vogt, Lothar",2473,win,9,Mainz,,2007
 2656,white,"Sveshnikov, Evgeny",2504,draw,55,A84,Pardubice,2007
 2656,black,"Feller, Sebastien",2478,lose,38,D52,Pardubice,2007
 2656,white,"Maslak, Konstantin",2548,lose,63,E62,Pardubice,2007

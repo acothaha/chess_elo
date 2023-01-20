@@ -1663,12 +1663,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2664,white,"Doettling, Fabian",2537,draw,56,D37,Mainz,2007
 2664,black,"Glek, Igor V",2540,win,32,C68,Mainz,2007
 2664,white,"Iljin, Artem",2569,draw,54,A46,Mainz,2007
-2664,white,"Grischuk, Alexander",2726,lose,16,,Mainz,2007
-2664,white,"Jussupow, Artur",2583,win,59,,Mainz,2007
-2664,white,"Sumets, Andrey",2529,lose,32,,Mainz,2007
-2664,black,"Iljin, Artem",2569,draw,18,,Mainz,2007
-2664,white,"Horvath, Adam",2491,win,25,,Mainz,2007
-2664,black,"Bischoff, Klaus",2535,draw,21,,Mainz,2007
+2664,white,"Grischuk, Alexander",2726,lose,16,Mainz,,2007
+2664,white,"Jussupow, Artur",2583,win,59,Mainz,,2007
+2664,white,"Sumets, Andrey",2529,lose,32,Mainz,,2007
+2664,black,"Iljin, Artem",2569,draw,18,Mainz,,2007
+2664,white,"Horvath, Adam",2491,win,25,Mainz,,2007
+2664,black,"Bischoff, Klaus",2535,draw,21,Mainz,,2007
 2664,black,"Balogh, Csaba",2568,draw,31,C88,Paks,2007
 2664,white,"Hou, Yifan",2523,draw,57,E15,Paks,2007
 2664,black,"Berkes, Ferenc",2597,draw,27,D17,Paks,2007

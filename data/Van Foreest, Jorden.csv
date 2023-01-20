@@ -1,4 +1,5 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
+2681,black,"Maghsoodloo, Parham",2719,lose,45,D20,Wijk aan Zee,2023
 2681,white,Gukesh D,2725,draw,32,B30,Wijk aan Zee,2023
 2681,black,"Caruana, Fabiano",2766,lose,46,C42,Wijk aan Zee,2023
 2681,white,"Rapport, Richard",2740,draw,55,C42,Wijk aan Zee,2023
@@ -1516,8 +1517,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2557,white,"Gharamian, Tigran",2627,lose,42,,B12,2016
 2557,black,"Ducarmon, Quinten",2470,win,42,C76,Maastricht,2016
 2557,white,"Ypma, Peter",2272,win,37,B01,Maastricht,2016
-2551,white,"Tkachiev, Vladislav",2660,draw,32,,Stockholm,2016
-2551,black,"Smirin, Ilia",2665,draw,38,,Stockholm,2016
+2551,white,"Tkachiev, Vladislav",2660,draw,32,Stockholm,,2016
+2551,black,"Smirin, Ilia",2665,draw,38,Stockholm,,2016
 2551,white,"Bachmann, Axel",2621,win,26,B08,Stockholm,2016
 2551,white,"Ronneland, Daniel",2196,win,35,C54,Stockholm,2016
 2551,black,"Hess, Christian",2241,win,30,D30,Stockholm,2016

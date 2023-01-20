@@ -2082,7 +2082,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2618,white,"Shabalov, Alexander",2528,draw,67,A31,Saint Louis,2016
 2618,black,"Nakamura, Hikaru",2787,lose,34,E60,Saint Louis USA,2016
 2618,white,"So, Wesley",2773,draw,41,C80,Saint Louis USA,2016
-,black,"Shankland, Samuel L",,draw,45,,Saint Louis USA,2016
+,black,"Shankland, Samuel L",,draw,45,Saint Louis USA,,2016
 2618,white,"Caruana, Fabiano",2795,draw,44,C70,Saint Louis USA,2016
 2618,black,"Chandra, Akshat",2477,draw,36,E15,Saint Louis USA,2016
 2618,white,"Kamsky, Gata",2678,win,38,B03,Saint Louis USA,2016

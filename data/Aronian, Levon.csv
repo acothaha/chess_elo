@@ -2882,18 +2882,18 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2744,black,"Anand, Viswanathan",2779,draw,32,C89,Wijk aan Zee,2007
 2744,white,"Ponomariov, Ruslan",2723,win,39,E32,Wijk aan Zee,2007
 2744,black,"Navara, David",2719,draw,22,D38,Wijk aan Zee,2007
-2744,white,"Anand, Viswanathan",2779,draw,12,,Mainz,2007
-2744,black,"Kasimdzhanov, Rustam",2682,win,14,,Mainz,2007
-2744,black,"Bacrot, Etienne",2705,draw,32,,Mainz,2007
-2744,black,"Anand, Viswanathan",2779,draw,26,,Mainz,2007
-2744,white,"Kasimdzhanov, Rustam",2682,win,17,,Mainz,2007
-2744,white,"Bacrot, Etienne",2705,win,21,,Mainz,2007
-2744,black,"Anand, Viswanathan",2779,draw,15,,Mainz,2007
-2744,white,"Anand, Viswanathan",2779,win,25,,Mainz,2007
-2744,black,"Anand, Viswanathan",2779,lose,53,,Mainz,2007
-2744,white,"Anand, Viswanathan",2779,draw,25,,Mainz,2007
-2744,black,"Anand, Viswanathan",2779,draw,33,,Mainz,2007
-2744,white,"Anand, Viswanathan",2779,win,28,,Mainz,2007
+2744,white,"Anand, Viswanathan",2779,draw,12,Mainz,,2007
+2744,black,"Kasimdzhanov, Rustam",2682,win,14,Mainz,,2007
+2744,black,"Bacrot, Etienne",2705,draw,32,Mainz,,2007
+2744,black,"Anand, Viswanathan",2779,draw,26,Mainz,,2007
+2744,white,"Kasimdzhanov, Rustam",2682,win,17,Mainz,,2007
+2744,white,"Bacrot, Etienne",2705,win,21,Mainz,,2007
+2744,black,"Anand, Viswanathan",2779,draw,15,Mainz,,2007
+2744,white,"Anand, Viswanathan",2779,win,25,Mainz,,2007
+2744,black,"Anand, Viswanathan",2779,lose,53,Mainz,,2007
+2744,white,"Anand, Viswanathan",2779,draw,25,Mainz,,2007
+2744,black,"Anand, Viswanathan",2779,draw,33,Mainz,,2007
+2744,white,"Anand, Viswanathan",2779,win,28,Mainz,,2007
 2741,black,"Gelfand, Boris",2733,draw,16,E06,Moscow,2006
 2741,white,"Grischuk, Alexander",2710,draw,16,E17,Moscow,2006
 2741,black,"Ponomariov, Ruslan",2703,draw,25,C88,Moscow,2006
