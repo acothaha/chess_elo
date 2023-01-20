@@ -8,7 +8,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2662,black,"Sumets, Andrey",2506,draw,30,D45,Sitges,2022
 2662,white,Sankalp Gupta,2485,draw,38,C42,Sitges,2022
 2662,black,"Woodward, Andy",2457,win,39,A40,Sitges,2022
-2662,black,"Ponomariov, Ruslan",2646,lose,47,,A07,2022
+2662,black,"Ponomariov, Ruslan",2646,lose,47,A07,,2022
 2659,black,"Georgiadis, Nico",2577,win,33,C11,Germany,2022
 2659,white,Gopal G.N.,2589,draw,74,B90,Gmund,2022
 2659,black,"Schroeder, Jan-Christian",2553,draw,21,C03,Gmund,2022
@@ -19,10 +19,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2659,black,"Zysk, Robert",2402,draw,24,D43,Gmund,2022
 2659,white,"Player, Edmund C",2212,win,39,D25,Gmund,2022
 2659,black,"Semprun Martinez, Fernando",2116,win,21,B94,Gmund,2022
-2672,white,"Sedlak, Nikola",2472,draw,55,,D12,2022
-2672,black,"Jones, Gawain C",2626,lose,40,,C02,2022
-2672,white,"Sahidi, Samir",2470,win,44,,E12,2022
-2672,black,"Michalik, Peter",2558,draw,50,,A43,2022
+2672,white,"Sedlak, Nikola",2472,draw,55,D12,,2022
+2672,black,"Jones, Gawain C",2626,lose,40,C02,,2022
+2672,white,"Sahidi, Samir",2470,win,44,E12,,2022
+2672,black,"Michalik, Peter",2558,draw,50,A43,,2022
 2672,black,"Blomqvist, Erik",2526,lose,54,C02,Mayrhofen,2022
 2672,black,"Anand, Viswanathan",2756,draw,67,C02,Mayrhofen,2022
 2672,white,"Carlsen, Magnus",2856,lose,34,D04,Mayrhofen,2022
@@ -98,10 +98,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2677,black,"Anand, Viswanathan",2675,lose,28,C02,Warsaw,2022
 2677,white,"Gavrilescu, David",2457,win,55,D35,Warsaw,2022
 2677,black,"So, Wesley",2770,draw,50,D12,Warsaw,2022
-2695,black,"Rabiega, Robert",2505,draw,24,,C11,2022
-2695,white,"Blohberger, Felix",2504,win,40,,B90,2022
-2695,white,"Thybo, Jesper Sondergaard",2559,win,29,,A05,2022
-2695,black,"Hansen, Sune Berg",2527,draw,34,,A04,2022
+2695,black,"Rabiega, Robert",2505,draw,24,C11,,2022
+2695,white,"Blohberger, Felix",2504,win,40,B90,,2022
+2695,white,"Thybo, Jesper Sondergaard",2559,win,29,A05,,2022
+2695,black,"Hansen, Sune Berg",2527,draw,34,A04,,2022
 2695,white,"Nabaty, Tamir",2638,win,42,D35,Czech Republic,2022
 2695,black,"Cyborowski, Lukasz",2485,draw,35,B53,Czech Republic,2022
 2695,black,"Barbot, Pierre",2455,win,55,E90,Terme Catez,2022

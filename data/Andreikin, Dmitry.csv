@@ -40,10 +40,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2729,black,"So, Wesley",2771,draw,23,B32,Toronto,2022
 2729,white,"So, Wesley",2771,lose,38,D04,Toronto,2022
 2729,black,"So, Wesley",2771,draw,39,B46,Toronto,2022
-2724,black,"Rapport, Richard",2762,lose,46,,D31,2022
-2724,white,"Rapport, Richard",2762,draw,37,,C47,2022
-2661,black,"Giri, Anish",2744,win,63,,B46,2022
-2661,white,"Giri, Anish",2744,draw,21,,C24,2022
+2724,black,"Rapport, Richard",2762,lose,46,D31,,2022
+2724,white,"Rapport, Richard",2762,draw,37,C47,,2022
+2661,black,"Giri, Anish",2744,win,63,B46,,2022
+2661,white,"Giri, Anish",2744,draw,21,C24,,2022
 2724,white,"Giri, Anish",2771,draw,32,A48,Belgrade,2022
 2724,black,"Giri, Anish",2771,draw,33,B40,Belgrade,2022
 2724,white,"Bacrot, Etienne",2635,win,42,D27,Belgrade,2022

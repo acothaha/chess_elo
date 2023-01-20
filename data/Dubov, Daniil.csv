@@ -269,11 +269,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2711,black,"Hardaway, Brewington",2199,win,55,A09,chess.com INT,2022
 2711,white,"Janaszak, Daw",2333,win,50,E60,chess.com INT,2022
 2711,black,"Mamedyarov, Shakhriyar",2776,draw,13,D70,Berlin,2022
-2711,white,"Keymer, Vincent",2655,draw,58,,C78,2022
-2711,black,"Dominguez Perez, Leinier",2756,draw,62,,C55,2022
-2711,black,"Keymer, Vincent",2655,lose,37,,E10,2022
+2711,white,"Keymer, Vincent",2655,draw,58,C78,,2022
+2711,black,"Dominguez Perez, Leinier",2756,draw,62,C55,,2022
+2711,black,"Keymer, Vincent",2655,lose,37,E10,,2022
 2711,white,"Mamedyarov, Shakhriyar",2776,draw,26,C50,Berlin,2022
-2711,white,"Dominguez Perez, Leinier",2756,lose,52,,E48,2022
+2711,white,"Dominguez Perez, Leinier",2756,lose,52,E48,,2022
 2711,white,"Matlakov, M.",2674,lose,46,A13,chess.com INT,2022
 2711,white,"So, W.",2778,win,61,D91,chess.com INT,2022
 2711,white,"Sarana, A.",2685,draw,5,D02,chess.com INT,2022
@@ -1852,8 +1852,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2644,black,"Sivuk, Vitaly",2532,win,40,D00,Gjakovo,2016
 2644,white,"Brodsky, Michail",2544,win,44,A16,Sochi,2016
 2644,black,"Rublevsky, Sergei",2692,draw,26,B31,Sochi,2016
-2644,black,"Predke, Alexandr",2535,draw,41,Sochi,,2016
-2644,white,"Yandemirov, Valeri",2388,win,34,Sochi,,2016
+2644,black,"Predke, Alexandr",2535,draw,41,,Sochi,2016
+2644,white,"Yandemirov, Valeri",2388,win,34,,Sochi,2016
 2644,white,"Korobov, Anton",2674,win,41,A07,Sochi,2016
 2644,black,"Matlakov, Maxim",2693,draw,40,A11,Sochi,2016
 2644,black,"Matlakov, Maxim",2693,draw,41,A15,Sochi,2016

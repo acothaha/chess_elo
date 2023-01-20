@@ -1,6 +1,6 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
-2616,white,"Shirov, Alexei",2590,win,52,,B30,2022
-2616,black,"Shirov, Alexei",2590,draw,26,,B40,2022
+2616,white,"Shirov, Alexei",2590,win,52,B30,,2022
+2616,black,"Shirov, Alexei",2590,draw,26,B40,,2022
 2616,white,Narayanan.S.L,2588,draw,51,C47,Jerusalem,2022
 2616,black,"Onischuk, Alexander",2693,draw,20,E92,Jerusalem,2022
 2668,white,"Markus, Robert",2616,draw,31,C43,Chennai,2022

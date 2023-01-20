@@ -1,20 +1,20 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2676,white,"Stevic, Hrvoje",2543,win,46,D20,Germany,2022
 2676,black,"Hracek, Zbynek",2548,draw,18,E10,Germany,2022
-2670,black,"Kramer, Julian",2467,win,35,,B90,2022
-2670,white,"Teclaf, Pawel",2551,win,42,,C11,2022
+2670,black,"Kramer, Julian",2467,win,35,B90,,2022
+2670,white,"Teclaf, Pawel",2551,win,42,C11,,2022
 2672,black,"Handke, Florian, Dr.",2533,draw,24,C53,Germany,2022
 2672,black,"Braun, Arik",2594,draw,20,D02,Germany,2022
 2672,black,"Zilka, Stepan",2593,win,67,C45,Germany,2022
 2672,black,"Rogozenco, Dorian",2430,draw,23,D30,Germany,2022
 2659,black,"Martinovic, Sasa",2554,win,43,D30,Germany,2022
 2659,white,"Dragnev, Valentin",2546,draw,46,D41,Germany,2022
-2659,black,"Schmittdiel, Eckhard",2402,win,25,,B14,2022
-2659,white,"Pechac, Jergus",2599,win,34,,D12,2022
-2656,black,"Rabiega, Robert",2503,draw,21,,C55,2022
-2656,white,"Piorun, Kacper",2635,win,38,,E10,2022
-2656,black,"Vaisser, Anatoli",2488,win,104,,D31,2022
-2656,white,"Vandenbussche, Thibaut",2409,draw,41,,C10,2022
+2659,black,"Schmittdiel, Eckhard",2402,win,25,B14,,2022
+2659,white,"Pechac, Jergus",2599,win,34,D12,,2022
+2656,black,"Rabiega, Robert",2503,draw,21,C55,,2022
+2656,white,"Piorun, Kacper",2635,win,38,E10,,2022
+2656,black,"Vaisser, Anatoli",2488,win,104,D31,,2022
+2656,white,"Vandenbussche, Thibaut",2409,draw,41,C10,,2022
 2661,white,"Kraemer, Enrico",2218,win,41,C95,Berlin,2021
 2661,black,"Baramidze, David",2601,draw,20,C50,Berlin,2021
 2661,black,"Kollars, Dmitrij",2621,draw,21,C07,Berlin,2021
@@ -219,8 +219,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2703,black,"Firouzja, Alireza",2485,win,74,C15,Tashkent,2016
 2703,white,"Gundavaa, Bayarsaikhan",2499,draw,30,B90,Tashkent,2016
 2703,black,"Omar, Noaman",2377,win,40,E10,Tashkent,2016
-2694,white,"Berg, Emanuel",2575,win,38,,2016,
-2694,black,"Landa, Konstantin",2618,draw,21,,2016,
+2694,white,"Berg, Emanuel",2575,win,38,,,2016
+2694,black,"Landa, Konstantin",2618,draw,21,,,2016
 2704,black,"Mihok, Oliver",2515,draw,28,D01,Germany,2016
 2704,white,"Li, Chao B",2756,win,50,C42,Germany,2016
 2704,black,"Sandipan, Chanda",2574,draw,43,D36,Germany,2016
@@ -913,16 +913,16 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2682,white,"Lepelletier, Benoit",2421,draw,43,C64,France,2007
 2672,black,"Hickl, Joerg",2545,draw,51,A26,Germany,2007
 2672,white,"Nijboer, Friso",2598,draw,31,A81,Netherlands,2007
-2682,black,"Bacrot, Etienne",2705,lose,14,Mainz,,2007
-2682,white,"Aronian, Levon",2744,lose,14,Mainz,,2007
-2682,black,"Anand, Viswanathan",2779,lose,21,Mainz,,2007
-2682,white,"Bacrot, Etienne",2705,win,23,Mainz,,2007
-2682,black,"Aronian, Levon",2744,lose,17,Mainz,,2007
-2682,white,"Anand, Viswanathan",2779,draw,26,Mainz,,2007
-2682,white,"Bacrot, Etienne",2705,lose,24,Mainz,,2007
-2682,black,"Bacrot, Etienne",2705,lose,25,Mainz,,2007
-2682,white,"Bacrot, Etienne",2705,draw,22,Mainz,,2007
-2682,black,"Bacrot, Etienne",2705,draw,30,Mainz,,2007
+2682,black,"Bacrot, Etienne",2705,lose,14,,Mainz,2007
+2682,white,"Aronian, Levon",2744,lose,14,,Mainz,2007
+2682,black,"Anand, Viswanathan",2779,lose,21,,Mainz,2007
+2682,white,"Bacrot, Etienne",2705,win,23,,Mainz,2007
+2682,black,"Aronian, Levon",2744,lose,17,,Mainz,2007
+2682,white,"Anand, Viswanathan",2779,draw,26,,Mainz,2007
+2682,white,"Bacrot, Etienne",2705,lose,24,,Mainz,2007
+2682,black,"Bacrot, Etienne",2705,lose,25,,Mainz,2007
+2682,white,"Bacrot, Etienne",2705,draw,22,,Mainz,2007
+2682,black,"Bacrot, Etienne",2705,draw,30,,Mainz,2007
 2672,black,"Adianto, Utut",2589,draw,26,A58,Doha,2006
 2672,white,"Ghaem Maghami, Ehsan",2581,win,34,E32,Doha,2006
 2672,white,"Batchuluun, Tsegmed",2404,win,43,D35,Doha,2006

@@ -2,15 +2,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2657,black,"Warakomski, Tomasz",2535,draw,22,B93,Czech Republic,2023
 2657,white,"Korobov, Anton",2651,draw,49,C11,Czech Republic,2023
 2674,white,"Ragger, Markus",2632,draw,70,C84,Germany,2022
-2674,black,"Rozentalis, Eduardas",2500,draw,65,,B22,2022
-2674,white,"Bluebaum, Matthias",2651,lose,66,,C42,2022
-2674,black,"Markus, Robert",2608,draw,31,,E10,2022
+2674,black,"Rozentalis, Eduardas",2500,draw,65,B22,,2022
+2674,white,"Bluebaum, Matthias",2651,lose,66,C42,,2022
+2674,black,"Markus, Robert",2608,draw,31,E10,,2022
 2674,white,"Vachier-Lagrave, Maxime",2736,draw,41,C42,Jenbach,2022
-2668,white,"Pavlidis, Antonios",2550,draw,30,,C77,2022
-2668,black,"Amin, Bassem",2667,draw,72,,A05,2022
-2668,black,"Delchev, Aleksander",2503,win,56,,B22,2022
-2668,white,"Nguyen, Thai Dai Van",2634,draw,75,,C43,2022
-2668,black,"Kantans, Toms",2514,win,28,,B94,2022
+2668,white,"Pavlidis, Antonios",2550,draw,30,C77,,2022
+2668,black,"Amin, Bassem",2667,draw,72,A05,,2022
+2668,black,"Delchev, Aleksander",2503,win,56,B22,,2022
+2668,white,"Nguyen, Thai Dai Van",2634,draw,75,C43,,2022
+2668,black,"Kantans, Toms",2514,win,28,B94,,2022
 2668,white,"Rapport, Richard",2754,draw,35,C65,Mayrhofen,2022
 2668,black,"Pelletier, Yannick",2521,draw,31,D45,Mayrhofen,2022
 2668,black,"Kryvoruchko, Yuriy",2658,lose,35,B52,Mayrhofen,2022
@@ -69,10 +69,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2693,black,"Saric, Ante",2510,draw,47,D10,Vodice,2022
 2693,white,"Vojak, Daniel",2335,win,27,B90,Vodice,2022
 2693,black,"Pavic, Filip",2270,win,55,B52,Vodice,2022
-2687,white,"Nagy, Gabor",2507,win,44,,B42,2022
-2687,black,"Haria, Ravi",2499,win,40,,B90,2022
-2695,black,"Arnaudov, G. Petar",2469,win,25,,A41,2022
-2695,white,"Neef, Maximilian",2500,win,60,,C10,2022
+2687,white,"Nagy, Gabor",2507,win,44,B42,,2022
+2687,black,"Haria, Ravi",2499,win,40,B90,,2022
+2695,black,"Arnaudov, G. Petar",2469,win,25,A41,,2022
+2695,white,"Neef, Maximilian",2500,win,60,C10,,2022
 2695,white,"Sahidi, Samir",2440,lose,76,C78,Czech Republic,2022
 2695,white,"Druska, Juraj",2506,win,43,B27,Czech Republic,2022
 2695,white,"Dragnev, Valentin",2548,lose,48,C42,Czech Republic,2022
@@ -193,7 +193,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2653,black,"Pichot, Alan",2630,lose,31,B94,Sochi,2021
 2653,white,"Pichot, Alan",2630,draw,20,C53,Sochi,2021
 2653,white,"Miguel, Sergio",2286,win,53,C65,Sochi,2021
-2653,black,"Miguel, Sergio",2286,win,29,,E70,2021
+2653,black,"Miguel, Sergio",2286,win,29,E70,,2021
 2650,white,"Grischuk, Alexander",2784,draw,43,C65,Zagreb,2021
 2650,black,"Anand, Viswanathan",2751,draw,48,B40,Zagreb,2021
 2650,white,"Mamedyarov, Shakhriyar",2761,draw,23,C80,Zagreb,2021
@@ -499,16 +499,16 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2689,white,"Kapnisis, Spyridon",2456,draw,43,C84,Rio Achaea,2018
 2689,white,"Zawadzka, Jolanta",2439,win,38,C78,Rio Achaea,2018
 2689,black,"Kelires, Andreas",2530,win,66,A45,Rio Achaea,2018
-2685,black,"Sonis, Francesco",2448,win,43,,E11,2018
-2685,white,"Santos Latasa, Jaime",2567,win,33,,B90,2018
-2685,white,Praggnanandhaa R,2529,draw,41,,C78,2018
+2685,black,"Sonis, Francesco",2448,win,43,E11,,2018
+2685,white,"Santos Latasa, Jaime",2567,win,33,B90,,2018
+2685,white,Praggnanandhaa R,2529,draw,41,C78,,2018
 2685,white,"Praggnanandhaa, R.",2529,draw,41,C78,Ortisei,2018
-2685,black,"Pruijssers, Roeland",2514,win,79,,B06,2018
-2685,black,"Kveinys, Aloyzas",2519,draw,29,,D70,2018
+2685,black,"Pruijssers, Roeland",2514,win,79,B06,,2018
+2685,black,"Kveinys, Aloyzas",2519,draw,29,D70,,2018
 2685,black,"Kveinys, Aloyzas",2519,draw,25,D76,Ortisei,2018
-2685,white,"Gholami, Aryan",2490,win,53,,B30,2018
-2685,white,"Curien, Nicolas",2204,win,46,,C19,2018
-2685,black,Vaishali R,2310,draw,69,,A21,2018
+2685,white,"Gholami, Aryan",2490,win,53,B30,,2018
+2685,white,"Curien, Nicolas",2204,win,46,C19,,2018
+2685,black,Vaishali R,2310,draw,69,A21,,2018
 2685,black,"Vaishali, Ramesh Babu",2310,draw,69,A21,Ortisei,2018
 2685,white,"Zenari, Marco",2177,win,49,B76,Ortisei,2018
 2685,white,"Sprenger, Jan Michael, Dr.",2496,lose,30,B42,Mali Losinj,2018
@@ -894,8 +894,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2650,black,"Saric, Ante",2594,draw,11,D02,Mali Losinj,2016
 2650,white,"Brkic, Ante",2584,win,51,C89,Mali Losinj,2016
 2650,black,"Galic, Ivan",2355,win,52,E01,Mali Losinj,2016
-,white,"Lupulescu, Constantin",,lose,50,,2016,
-2654,black,"Ragger, Markus",2697,lose,77,,2016,
+,white,"Lupulescu, Constantin",,lose,50,,,2016
+2654,black,"Ragger, Markus",2697,lose,77,,,2016
 2678,black,"Svane, Rasmus",2542,draw,74,E92,Germany,2016
 2678,white,"Trent, Lawrence",2452,win,36,C78,Germany,2016
 2651,black,"Svetushkin, Dmitry",2561,lose,38,E92,Karlsruhe,2016

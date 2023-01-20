@@ -1,6 +1,6 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
-2636,white,"Lu, Shanglei",2627,draw,41,,E04,2022
-2636,black,"Lu, Shanglei",2627,lose,29,,C89,2022
+2636,white,"Lu, Shanglei",2627,draw,41,E04,,2022
+2636,black,"Lu, Shanglei",2627,lose,29,C89,,2022
 2636,black,"Vokhidov, Shamsiddin",2471,lose,29,C88,Jerusalem,2022
 2636,white,"Radjabov, Teimour",2718,win,32,A29,Jerusalem,2022
 2636,white,"Rodshtein, Maxim",2624,win,31,D43,Jerusalem,2022
@@ -70,8 +70,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2696,black,"Gajewski, Grzegorz",2589,win,95,C55,Kruszwica,2022
 2696,black,"Sabuk, Piotr",2420,win,48,E47,Kruszwica,2022
 2696,white,"Sabuk, Piotr",2420,win,40,D30,Kruszwica,2022
-2696,white,"Stern, Rene",2509,win,34,,A13,2022
-2696,black,"Sarana, Alexey",2675,draw,25,,E10,2022
+2696,white,"Stern, Rene",2509,win,34,A13,,2022
+2696,black,"Sarana, Alexey",2675,draw,25,E10,,2022
 2686,black,"Rapport, Richard",2763,draw,44,B51,Berlin,2022
 2686,white,"Rapport, Richard",2763,lose,46,A41,Berlin,2022
 2686,white,"Fedoseev, Vladimir",2704,draw,30,D37,Berlin,2022

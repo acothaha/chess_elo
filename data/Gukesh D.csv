@@ -72,11 +72,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2726,black,"Alekseenko, Kirill",2707,draw,30,B30,Linares,2022
 2726,white,"Jones, Gawain C",2623,win,30,D94,Linares,2022
 2726,black,"Martinez Fernandez, Adrian",2338,win,39,B31,Linares,2022
-2699,white,"Ivic, Velimir",2583,draw,30,,D45,2022
-2699,black,"Nguyen, Thai Dai Van",2629,draw,45,,B31,2022
-2699,white,"Nigmatov, Ortik",2437,win,37,,A20,2022
-2699,white,"Nigmatov, Ortik",2437,win,37,,A20,2022
-2699,black,"Sychev, Klementy",2547,draw,42,,B31,2022
+2699,white,"Ivic, Velimir",2583,draw,30,D45,,2022
+2699,black,"Nguyen, Thai Dai Van",2629,draw,45,B31,,2022
+2699,white,"Nigmatov, Ortik",2437,win,37,A20,,2022
+2699,white,"Nigmatov, Ortik",2437,win,37,A20,,2022
+2699,black,"Sychev, Klementy",2547,draw,42,B31,,2022
 2684,white,"Idani, Pouya",2641,win,41,D45,Ankara,2022
 2684,white,"Maghsoodloo, Parham",2701,lose,29,E10,Ankara,2022
 ,black,"Kobalia, Mikhail",,lose,48,B31,Ankara ,2022
@@ -163,14 +163,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2637,white,Bhagat Kush,1848,win,27,E71,La Roda,2022
 2637,white,Praggnanandhaa R,2624,lose,38,E48,Reykjavik,2022
 2637,white,"Hjartarson, Johann",2465,win,46,E15,Reykjavik,2022
-2637,black,"Laurent-Paoli, Pierre",2487,draw,56,,E10,2022
-2637,white,"Steingrimsson, Hedinn",2538,draw,33,,D40,2022
-2637,black,"Fier, Alexandr",2573,draw,22,,B31,2022
-2637,white,"Maze, Sebastien",2524,win,46,,E10,2022
+2637,black,"Laurent-Paoli, Pierre",2487,draw,56,E10,,2022
+2637,white,"Steingrimsson, Hedinn",2538,draw,33,D40,,2022
+2637,black,"Fier, Alexandr",2573,draw,22,B31,,2022
+2637,white,"Maze, Sebastien",2524,win,46,E10,,2022
 2637,black,"Cornette, Matthieu",2569,draw,34,B31,Reykjavik,2022
 2637,white,"Fantinel, Thibault",2378,win,36,E94,Reykjavik,2022
 2637,black,"Cornette, Matthieu",2569,draw,34,B31,Reykjavik,2022
-2637,black,Mahitosh Dey,2233,win,52,,A46,2022
+2637,black,Mahitosh Dey,2233,win,52,A46,,2022
 2614,black,"Gupta, Abhijeet",2628,win,58,E24,Delhi,2022
 2614,white,Erigaisi Arjun,2660,draw,45,B90,Delhi,2022
 2614,black,Karthik Venkataraman,2485,win,29,E10,Kanpur,2022
@@ -265,11 +265,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2640,white,"Golubka, Petro",2438,win,58,E10,Yerevan,2021
 2640,black,Vaishali R,2419,win,43,B51,Yerevan,2021
 2640,white,Prraneeth Vuppala,2253,win,42,A07,Yerevan,2021
-2640,black,Vaishali R,2419,draw,43,,B12,2021
-2640,white,"Petriashvili, Nikoloz",2432,draw,43,,D85,2021
-2640,black,"Davtyan, Artur",2453,draw,39,,D30,2021
-2640,white,"Mitrabha, Guha",2479,win,48,,E71,2021
-2640,black,"Goganov, Aleksey",2557,lose,49,,C79,2021
+2640,black,Vaishali R,2419,draw,43,B12,,2021
+2640,white,"Petriashvili, Nikoloz",2432,draw,43,D85,,2021
+2640,black,"Davtyan, Artur",2453,draw,39,D30,,2021
+2640,white,"Mitrabha, Guha",2479,win,48,E71,,2021
+2640,black,"Goganov, Aleksey",2557,lose,49,C79,,2021
 2640,white,"Iniyan, P",2522,win,42,E94,Plovdiv,2021
 2599,white,"Iniyan, P",2522,win,42,E94,Plovdiv,2021
 2640,black,"Asadli, Vugar",2578,draw,29,C77,Plovdiv,2021

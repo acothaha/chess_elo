@@ -293,14 +293,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2634,black,Bharath Subramaniyam H,2435,draw,40,C47,Yerevan,2021
 2634,white,"Sargsyan, Anna M.",2402,win,43,A05,Yerevan,2021
 2634,black,Wagh Suyog,2246,win,59,A40,Yerevan,2021
-2634,white,"Hakobyan, Aram",2603,lose,80,,C89,2021
-2634,black,Narayanan.S.L,2647,lose,58,,D41,2021
-2634,white,"Shahinyan, David",2469,win,49,,A56,2021
-2634,black,"Farahat, Ali",2392,win,24,,B50,2021
-2634,black,"Quparadze, Giga",2495,lose,46,,C88,2021
-2634,white,Bharath Subramaniyam H,2435,win,57,,D30,2021
-2634,black,"Pour Agha Bala, Amirreza",2432,draw,60,,B69,2021
-2634,white,"Alaverdyan, Gevorg",2320,win,61,,E73,2021
+2634,white,"Hakobyan, Aram",2603,lose,80,C89,,2021
+2634,black,Narayanan.S.L,2647,lose,58,D41,,2021
+2634,white,"Shahinyan, David",2469,win,49,A56,,2021
+2634,black,"Farahat, Ali",2392,win,24,B50,,2021
+2634,black,"Quparadze, Giga",2495,lose,46,C88,,2021
+2634,white,Bharath Subramaniyam H,2435,win,57,D30,,2021
+2634,black,"Pour Agha Bala, Amirreza",2432,draw,60,B69,,2021
+2634,white,"Alaverdyan, Gevorg",2320,win,61,E73,,2021
 2626,black,"Sarana, Alexey",2635,draw,30,D38,Plovdiv,2021
 2626,white,"Abdusattorov, Nodirbek",2648,lose,48,A50,Sharjah,2021
 2626,black,"Adhiban, Baskaran",2672,draw,22,C42,Sharjah,2021

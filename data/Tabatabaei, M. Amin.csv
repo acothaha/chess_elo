@@ -39,8 +39,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2655,black,Samant Aditya S,2467,win,46,B90,Barcelona,2022
 2655,white,"Peelen, Piet",2350,win,38,B12,Barcelona,2022
 ,black,"Duda, Jan-Krzysztof",,draw,29,C80,Deizisau,2022
-2657,white,"Michalik, Peter",2558,lose,57,,C50,2022
-2657,black,"Baldauf, Marco",2506,win,43,,D10,2022
+2657,white,"Michalik, Peter",2558,lose,57,C50,,2022
+2657,black,"Baldauf, Marco",2506,win,43,D10,,2022
 2657,black,"Nemeth, Miklos",2459,win,42,B53,Mayrhofen,2022
 2657,white,"Maghsoodloo, Parham",2721,draw,45,B67,Mayrhofen,2022
 2657,black,"Pijpers, Arthur",2455,win,58,C67,Mayrhofen,2022

@@ -104,17 +104,17 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2693,white,"Koziorowicz, Michal",2231,win,39,A02,chess.com INT,2022
 2693,black,"Danilov, V.",2378,win,28,A01,chess.com INT,2022
 2693,white,"Shapiro, Dav",2399,draw,76,D10,chess.com INT,2022
-2684,black,"Xiong, Jeffery",2686,draw,63,,A20,2022
+2684,black,"Xiong, Jeffery",2686,draw,63,A20,,2022
 2684,white,"Nyzhnyk, I.",2674,win,57,B84,Saint Louis USA,2022
-2586,black,"Nyzhnyk, Illya",2658,win,94,,A28,2022
-2684,white,"Robson, Ray",2676,win,34,,A29,2022
-2684,black,"Dragun, Kamil",2586,draw,98,,E04,2022
-2684,white,"Hakobyan, Aram",2601,win,54,,B92,2022
+2586,black,"Nyzhnyk, Illya",2658,win,94,A28,,2022
+2684,white,"Robson, Ray",2676,win,34,A29,,2022
+2684,black,"Dragun, Kamil",2586,draw,98,E04,,2022
+2684,white,"Hakobyan, Aram",2601,win,54,B92,,2022
 2684,black,"Lenderman, A.",2600,win,40,C53,Saint Louis USA,2022
-2684,white,"Swiercz, Dariusz",2656,draw,91,,A13,2022
-2684,black,"Niemann, Hans Moke",2642,draw,48,,C81,2022
-2684,white,"Antipov, Mikhail Al.",2615,draw,31,,D85,2022
-2684,black,"Nyzhnyk, Illya",2674,draw,40,,A22,2022
+2684,white,"Swiercz, Dariusz",2656,draw,91,A13,,2022
+2684,black,"Niemann, Hans Moke",2642,draw,48,C81,,2022
+2684,white,"Antipov, Mikhail Al.",2615,draw,31,D85,,2022
+2684,black,"Nyzhnyk, Illya",2674,draw,40,A22,,2022
 2684,white,"Baskin, R.",2383,win,49,B54,chess.com INT,2022
 2684,white,"Golubka, P.",2401,win,40,D35,chess.com INT,2022
 2684,black,"Dreev, A.",2623,lose,45,A52,chess.com INT,2022
@@ -268,7 +268,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2647,white,"Bok, Benjamin",2624,win,69,E10,Sochi,2021
 2647,black,"Bok, Benjamin",2624,lose,64,E37,Sochi,2021
 2647,black,"Subramaniam, Sumant",2155,win,33,E68,Sochi,2021
-2647,white,"Subramaniam, Sumant",2155,win,33,,C70,2021
+2647,white,"Subramaniam, Sumant",2155,win,33,C70,,2021
 2660,black,"Petrosyan, Manuel",2625,draw,31,D45,Jermuk,2021
 2660,white,"Hakobyan, Aram",2598,lose,61,B92,Jermuk,2021
 2660,white,"Martirosyan, Haik M.",2648,draw,63,A20,Jermuk,2021
@@ -1076,12 +1076,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2603,white,"Colas, Joshua",2387,win,37,B42,Philadelphia,2016
 2603,black,"Murshed, Niaz",2444,draw,16,E04,Philadelphia,2016
 2603,white,"Santarius, Erik F",2302,win,65,B12,Philadelphia,2016
-2589,white,"Sasikiran, Krishnan",2643,draw,51,Stockholm,,2016
-2589,black,"Sethuraman, SP.",2658,draw,88,Stockholm,,2016
-2589,white,"Predojevic, Borki",2654,draw,23,Stockholm,,2016
+2589,white,"Sasikiran, Krishnan",2643,draw,51,,Stockholm,2016
+2589,black,"Sethuraman, SP.",2658,draw,88,,Stockholm,2016
+2589,white,"Predojevic, Borki",2654,draw,23,,Stockholm,2016
 2589,white,"Onischuk, Vladimir",2620,draw,49,B19,Stockholm,2016
-2589,black,"Shirov, Alexei",2686,draw,46,Stockholm,,2016
-2589,white,"Postny, Evgeny",2673,draw,31,Stockholm,,2016
+2589,black,"Shirov, Alexei",2686,draw,46,,Stockholm,2016
+2589,white,"Postny, Evgeny",2673,draw,31,,Stockholm,2016
 2589,black,"Koepke, Christian",2313,win,39,C70,Stockholm,2016
 2589,white,"Risting, Eivind Olav",2175,win,35,C00,Stockholm,2016
 2589,black,"Dahlstrom, Rickard",1994,win,42,A28,Stockholm,2016

@@ -59,8 +59,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2697,white,"Iljiushenok, Ilia",2540,draw,41,A00,Obninsk,2022
 2697,black,"Sjugirov, Sanan",2696,draw,10,D35,Obninsk,2022
 2697,white,"Kokarev, Dmitry",2582,win,57,A45,Obninsk,2022
-2697,black,"Shapiro, David",2393,win,34,,D45,2022
-2697,white,"Rozum, Ivan",2530,draw,33,,B13,2022
+2697,black,"Shapiro, David",2393,win,34,D45,,2022
+2697,white,"Rozum, Ivan",2530,draw,33,B13,,2022
 2700,white,"Grischuk, Alexander",2742,draw,17,A05,Sochi,2022
 2700,black,"Sargissian, Gabriel",2694,draw,9,D35,Sochi,2022
 2700,black,"Tomashevsky, Evgeny",2708,draw,26,D43,Sochi,2022

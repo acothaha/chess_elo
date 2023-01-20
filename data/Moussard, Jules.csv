@@ -36,25 +36,25 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2684,white,"Gasic Merino, Franco",2195,draw,87,B90,Sitges,2022
 2676,white,"Parligras, Mircea Emilian",2567,win,56,C65,Germany,2022
 2686,black,"Mamedyarov, Shakhriyar",2747,draw,27,D35,Deizisau,2022
-2634,white,"Nihal, Sarin",2616,draw,50,,C88,2022
-2634,black,"Nihal, Sarin",2616,draw,42,,A28,2022
+2634,white,"Nihal, Sarin",2616,draw,50,C88,,2022
+2634,black,"Nihal, Sarin",2616,draw,42,A28,,2022
 2634,white,"Xu, Xiangyu",2577,win,70,B92,Jerusalem,2022
 2634,black,"Anton Guijarro, David",2633,lose,124,D58,Jerusalem,2022
 2634,black,"Shevchenko, Kirill",2584,lose,51,A29,Jerusalem,2022
-2676,black,"Acs, Peter",2577,draw,53,,B52,2022
-2676,black,"Nagy, Gabor",2482,draw,65,,A28,2022
-2676,white,"Subelj, Jan",2486,lose,41,,C02,2022
+2676,black,"Acs, Peter",2577,draw,53,B52,,2022
+2676,black,"Nagy, Gabor",2482,draw,65,A28,,2022
+2676,white,"Subelj, Jan",2486,lose,41,C02,,2022
 2676,white,"Kuljasevic, Davorin",2552,win,40,C92,Jenbach,2022
-2686,white,"Schroeder, Jan-Christian",2544,draw,100,,C83,2022
-2686,black,"Nisipeanu, Liviu-Dieter",2615,draw,30,,A50,2022
-2686,black,"Livaic, Leon",2574,win,56,,E10,2022
-2686,white,"Yilmaz, Mustafa",2621,draw,60,,C77,2022
-2686,black,"Bosiocic, Marin",2548,win,67,,A07,2022
-2686,white,"Stevic, Hrvoje",2565,win,45,,C72,2022
-2686,black,"Shevchenko, Kirill",2645,draw,40,,C42,2022
-2686,white,"Zelcic, Robert",2495,draw,60,,B12,2022
+2686,white,"Schroeder, Jan-Christian",2544,draw,100,C83,,2022
+2686,black,"Nisipeanu, Liviu-Dieter",2615,draw,30,A50,,2022
+2686,black,"Livaic, Leon",2574,win,56,E10,,2022
+2686,white,"Yilmaz, Mustafa",2621,draw,60,C77,,2022
+2686,black,"Bosiocic, Marin",2548,win,67,A07,,2022
+2686,white,"Stevic, Hrvoje",2565,win,45,C72,,2022
+2686,black,"Shevchenko, Kirill",2645,draw,40,C42,,2022
+2686,white,"Zelcic, Robert",2495,draw,60,B12,,2022
 2686,black,"Kozul, Zdenko",2549,win,26,E10,"Zagreb, Croatia",2022
-2686,white,Santos Latasa,2677,draw,35,,A13,2022
+2686,white,Santos Latasa,2677,draw,35,A13,,2022
 2686,white,"Palac, Mladen",2516,win,20,B90,"Zagreb, Croatia",2022
 2686,black,"Wojtaszek, Radoslaw",2693,draw,26,E10,Mayrhofen,2022
 2686,white,"Roiz, Michael",2579,draw,39,C55,Mayrhofen,2022

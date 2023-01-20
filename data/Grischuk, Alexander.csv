@@ -2600,16 +2600,16 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2726,black,"Euler, Gerd",2379,win,29,D27,Mainz,2007
 2726,white,"Sprotte, Norbert",2245,win,50,D11,Mainz,2007
 2726,black,"Schoenhof, Timo",2049,win,36,B25,Mainz,2007
-2726,black,"Harikrishna, Pentala",2664,win,16,Mainz,,2007
-2726,white,"Bologan, Viktor",2650,lose,17,Mainz,,2007
-2726,black,"Gashimov, Vugar",2655,win,31,Mainz,,2007
-2726,white,"Iljin, Artem",2569,win,17,Mainz,,2007
-2726,black,"Moiseenko, Alexander",2641,draw,15,Mainz,,2007
-2726,white,"Sargissian, Gabriel",2667,draw,33,Mainz,,2007
-2726,black,"Gyimesi, Zoltan",2607,win,19,Mainz,,2007
-2726,black,"Ubilava, Elizbar",2540,draw,28,Mainz,,2007
-2726,white,"Gutman, Lev",2408,win,15,Mainz,,2007
-2726,black,"Schwencke, Allard",,win,18,Mainz,,2007
+2726,black,"Harikrishna, Pentala",2664,win,16,,Mainz,2007
+2726,white,"Bologan, Viktor",2650,lose,17,,Mainz,2007
+2726,black,"Gashimov, Vugar",2655,win,31,,Mainz,2007
+2726,white,"Iljin, Artem",2569,win,17,,Mainz,2007
+2726,black,"Moiseenko, Alexander",2641,draw,15,,Mainz,2007
+2726,white,"Sargissian, Gabriel",2667,draw,33,,Mainz,2007
+2726,black,"Gyimesi, Zoltan",2607,win,19,,Mainz,2007
+2726,black,"Ubilava, Elizbar",2540,draw,28,,Mainz,2007
+2726,white,"Gutman, Lev",2408,win,15,,Mainz,2007
+2726,black,"Schwencke, Allard",,win,18,,Mainz,2007
 2726,black,"Avrukh, Boris",2645,win,54,D39,Biel,2007
 2726,white,"Polgar, Judit",2707,draw,72,C42,Biel,2007
 2726,black,"Bu, Xiangzhi",2685,draw,20,D39,Biel,2007
@@ -2691,7 +2691,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2709,black,"Erenburg, Sergey",2585,lose,41,B08,Rishon Le Ziyyon,2006
 2709,white,"Radjabov, Teimour",2728,win,72,B10,Rishon Le Ziyyon,2006
 2709,white,"Svidler, Peter",2742,win,63,B43,Rishon Le Ziyyon,2006
-2709,black,"Polgar, Judit",2710,lose,20,Rishon Le Ziyyon,,2006
+2709,black,"Polgar, Judit",2710,lose,20,,Rishon Le Ziyyon,2006
 2709,white,"Dizdar, Goran",2521,win,27,C16,Mainz,2006
 2709,black,"Sargissian, Gabriel",2667,lose,60,D38,Mainz,2006
 2709,white,"Ginsburg, Gennadij",2506,win,50,C92,Mainz,2006

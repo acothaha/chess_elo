@@ -59,11 +59,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2716,white,"Niemann, Hans Moke",2699,draw,79,E21,Saint Louis,2022
 2716,black,"Abasov, Nijat",2646,draw,60,B84,Saint Louis,2022
 2716,white,"Nguyen, Thai Dai Van",2645,draw,41,A20,Saint Louis,2022
-2708,white,"Erturan, Yakup",2380,win,43,,D35,2022
-2708,black,"Romanov, Evgeny",2570,lose,57,,A28,2022
-2708,white,"Solak, Dragan",2594,win,46,,D17,2022
-2708,black,"Gurel, Ediz",2432,win,35,,B80,2022
-2708,black,"Dudin, Gleb",2480,win,51,,E12,2022
+2708,white,"Erturan, Yakup",2380,win,43,D35,,2022
+2708,black,"Romanov, Evgeny",2570,lose,57,A28,,2022
+2708,white,"Solak, Dragan",2594,win,46,D17,,2022
+2708,black,"Gurel, Ediz",2432,win,35,B80,,2022
+2708,black,"Dudin, Gleb",2480,win,51,E12,,2022
 2720,white,"Gadimbayli, Abdulla",2491,win,25,E01,Ankara,2022
 ,black,"Mammadov, Zaur",,win,42,B22,Ankara,2022
 2720,white,"Abdusattorov, Nodirbek",2688,draw,30,D27,Ankara,2022
@@ -1897,4 +1897,4 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 ,black,"Iermito, Sebastian",2117,win,48,B33,Chalkidiki,2003
 ,white,"Lifshits, Dan",,win,33,B89,Chalkidiki,2003
 ,black,"Belous, Vladimir",,draw,32,D45,Chalkidiki,2003
-,black,"Lobanov, Sergei",,win,36,,B46,Ankara 
+,black,"Lobanov, Sergei",,win,36,B46,,Ankara 

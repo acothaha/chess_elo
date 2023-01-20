@@ -9,8 +9,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2652,black,"Galuszka, Tomasz",2084,win,36,B90,Katowice,2022
 2652,white,"Paluska, Karol",1744,win,55,B13,Katowice,2022
 2657,black,"Nisipeanu, Liviu-Dieter",2603,draw,20,D10,Germany,2022
-2651,white,"Vitiugov, Nikita",2722,draw,20,,D43,2022
-2651,black,"Plenca, Julijan",2447,win,48,,B94,2022
+2651,white,"Vitiugov, Nikita",2722,draw,20,D43,,2022
+2651,black,"Plenca, Julijan",2447,win,48,B94,,2022
 2651,white,"Movsesian, Sergei",2619,draw,38,A46,Mayrhofen,2022
 2651,black,"Maze, Sebastien",2530,draw,51,B50,Mayrhofen,2022
 2651,white,"Nisipeanu, Liviu-Dieter",2615,win,47,E10,Mayrhofen,2022
@@ -45,7 +45,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2645,black,"Feller, Sebastien",2574,draw,77,D13,Chartres,2022
 2645,black,"Parligras, Mircea Emilian",2579,draw,28,D17,Chartres,2022
 2645,white,"Fressinet, Laurent",2624,draw,23,C55,Chartres,2022
-2663,white,"McShane, Luke J",2647,draw,30,,C65,2022
+2663,white,"McShane, Luke J",2647,draw,30,C65,,2022
 2635,white,"Shirov, Alexei",2695,draw,35,C84,Malmo,2022
 2635,black,"Niemann, Hans Moke",2656,draw,38,D70,Malmo,2022
 2635,white,"Salem, A.R. Saleh",2690,win,37,B13,Malmo,2022
@@ -214,11 +214,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2681,black,"Perunovic, Milos",2578,draw,30,C45,Budva,2019
 2681,white,"Gorodetzky, David",2488,draw,45,C02,Budva,2019
 2681,black,"Vidit, Santosh Gujrathi",2722,draw,52,A04,Budva,2019
-2681,black,"Stokke, Kjetil",2344,draw,68,,B23,2019
+2681,black,"Stokke, Kjetil",2344,draw,68,B23,,2019
 2691,black,"Anton Guijarro, David",2674,draw,31,E10,Batumi,2019
-2681,white,"Djurhuus, Rune",2460,draw,60,,A05,2019
+2681,white,"Djurhuus, Rune",2460,draw,60,A05,,2019
 2691,black,"Georgiev, Kiril",2577,draw,30,B52,Batumi,2019
-2681,black,"Vestby-Ellingsen, Mads",2351,draw,58,,D85,2019
+2681,black,"Vestby-Ellingsen, Mads",2351,draw,58,D85,,2019
 2691,white,"Giri, Anish",2780,draw,76,C88,Batumi,2019
 2691,black,"Tutisani, Noe",2412,win,78,C97,Batumi,2019
 2691,black,"Rodshtein, Maxim",2684,draw,35,A10,Batumi,2019

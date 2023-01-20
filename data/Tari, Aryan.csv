@@ -4,14 +4,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2660,white,"Seo, Jung Min",2507,draw,64,B90,Barcelona,2022
 2660,black,Arjun Kalyan,2526,draw,27,C55,Barcelona,2022
 2660,white,"Indjic, Aleksandar",2631,draw,44,D30,Germany,2022
-2656,black,"Vaibhav, Suri",2610,draw,40,,D85,2022
-2656,white,"Priasmoro, Novendra",2512,win,43,,C55,2022
-2656,black,Lalit Babu M R,2550,draw,39,,D86,2022
-2656,white,"Dungca, Ryan",2167,win,40,,B39,2022
-2656,black,"Nasuta, Grzegorz",2542,draw,27,,C55,2022
-2656,white,"Schebler, Gerhard",2374,win,33,,B12,2022
-2656,black,"Weeks, Manuel",2160,win,48,,B51,2022
-2656,white,Gourav Nigam,1966,win,23,,B51,2022
+2656,black,"Vaibhav, Suri",2610,draw,40,D85,,2022
+2656,white,"Priasmoro, Novendra",2512,win,43,C55,,2022
+2656,black,Lalit Babu M R,2550,draw,39,D86,,2022
+2656,white,"Dungca, Ryan",2167,win,40,B39,,2022
+2656,black,"Nasuta, Grzegorz",2542,draw,27,C55,,2022
+2656,white,"Schebler, Gerhard",2374,win,33,B12,,2022
+2656,black,"Weeks, Manuel",2160,win,48,B51,,2022
+2656,white,Gourav Nigam,1966,win,23,B51,,2022
 2656,white,"Van Foreest, Jorden",2694,draw,58,C55,Mayrhofen,2022
 2656,white,Santos Latasa,2677,win,66,C02,Mayrhofen,2022
 2656,black,"Vidit, Santosh Gujrathi",2710,lose,35,C45,Mayrhofen,2022
@@ -46,8 +46,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2567,black,"Vachier-Lagrave, Maxime",2813,win,38,A05,The Stavanger region,2022
 2567,white,"Mamedyarov, Shakhriyar",2778,win,26,C41,The Stavanger region,2022
 2567,black,"Anand, Viswanathan",2758,lose,37,A05,The Stavanger region,2022
-2650,black,"Ernst, Sipke",2542,win,47,,E46,2022
-2650,white,"Meshkovs, Nikita",2568,win,37,,B31,2022
+2650,black,"Ernst, Sipke",2542,win,47,E46,,2022
+2650,white,"Meshkovs, Nikita",2568,win,37,B31,,2022
 2650,black,"Kempinski, Robert",2559,draw,33,A46,Czech Republic,2022
 2650,white,"Kociscak, Jiri",2473,win,46,C55,Czech Republic,2022
 2650,black,"Laznicka, Viktor",2628,draw,15,D41,Czech Republic,2022
@@ -1463,6 +1463,6 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 1183,white,"Johansen, Stian",976,draw,35,B30,Oslo,2007
 1183,white,"Govatsmark, Konstantin",1346,lose,40,B30,Oslo,2007
 688,white,"Rathan, Raksha",1064,lose,23,B07,Moss,2006
-2642,black,"Carlsen, Magnus",2855,lose,47,,C55,http://www.chessbomb.com
-2642,black,"Carlsen, Magnus",2855,lose,47,,C55,http://www.chessbomb.com
-2642,black,"Carlsen, Magnus",2855,lose,47,,C55,http://www.chessbomb.com
+2642,black,"Carlsen, Magnus",2855,lose,47,C55,,http://www.chessbomb.com
+2642,black,"Carlsen, Magnus",2855,lose,47,C55,,http://www.chessbomb.com
+2642,black,"Carlsen, Magnus",2855,lose,47,C55,,http://www.chessbomb.com

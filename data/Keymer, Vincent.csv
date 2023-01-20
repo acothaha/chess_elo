@@ -38,7 +38,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2590,white,Amilal Munkhdalai,2225,win,30,A05,Almaty,2022
 2590,black,"Gadimbayli, Abdulla",2399,win,58,C77,Almaty,2022
 2698,white,"Brkic, Ante",2610,draw,51,A07,Germany,2022
-2700,white,"Svane, Rasmus",2615,draw,44,,E10,2022
+2700,white,"Svane, Rasmus",2615,draw,44,E10,,2022
 2700,black,"Bjerre, Jonas Buhl",2612,draw,64,B10,Germany,2022
 2693,white,"Tomczak, Jacek",2582,lose,83,A05,Wojtaszek,2022
 2693,black,"Pechac, Jergus",2620,lose,47,D41,Wojtaszek,2022
@@ -166,8 +166,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2654,white,"Omariev, M.",2304,win,37,A04,chess.com INT,2022
 2654,black,"Fishbein, A.",2428,lose,70,B15,chess.com INT,2022
 2654,white,"Hamley, Ryan",2092,win,36,A06,chess.com INT,2022
-2654,white,"Sarana, Alexey",2675,win,55,,A07,2022
-2654,black,"Stern, Rene",2509,win,28,,D47,2022
+2654,white,"Sarana, Alexey",2675,win,55,A07,,2022
+2654,black,"Stern, Rene",2509,win,28,D47,,2022
 2654,black,"Moskalenko, A.",2508,win,36,E39,chess.com INT,2022
 2654,white,"Shimanov, A.",2581,win,75,A06,chess.com INT,2022
 2654,black,"Caruana, F.",2781,lose,26,B12,chess.com INT,2022
@@ -190,9 +190,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2654,white,"Siddharth, Jagadeesh",2393,win,31,D27,chess.com INT,2022
 2654,black,"Tregubov, P.",2539,win,20,B10,chess.com INT,2022
 2654,white,"Omariev, M.",2304,win,39,D35,chess.com INT,2022
-2654,black,"Seel, Christian, Dr.",2484,win,60,,D43,2022
+2654,black,"Seel, Christian, Dr.",2484,win,60,D43,,2022
 2655,white,"Haria, R.",2499,win,57,A19,Aachen GER,2022
-2654,white,"Haria, Ravi",2501,win,57,,A19,2022
+2654,white,"Haria, Ravi",2501,win,57,A19,,2022
 2654,white,"Dubov, Daniil",2711,win,41,A04,chess.com INT,2022
 2654,black,"Mkrtchyan, Mariam",2300,win,73,E10,chess.com INT,2022
 2654,white,"Sadhwani, Raunak",2628,lose,48,E68,chess.com INT,2022
@@ -208,11 +208,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2557,white,"Mamedyarov, Shakhriyar",2769,lose,25,D45,Berlin,2022
 2542,white,"Mamedyarov, Shakhriyar",2722,win,40,D44,Berlin,2022
 2542,black,"Mamedyarov, Shakhriyar",2722,lose,37,E00,Berlin,2022
-2655,white,"Dominguez Perez, Leinier",2756,win,46,,D26,2022
-2655,black,"Dubov, Daniil",2711,draw,58,,C78,2022
+2655,white,"Dominguez Perez, Leinier",2756,win,46,D26,,2022
+2655,black,"Dubov, Daniil",2711,draw,58,C78,,2022
 2655,black,"Mamedyarov, Shakhriyar",2776,lose,63,A29,Berlin,2022
-2655,white,"Dubov, Daniil",2711,win,37,,E10,2022
-2655,black,"Dominguez Perez, Leinier",2756,draw,80,,C78,2022
+2655,white,"Dubov, Daniil",2711,win,37,E10,,2022
+2655,black,"Dominguez Perez, Leinier",2756,draw,80,C78,,2022
 2655,white,"Mamedyarov, S.",2776,draw,45,A15,Berlin GER,2022
 2655,white,"Mamedyarov, Shakhriyar",2776,draw,45,A05,Berlin,2022
 2655,white,"Paravyan, D.",2617,lose,49,A34,chess.com INT,2022
@@ -891,12 +891,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2513,white,"Martirosyan, Haik M",2619,win,59,E69,Biel SUI,2019
 2513,black,"Gopal, G.",2594,draw,64,B90,Biel SUI,2019
 2513,white,"Petrosyan, M.",2592,draw,28,D38,Biel SUI,2019
-2521,black,"Meier, Georg",2636,lose,43,,A07,2019
+2521,black,"Meier, Georg",2636,lose,43,A07,,2019
 2521,white,"Miller, Ed",2382,win,45,E62,Magdeburg GER,2019
 2521,black,"Buhmann, R.",2573,draw,25,B90,Magdeburg GER,2019
-2521,white,"Nisipeanu, Liviu-Dieter",2667,lose,26,,E11,2019
+2521,white,"Nisipeanu, Liviu-Dieter",2667,lose,26,E11,,2019
 2521,white,"Bluebaum, M.",2618,draw,43,D38,Magdeburg GER,2019
-2521,black,"Fridman, Daniel",2644,lose,30,,D41,2019
+2521,black,"Fridman, Daniel",2644,lose,30,D41,,2019
 2521,white,"Bindrich, F.",2599,lose,53,D38,Magdeburg GER,2019
 2516,white,"Vallejo Pons, Francisco",2693,lose,36,A61,Karlsruhe,2019
 2516,black,"Vachier Lagrave, M.",2773,lose,49,B22,Karlsruhe/Baden Baden GER,2019

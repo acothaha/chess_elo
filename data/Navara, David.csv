@@ -10,12 +10,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2670,white,"Wieczorek, Oskar",2387,win,35,C92,Katowice,2022
 2670,white,"Sidletskyi, Ivan",2084,win,57,D40,Katowice,2022
 2670,black,"Dwilewicz, Agata",1745,win,58,A46,Katowice,2022
-2684,black,"Michalik, Peter",2587,draw,16,,B90,2022
+2684,black,"Michalik, Peter",2587,draw,16,B90,,2022
 2680,white,Narayanan.S.L,2673,win,55,C50,Germany,2022
-2676,black,"Brkic, Ante",2602,draw,31,,C67,2022
-2676,white,"McShane, Luke J",2653,win,35,,E11,2022
-2676,white,"Gelfand, Boris",2668,draw,70,,B30,2022
-2676,black,"Gonda, Laszlo",2511,draw,34,,A46,2022
+2676,black,"Brkic, Ante",2602,draw,31,C67,,2022
+2676,white,"McShane, Luke J",2653,win,35,E11,,2022
+2676,white,"Gelfand, Boris",2668,draw,70,B30,,2022
+2676,black,"Gonda, Laszlo",2511,draw,34,A46,,2022
 2676,black,"Alekseenko, Kirill",2691,draw,58,C65,Mayrhofen,2022
 2676,white,"Wagner, Dennis",2570,win,29,D70,Mayrhofen,2022
 2676,black,Gukesh D,2732,draw,54,E10,Mayrhofen,2022
@@ -66,8 +66,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2682,black,"Grandelius, Nils",2635,draw,45,C67,Malmo,2022
 2682,white,"Niemann, Hans Moke",2656,draw,40,C55,Malmo,2022
 2682,black,"Salem, A.R. Saleh",2690,lose,41,B50,Malmo,2022
-2693,black,"Volokitin, Andrei",2687,draw,29,,C50,2022
-2693,white,"Seel, Christian, Dr.",2484,draw,33,,C80,2022
+2693,black,"Volokitin, Andrei",2687,draw,29,C50,,2022
+2693,white,"Seel, Christian, Dr.",2484,draw,33,C80,,2022
 2693,black,"Stocek, Jiri",2557,win,36,E12,Czech Republic,2022
 2700,white,"Stefansson, Hannes",2520,draw,87,A46,Terme Catez,2022
 2700,black,"Gadimbayli, Abdulla",2451,lose,26,B94,Terme Catez,2022
@@ -79,15 +79,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2700,black,"Wagner, Dennis",2584,draw,31,E10,Terme Catez,2022
 2700,white,"Valsecchi, Alessio",2524,win,30,B31,Terme Catez,2022
 2700,black,"Sarrau, Jelle",2401,win,21,A20,Terme Catez,2022
-2700,white,"Sarana, Alexey",2685,win,57,,E10,2022
-2700,black,"Maghsoodloo, Parham",2701,draw,34,,C65,2022
-2700,white,Nihal Sarin,2652,win,60,,A28,2022
-2700,black,"Markus, Robert",2627,draw,42,,A07,2022
-2700,white,"Abdusattorov, Nodirbek",2651,lose,62,,C80,2022
-2700,black,"Ivanisevic, Ivan",2601,win,49,,E48,2022
-2700,white,"Ivic, Velimir",2610,lose,34,,B31,2022
-2700,black,"Sjugirov, Sanan",2680,lose,46,,A06,2022
-2700,white,"Indjic, Aleksandar",2605,draw,40,,D31,2022
+2700,white,"Sarana, Alexey",2685,win,57,E10,,2022
+2700,black,"Maghsoodloo, Parham",2701,draw,34,C65,,2022
+2700,white,Nihal Sarin,2652,win,60,A28,,2022
+2700,black,"Markus, Robert",2627,draw,42,A07,,2022
+2700,white,"Abdusattorov, Nodirbek",2651,lose,62,C80,,2022
+2700,black,"Ivanisevic, Ivan",2601,win,49,E48,,2022
+2700,white,"Ivic, Velimir",2610,lose,34,B31,,2022
+2700,black,"Sjugirov, Sanan",2680,lose,46,A06,,2022
+2700,white,"Indjic, Aleksandar",2605,draw,40,D31,,2022
 2699,black,"Piesik, Piotr",2403,win,63,D49,Czech Republic,2022
 2699,white,"Korobov, Anton",2684,lose,36,B51,Czech Republic,2022
 2763,white,"Rapport, Richard",2754,lose,57,A40,Shamkir,2021
@@ -295,8 +295,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2717,black,"Aronian, Levon",2758,draw,42,B10,Batumi,2019
 2717,white,"Duda, Jan Krzysztof",2734,draw,41,B30,Batumi,2019
 2717,black,"Kulaots, Kaido",2542,draw,37,B90,Batumi,2019
-2717,black,"Velicka, Petr",2425,win,35,,B40,2019
-2717,white,"Nasuta, Grzegorz",2534,win,54,,C78,2019
+2717,black,"Velicka, Petr",2425,win,35,B40,,2019
+2717,white,"Nasuta, Grzegorz",2534,win,54,C78,,2019
 2724,white,"Yuffa, Daniil",2577,lose,61,B12,Khanty-Mansiysk,2019
 2724,black,"Yuffa, Daniil",2577,draw,56,E12,Khanty-Mansiysk,2019
 2724,black,"Hracek, Zbynek",2572,win,47,E36,Poland,2019
@@ -544,9 +544,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2726,black,"Oleksienko, Mikhailo",2615,win,52,A28,Germany,2018
 2737,black,"Oleksiyenko, Mykhaylo",2618,win,52,A28,Germany,2018
 2737,white,"Vachier-Lagrave, Maxime",2789,lose,38,D97,Germany,2018
-2737,black,"Ftacnik, Lubomir",2539,win,35,,D49,2018
+2737,black,"Ftacnik, Lubomir",2539,win,35,D49,,2018
 2737,white,"Erdos, Viktor",2627,win,60,C81,Slovakia,2018
-2737,white,"Vovk, Jurij",2600,win,36,,A13,2018
+2737,white,"Vovk, Jurij",2600,win,36,A13,,2018
 2745,white,"Bischoff, Klaus",2511,win,44,B45,Germany,2018
 2745,black,"Mons, Leon",2529,draw,36,A06,Germany,2018
 2745,white,"Kraus, Tomas",2429,win,26,B50,Czech Republic,2018
@@ -2088,9 +2088,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2656,black,"Berend, Fred",2346,win,28,B48,Mainz,2007
 2656,white,"Dergatschova Daus, Anna",2239,win,36,D07,Mainz,2007
 2656,black,"Wyss, Peter",2091,win,28,B85,Mainz,2007
-2656,white,"Bacrot, Etienne",2695,win,17,Mainz,,2007
-2656,black,"Akopian, Vladimir",2708,win,15,Mainz,,2007
-2656,white,"Vogt, Lothar",2473,win,9,Mainz,,2007
+2656,white,"Bacrot, Etienne",2695,win,17,,Mainz,2007
+2656,black,"Akopian, Vladimir",2708,win,15,,Mainz,2007
+2656,white,"Vogt, Lothar",2473,win,9,,Mainz,2007
 2656,white,"Sveshnikov, Evgeny",2504,draw,55,A84,Pardubice,2007
 2656,black,"Feller, Sebastien",2478,lose,38,D52,Pardubice,2007
 2656,white,"Maslak, Konstantin",2548,lose,63,E62,Pardubice,2007

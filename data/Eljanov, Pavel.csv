@@ -1,7 +1,7 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
-2697,white,"Ivanchuk, Vasyl",2678,win,23,,D12,2022
+2697,white,"Ivanchuk, Vasyl",2678,win,23,D12,,2022
 2697,black,"Kryvoruchko, Yuriy",2658,win,36,B12,Germany,2022
-2697,black,Narayanan.S.L,2663,draw,43,,D37,2022
+2697,black,Narayanan.S.L,2663,draw,43,D37,,2022
 2695,black,"Gines Esteo, Pedro Antonio",2505,win,57,D35,Linares,2022
 2695,white,"Cheparinov, Ivan",2686,draw,39,A20,Linares,2022
 2695,black,"Van Foreest, Jorden",2691,draw,73,A46,Linares,2022
@@ -15,8 +15,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2681,white,"Deac, Bogdan-Daniel",2692,draw,83,A06,Dortmund,2022
 2681,black,"L&#039;Ami, Erwin",2634,win,46,E10,Dortmund,2022
 2681,white,"Svane, Rasmus",2649,win,90,C55,Dortmund,2022
-2681,white,"Rozentalis, Eduardas",2527,win,51,,E17,2022
-2681,black,"Vogel, Roven",2441,draw,115,,E04,2022
+2681,white,"Rozentalis, Eduardas",2527,win,51,E17,,2022
+2681,black,"Vogel, Roven",2441,draw,115,E04,,2022
 2687,black,"Saric, Ivan",2665,draw,36,C53,Czech Republic,2022
 2687,white,"Dragnev, Valentin",2548,draw,36,A16,Czech Republic,2022
 2602,black,"Bellahcene, Bilel",2493,lose,55,B12,Abu Dhabi,2021

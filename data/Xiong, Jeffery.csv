@@ -299,10 +299,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2686,white,"Tabatabaei, M.",2623,draw,73,A08,chess.com INT,2022
 2686,black,"Bluebaum, M.",2642,draw,52,D04,chess.com INT,2022
 2686,white,"Bok, B.",2624,draw,46,D45,chess.com INT,2022
-2686,white,"Sevian, Samuel",2684,draw,63,,A20,2022
-2686,black,"Dragun, Kamil",2586,win,26,,A13,2022
+2686,white,"Sevian, Samuel",2684,draw,63,A20,,2022
+2686,black,"Dragun, Kamil",2586,win,26,A13,,2022
 2686,white,"Tari, A.",2653,lose,43,B12,chess.com INT,2022
-2686,white,"Lenderman, Aleksandr",2600,draw,30,,B30,2022
+2686,white,"Lenderman, Aleksandr",2600,draw,30,B30,,2022
 2686,black,"Li, Ben",2361,win,79,D47,chess.com INT,2022
 2686,white,"Adewumi, Tanitoluwa",2188,win,39,A15,chess.com INT,2022
 2686,white,"Dobrov, V.",2478,lose,41,B45,chess.com INT,2022
@@ -310,13 +310,13 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2686,white,"Derraugh, Geordie",2202,win,50,C47,chess.com INT,2022
 2686,black,"Csonka, B.",2491,draw,53,D44,chess.com INT,2022
 2686,white,"Krishnan, V.",2203,win,32,B47,chess.com INT,2022
-2686,black,"Niemann, Hans Moke",2642,draw,45,,B51,2022
-2686,white,"Nyzhnyk, Illya",2674,lose,34,,B90,2022
+2686,black,"Niemann, Hans Moke",2642,draw,45,B51,,2022
+2686,white,"Nyzhnyk, Illya",2674,lose,34,B90,,2022
 2686,black,"Robson, R.",2676,draw,40,D26,Saint Louis USA,2022
-2686,black,"Robson, Ray",2676,draw,41,,D26,2022
-2686,white,"Hakobyan, Aram",2601,lose,52,,A07,2022
-2686,black,"Swiercz, Dariusz",2656,win,47,,E04,2022
-2686,white,"Antipov, Mikhail Al.",2615,win,43,,C45,2022
+2686,black,"Robson, Ray",2676,draw,41,D26,,2022
+2686,white,"Hakobyan, Aram",2601,lose,52,A07,,2022
+2686,black,"Swiercz, Dariusz",2656,win,47,E04,,2022
+2686,white,"Antipov, Mikhail Al.",2615,win,43,C45,,2022
 2686,black,"Caruana, F.",2792,lose,42,A30,chess.com INT,2022
 2686,black,"So, W.",2772,win,25,C50,chess.com INT,2022
 2686,white,"Matlakov, M.",2674,win,25,D02,chess.com INT,2022
@@ -2082,7 +2082,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2618,white,"Shabalov, Alexander",2528,draw,67,A31,Saint Louis,2016
 2618,black,"Nakamura, Hikaru",2787,lose,34,E60,Saint Louis USA,2016
 2618,white,"So, Wesley",2773,draw,41,C80,Saint Louis USA,2016
-,black,"Shankland, Samuel L",,draw,45,Saint Louis USA,,2016
+,black,"Shankland, Samuel L",,draw,45,,Saint Louis USA,2016
 2618,white,"Caruana, Fabiano",2795,draw,44,C70,Saint Louis USA,2016
 2618,black,"Chandra, Akshat",2477,draw,36,E15,Saint Louis USA,2016
 2618,white,"Kamsky, Gata",2678,win,38,B03,Saint Louis USA,2016

@@ -1,5 +1,5 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
-2658,black,Narayanan.S.L,2663,draw,48,,C50,2022
+2658,black,Narayanan.S.L,2663,draw,48,C50,,2022
 2658,white,"Eljanov, Pavel",2697,lose,36,B12,Germany,2022
 2658,white,"Mamedov, Rauf",2646,draw,31,B31,Mayrhofen,2022
 2658,black,"Vidit, Santosh Gujrathi",2710,lose,37,A50,Mayrhofen,2022
@@ -29,12 +29,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2672,white,"Nagy, Gabor",2500,win,55,B40,Germany,2022
 2683,black,"Shevchenko, Kirill",2652,draw,21,C65,Germany,2022
 2683,white,"Dardha, Daniel",2540,draw,42,C43,Germany,2022
-2683,white,"Stern, Rene",2510,win,45,,C95,2022
-2683,black,"Baldauf, Marco",2522,win,40,,B90,2022
-2683,black,"Bjerre, Jonas Buhl",2611,draw,26,,C65,2022
-2683,white,"Svane, Rasmus",2648,draw,69,,A29,2022
-2683,white,"Indjic, Aleksandar",2613,draw,39,,B90,2022
-2683,black,"Santos Ruiz, Miguel",2597,draw,22,,C67,2022
+2683,white,"Stern, Rene",2510,win,45,C95,,2022
+2683,black,"Baldauf, Marco",2522,win,40,B90,,2022
+2683,black,"Bjerre, Jonas Buhl",2611,draw,26,C65,,2022
+2683,white,"Svane, Rasmus",2648,draw,69,A29,,2022
+2683,white,"Indjic, Aleksandar",2613,draw,39,B90,,2022
+2683,black,"Santos Ruiz, Miguel",2597,draw,22,C67,,2022
 2683,white,"Lodici, Lorenzo",2537,draw,32,B10,Terme Catez,2022
 2683,black,"Kelires, Andreas",2536,draw,41,E04,Terme Catez,2022
 2683,white,"Blomqvist, Erik",2542,draw,34,B40,Terme Catez,2022

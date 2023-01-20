@@ -1,4 +1,5 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
+2735,white,"Keymer, Vincent",2696,win,79,C84,Wijk aan Zee,2023
 2735,black,"So, Wesley",2760,draw,46,A29,Wijk aan Zee,2023
 2735,black,Erigaisi Arjun,2722,draw,62,E38,Wijk aan Zee,2023
 2735,white,Praggnanandhaa R,2684,draw,32,C80,Wijk aan Zee,2023
@@ -2084,9 +2085,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2813,black,"Lysyj, Igor",2648,draw,22,E32,Tromsoe,2013
 2813,black,"Markov, Mikhail2",2304,win,29,D45,Tromsoe,2013
 2813,white,"Markov, Mikhail2",2304,win,45,D37,Tromsoe,2013
+2813,white,"Bluebaum, Matthias",2511,draw,37,D10,Meissen,2013
 2813,white,"Donchenko, Alexander",2452,win,44,D27,Meissen,2013
 2813,white,"Svane, Rasmus",2440,win,51,D37,Meissen,2013
-2813,white,"Bluebaum, Matthias",2511,draw,37,D10,Meissen,2013
 2813,white,"Wagner, Dennis",2487,draw,36,A48,Meissen,2013
 2813,black,"Klek, Hanna Marie",2267,draw,41,B06,Meissen,2013
 2813,black,"Osmanodja, Filiz",2255,win,60,B15,Meissen,2013
@@ -2221,13 +2222,13 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2825,white,"McShane, Luke J",2706,draw,53,B00,Moscow,2012
 2825,black,"Carlsen, Magnus",2835,win,34,C65,Moscow,2012
 2825,white,"Tomashevsky, Evgeny",2738,draw,42,A07,Moscow,2012
-2825,white,Telecom Bretagne,,lose,47,B23,Paris,2012
 2825,white,Centrale Paris,,win,38,D36,Paris,2012
 2825,white,ENSIIE,,win,52,D10,Paris,2012
 2825,white,Normale Sup Lyon,,win,39,B23,Paris,2012
 2825,white,Normale Sup Ulm A,,win,26,C42,Paris,2012
 2825,white,Normale Sup Ulm B,,win,38,E15,Paris,2012
 2825,white,Paris Universite,,win,31,C13,Paris,2012
+2825,white,Telecom Bretagne,,lose,47,B23,Paris,2012
 2825,white,Telecom Management,,win,46,C13,Paris,2012
 2820,white,"Kramnik, Vladimir",2801,draw,43,C65,Zuerich,2012
 2820,black,"Kramnik, Vladimir",2801,draw,43,D43,Zuerich,2012
@@ -2882,18 +2883,18 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2744,black,"Anand, Viswanathan",2779,draw,32,C89,Wijk aan Zee,2007
 2744,white,"Ponomariov, Ruslan",2723,win,39,E32,Wijk aan Zee,2007
 2744,black,"Navara, David",2719,draw,22,D38,Wijk aan Zee,2007
-2744,white,"Anand, Viswanathan",2779,draw,12,Mainz,,2007
-2744,black,"Kasimdzhanov, Rustam",2682,win,14,Mainz,,2007
-2744,black,"Bacrot, Etienne",2705,draw,32,Mainz,,2007
-2744,black,"Anand, Viswanathan",2779,draw,26,Mainz,,2007
-2744,white,"Kasimdzhanov, Rustam",2682,win,17,Mainz,,2007
-2744,white,"Bacrot, Etienne",2705,win,21,Mainz,,2007
-2744,black,"Anand, Viswanathan",2779,draw,15,Mainz,,2007
-2744,white,"Anand, Viswanathan",2779,win,25,Mainz,,2007
-2744,black,"Anand, Viswanathan",2779,lose,53,Mainz,,2007
-2744,white,"Anand, Viswanathan",2779,draw,25,Mainz,,2007
-2744,black,"Anand, Viswanathan",2779,draw,33,Mainz,,2007
-2744,white,"Anand, Viswanathan",2779,win,28,Mainz,,2007
+2744,white,"Anand, Viswanathan",2779,draw,12,,Mainz,2007
+2744,black,"Kasimdzhanov, Rustam",2682,win,14,,Mainz,2007
+2744,black,"Bacrot, Etienne",2705,draw,32,,Mainz,2007
+2744,black,"Anand, Viswanathan",2779,draw,26,,Mainz,2007
+2744,white,"Kasimdzhanov, Rustam",2682,win,17,,Mainz,2007
+2744,white,"Bacrot, Etienne",2705,win,21,,Mainz,2007
+2744,black,"Anand, Viswanathan",2779,draw,15,,Mainz,2007
+2744,white,"Anand, Viswanathan",2779,win,25,,Mainz,2007
+2744,black,"Anand, Viswanathan",2779,lose,53,,Mainz,2007
+2744,white,"Anand, Viswanathan",2779,draw,25,,Mainz,2007
+2744,black,"Anand, Viswanathan",2779,draw,33,,Mainz,2007
+2744,white,"Anand, Viswanathan",2779,win,28,,Mainz,2007
 2741,black,"Gelfand, Boris",2733,draw,16,E06,Moscow,2006
 2741,white,"Grischuk, Alexander",2710,draw,16,E17,Moscow,2006
 2741,black,"Ponomariov, Ruslan",2703,draw,25,C88,Moscow,2006
@@ -3225,8 +3226,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2648,black,"Galdunts, Sergey",2506,draw,49,C54,France,2004
 2648,white,"Doettling, Fabian",2532,draw,33,E04,France,2004
 2648,white,"Nijboer, Friso",2586,draw,42,E63,France,2004
-2649,white,"Ivanchuk, Vassily",2710,win,42,D12,Warsaw,2003
 2649,white,"Aleksandrov, Aleksej",2664,draw,43,C67,Warsaw,2003
+2649,white,"Ivanchuk, Vassily",2710,win,42,D12,Warsaw,2003
 2649,black,"Ivanchuk, Vassily",2710,lose,37,A18,Warsaw,2003
 2649,white,"Bauer, Christian",2602,draw,17,A90,Germany,2003
 2649,black,"Hickl, Joerg",2562,win,61,A05,Germany,2003
@@ -3605,9 +3606,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2455,white,"Rogozenco, Dorian",2495,win,58,A05,Bucharest,1998
 2455,black,"Nevednichy, Vladislav",2550,lose,40,B76,Bucharest,1998
 2455,black,"Ionescu, Constantin",2495,draw,37,B39,Bucharest,1998
+2455,white,"Kovchan, Alexander",2350,draw,37,E61,Istanbul,1998
 2455,white,"Rachela, Milan",2075,win,36,A07,Istanbul,1998
 2455,white,"Riazantsev, Alexander",2290,win,77,A10,Istanbul,1998
-2455,white,"Kovchan, Alexander",2350,draw,37,E61,Istanbul,1998
 2455,white,"Roiz, Michael",2370,draw,36,A05,Istanbul,1998
 2455,black,"Geanta, Horia",2205,draw,43,B76,Istanbul,1998
 2455,black,"Ghaem Maghami, Ehsan",2280,win,51,B22,Istanbul,1998
@@ -3632,11 +3633,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2420,white,"Sobhani, F.",2235,win,39,C13,Iran,1997
 2420,black,"Ghane Gardeh, Shojaat",2205,win,33,A05,Iran,1997
 2420,white,"Batsanin, Dmitry",2300,win,33,B28,Moscow,1997
+2420,white,"Grischuk, Alexander",2340,draw,69,C26,Moscow,1997
 2420,white,"Kunin, Vitaly L",2040,win,56,A21,Moscow,1997
 2420,white,"Zakharov, Alexander S",2330,win,42,A30,Moscow,1997
-2420,white,"Manukian, Lernik",2290,win,30,C13,Pasanauri,1997
-2420,white,"Grischuk, Alexander",2340,draw,69,C26,Moscow,1997
 2420,white,"Chipashvili, Mikheil",2320,draw,26,A25,Pasanauri,1997
+2420,white,"Manukian, Lernik",2290,win,30,C13,Pasanauri,1997
 2420,black,"Akobian, Varuzhan",2240,win,31,D94,Moscow,1997
 2420,black,"Gratka, Krzysztof",2275,win,42,A29,Moscow,1997
 2420,black,"Ibrahimov, Rasul",2310,win,38,B07,Moscow,1997
@@ -3659,49 +3660,49 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2310,white,"Yegiazarian, Arsen",2455,draw,58,D00,Yerevan,1996
 2390,black,"Kobylkin, Evgeni",2365,win,36,D78,Menorca,1996
 2310,black,"Tsomaia, Sergo",,win,40,B74,Yerevan,1996
-2390,white,"Granovski, Aleksandar",2250,win,38,A25,Moscow,1996
 2390,white,"Vallejo Pons, Francisco",2420,draw,43,C12,Menorca,1996
 2310,white,"Lempert, Igor",2505,draw,49,C14,Yerevan,1996
+2390,white,"Granovski, Aleksandar",2250,win,38,A25,Moscow,1996
 2390,white,"Salnikov, Alexander",,draw,27,E61,Omsk,1996
 2310,black,"Petrosian, Arshak B",2465,draw,49,D72,Yerevan,1996
 2390,black,"Khachiyan, Melikset",2480,draw,8,E62,Decin,1996
 2310,black,"Touzane, Olivier",2500,lose,26,A31,Cannes,1996
 2390,black,"Vorisek, Jaroslav",2220,win,27,D77,Pardubice,1996
+2310,white,"Khachiyan, Melikset",2440,draw,11,C69,Yerevan,1996
 2390,white,"Cherevatenko, Roman",2415,lose,46,D01,Decin,1996
+2390,white,"Bunzmann, Dimitrij",2275,draw,18,B30,Menorca,1996
 2310,white,"Haik, Aldo",2440,win,47,B70,Cannes,1996
 2390,white,"Kacirek, Petr",2260,win,34,C14,Pardubice,1996
-2310,white,"Khachiyan, Melikset",2440,draw,11,C69,Yerevan,1996
-2390,white,"Bunzmann, Dimitrij",2275,draw,18,B30,Menorca,1996
 2310,black,"Voskanyan, Vahagn",2410,draw,45,D76,Yerevan,1996
 2390,black,"Labunskiy, Dmitry",2255,draw,20,D91,Moscow,1996
 2390,black,"Volkov, Sergey",2485,lose,43,D91,Omsk,1996
-2390,white,"Mukhametov, Eldar",2485,lose,56,C60,Moscow,1996
-2310,white,"Zschischang, Marine",2085,win,46,B19,Yerevan,1996
-2390,white,"Khasin, Alexander",2530,win,32,E61,Omsk,1996
 2390,white,"Kholmov, Ratmir D",2435,draw,25,C10,Decin,1996
+2310,white,"Zschischang, Marine",2085,win,46,B19,Yerevan,1996
+2390,white,"Mukhametov, Eldar",2485,lose,56,C60,Moscow,1996
+2390,white,"Khasin, Alexander",2530,win,32,E61,Omsk,1996
 2390,black,"Shinkevich, Vitaly",2400,draw,19,A47,Menorca,1996
 2310,black,"Piankov, Evgenij",2410,draw,45,D03,Cannes,1996
 2390,black,"Sulskis, Sarunas",2515,lose,47,D76,Pardubice,1996
+2390,white,"Bacrot, Etienne",2470,draw,69,B50,Menorca,1996
 2310,white,"Karr, Jean Philippe",,win,36,B05,Cannes,1996
 2390,white,"Mudelsee, Manfred",2250,win,49,B00,Pardubice,1996
-2390,white,"Bacrot, Etienne",2470,draw,69,B50,Menorca,1996
 2310,black,"Mirumian, Vigen",2425,draw,49,D76,Yerevan,1996
 2390,black,"Hasangatin, Ramil",2380,draw,8,A16,Decin,1996
 2310,black,"Matikozian, Andranik",2295,draw,66,B70,Yerevan,1996
 2390,black,"Nikolenko, Oleg",2480,lose,64,B20,Moscow,1996
 2390,black,"Minasian, Ara",2425,draw,48,B30,Omsk,1996
+2310,white,"Anastasian, Ashot",2520,draw,41,D01,Yerevan,1996
 2390,white,"Chernyshov, Konstantin",2470,win,66,A44,Decin,1996
 2310,white,"Martsvalashvili, Ruzvelt",,win,51,C86,Yerevan,1996
 2390,white,"Kiriakov, Petr",2515,win,42,A13,Moscow,1996
 2390,white,"Kuchatova, Natalia",2100,win,37,A25,Omsk,1996
-2310,white,"Anastasian, Ashot",2520,draw,41,D01,Yerevan,1996
 2390,black,"Ho, Andrew",,win,56,D85,Menorca,1996
 2310,black,"Bauer, Christian",2430,lose,61,B70,Cannes,1996
 2390,black,"Cherkasov, Nikolai",2295,draw,41,B23,Pardubice,1996
-2390,white,"Tikzhanov, Erlam",2265,lose,52,C16,Omsk,1996
 2390,white,"Lurie, Michael",2070,win,43,B01,Menorca,1996
 2310,white,"Collas, Didier",2380,draw,18,B01,Cannes,1996
 2390,white,"Turner, Jan",2215,draw,56,B33,Pardubice,1996
+2390,white,"Tikzhanov, Erlam",2265,lose,52,C16,Omsk,1996
 2310,black,"Minasian, Artashes",2580,lose,54,B20,Yerevan,1996
 2390,black,"Sherbakov, Ruslan",2555,lose,27,D85,Decin,1996
 2310,black,"Pogosian, Tigran",,lose,38,D77,Yerevan,1996
@@ -3713,9 +3714,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2390,black,"Siegel, Noah J",2240,draw,28,D95,Menorca,1996
 2310,black,"Summerscale, Aaron",2465,draw,39,A45,Cannes,1996
 2390,black,"Fedorov, Alexei",2555,lose,71,B70,Omsk,1996
+2390,white,"Perez Candelario, Manuel",2095,win,37,B07,Menorca,1996
 2310,white,"Nikcevic, Nebojsa",2485,lose,43,C70,Cannes,1996
 2310,white,"Sulava, Nenad",2480,lose,30,B40,Cappelle-la-Grande,1996
-2390,white,"Perez Candelario, Manuel",2095,win,37,B07,Menorca,1996
 2390,white,"Sikorova, Olga",2150,win,25,B01,Pardubice,1996
 2390,white,"Usatchev, Sergei",2030,win,20,A45,Omsk,1996
 2310,black,"Minasian, Ara",2425,lose,41,A28,Yerevan,1996
@@ -3724,9 +3725,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2390,black,"Izmukhambetov, Salauat",2530,draw,59,C54,Moscow,1996
 2310,white,"Akopian, Vladimir",2620,lose,41,D01,Yerevan,1996
 2390,white,"Zugaj, Fjodor",2190,win,46,B19,Decin,1996
+2310,white,"Santrian, Ararat",,draw,17,B70,Yerevan,1996
 2310,white,"Kholmov, Ratmir D",2495,win,37,C86,Cappelle-la-Grande,1996
 2390,white,"Gutov, Andrey",,win,37,B17,Moscow,1996
-2310,white,"Santrian, Ararat",,draw,17,B70,Yerevan,1996
 2390,black,"Cawdery, Daniel",,win,36,B23,Menorca,1996
 2310,black,"Hebert, Jean",2435,win,48,A29,Cannes,1996
 2390,black,"Korneev, Oleg",2565,lose,56,B76,Omsk,1996
@@ -3740,40 +3741,40 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2330,black,"Vajda, Levente",2320,draw,53,B07,Bucharest,1995
 2330,white,"Musat, Adrian",2380,draw,15,D01,Bucharest,1995
 2330,black,"Ionescu, Doru Alexandru",2335,lose,39,D91,Bucharest,1995
-2330,white,"Christenson, Flemming",,win,35,B33,Paris,1995
 2330,white,"Munteanu, Alexandru",2285,draw,19,B34,Bucharest,1995
+2330,white,"Christenson, Flemming",,win,35,B33,Paris,1995
 2330,black,"Grigore, George Gabriel",2445,lose,29,D93,Bucharest,1995
 2330,black,"Shinkevich, Vitaly",2435,win,58,C41,Verdun,1995
 2330,white,"Babici, Roman",2280,win,35,C10,Bucharest,1995
 2330,black,"Milu, Romeo Sorin",2415,lose,25,B70,Bucharest,1995
 2330,black,"Fedorchuk, Sergey A",2365,lose,40,D76,Verdun,1995
 2330,black,"Vajda, Levente",2320,draw,30,B50,Paris,1995
+2330,white,"Popescu, Daniel Dorin",2425,draw,14,C18,Bucharest,1995
 2330,white,"Zakharov, Alexander S",2305,win,47,C18,Verdun,1995
 2330,white,"Einarsson, Bergsteinn",2140,win,27,D02,Paris,1995
-2330,white,"Popescu, Daniel Dorin",2425,draw,14,C18,Bucharest,1995
 2330,black,"Berechet, Otiliu",2415,win,35,A29,Bucharest,1995
-2330,white,"Hersvik, Daniel",,win,49,B70,Verdun,1995
 2330,white,"Vajda, Albert",2325,draw,81,C68,Bucharest,1995
+2330,white,"Hersvik, Daniel",,win,49,B70,Verdun,1995
 2330,black,"Breahna, Radu",2355,draw,80,D91,Bucharest,1995
 2330,black,"Kundin, S.",,draw,36,B70,Paris,1995
-2330,white,"Zhao, Minjun",,win,37,A11,Paris,1995
 2330,white,"Grigore, George Gabriel",2445,draw,41,D01,Bucharest,1995
+2330,white,"Zhao, Minjun",,win,37,A11,Paris,1995
 2330,black,"Doroshenko, Maxim",2330,draw,32,D91,Bucharest,1995
 2330,black,"Babaev, Rashad",,win,38,B35,Verdun,1995
-2330,white,"Fressinet, Laurent",2135,lose,27,D01,Verdun,1995
 2330,white,"Tomescu, Vlad",2395,win,75,B89,Bucharest,1995
+2330,white,"Fressinet, Laurent",2135,lose,27,D01,Verdun,1995
 2330,black,"Iankowski, Roman",2230,win,67,D71,Bucharest,1995
 2330,black,"Kujovic, Michal",,win,23,B23,Paris,1995
-2330,white,"Gaprindashvili, Valerian",,win,23,B01,Paris,1995
 2330,white,"Dumitran, Octavian",2380,draw,15,D00,Bucharest,1995
+2330,white,"Gaprindashvili, Valerian",,win,23,B01,Paris,1995
 2330,black,"Badea, Bela",2490,draw,10,C47,Bucharest,1995
 2330,black,"Virostko, Petr",,win,62,B73,Verdun,1995
 2330,white,"Lundberg, Mads",,win,16,B09,Verdun,1995
 2330,black,"Khachiyan, Melikset",2400,draw,10,C47,Bucharest,1995
 2330,black,"Eynon, David",,win,24,B78,Paris,1995
+2330,white,"Annakov, Babakuli",2420,win,36,D00,Moscow,1995
 2330,white,"Belozerov, Andrei",2325,lose,35,C13,Moscow,1995
 2330,white,"Dragomarezkij, Evgeni",2465,lose,60,D00,Moscow,1995
-2330,white,"Annakov, Babakuli",2420,win,36,D00,Moscow,1995
 2330,white,"Ivanov, V.",2445,draw,10,A07,Moscow,1995
 2330,white,"Koniushkov, Igor",2265,draw,26,A07,Moscow,1995
 2330,black,"Bondarenko, Vladimir",2310,draw,12,D75,Moscow,1995

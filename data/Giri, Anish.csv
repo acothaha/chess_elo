@@ -90,8 +90,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2771,white,"Vitiugov, Nikita",2726,draw,30,B42,Berlin,2022
 2771,black,"Tabatabaei, M. Amin",2623,draw,43,D15,Berlin,2022
 2771,white,"Yu, Yangyi",2713,draw,32,C43,Berlin,2022
-2744,white,"Andreikin, Dmitry",2661,lose,63,,B46,2022
-2744,black,"Andreikin, Dmitry",2661,draw,21,,C24,2022
+2744,white,"Andreikin, Dmitry",2661,lose,63,B46,,2022
+2744,black,"Andreikin, Dmitry",2661,draw,21,C24,,2022
 2771,black,"Andreikin, Dmitry",2724,draw,32,A48,Belgrade,2022
 2771,white,"Andreikin, Dmitry",2724,draw,33,B40,Belgrade,2022
 2771,black,"Vitiugov, Nikita",2726,draw,31,A16,Belgrade,2022
@@ -2479,4 +2479,4 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 ,white,"Butylkin, Alexey",2181,lose,47,B31,St Petersburg,2005
 ,black,"Dolbnya, Dmitry",,draw,34,B78,St Petersburg,2005
 ,white,"Dolbnya, Dmitry",,draw,40,B85,St Petersburg,2005
-2764,white,"Van Foreest, Jorden",2671,lose,58,,D00,http://www.chessbomb.com
+2764,white,"Van Foreest, Jorden",2671,lose,58,D00,,http://www.chessbomb.com

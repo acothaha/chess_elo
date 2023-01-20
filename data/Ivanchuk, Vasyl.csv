@@ -4,14 +4,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2673,black,"Sousa, Andre Ventura",2466,draw,35,D85,Sitges,2022
 2673,black,"Injac, Teodora",2365,draw,45,E17,Sitges,2022
 2673,white,"Nilssen, Ellen Fredericia",2187,win,34,D83,Sitges,2022
-2686,black,"Yakubboev, Nodirbek",2563,draw,40,,A30,2022
-2686,white,"Yakubboev, Nodirbek",2563,draw,31,,E91,2022
+2686,black,"Yakubboev, Nodirbek",2563,draw,40,A30,,2022
+2686,white,"Yakubboev, Nodirbek",2563,draw,31,E91,,2022
 2686,white,"Van Foreest, Jorden",2699,lose,54,D32,Jerusalem,2022
 2686,black,Santos Latasa,2622,draw,33,C88,Jerusalem,2022
 2686,black,"Lu, Shanglei",2627,draw,15,C43,Jerusalem,2022
 2686,black,"Vachier-Lagrave, Maxime",2775,draw,71,C84,Jerusalem,2022
-2678,black,"Eljanov, Pavel",2697,lose,23,,D12,2022
-2678,white,Narayanan.S.L,2663,draw,32,,C89,2022
+2678,black,"Eljanov, Pavel",2697,lose,23,D12,,2022
+2678,white,Narayanan.S.L,2663,draw,32,C89,,2022
 2678,black,"Anand, Viswanathan",2753,draw,59,D37,chess24.com INT,2020
 2678,black,"Anand, Viswanathan",2753,draw,23,C84,chess24.com INT,2020
 2678,white,"Anand, Viswanathan",2753,draw,41,E51,chess24.com INT,2020

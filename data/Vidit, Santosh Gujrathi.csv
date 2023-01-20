@@ -64,8 +64,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2662,white,Santos Latasa,2622,draw,30,D39,Jerusalem,2022
 2662,white,"Yakubboev, Nodirbek",2563,lose,44,A46,Jerusalem,2022
 2662,black,"Yakubboev, Nodirbek",2563,draw,74,E49,Jerusalem,2022
-2662,white,"Vachier-Lagrave, Maxime",2775,lose,71,,A48,2022
-2662,black,"Vachier-Lagrave, Maxime",2775,win,55,,A20,2022
+2662,white,"Vachier-Lagrave, Maxime",2775,lose,71,A48,,2022
+2662,black,"Vachier-Lagrave, Maxime",2775,win,55,A20,,2022
 2662,black,"Niemann, Hans Moke",2599,win,37,A06,Jerusalem,2022
 2662,white,"Yakubboev, Nodirbek",2563,lose,63,E48,Jerusalem,2022
 2662,black,"Mamedyarov, Shakhriyar",2747,win,34,E20,Jerusalem,2022
@@ -905,15 +905,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2658,white,"Nguyen, Huynh Minh Huy",2458,win,56,D16,Tashkent,2016
 2658,black,"Kholmirzaev, Bakhodir",2364,win,60,A45,Tashkent,2016
 2658,black,"Holmirzaev, Bahodir",2364,win,59,D00,Tashkent,2016
-2648,white,"Almasi, Zoltan",2682,draw,37,Stockholm,,2016
+2648,white,"Almasi, Zoltan",2682,draw,37,,Stockholm,2016
 2648,black,"Andreikin, Dmitry",2736,draw,41,A45,Stockholm,2016
-2648,white,"Stefansson, Hannes",2581,win,55,Stockholm,,2016
+2648,white,"Stefansson, Hannes",2581,win,55,,Stockholm,2016
 2648,white,"Stefansson, Hannes",2581,win,55,E15,Stockholm,2016
-2648,black,"Akesson, Ralf",2452,win,37,Stockholm,,2016
-2648,white,"Smith, Axel",2503,draw,35,Stockholm,,2016
-2648,black,"Greenfeld, Alon",2541,win,44,Stockholm,,2016
+2648,black,"Akesson, Ralf",2452,win,37,,Stockholm,2016
+2648,white,"Smith, Axel",2503,draw,35,,Stockholm,2016
+2648,black,"Greenfeld, Alon",2541,win,44,,Stockholm,2016
 2648,white,"Schneider, Stefan",2359,draw,54,C01,Stockholm,2016
-2648,black,"Johansson, Gunnar",2213,win,25,Stockholm,,2016
+2648,black,"Johansson, Gunnar",2213,win,25,,Stockholm,2016
 2648,white,"Schultze, Joerg Martin",2015,win,29,E01,Stockholm,2016
 2648,black,"Dao, Thien Hai",2481,draw,24,D85,Abu Dhabi,2016
 2648,black,"Barsov, Alexei",2460,draw,57,E21,Abu Dhabi,2016

@@ -33,15 +33,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2777,black,"Makhnev, Denis",2513,win,45,E10,Almaty,2022
 2777,white,"Tabatabaei, M. Amin",2526,draw,52,C82,Almaty,2022
 2777,black,"Kovalev, Vladislav",2523,draw,43,B52,Almaty,2022
-2775,black,"Vidit, Santosh Gujrathi",2662,win,71,,A48,2022
-2775,white,"Vidit, Santosh Gujrathi",2662,lose,55,,A20,2022
+2775,black,"Vidit, Santosh Gujrathi",2662,win,71,A48,,2022
+2775,white,"Vidit, Santosh Gujrathi",2662,lose,55,A20,,2022
 2775,black,"Lu, Shanglei",2627,draw,38,B90,Jerusalem,2022
 2775,white,"Solomon, Kenny",2408,win,48,C88,Jerusalem,2022
 2775,white,Santos Latasa,2622,win,54,E21,Jerusalem,2022
 2775,black,"Van Foreest, Jorden",2699,win,59,D86,Jerusalem,2022
 2775,white,"Ivanchuk, Vasyl",2686,draw,71,C84,Jerusalem,2022
-2736,black,"Bluebaum, Matthias",2651,draw,31,,D94,2022
-2736,white,"Markus, Robert",2608,win,44,,C42,2022
+2736,black,"Bluebaum, Matthias",2651,draw,31,D94,,2022
+2736,white,"Markus, Robert",2608,win,44,C42,,2022
 2736,black,"Saric, Ivan",2674,draw,41,C42,Jenbach,2022
 2747,black,"Harikrishna, Pentala",2717,lose,81,D85,Mayrhofen,2022
 2747,white,"Rodshtein, Maxim",2602,draw,35,C53,Mayrhofen,2022
@@ -145,8 +145,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2750,white,"Mamedyarov, Shakhriyar",2770,draw,20,B10,Bucharest,2022
 2750,black,"So, Wesley",2766,draw,24,D26,Bucharest,2022
 2750,white,"Dominguez Perez, Leinier",2753,draw,36,C42,Bucharest,2022
-2758,black,"Haria, Ravi",2501,draw,22,,B52,2022
-2758,white,"Seel, Christian, Dr.",2484,win,48,,C41,2022
+2758,black,"Haria, Ravi",2501,draw,22,B52,,2022
+2758,white,"Seel, Christian, Dr.",2484,win,48,C41,,2022
 2761,black,"Shankland, Samuel L",2704,draw,29,D97,Berlin,2022
 2761,white,"So, Wesley",2778,lose,56,E20,Berlin,2022
 2761,white,"Predke, Alexandr",2682,win,42,C92,Berlin,2022
@@ -3523,6 +3523,6 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 ,black,"Libiszewski, Fabien",2250,lose,47,A08,Val Thorens,1999
 ,white,"Frade Marques, Helder",,lose,35,B21,Rochefort,1998
 ,white,"Hirth, Julien",,draw,29,C02,Rochefort,1998
-,white,"Mamedyarov, Shakhriyar",,lose,64,,A05,Riga
-,black,"Mamedyarov, Shakhriyar",,win,73,,A40,Riga
-,white,"Mamedyarov, Shakhriyar",,lose,43,,C53,Riga
+,white,"Mamedyarov, Shakhriyar",,lose,64,A05,,Riga
+,black,"Mamedyarov, Shakhriyar",,win,73,A40,,Riga
+,white,"Mamedyarov, Shakhriyar",,lose,43,C53,,Riga

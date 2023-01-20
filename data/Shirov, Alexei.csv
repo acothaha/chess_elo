@@ -1,13 +1,13 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2666,white,"Hrbek, Stepan",2335,win,64,B33,Czech Republic,2023
 2666,black,"Mihok, Oliver",2556,draw,30,C67,Czech Republic,2023
-2666,white,"Haring, Filip",2466,draw,84,,C65,2022
-2590,black,"Guseinov, Gadir",2616,lose,52,,B30,2022
-2590,white,"Guseinov, Gadir",2616,draw,26,,B40,2022
+2666,white,"Haring, Filip",2466,draw,84,C65,,2022
+2590,black,"Guseinov, Gadir",2616,lose,52,B30,,2022
+2590,white,"Guseinov, Gadir",2616,draw,26,B40,,2022
 2590,white,"Kovalenko, Igor",2620,win,42,B41,Jerusalem,2022
 2590,black,"Fressinet, Laurent",2684,draw,34,D85,Jerusalem,2022
-2662,white,"Heinemann, Thies",2484,win,40,,B90,2022
-2662,black,"Dziuba, Marcin",2569,win,36,,D43,2022
+2662,white,"Heinemann, Thies",2484,win,40,B90,,2022
+2662,black,"Dziuba, Marcin",2569,win,36,D43,,2022
 2673,black,"Fedoseev, Vladimir",2685,draw,46,D43,Linares,2022
 2673,white,"Gines Esteo, Pedro Antonio",2505,draw,46,A28,Linares,2022
 2673,black,"Kryvoruchko, Yuriy",2669,draw,40,C67,Linares,2022
@@ -55,8 +55,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2693,black,"Kanyamarala, Tarun",2403,win,43,D02,England,2022
 2693,white,"Moreby, James",2305,win,42,C02,England,2022
 2693,white,"Petr, Martin",2489,win,46,C02,Czech Republic,2022
-2691,black,"Jackson, James P",2402,win,37,,D02,2022
-2691,white,"Wadsworth, Matthew J",2432,win,39,,B48,2022
+2691,black,"Jackson, James P",2402,win,37,D02,,2022
+2691,white,"Wadsworth, Matthew J",2432,win,39,B48,,2022
 2691,black,"Rapport, Richard",2762,draw,30,A30,Belgrade,2022
 2691,white,"Fedoseev, Vladimir",2704,win,32,B33,Belgrade,2022
 2691,white,"Vidit, Santosh Gujrathi",2723,draw,57,C80,Belgrade,2022
@@ -218,18 +218,18 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2658,white,"Plazuelo Pascual, Juan",2411,draw,34,E04,Linares,2019
 2658,white,"Volkov, Sergey",2547,lose,47,C06,Linares,2019
 2658,white,"Gonzalez Merino, Alberto",2226,win,24,C05,Linares,2019
-2658,white,"Ruck, Robert",2524,win,32,,B48,2019
-2658,black,"Manolache, Marius",2529,draw,51,,D02,2019
-2658,white,"Grigoryan, Karen H.",2562,win,54,,B12,2019
-2658,black,"Laiz Ibanez, Hector",2274,win,39,,B33,2019
-2658,white,"Pulvett Marin, Daniel Eduardo",2473,draw,52,,B90,2019
-2658,black,"Narciso Dublan, Marc",2483,draw,52,,D11,2019
-2658,white,"Suarez Gomez, Julio",2433,win,50,,C16,2019
-2658,black,"Bobadilla Viera, Jorge Samuel",2307,win,26,,C55,2019
-2658,white,"Mathieu, Phileas",2146,win,24,,B30,2019
-2667,white,"Hansen, Sune Berg",2587,win,55,,B77,2019
-2667,black,"Hammer, Jon Ludvig",2650,draw,21,,D11,2019
-2667,black,"Laveryd, Peter",2375,win,38,,C46,2019
+2658,white,"Ruck, Robert",2524,win,32,B48,,2019
+2658,black,"Manolache, Marius",2529,draw,51,D02,,2019
+2658,white,"Grigoryan, Karen H.",2562,win,54,B12,,2019
+2658,black,"Laiz Ibanez, Hector",2274,win,39,B33,,2019
+2658,white,"Pulvett Marin, Daniel Eduardo",2473,draw,52,B90,,2019
+2658,black,"Narciso Dublan, Marc",2483,draw,52,D11,,2019
+2658,white,"Suarez Gomez, Julio",2433,win,50,C16,,2019
+2658,black,"Bobadilla Viera, Jorge Samuel",2307,win,26,C55,,2019
+2658,white,"Mathieu, Phileas",2146,win,24,B30,,2019
+2667,white,"Hansen, Sune Berg",2587,win,55,B77,,2019
+2667,black,"Hammer, Jon Ludvig",2650,draw,21,D11,,2019
+2667,black,"Laveryd, Peter",2375,win,38,C46,,2019
 2667,black,"Junge, Ralph, Dr.",2259,win,40,A45,Germany,2019
 2667,white,"Carlstedt, Jonathan",2422,win,26,C72,Germany,2019
 2667,black,"Michalik, Peter",2565,draw,31,C53,Czech Republic,2019
@@ -687,15 +687,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2682,white,"Valencia, Belsar",2277,win,33,E91,Edmonton,2016
 2682,black,"Shankland, Samuel L",2646,draw,37,B33,Edmonton,2016
 2682,white,"Wang, Richard",2341,win,24,C02,Edmonton,2016
-2686,white,"Thorn, Eric",2204,win,48,Stockholm,,2016
+2686,white,"Thorn, Eric",2204,win,48,,Stockholm,2016
 2686,black,"Forsberg, Viktor",2370,win,32,C46,Stockholm,2016
-2686,white,"Mikhalevski, Victor",2516,draw,60,Stockholm,,2016
-2686,black,"Ziegler, Ari",2296,win,34,Stockholm,,2016
-2686,white,"Sevian, Samuel",2589,draw,46,Stockholm,,2016
-2686,black,"Bok, Benjamin",2605,draw,46,Stockholm,,2016
-2686,white,"Akesson, Ralf",2452,win,34,Stockholm,,2016
-2686,black,"Lindborg, Petter",2232,win,36,Stockholm,,2016
-2686,white,"Saren, Bjorn",2032,win,26,,2016,
+2686,white,"Mikhalevski, Victor",2516,draw,60,,Stockholm,2016
+2686,black,"Ziegler, Ari",2296,win,34,,Stockholm,2016
+2686,white,"Sevian, Samuel",2589,draw,46,,Stockholm,2016
+2686,black,"Bok, Benjamin",2605,draw,46,,Stockholm,2016
+2686,white,"Akesson, Ralf",2452,win,34,,Stockholm,2016
+2686,black,"Lindborg, Petter",2232,win,36,,Stockholm,2016
+2686,white,"Saren, Bjorn",2032,win,26,,,2016
 2686,white,"Saren, Bjorn",2032,win,25,A81,Stockholm,2016
 2689,black,"Vorobiov, Evgeny E",2574,draw,28,D11,Czech Republic,2016
 2689,white,"Simacek, Pavel",2454,win,36,C80,Czech Republic,2016
@@ -1780,15 +1780,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2735,white,"Troyke, Christian",2386,win,32,B35,Mainz,2007
 2735,black,"Krings, Christoph",2247,win,19,E01,Mainz,2007
 2735,white,"Schwencke, Allard",,win,22,A87,Mainz,2007
-2735,black,"Doettling, Fabian",2537,lose,27,Mainz,,2007
-2735,white,"Meier, Georg",2546,draw,16,Mainz,,2007
-2735,black,"Al Modiahki, Mohamad",2563,draw,10,Mainz,,2007
-2735,white,"Almasi, Zoltan",2682,lose,17,Mainz,,2007
-2735,white,"Gashimov, Vugar",2655,lose,9,Mainz,,2007
-2735,black,"Mchedlishvili, Mikheil",2624,win,15,Mainz,,2007
-2735,white,"Ruck, Robert",2563,win,9,Mainz,,2007
-2735,black,"Csiszar, Csaba",2430,win,23,Mainz,,2007
-2735,white,"Freise, Eckhard",2032,win,11,Mainz,,2007
+2735,black,"Doettling, Fabian",2537,lose,27,,Mainz,2007
+2735,white,"Meier, Georg",2546,draw,16,,Mainz,2007
+2735,black,"Al Modiahki, Mohamad",2563,draw,10,,Mainz,2007
+2735,white,"Almasi, Zoltan",2682,lose,17,,Mainz,2007
+2735,white,"Gashimov, Vugar",2655,lose,9,,Mainz,2007
+2735,black,"Mchedlishvili, Mikheil",2624,win,15,,Mainz,2007
+2735,white,"Ruck, Robert",2563,win,9,,Mainz,2007
+2735,black,"Csiszar, Csaba",2430,win,23,,Mainz,2007
+2735,white,"Freise, Eckhard",2032,win,11,,Mainz,2007
 2735,black,"Evdokimov, Alexander A",2544,lose,39,D71,Villarrobledo,2007
 2735,black,"Gonzalez de la Nava, Amador",2294,draw,36,A46,Villarrobledo,2007
 2735,white,"Lara Granero, Bio",2048,win,29,D73,Villarrobledo,2007
@@ -2556,7 +2556,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2706,black,"Papaioannou, Ioannis",2591,draw,54,D12,Leon,2001
 2706,white,"Sturua, Zurab",2571,draw,59,B12,Leon,2001
 2706,black,"Quinn, Mark",2387,win,26,E97,Leon,2001
-2706,black,"Glek, Igor V",2590,lose,15,Bastia,,2001
+2706,black,"Glek, Igor V",2590,lose,15,,Bastia,2001
 2706,white,"Rodriguez Vargas, Orestes",2463,win,33,C45,Cala Galdana,2001
 2706,black,"Marin, Mihail",2561,win,45,E66,Cala Galdana,2001
 2706,white,"Arizmendi Martinez, Julen Luis",2503,win,34,B33,Cala Galdana,2001

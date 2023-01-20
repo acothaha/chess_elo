@@ -174,12 +174,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2688,black,"Iljiushenok, Ilia",2530,draw,58,B90,Cheboksary,2021
 2688,white,"Antipov, Mikhail Al.",2596,draw,40,D70,Cheboksary,2021
 2688,black,"Lysyj, Igor",2605,draw,41,D12,Cheboksary,2021
-2688,white,"Triapishko, Alexandr",2510,win,53,,B12,2021
-2688,black,"Demchenko, Anton",2600,draw,41,,B30,2021
-2688,white,"Kobalia, Mihail",2596,draw,41,,C67,2021
-2688,black,"Pogosyan, Stefan",2413,win,33,,A21,2021
-2688,white,"Faizrakhmanov, Ramil",2484,draw,59,,B12,2021
-2688,black,"Shuvalova, Polina",2489,draw,40,,B33,2021
+2688,white,"Triapishko, Alexandr",2510,win,53,B12,,2021
+2688,black,"Demchenko, Anton",2600,draw,41,B30,,2021
+2688,white,"Kobalia, Mihail",2596,draw,41,C67,,2021
+2688,black,"Pogosyan, Stefan",2413,win,33,A21,,2021
+2688,white,"Faizrakhmanov, Ramil",2484,draw,59,B12,,2021
+2688,black,"Shuvalova, Polina",2489,draw,40,B33,,2021
 2688,white,"Dreev, Alexey",2647,draw,30,B29,Sochi,2021
 2688,black,"Inarkiev, Ernesto",2654,draw,50,E10,Sochi,2021
 2688,black,"Shubin, Kirill",2481,draw,41,B51,Sochi,2021

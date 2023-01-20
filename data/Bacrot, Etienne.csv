@@ -1,6 +1,6 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
-2646,black,"Freitag, Manfred",2360,win,43,,C02,2022
-2646,white,"Sebastian, Dirk",2435,win,24,,A57,2022
+2646,black,"Freitag, Manfred",2360,win,43,C02,,2022
+2646,white,"Sebastian, Dirk",2435,win,24,A57,,2022
 2647,black,"Martin Duque, Jesus",2378,win,25,B90,Linares,2022
 2647,white,"Reinaldo Castineira, Roi",2496,win,76,C02,Linares,2022
 2647,white,"Espinosa Aranda, Angel",2428,win,27,B07,Linares,2022
@@ -30,7 +30,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2641,black,"Korobov, Anton",2675,draw,51,A07,Chartres,2022
 2635,white,"Ciolek, Andreas",2191,win,40,B51,Germany,2022
 2635,black,"Lokander, Martin",2475,draw,16,D37,Germany,2022
-2635,white,"Maiwald, Jens-Uwe",2424,draw,38,,D70,2022
+2635,white,"Maiwald, Jens-Uwe",2424,draw,38,D70,,2022
 2635,black,"Andreikin, Dmitry",2724,lose,42,D27,Belgrade,2022
 2635,white,"Grischuk, Alexander",2758,draw,23,C84,Belgrade,2022
 2635,black,"Shankland, Samuel L",2704,draw,45,D20,Belgrade,2022
@@ -580,7 +580,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2702,white,"Svidler, Peter",2762,draw,57,A88,Porto Vecchio,2016
 2698,black,"Stella, Andrea",2419,draw,19,E62,Civitanova Marche ITA,2016
 2698,white,"Bertagnolli, Alexander",2376,draw,48,A58,Civitanova Marche ITA,2016
-2698,white,"Berelowitsch, Alexander",2518,win,46,,2016,
+2698,white,"Berelowitsch, Alexander",2518,win,46,,,2016
 2692,black,"Machelett, Heiko",2407,draw,21,A17,Germany,2016
 2692,white,"Laznicka, Viktor",2676,win,43,B47,Germany,2016
 2701,white,"Sumets, Andrey",2577,draw,49,D16,Karlsruhe,2016
@@ -1842,20 +1842,20 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2695,black,"Anand, Viswanathan",2792,draw,17,C41,Mainz,2007
 2695,white,"Kasimdzhanov, Rustam",2683,lose,42,D43,Mainz,2007
 2695,white,"Aronian, Levon",2750,lose,45,C54,Mainz,2007
-2695,black,"Navara, David",2656,lose,17,Mainz,,2007
-2695,white,"Ivanchuk, Vassily",2762,lose,24,Mainz,,2007
-2695,black,"Kamsky, Gata",2718,win,26,Mainz,,2007
-2695,black,"Almasi, Zoltan",2682,draw,22,Mainz,,2007
-2695,white,"Sasikiran, Krishnan",2676,win,59,Mainz,,2007
-2695,black,"Gashimov, Vugar",2655,win,38,Mainz,,2007
+2695,black,"Navara, David",2656,lose,17,,Mainz,2007
+2695,white,"Ivanchuk, Vassily",2762,lose,24,,Mainz,2007
+2695,black,"Kamsky, Gata",2718,win,26,,Mainz,2007
+2695,black,"Almasi, Zoltan",2682,draw,22,,Mainz,2007
+2695,white,"Sasikiran, Krishnan",2676,win,59,,Mainz,2007
+2695,black,"Gashimov, Vugar",2655,win,38,,Mainz,2007
 2695,white,"Anand, Viswanathan",2792,draw,37,C89,Mainz,2007
 2695,black,"Kasimdzhanov, Rustam",2683,win,72,C88,Mainz,2007
 2695,black,"Aronian, Levon",2750,lose,22,D15,Mainz,2007
-2695,white,"Jussupow, Artur",2583,win,42,Mainz,,2007
-2695,black,"Gyimesi, Zoltan",2607,draw,14,Mainz,,2007
-2695,white,"Zhu, Chen",2522,win,23,Mainz,,2007
-2695,black,"Rau, Hannes",2412,win,20,Mainz,,2007
-2695,white,"Wichmann, Daniel",2220,win,21,Mainz,,2007
+2695,white,"Jussupow, Artur",2583,win,42,,Mainz,2007
+2695,black,"Gyimesi, Zoltan",2607,draw,14,,Mainz,2007
+2695,white,"Zhu, Chen",2522,win,23,,Mainz,2007
+2695,black,"Rau, Hannes",2412,win,20,,Mainz,2007
+2695,white,"Wichmann, Daniel",2220,win,21,,Mainz,2007
 2709,white,"Shirov, Alexei",2699,draw,20,A16,Odessa,2007
 2709,black,"Smirin, Ilia",2650,draw,25,C90,Odessa,2007
 2709,white,"Korchnoi, Viktor",2623,draw,51,E04,Odessa,2007
@@ -1901,16 +1901,16 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2705,white,"Bologan, Viktor",2658,win,28,B07,Odessa,2007
 2705,white,"Bologan, Viktor",2658,lose,32,E94,Odessa,2007
 2705,black,"Bologan, Viktor",2658,win,72,C88,Odessa,2007
-2705,white,"Kasimdzhanov, Rustam",2682,win,14,Mainz,,2007
-2705,black,"Anand, Viswanathan",2779,lose,11,Mainz,,2007
-2705,white,"Aronian, Levon",2744,draw,32,Mainz,,2007
-2705,black,"Kasimdzhanov, Rustam",2682,lose,23,Mainz,,2007
-2705,white,"Anand, Viswanathan",2779,draw,26,Mainz,,2007
-2705,black,"Aronian, Levon",2744,lose,21,Mainz,,2007
-2705,black,"Kasimdzhanov, Rustam",2682,win,24,Mainz,,2007
-2705,white,"Kasimdzhanov, Rustam",2682,win,25,Mainz,,2007
-2705,black,"Kasimdzhanov, Rustam",2682,draw,22,Mainz,,2007
-2705,white,"Kasimdzhanov, Rustam",2682,draw,30,Mainz,,2007
+2705,white,"Kasimdzhanov, Rustam",2682,win,14,,Mainz,2007
+2705,black,"Anand, Viswanathan",2779,lose,11,,Mainz,2007
+2705,white,"Aronian, Levon",2744,draw,32,,Mainz,2007
+2705,black,"Kasimdzhanov, Rustam",2682,lose,23,,Mainz,2007
+2705,white,"Anand, Viswanathan",2779,draw,26,,Mainz,2007
+2705,black,"Aronian, Levon",2744,lose,21,,Mainz,2007
+2705,black,"Kasimdzhanov, Rustam",2682,win,24,,Mainz,2007
+2705,white,"Kasimdzhanov, Rustam",2682,win,25,,Mainz,2007
+2705,black,"Kasimdzhanov, Rustam",2682,draw,22,,Mainz,2007
+2705,white,"Kasimdzhanov, Rustam",2682,draw,30,,Mainz,2007
 2705,white,"Rabiega, Robert",2524,win,38,D52,Germany,2006
 2705,black,"Sargissian, Gabriel",2667,win,64,D13,Germany,2006
 2705,white,"Laznicka, Viktor",2596,win,31,D15,Germany,2006
@@ -1921,7 +1921,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2705,black,"Kasimdzhanov, Rustam",2672,lose,33,D15,Bastia,2006
 2717,white,"Kasimdzhanov, Rustam",2670,win,32,D58,Bastia,2006
 2717,white,"Fressinet, Laurent",2625,draw,34,D46,Bastia,2006
-2717,black,"Fressinet, Laurent",2625,win,7,Bastia,,2006
+2717,black,"Fressinet, Laurent",2625,win,7,,Bastia,2006
 2717,black,"Chernin, Alexander",2586,win,31,D13,Bastia,2006
 2717,white,"Chernin, Alexander",2586,win,47,D45,Bastia,2006
 2705,white,"Radjabov, Teimour",2729,lose,97,E93,Cap d&#039;Agde,2006

@@ -79,14 +79,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2624,black,"Romera Carrion, Ruben",1819,win,53,B30,La Roda,2022
 2624,black,Gukesh D,2637,win,38,E48,Reykjavik,2022
 2624,white,"Cornette, Matthieu",2569,win,25,E46,Reykjavik,2022
-2624,black,"Andersen, Mads",2582,draw,16,,B22,2022
-2624,white,"Mishra, Abhimanyu",2524,win,79,,D11,2022
-2624,black,"Steingrimsson, Hedinn",2538,draw,33,,E32,2022
-2624,white,"Laurent-Paoli, Pierre",2487,win,57,,D38,2022
+2624,black,"Andersen, Mads",2582,draw,16,B22,,2022
+2624,white,"Mishra, Abhimanyu",2524,win,79,D11,,2022
+2624,black,"Steingrimsson, Hedinn",2538,draw,33,E32,,2022
+2624,white,"Laurent-Paoli, Pierre",2487,win,57,D38,,2022
 2624,black,"Kolbus, Dietmar",2312,win,47,A46,Reykjavik,2022
 2624,white,"Brunello, Marina",2337,draw,62,D12,Reykjavik,2022
 2624,black,"Kolbus, Dietmar",2312,draw,34,B31,Reykjavik,2022
-2624,black,"Cherniack, Alex",2213,win,32,,B68,2022
+2624,black,"Cherniack, Alex",2213,win,32,B68,,2022
 2612,white,"Esipenko, Andrey",2714,win,59,E24,Wijk aan Zee,2022
 2612,white,"Caruana, Fabiano",2792,lose,46,D45,Wijk aan Zee,2022
 2612,black,"Vidit, Santosh Gujrathi",2727,win,79,E32,Wijk aan Zee,2022
@@ -119,15 +119,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2618,white,"Howell, David",2658,draw,46,C55,Riga,2021
 2618,white,"Adhiban, Baskaran",2672,win,55,D85,Riga,2021
 2618,black,"Sargissian, Gabriel",2664,draw,44,E49,Riga,2021
-2618,black,"Mosadeghpour, Masoud",2486,draw,31,,B30,2021
-2618,white,"Mikaelyan, Arman",2487,win,44,,C77,2021
-2618,black,"Babujian, Levon",2447,win,39,,E21,2021
-2618,white,"Goganov, Aleksey",2557,lose,37,,C50,2021
-2618,black,"Ter-Sahakyan, Samvel",2607,draw,28,,B30,2021
-2618,white,"Shahinyan, David",2469,draw,72,,A56,2021
-2618,black,"Gharibyan, Mamikon",2471,win,36,,E10,2021
-2618,white,"Daghli, Arash",2427,win,38,,C55,2021
-2618,black,"Atakhan, Abtin",2319,win,24,,A46,2021
+2618,black,"Mosadeghpour, Masoud",2486,draw,31,B30,,2021
+2618,white,"Mikaelyan, Arman",2487,win,44,C77,,2021
+2618,black,"Babujian, Levon",2447,win,39,E21,,2021
+2618,white,"Goganov, Aleksey",2557,lose,37,C50,,2021
+2618,black,"Ter-Sahakyan, Samvel",2607,draw,28,B30,,2021
+2618,white,"Shahinyan, David",2469,draw,72,A56,,2021
+2618,black,"Gharibyan, Mamikon",2471,win,36,E10,,2021
+2618,white,"Daghli, Arash",2427,win,38,C55,,2021
+2618,black,"Atakhan, Abtin",2319,win,24,A46,,2021
 2608,white,"Salem, A.R. Saleh",2682,lose,35,B12,Biel,2021
 2608,black,"Eljanov, Pavel",2671,lose,57,B30,Biel,2021
 2608,black,"Vachier-Lagrave, Maxime",2749,lose,33,B40,Sochi,2021
@@ -193,7 +193,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2519,black,"Vidit, Santosh Gujrathi",2711,lose,43,E10,Douglas,2018
 2519,white,"Eljanov, Pavel",2703,win,64,B66,Douglas,2018
 2519,black,"Leko, Peter",2690,draw,51,B12,Douglas,2018
-2529,black,"Saric, Ivan",2685,draw,41,,C78,2018
+2529,black,"Saric, Ivan",2685,draw,41,C78,,2018
 2515,black,"Sethuraman, SP.",2646,lose,41,C72,Gibraltar,2018
 2515,white,"Short, Nigel D",2681,draw,41,C15,Gibraltar,2018
 2517,white,"Grandelius, Nils",2647,lose,85,B40,Rilton,2017

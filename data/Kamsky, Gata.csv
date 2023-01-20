@@ -39,9 +39,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2655,white,"Flom, Gabriel",2428,win,61,A45,Chartres,2022
 2658,white,"Alonso Rosell, Alvar",2565,draw,21,A46,Germany,2022
 2658,black,"Saric, Ivan",2687,draw,31,C88,Germany,2022
-2658,white,"Vogel, Roven",2447,draw,27,,C88,2022
-2661,white,"Schroeder, Jan-Christian",2566,draw,27,,D02,2022
-2661,black,"Richter, Michael",2493,win,66,,A48,2022
+2658,white,"Vogel, Roven",2447,draw,27,C88,,2022
+2661,white,"Schroeder, Jan-Christian",2566,draw,27,D02,,2022
+2661,black,"Richter, Michael",2493,win,66,A48,,2022
 2662,white,"Inarkiev, Ernesto",2668,draw,22,C89,Berlin,2021
 2662,black,"Oleksiyenko, Mykhaylo",2586,draw,21,C67,Berlin,2021
 2662,white,"Vachier-Lagrave, Maxime",2763,draw,23,B50,Berlin,2021
@@ -236,14 +236,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2757,black,"Frolyanov, Dmitry",2614,win,38,B42,Saint Petersburg,2018
 2757,white,"Sychev, Klementy",2544,win,44,C74,Saint Petersburg,2018
 2666,white,"Alekseev, Evgeny",2620,draw,27,A00,Khanty-Mansiysk,2018
-2666,black,"Sengupta, Deep",2557,win,51,,A35,2018
-2666,white,"Afanasiev, Nikita",2487,win,42,,A48,2018
-2666,black,"Vorobiov, Evgeny E.",2557,draw,40,,E12,2018
+2666,black,"Sengupta, Deep",2557,win,51,A35,,2018
+2666,white,"Afanasiev, Nikita",2487,win,42,A48,,2018
+2666,black,"Vorobiov, Evgeny E.",2557,draw,40,E12,,2018
 2666,white,"Yatzenko, Anton",2351,win,35,C91,St Petersburg,2018
-2666,black,"Badelka, Olga",2394,draw,29,,A80,2018
+2666,black,"Badelka, Olga",2394,draw,29,A80,,2018
 2666,white,"Manin, Viktor L",2100,win,28,C91,St Petersburg,2018
-2666,black,"Demianjuk, Alexander",2332,draw,40,,C49,2018
-2666,white,"Yaroslavtsev, Artem",2097,win,24,,C60,2018
+2666,black,"Demianjuk, Alexander",2332,draw,40,C49,,2018
+2666,white,"Yaroslavtsev, Artem",2097,win,24,C60,,2018
 2666,white,"Dilmukhametov, Artur",2353,draw,48,D10,Sochi,2018
 2666,black,"Ivlev, Aleksey",2326,win,62,D10,Sochi,2018
 2666,black,"Sergeyev, Alexander",2397,win,30,E61,Sochi,2018
@@ -276,15 +276,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2675,black,"Alekseev, Evgeny V",2620,draw,14,B00,St Petersburg,2018
 2675,white,"Goganov, Aleksey",2586,win,30,D02,St Petersburg,2018
 2675,white,"Nakhodkin, Gennadiy",1953,draw,68,C60,St Petersburg,2018
-2675,white,"Khanin, Semen",2494,draw,78,,A00,2018
-2675,black,"Vavulin, Maksim",2545,draw,34,,B15,2018
-2675,black,"Vokhidov, Shamsiddin",2412,win,103,,E47,2018
-2675,white,"Burmakin, Vladimir",2494,draw,47,,B01,2018
-2675,white,"Ovchinnikov, Vsevolod",2343,win,54,,A45,2018
-2675,black,"Usmanov, Vasily",2483,draw,52,,D70,2018
+2675,white,"Khanin, Semen",2494,draw,78,A00,,2018
+2675,black,"Vavulin, Maksim",2545,draw,34,B15,,2018
+2675,black,"Vokhidov, Shamsiddin",2412,win,103,E47,,2018
+2675,white,"Burmakin, Vladimir",2494,draw,47,B01,,2018
+2675,white,"Ovchinnikov, Vsevolod",2343,win,54,A45,,2018
+2675,black,"Usmanov, Vasily",2483,draw,52,D70,,2018
 2675,white,"Ioffe, Ilya",2267,win,31,C89,St Petersburg,2018
-2675,black,"Evdokimov, Alexey",2288,draw,54,,A05,2018
-2675,white,"Lagashin, Pavel",2101,win,40,,B00,2018
+2675,black,"Evdokimov, Alexey",2288,draw,54,A05,,2018
+2675,white,"Lagashin, Pavel",2101,win,40,B00,,2018
 2670,white,"Paravyan, David",2620,draw,40,B22,Sochi,2018
 2670,black,"Inarkiev, Ernesto",2686,draw,24,E16,Sochi,2018
 2670,white,"Shirov, Alexei",2652,draw,76,C46,Sochi,2018
@@ -566,10 +566,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2670,black,"Sjugirov, Sanan",2674,draw,59,B43,Sochi,2016
 2670,white,"Inarkiev, Ernesto",2686,draw,48,A45,Sochi,2016
 2670,black,"Grischuk, Alexander",2752,draw,49,C63,Sochi,2016
-2678,white,"Shankland, Samuel L",2656,draw,30,Saint Louis USA,,2016
+2678,white,"Shankland, Samuel L",2656,draw,30,,Saint Louis USA,2016
 2678,black,"Caruana, Fabiano",2795,draw,60,B31,Saint Louis USA,2016
-2678,white,"Chandra, Akshat",2477,win,80,Saint Louis USA,,2016
-2678,black,"Akobian, Varuzhan",2615,draw,50,Saint Louis USA,,2016
+2678,white,"Chandra, Akshat",2477,win,80,,Saint Louis USA,2016
+2678,black,"Akobian, Varuzhan",2615,draw,50,,Saint Louis USA,2016
 2678,black,"Lenderman, Aleksandr",2618,draw,33,E39,Saint Louis,2016
 2678,white,"Robson, Ray",2663,draw,46,D43,Saint Louis USA,2016
 2678,black,"Xiong, Jeffery",2618,lose,38,B03,Saint Louis USA,2016
@@ -1623,17 +1623,17 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2718,white,"Bruehl, Andreas",2370,win,52,C83,Mainz,2007
 2718,black,"Negele, Michael",2245,win,38,B21,Mainz,2007
 2718,white,"Wettengel, Alexander",2099,win,54,C18,Mainz,2007
-2718,white,"Karjakin, Sergey",2678,win,21,Mainz,,2007
-2718,black,"Volokitin, Andrei",2681,draw,43,Mainz,,2007
-2718,white,"Bacrot, Etienne",2695,lose,26,Mainz,,2007
-2718,black,"Bologan, Viktor",2650,win,18,Mainz,,2007
-2718,white,"Almasi, Zoltan",2682,draw,15,Mainz,,2007
-2718,black,"Mamedyarov, Shakhriyar",2757,win,8,Mainz,,2007
-2718,white,"Naiditsch, Arkadij",2652,win,17,Mainz,,2007
-2718,black,"Petrosian, Tigran L",2613,win,17,Mainz,,2007
-2718,white,"Doettling, Fabian",2537,win,23,Mainz,,2007
-2718,black,"Souleidis, Georgios",2421,win,17,Mainz,,2007
-2718,white,"Resa, Hans Farid",,win,21,Mainz,,2007
+2718,white,"Karjakin, Sergey",2678,win,21,,Mainz,2007
+2718,black,"Volokitin, Andrei",2681,draw,43,,Mainz,2007
+2718,white,"Bacrot, Etienne",2695,lose,26,,Mainz,2007
+2718,black,"Bologan, Viktor",2650,win,18,,Mainz,2007
+2718,white,"Almasi, Zoltan",2682,draw,15,,Mainz,2007
+2718,black,"Mamedyarov, Shakhriyar",2757,win,8,,Mainz,2007
+2718,white,"Naiditsch, Arkadij",2652,win,17,,Mainz,2007
+2718,black,"Petrosian, Tigran L",2613,win,17,,Mainz,2007
+2718,white,"Doettling, Fabian",2537,win,23,,Mainz,2007
+2718,black,"Souleidis, Georgios",2421,win,17,,Mainz,2007
+2718,white,"Resa, Hans Farid",,win,21,,Mainz,2007
 2718,white,"Eljanov, Pavel",2701,lose,36,E55,Montreal,2007
 2718,black,"Charbonneau, Pascal",2503,draw,52,B01,Montreal,2007
 2718,black,"Short, Nigel D",2683,draw,45,C44,Montreal,2007

@@ -14,8 +14,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2742,white,"Mucha, Hubert",1838,win,26,B23,Katowice,2022
 2742,black,"Mucha, Hubert",1838,win,64,C50,Katowice,2022
 2686,black,"Markus, Robert",2608,draw,21,E10,Germany,2022
-2689,black,"Kempinski, Robert",2541,draw,26,,E10,2022
-2689,white,"Yuffa, Daniil",2601,draw,42,,B51,2022
+2689,black,"Kempinski, Robert",2541,draw,26,E10,,2022
+2689,white,"Yuffa, Daniil",2601,draw,42,B51,,2022
 2696,black,"Schitco, Ivan",2490,draw,56,E04,Chennai,2022
 2696,white,"Vocaturo, Daniele",2616,draw,37,B52,Chennai,2022
 2696,black,"Peralta, Fernando",2591,draw,31,E54,Chennai,2022
@@ -41,10 +41,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2698,black,"Van Foreest, Jorden",2715,draw,30,A50,Malmo,2022
 2698,white,"Grandelius, Nils",2635,draw,41,B92,Malmo,2022
 2698,black,"Niemann, Hans Moke",2656,draw,49,D36,Malmo,2022
-2698,white,"Levin, Felix",2450,draw,42,,C53,2022
-2698,black,"Nagy, Gabor",2518,draw,28,,A28,2022
-2698,white,"Clarke, Brandon G I",2435,win,34,,B51,2022
-2698,black,"Jones, Gawain C",2672,draw,39,,C54,2022
+2698,white,"Levin, Felix",2450,draw,42,C53,,2022
+2698,black,"Nagy, Gabor",2518,draw,28,A28,,2022
+2698,white,"Clarke, Brandon G I",2435,win,34,B51,,2022
+2698,black,"Jones, Gawain C",2672,draw,39,C54,,2022
 2670,white,"Trent, Lawrence",2440,win,50,C64,London,2021
 2670,black,"Jones, Gawain C",2604,draw,30,C50,London,2021
 2670,white,"Horton, Andrew P",2298,win,72,C84,London,2021
@@ -108,8 +108,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2689,white,"Wojtaszek, Radoslaw",2662,draw,31,B51,Biel,2020
 2689,black,"Keymer, Vincent",2487,win,34,A06,Biel,2020
 2689,white,"Harikrishna, Pentala",2690,lose,40,C84,Biel,2020
-2698,white,"Speelman, Jonathan S",2508,win,37,,C11,2020
-2698,black,"Gordon, Stephen J",2503,win,39,,A20,2020
+2698,white,"Speelman, Jonathan S",2508,win,37,C11,,2020
+2698,black,"Gordon, Stephen J",2503,win,39,A20,,2020
 2694,white,"Karthikeyan, Murali",2606,draw,36,C65,Gibraltar,2020
 2694,white,"Antipov, Mikhail Al.",2562,win,44,C53,Gibraltar,2020
 2694,black,"Maze, Sebastien",2550,draw,39,C77,Gibraltar,2020
@@ -1738,14 +1738,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2744,black,"Leko, Peter",2730,lose,49,C42,Dortmund,2001
 2750,black,Comp Pocket Fritz,,win,38,C16,Mainz,2001
 2750,white,Comp Pocket Fritz,,win,25,B50,Mainz,2001
-2750,black,"Leko, Peter",2730,draw,4,Mainz,,2001
-2730,white,"Leko, Peter",2750,draw,22,Mainz,,2001
-2730,white,"Leko, Peter",2750,win,55,Mainz,,2001
-2750,black,"Leko, Peter",2730,draw,36,Mainz,,2001
-2750,black,"Leko, Peter",2730,lose,9,Mainz,,2001
-2730,white,"Leko, Peter",2750,draw,8,Mainz,,2001
-2750,white,"Leko, Peter",2730,lose,11,Mainz,,2001
-2750,black,"Leko, Peter",2730,draw,32,Mainz,,2001
+2750,black,"Leko, Peter",2730,draw,4,,Mainz,2001
+2730,white,"Leko, Peter",2750,draw,22,,Mainz,2001
+2730,white,"Leko, Peter",2750,win,55,,Mainz,2001
+2750,black,"Leko, Peter",2730,draw,36,,Mainz,2001
+2750,black,"Leko, Peter",2730,lose,9,,Mainz,2001
+2730,white,"Leko, Peter",2750,draw,8,,Mainz,2001
+2750,white,"Leko, Peter",2730,lose,11,,Mainz,2001
+2750,black,"Leko, Peter",2730,draw,32,,Mainz,2001
 2750,black,"Pomes Marcet, Juan",2411,win,36,E25,Mainz,2001
 2750,black,"Bonnaire, Ulrich",,win,27,C86,Mainz,2001
 2750,black,"Short, Nigel D",2676,draw,33,C88,Birmingham,2001

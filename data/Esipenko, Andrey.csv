@@ -44,9 +44,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2678,white,"Mathieu, Phileas",2367,draw,59,C55,Sitges,2022
 2678,black,"Cherniack, Alex",2188,win,33,E31,Sitges,2022
 2680,black,"Schroeder, Jan-Christian",2553,win,37,B12,Germany,2022
-2680,white,"Svane, Rasmus",2619,draw,40,,A29,2022
-2680,black,"Horvath, Dominik",2501,draw,31,,B14,2022
-2680,black,"Idani, Pouya",2631,draw,126,,C89,2022
+2680,white,"Svane, Rasmus",2619,draw,40,A29,,2022
+2680,black,"Horvath, Dominik",2501,draw,31,B14,,2022
+2680,black,"Idani, Pouya",2631,draw,126,C89,,2022
 2668,black,"Nesterov, Arseniy",2567,draw,60,E01,Sardina,2022
 2668,white,"Sonis, Francesco",2531,draw,33,A13,Sardina,2022
 2668,black,Prraneeth Vuppala,2451,win,44,C70,Sardina,2022
@@ -74,10 +74,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2678,black,"Artemiev, Vladislav",2706,draw,15,C47,Cheboksary,2022
 2678,white,"Tomashevsky, Evgeny",2700,draw,18,C88,Cheboksary,2022
 2678,white,"Iljiushenok, Ilia",2551,draw,33,C43,Cheboksary,2022
-2692,black,"Daneshvar, Bardiya",2490,draw,56,,A50,2022
-2692,black,"Shevchenko, Kirill",2642,draw,35,,C84,2022
+2692,black,"Daneshvar, Bardiya",2490,draw,56,A50,,2022
+2692,black,"Shevchenko, Kirill",2642,draw,35,C84,,2022
 2692,black,"Kozak, Adam Zoltan",2522,draw,32,A28,Ankara,2022
-2692,black,"Gholami, Aryan",2507,win,42,,A28,2022
+2692,black,"Gholami, Aryan",2507,win,42,A28,,2022
 ,white,"Arat, Ufuk Sezen",,lose,41,D20,Ankara,2022
 ,black,"Ivic, Velimir",,win,40,C84,Ankara,2022
 ,white,"Nguyen, Thai Dai Van",,draw,34,D30,Ankara ,2022
@@ -131,8 +131,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2709,black,"Harshita, Guddanti",2208,win,51,C84,Montebelluna,2022
 2709,white,"Rahul, Srivatshav P",2458,draw,52,D12,Montebelluna,2022
 2709,black,"Martinovici, Ilia",2408,win,48,E32,Montebelluna,2022
-2723,black,"McShane, Luke J",2647,draw,48,,C67,2022
-2723,white,"Moiseenko, Alexander",2602,win,42,,B30,2022
+2723,black,"McShane, Luke J",2647,draw,48,C67,,2022
+2723,white,"Moiseenko, Alexander",2602,win,42,B30,,2022
 2709,white,"Sargissian, Gabriel",2694,win,38,D38,Sochi,2022
 2709,black,"Najer, Evgeniy",2659,lose,38,C67,Sochi,2022
 2709,white,"Shubin, Kirill",2472,win,36,C18,Sochi,2022
@@ -1706,4 +1706,4 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 ,white,"Zakaryan, David",2014,draw,44,D38,Azov,2011
 ,black,"Petrov, Artur",2383,lose,56,B43,Azov,2011
 ,white,"Kulygin, Evgeniy",2118,win,56,B31,Azov,2011
-,white,"Nguyen, Thai Dai Van",,draw,34,,D30,Ankara 
+,white,"Nguyen, Thai Dai Van",,draw,34,D30,,Ankara 

@@ -30,8 +30,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2645,white,"Abasov, Nijat",2646,win,14,C65,Saint Louis,2022
 2645,black,"Oparin, Grigoriy",2683,draw,34,E32,Saint Louis,2022
 2645,black,"Yu, Yangyi",2716,draw,41,A20,Saint Louis,2022
-2634,white,"Markus, Robert",2615,win,41,,A55,2022
-2634,black,"Saric, Ivan",2668,draw,75,,C43,2022
+2634,white,"Markus, Robert",2615,win,41,A55,,2022
+2634,black,"Saric, Ivan",2668,draw,75,C43,,2022
 2627,white,"Berkes, Ferenc",2651,draw,33,E04,Oradea,2022
 2627,white,"Deac, Bogdan-Daniel",2710,win,43,E04,Oradea,2022
 2627,black,"Deac, Bogdan-Daniel",2710,draw,29,A05,Wojtaszek,2022
@@ -42,8 +42,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2627,black,"Grandelius, Nils",2651,lose,55,D41,Wojtaszek,2022
 2627,white,"Bluebaum, Matthias",2647,draw,27,B12,Wojtaszek,2022
 2627,white,"Wojtaszek, Radoslaw",2696,draw,35,C88,Wojtaszek,2022
-2629,white,Gukesh D,2699,draw,45,,B31,2022
-2629,black,"Kuzubov, Yuriy",2644,lose,36,,C53,2022
+2629,white,Gukesh D,2699,draw,45,B31,,2022
+2629,black,"Kuzubov, Yuriy",2644,lose,36,C53,,2022
 2629,white,"Maghsoodloo, Parham",2701,draw,36,C11,Ankara,2022
 ,black,"Esipenko, Andrey",,draw,34,D30,Ankara ,2022
 ,white,"Ivic, Velimir",,win,58,B40,Ankara ,2022
@@ -1145,4 +1145,4 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 1753,black,"Chlebek, Jan",1519,win,38,B56,Kouty nad Desnou,2011
 1753,white,"Jurasek, Vojtech",1314,win,54,E18,Kouty nad Desnou,2011
 1753,black,"Pastrnek, Michal",1288,win,35,B90,Kouty nad Desnou,2011
-,black,"Esipenko, Andrey",,draw,34,,D30,Ankara 
+,black,"Esipenko, Andrey",,draw,34,D30,,Ankara 

@@ -105,8 +105,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2635,black,"Anton Guijarro, David",2674,draw,66,A20,Douglas,2019
 2635,white,"Fedoseev, Vladimir",2664,draw,32,B31,Douglas,2019
 2635,white,"Anand, Viswanathan",2765,win,30,E46,Douglas,2019
-2635,white,"Kempinski, Robert",2578,win,66,,A50,2019
-2635,black,"Kociscak, Jiri",2499,win,41,,E32,2019
+2635,white,"Kempinski, Robert",2578,win,66,A50,,2019
+2635,black,"Kociscak, Jiri",2499,win,41,E32,,2019
 2568,white,"Giri, Anish",2750,lose,38,A28,Khanty-Mansiysk,2019
 2568,black,"Giri, Anish",2750,win,105,E11,Khanty-Mansiysk,2019
 2635,white,"Giri, Anish",2780,lose,31,C26,Khanty-Mansiysk,2019

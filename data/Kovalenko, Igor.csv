@@ -1,6 +1,6 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2674,black,"Lokander, Martin",2443,win,43,E24,Germany,2022
-2620,black,"Vakhidov, Jakhongir",2507,lose,56,,A28,2022
+2620,black,"Vakhidov, Jakhongir",2507,lose,56,A28,,2022
 2620,black,"Shirov, Alexei",2590,lose,42,B41,Jerusalem,2022
 2620,white,"Li, Di",2441,lose,77,A13,Jerusalem,2022
 2620,white,"Gharamian, Tigran",2637,win,50,A13,Jerusalem,2022
@@ -37,9 +37,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2647,white,"Stevic, Hrvoje",2570,win,39,C49,Zagreb,2021
 2647,black,"Bosiocic, Marin",2573,lose,59,C02,Zagreb,2021
 2647,white,"Zelcic, Robert",2522,win,31,E41,Zagreb,2021
-2651,white,"Skawinski, Arkadiusz",2359,lose,67,,D45,2021
-2651,black,"Sieciechowicz, Marcin",2362,draw,88,,A45,2021
-2651,white,"Antoniewski, Rafal",2493,win,41,,E68,2021
+2651,white,"Skawinski, Arkadiusz",2359,lose,67,D45,,2021
+2651,black,"Sieciechowicz, Marcin",2362,draw,88,A45,,2021
+2651,white,"Antoniewski, Rafal",2493,win,41,E68,,2021
 2700,white,"Andreev, Eduard",2397,draw,43,A37,Kyiv,2021
 2700,black,"Grinev, Valeriy",2330,win,57,E01,Kyiv,2021
 2700,black,"Pavlov, Sergey",2363,lose,39,A21,Kyiv,2021
@@ -274,17 +274,17 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2632,white,"Doschanov, Zhaslan",2196,win,33,C24,Astana,2018
 2632,black,"Bakytzhan, A.",1807,win,34,D94,Astana,2018
 2632,white,"Malakhov, Vladimir",2685,draw,40,C24,Asnieres sur Seine,2018
-2632,white,"Malisauskas, Vidmantas",2422,lose,59,,B12,2018
-2632,white,"Sulskis, Sarunas",2506,win,50,,C24,2018
-2632,black,"Neiksans, Arturs",2561,draw,38,,B31,2018
-2632,black,"Pultinevicius, Paulius",2395,lose,74,,A06,2018
-2632,white,"Laurusas, Tomas",2453,draw,52,,A11,2018
+2632,white,"Malisauskas, Vidmantas",2422,lose,59,B12,,2018
+2632,white,"Sulskis, Sarunas",2506,win,50,C24,,2018
+2632,black,"Neiksans, Arturs",2561,draw,38,B31,,2018
+2632,black,"Pultinevicius, Paulius",2395,lose,74,A06,,2018
+2632,white,"Laurusas, Tomas",2453,draw,52,A11,,2018
 2632,white,"Laurusas, Tomas",2453,draw,51,A11,Palanga,2018
-2632,black,"Ladva, Ottomar",2499,win,58,,A49,2018
-2632,white,"Meshkovs, Nikita",2515,draw,75,,A20,2018
+2632,black,"Ladva, Ottomar",2499,win,58,A49,,2018
+2632,white,"Meshkovs, Nikita",2515,draw,75,A20,,2018
 2632,white,"Meskovs, Nikita",2515,draw,75,A29,Palanga,2018
-2632,black,"Starostits, Ilmars",2461,win,12,,A47,2018
-2632,white,"Stremavicius, Titas",2444,win,26,,B31,2018
+2632,black,"Starostits, Ilmars",2461,win,12,A47,,2018
+2632,white,"Stremavicius, Titas",2444,win,26,B31,,2018
 2626,black,"Rozentalis, Eduardas",2523,win,36,B31,Tallinn,2018
 2626,white,"Miezis, Normunds",2456,win,54,E52,Tallinn,2018
 2626,black,"Neiksans, Arturs",2573,win,85,E63,Tallinn,2018

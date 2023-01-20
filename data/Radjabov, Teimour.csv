@@ -1,6 +1,6 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
-2718,black,"Anton Guijarro, David",2633,lose,68,,E20,2022
-2718,white,"Anton Guijarro, David",2633,draw,43,,E10,2022
+2718,black,"Anton Guijarro, David",2633,lose,68,E20,,2022
+2718,white,"Anton Guijarro, David",2633,draw,43,E10,,2022
 2718,black,"Nabaty, Tamir",2650,lose,55,A45,Jerusalem,2022
 2718,black,"Wojtaszek, Radoslaw",2636,lose,32,A29,Jerusalem,2022
 2718,black,"Nihal, Sarin",2616,draw,33,A46,Jerusalem,2022

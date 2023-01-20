@@ -32,8 +32,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2596,white,"Kostenko, Petr",2404,win,43,C55,Almaty,2022
 2554,white,"Nihal, Sarin",2616,win,52,C50,Jerusalem,2022
 2554,black,"Nihal, Sarin",2616,draw,33,A05,Jerusalem,2022
-2554,black,"Shevchenko, Kirill",2584,lose,65,,C80,2022
-2554,white,"Shevchenko, Kirill",2584,win,50,,B23,2022
+2554,black,"Shevchenko, Kirill",2584,lose,65,C80,,2022
+2554,white,"Shevchenko, Kirill",2584,win,50,B23,,2022
 2554,white,"Nihal, Sarin",2616,win,44,C50,Jerusalem,2022
 2554,white,"Nabaty, Tamir",2650,win,55,C50,Jerusalem,2022
 2554,white,"Radjabov, Teimour",2718,draw,55,C50,Jerusalem,2022

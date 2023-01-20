@@ -92,16 +92,16 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2676,white,"Nakamura, Hikaru",2789,win,84,C65,Calcutta,2022
 2676,black,"Nihal, Sarin",2616,draw,36,A30,Calcutta,2022
 2676,white,Erigaisi Arjun,2628,lose,40,C02,Calcutta,2022
-2677,black,"Abasov, Nijat",2633,draw,38,,E15,2022
-2677,black,"Dudin, Gleb",2480,win,27,,E04,2022
-2677,white,"Gadimbayli, Abdulla",2505,win,50,,D18,2022
-2677,black,"Mammadov, Zaur",2391,win,37,,B10,2022
-2677,white,"Lobanov, Sergei",2531,win,52,,A20,2022
+2677,black,"Abasov, Nijat",2633,draw,38,E15,,2022
+2677,black,"Dudin, Gleb",2480,win,27,E04,,2022
+2677,white,"Gadimbayli, Abdulla",2505,win,50,D18,,2022
+2677,black,"Mammadov, Zaur",2391,win,37,B10,,2022
+2677,white,"Lobanov, Sergei",2531,win,52,A20,,2022
 2688,black,"Esen, Baris",2476,win,30,E14,Ankara,2022
 ,black,"Kuzubov, Yuriy",,lose,19,E10,Ankara,2022
 2688,black,"Yu, Yangyi",2720,draw,30,D27,Ankara,2022
 ,white,"Kilic, Eray",,win,47,A29,Ankara ,2022
-2677,white,"Solak, Dragan",2594,win,19,,A11,2022
+2677,white,"Solak, Dragan",2594,win,19,A11,,2022
 ,black,"Erdogmus, Yagiz Kaan",,win,62,E01,Ankara ,2022
 2688,white,"Giri, Anish",2760,draw,46,B90,Chennai,2022
 2688,black,Gukesh D,2684,win,72,E10,Chennai,2022
@@ -272,17 +272,17 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2651,black,"Grischuk, A.",2758,draw,63,A05,chess.com INT,2022
 2651,white,"Martinez Alcantara, Jose Eduardo",2598,win,50,A37,chess.com INT,2022
 2651,black,"Cheparinov, I.",2672,draw,49,D86,chess.com INT,2022
-2651,black,"Ivanisevic, Ivan",2601,win,41,,D85,2022
+2651,black,"Ivanisevic, Ivan",2601,win,41,D85,,2022
 2651,white,"Ivic, Velimir",2610,draw,62,C42,Belgrade SRB,2022
-2651,white,"Ivic, Velimir",2610,draw,63,,C42,2022
-2651,black,"Sjugirov, Sanan",2680,lose,50,,A48,2022
-2651,white,"Indjic, Aleksandar",2605,win,31,,C02,2022
-2651,black,"Navara, David",2700,win,62,,C80,2022
-2651,white,"Maghsoodloo, Parham",2701,lose,49,,A30,2022
+2651,white,"Ivic, Velimir",2610,draw,63,C42,,2022
+2651,black,"Sjugirov, Sanan",2680,lose,50,A48,,2022
+2651,white,"Indjic, Aleksandar",2605,win,31,C02,,2022
+2651,black,"Navara, David",2700,win,62,C80,,2022
+2651,white,"Maghsoodloo, Parham",2701,lose,49,A30,,2022
 2651,black,"Nihal, Sarin",2652,lose,66,A15,Belgrade SRB,2022
-2651,black,Nihal Sarin,2652,lose,66,,A15,2022
-2651,white,"Markus, Robert",2627,win,37,,C02,2022
-2651,white,"Sarana, Alexey",2685,win,42,,A13,2022
+2651,black,Nihal Sarin,2652,lose,66,A15,,2022
+2651,white,"Markus, Robert",2627,win,37,C02,,2022
+2651,white,"Sarana, Alexey",2685,win,42,A13,,2022
 2651,black,"Martinez Alcantara, Jose Eduardo",2598,win,64,B30,chess.com INT,2022
 2651,white,"Sadhwani, Raunak",2616,win,40,E92,chess.com INT,2022
 2651,black,"Dubov, Daniil",2711,lose,64,D85,chess.com INT,2022
@@ -1928,4 +1928,4 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 1949,black,"Verma, Aditya",1565,win,61,D04,Maribor,2012
 1949,white,"Wang, Eric",1472,win,69,B52,Maribor,2012
 1949,black,"Aalto, Patrik",,win,37,B90,Maribor,2012
-,white,"Kilic, Eray",,win,47,,A29,Ankara 
+,white,"Kilic, Eray",,win,47,A29,,Ankara 

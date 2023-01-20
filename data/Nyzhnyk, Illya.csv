@@ -44,16 +44,16 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2692,white,"Tang, Zoey",2098,win,78,A48,Las Vegas,2022
 2694,white,"Akobian, Varuzhan",2634,lose,29,D32,Saint Louis,2022
 2694,black,"Burke, John M",2573,lose,30,B12,Saint Louis,2022
-2674,black,"Robson, Ray",2676,draw,36,,C43,2022
-2658,white,"Sevian, Samuel",2586,lose,94,,A28,2022
-2674,white,"Hakobyan, Aram",2601,win,33,,A06,2022
-2674,black,"Swiercz, Dariusz",2656,draw,37,,D11,2022
-2674,white,"Antipov, Mikhail Al.",2615,draw,56,,A05,2022
-2674,black,"Xiong, Jeffery",2686,win,34,,B90,2022
-2674,white,"Dragun, Kamil",2586,win,44,,A21,2022
-2674,black,"Lenderman, Aleksandr",2600,draw,42,,D20,2022
-2674,white,"Niemann, Hans Moke",2642,draw,58,,A28,2022
-2674,white,"Sevian, Samuel",2684,draw,40,,A22,2022
+2674,black,"Robson, Ray",2676,draw,36,C43,,2022
+2658,white,"Sevian, Samuel",2586,lose,94,A28,,2022
+2674,white,"Hakobyan, Aram",2601,win,33,A06,,2022
+2674,black,"Swiercz, Dariusz",2656,draw,37,D11,,2022
+2674,white,"Antipov, Mikhail Al.",2615,draw,56,A05,,2022
+2674,black,"Xiong, Jeffery",2686,win,34,B90,,2022
+2674,white,"Dragun, Kamil",2586,win,44,A21,,2022
+2674,black,"Lenderman, Aleksandr",2600,draw,42,D20,,2022
+2674,white,"Niemann, Hans Moke",2642,draw,58,A28,,2022
+2674,white,"Sevian, Samuel",2684,draw,40,A22,,2022
 2670,white,"Williams, Justus",2420,win,26,D30,Clayton,2021
 2670,black,"Martinez Alcantara, Jose Eduardo",2620,draw,51,C42,Clayton,2021
 2670,white,"Jacobson, Brandon",2492,win,51,E10,Clayton,2021

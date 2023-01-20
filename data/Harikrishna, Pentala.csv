@@ -35,7 +35,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2646,black,"Yoo, Christopher Woojin",2463,draw,28,E20,Almaty,2022
 ,white,"Jones, Gawain C B",,lose,80,A49,Deizisau,2022
 ,black,"Sedlak, Nikola",,draw,64,D02,Deizisau,2022
-2717,black,"McShane, Luke J",2653,lose,52,,C69,2022
+2717,black,"McShane, Luke J",2653,lose,52,C69,,2022
 2717,white,"Brkic, Ante",2602,draw,31,E10,Germany,2022
 2717,white,"Vachier-Lagrave, Maxime",2747,win,81,D85,Mayrhofen,2022
 2717,black,"Mamedyarov, Shakhriyar",2747,draw,31,E21,Mayrhofen,2022
@@ -78,10 +78,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2701,white,"Shankland, Samuel L",2718,draw,32,D85,Prague,2022
 2701,black,"Vallejo Pons, Francisco",2703,draw,33,C50,Prague,2022
 2701,white,"Vidit, Santosh Gujrathi",2723,win,38,E48,Prague CZE,2022
-2705,white,Nihal Sarin,2648,draw,40,,C78,2022
-2705,black,"Khenkin, Igor",2506,win,26,,E10,2022
-2705,black,Santos Latasa,2656,draw,58,,C55,2022
-2705,white,"Maghsoodloo, Parham",2699,lose,35,,B53,2022
+2705,white,Nihal Sarin,2648,draw,40,C78,,2022
+2705,black,"Khenkin, Igor",2506,win,26,E10,,2022
+2705,black,Santos Latasa,2656,draw,58,C55,,2022
+2705,white,"Maghsoodloo, Parham",2699,lose,35,B53,,2022
 2716,white,"Tabatabaei, M. Amin",2623,lose,62,C80,Belgrade,2022
 2716,black,"Giri, Anish",2771,draw,31,E10,Belgrade,2022
 2716,black,"Vitiugov, Nikita",2726,draw,31,C88,Belgrade,2022
@@ -293,8 +293,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2748,white,"L&#039;Ami, Erwin",2619,win,58,E04,Douglas,2019
 2748,black,"Van Foreest, Jorden",2621,draw,22,C84,Douglas,2019
 2748,white,"Alekseev, Evgeny",2629,draw,54,E04,Douglas,2019
-2748,white,"Kociscak, Jiri",2499,draw,53,,A80,2019
-2748,black,"Kempinski, Robert",2578,draw,37,,E12,2019
+2748,white,"Kociscak, Jiri",2499,draw,53,A80,,2019
+2748,black,"Kempinski, Robert",2578,draw,37,E12,,2019
 2746,white,"Alekseenko, Kirill",2671,lose,52,C84,Khanty-Mansiysk,2019
 2746,black,"Alekseenko, Kirill",2671,lose,52,C50,Khanty-Mansiysk,2019
 2746,black,"Fedoseev, Vladimir",2664,draw,61,A18,Khanty-Mansiysk,2019
@@ -1663,12 +1663,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2664,white,"Doettling, Fabian",2537,draw,56,D37,Mainz,2007
 2664,black,"Glek, Igor V",2540,win,32,C68,Mainz,2007
 2664,white,"Iljin, Artem",2569,draw,54,A46,Mainz,2007
-2664,white,"Grischuk, Alexander",2726,lose,16,Mainz,,2007
-2664,white,"Jussupow, Artur",2583,win,59,Mainz,,2007
-2664,white,"Sumets, Andrey",2529,lose,32,Mainz,,2007
-2664,black,"Iljin, Artem",2569,draw,18,Mainz,,2007
-2664,white,"Horvath, Adam",2491,win,25,Mainz,,2007
-2664,black,"Bischoff, Klaus",2535,draw,21,Mainz,,2007
+2664,white,"Grischuk, Alexander",2726,lose,16,,Mainz,2007
+2664,white,"Jussupow, Artur",2583,win,59,,Mainz,2007
+2664,white,"Sumets, Andrey",2529,lose,32,,Mainz,2007
+2664,black,"Iljin, Artem",2569,draw,18,,Mainz,2007
+2664,white,"Horvath, Adam",2491,win,25,,Mainz,2007
+2664,black,"Bischoff, Klaus",2535,draw,21,,Mainz,2007
 2664,black,"Balogh, Csaba",2568,draw,31,C88,Paks,2007
 2664,white,"Hou, Yifan",2523,draw,57,E15,Paks,2007
 2664,black,"Berkes, Ferenc",2597,draw,27,D17,Paks,2007

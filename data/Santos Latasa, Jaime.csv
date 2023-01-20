@@ -114,7 +114,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2576,black,"Vallejo Pons, Francisco",2707,draw,41,C95,Leon ESP,2018
 2576,white,"Vallejo Pons, Francisco",2707,win,54,C42,Leon ESP,2018
 2567,black,"Vaishali, Ramesh Babu",2310,win,33,B40,Ortisei,2018
-2567,black,"Saric, Ivan",2685,lose,33,,B90,2018
+2567,black,"Saric, Ivan",2685,lose,33,B90,,2018
 2567,white,"Tarlev, Konstantin",2552,draw,24,C95,Ortisei,2018
 2567,black,"Vocaturo, Daniele",2608,draw,34,E08,Ortisei,2018
 2567,white,"Praggnanandhaa, R.",2529,draw,54,C78,Ortisei,2018
@@ -124,9 +124,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2567,white,"Wenner, Tobias",2161,win,26,E60,Ortisei,2018
 2552,black,"Sumets, Andrey",2577,draw,13,D27,Llucmajor,2018
 2552,black,"Stany, George Anthony",2489,win,37,C91,Llucmajor,2018
-2552,white,"Fedorchuk, Sergey A",2637,draw,16,,E11,2018
+2552,white,"Fedorchuk, Sergey A",2637,draw,16,E11,,2018
 2552,black,"Zumsande, Martin",2450,win,41,B09,Llucmajor,2018
-2552,white,"Abdumalik, Zhansaya",2484,draw,22,,D70,2018
+2552,white,"Abdumalik, Zhansaya",2484,draw,22,D70,,2018
 2552,white,"Abdumalik, Zhansaya",2484,draw,27,E60,Llucmajor,2018
 2552,black,"Prithu, Gupta",2424,win,51,B06,Llucmajor,2018
 2549,black,"Landa, Konstantin",2613,draw,25,E48,Karlsruhe,2018

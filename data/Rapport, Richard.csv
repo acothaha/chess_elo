@@ -125,8 +125,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2776,white,"Deac, Bogdan-Daniel",2671,lose,52,E46,Bucharest,2022
 2776,black,"Mamedyarov, Shakhriyar",2770,draw,37,C10,Bucharest,2022
 2776,black,"Aronian, Levon",2765,draw,39,D17,Bucharest,2022
-2762,white,"Andreikin, Dmitry",2724,win,46,,D31,2022
-2762,black,"Andreikin, Dmitry",2724,draw,37,,C47,2022
+2762,white,"Andreikin, Dmitry",2724,win,46,D31,,2022
+2762,black,"Andreikin, Dmitry",2724,draw,37,C47,,2022
 2762,black,"Vachier-Lagrave, Maxime",2761,draw,66,C72,Belgrade,2022
 2762,white,"Vachier-Lagrave, Maxime",2761,win,37,D86,Belgrade,2022
 2762,white,"Shirov, Alexei",2691,draw,30,A30,Belgrade,2022
@@ -1706,4 +1706,4 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 ,white,"Suket, Mate",,lose,43,C56,Hungary,2005
 ,black,"Szabo, Gabor",1887,win,66,B22,Hungary,2005
 ,white,"Gyarmati, Janos",2034,lose,53,B01,Hungary,2005
-2760,black,"Karjakin, Sergey",2758,draw,67,,B01,http://www.chessbomb.com
+2760,black,"Karjakin, Sergey",2758,draw,67,B01,,http://www.chessbomb.com

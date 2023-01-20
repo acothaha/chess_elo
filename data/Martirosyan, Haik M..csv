@@ -161,19 +161,19 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2648,black,"Sevian, Samuel",2660,draw,63,A20,Jermuk,2021
 2648,black,"Sargsyan, Shant",2618,lose,42,A46,Jermuk,2021
 2622,black,"Ter-Sahakyan, Samvel",2640,draw,61,C67,Yerevan,2021
-2613,white,"Hovhannisyan, Robert",2641,win,64,,D43,2020
+2613,white,"Hovhannisyan, Robert",2641,win,64,D43,,2020
 2607,black,"Jones, Gawain C",2688,lose,31,C02,Batumi,2019
 2607,white,Nguyen,2638,win,84,E10,Batumi,2019
 2619,black,"Kovalenko, Igor",2654,lose,106,A45,Zurich,2019
-2635,white,"Baghdasaryan, Vahe",2357,lose,60,,B51,2019
-2635,black,"Kotanjian, Tigran",2462,draw,28,,E32,2019
-2635,white,"Akopov, Roman",2264,win,40,,C50,2019
-2635,black,"Onischuk, Vladimir",2630,lose,33,,C12,2019
-2635,white,"Sargsyan, Shant",2512,draw,40,,D39,2019
-2635,black,"Gholami Orimi, Mahdi",2445,win,56,,E69,2019
-2635,white,"Barseghyan, Armen Ar.",2294,win,41,,A67,2019
-2635,black,"Dilanyan, Grigor",2294,draw,58,,A05,2019
-2635,white,"Manukyan, Aleks",1961,win,55,,A61,2019
+2635,white,"Baghdasaryan, Vahe",2357,lose,60,B51,,2019
+2635,black,"Kotanjian, Tigran",2462,draw,28,E32,,2019
+2635,white,"Akopov, Roman",2264,win,40,C50,,2019
+2635,black,"Onischuk, Vladimir",2630,lose,33,C12,,2019
+2635,white,"Sargsyan, Shant",2512,draw,40,D39,,2019
+2635,black,"Gholami Orimi, Mahdi",2445,win,56,E69,,2019
+2635,white,"Barseghyan, Armen Ar.",2294,win,41,A67,,2019
+2635,black,"Dilanyan, Grigor",2294,draw,58,A05,,2019
+2635,white,"Manukyan, Aleks",1961,win,55,A61,,2019
 2616,black,"Tomashevsky, Evgeny",2705,draw,25,E49,Skopje,2019
 2616,white,"Goryachkina, Aleksandra",2504,win,42,A07,Skopje,2019
 2616,white,"Sarana, Alexey",2630,draw,31,B51,Moscow,2019

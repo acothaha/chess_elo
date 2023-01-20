@@ -90,7 +90,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2703,black,"Salem, A.R. Saleh",2679,draw,59,C02,Prague CZE,2022
 2704,white,"Jones, Gawain C",2672,draw,21,E92,Germany,2022
 2704,black,"Huschenbeth, Niclas",2611,win,40,C11,Germany,2022
-2652,black,"Nisipeanu, Liviu-Dieter",2638,draw,21,,A40,2022
+2652,black,"Nisipeanu, Liviu-Dieter",2638,draw,21,A40,,2022
 2701,black,"Tari, Aryan",2646,draw,30,B12,Toledo,2021
 2701,white,"Jones, Gawain C",2657,win,49,E71,Toledo,2021
 2701,black,"Korobov, Anton",2690,draw,31,D10,Toledo,2021
@@ -176,15 +176,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2678,white,"Yu, Ruiyuan",2464,win,33,B12,China,2019
 2678,black,"Wang, Hao",2720,draw,23,A25,China,2019
 2678,white,"Peng, Xiongjian",2460,draw,50,D11,China,2019
-2678,white,"Albornoz Cabrera, Carlos Daniel",2566,draw,43,,B30,2019
-2678,black,"Cori, Jorge",2686,draw,16,,D02,2019
-2678,black,"Flores, Diego",2604,win,35,,A20,2019
-2678,white,"Sosa, Tomas",2508,win,78,,C45,2019
-2678,white,"Garriga Cazorla, Pere",2495,win,33,,B96,2019
-2678,black,"Cori Tello, Deysi Estella",2400,win,32,,A57,2019
-2678,white,"Aizpurua, Patrick",2261,draw,41,,C77,2019
-2678,black,"Vara Soler, Luis",1747,win,33,,B43,2019
-2678,white,"Garcia Martin, Marta",2313,draw,74,,A05,2019
+2678,white,"Albornoz Cabrera, Carlos Daniel",2566,draw,43,B30,,2019
+2678,black,"Cori, Jorge",2686,draw,16,D02,,2019
+2678,black,"Flores, Diego",2604,win,35,A20,,2019
+2678,white,"Sosa, Tomas",2508,win,78,C45,,2019
+2678,white,"Garriga Cazorla, Pere",2495,win,33,B96,,2019
+2678,black,"Cori Tello, Deysi Estella",2400,win,32,A57,,2019
+2678,white,"Aizpurua, Patrick",2261,draw,41,C77,,2019
+2678,black,"Vara Soler, Luis",1747,win,33,B43,,2019
+2678,white,"Garcia Martin, Marta",2313,draw,74,A05,,2019
 2687,black,"Ganguly, Surya Shekhar",2638,draw,36,B90,ChangSha,2019
 2687,white,"Yu, Yangyi",2736,draw,27,B81,ChangSha,2019
 2687,white,"Megaranto, Susanto",2545,win,24,B01,ChangSha,2019
@@ -589,8 +589,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2700,white,"Palac, Mladen",2577,win,28,B96,Gjakovo,2016
 2700,black,"Prohaszka, Peter",2593,draw,18,A46,Gjakovo,2016
 2700,white,"Getz, Nicolai",2431,win,40,C53,Gjakovo,2016
-2691,black,"Heberla, Bartlomiej",2532,win,51,Germany,,2016
-2691,black,"Levin, Felix",2506,draw,85,Germany,,2016
+2691,black,"Heberla, Bartlomiej",2532,win,51,,Germany,2016
+2691,black,"Levin, Felix",2506,draw,85,,Germany,2016
 2691,black,"Short, Nigel D",2671,win,43,B40,Bangkok,2016
 2691,white,"Ganguly, Surya Shekhar",2647,draw,82,B47,Bangkok,2016
 2691,white,"Wynn, Zaw Htung",2407,win,29,B99,Bangkok,2016

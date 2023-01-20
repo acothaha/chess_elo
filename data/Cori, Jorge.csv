@@ -19,7 +19,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2652,white,"Mareco, Sandro",2629,win,61,A21,Sochi,2021
 2652,black,"Mareco, Sandro",2629,lose,31,B12,Sochi,2021
 2652,black,"Karimov, Alisher",2244,draw,75,C19,Sochi,2021
-2652,white,"Karimov, Alisher",2244,win,41,,A46,2021
+2652,white,"Karimov, Alisher",2244,win,41,A46,,2021
 2652,white,"So, Wesley",2770,lose,43,D37,chess.com INT,2020
 2652,black,"Harikrishna, Pentala",2719,lose,31,B32,chess.com INT,2020
 2652,black,"Karjakin, Sergey",2752,lose,38,B47,chess.com INT,2020
@@ -39,15 +39,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2686,black,"Kokarev, Dmitry",2598,draw,43,B33,Linares,2019
 2686,white,"Alonso Alvarez, Aitor",2305,win,34,A05,Linares,2019
 2686,black,"Matnadze, Ana",2363,win,84,D02,Linares,2019
-2686,white,"Henriquez Villagra, Cristobal",2562,win,102,,A06,2019
-2686,white,"Vallejo Pons, Francisco",2678,draw,16,,D02,2019
-2686,black,"Cuenca Jimenez, Jose Fernando",2515,win,40,,C11,2019
-2686,black,"Espinosa Aranda, Angel",2497,win,64,,A05,2019
-2686,white,"Domingo Nunez, Ruben",2345,win,29,,A47,2019
-2686,black,"Zambrana, Oswaldo",2440,draw,52,,B41,2019
-2686,white,"Moral Garcia, Serafin",2281,win,51,,A15,2019
-2686,black,"Ladron De Guevara Pinto, Paolo",2431,lose,20,,E42,2019
-2686,white,"Guerrero Vargas, Andres Jesus",2342,win,51,,A46,2019
+2686,white,"Henriquez Villagra, Cristobal",2562,win,102,A06,,2019
+2686,white,"Vallejo Pons, Francisco",2678,draw,16,D02,,2019
+2686,black,"Cuenca Jimenez, Jose Fernando",2515,win,40,C11,,2019
+2686,black,"Espinosa Aranda, Angel",2497,win,64,A05,,2019
+2686,white,"Domingo Nunez, Ruben",2345,win,29,A47,,2019
+2686,black,"Zambrana, Oswaldo",2440,draw,52,B41,,2019
+2686,white,"Moral Garcia, Serafin",2281,win,51,A15,,2019
+2686,black,"Ladron De Guevara Pinto, Paolo",2431,lose,20,E42,,2019
+2686,white,"Guerrero Vargas, Andres Jesus",2342,win,51,A46,,2019
 2686,white,"Georgiadis, Nico",2514,lose,29,A13,Biel,2019
 2686,black,"Leko, Peter",2674,lose,55,C11,Biel,2019
 2686,white,"Shankland, Samuel L",2713,win,52,D45,Biel,2019
@@ -85,12 +85,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2658,white,"Rambaldi, Francesco",2565,win,29,A07,Saint Louis,2018
 2658,white,"Hevia Alejano, Carlos Antonio",2492,win,65,E01,Saint Louis,2018
 2658,black,"Shtembuliak, Evgeny",2507,draw,60,D10,Saint Louis,2018
-2660,white,"Raznikov, Danny",2485,draw,35,,A05,2017
-2660,black,"Swiercz, Dariusz",2649,draw,15,,E09,2017
-2660,white,"Popilski, Gil",2514,draw,31,,A48,2017
-2660,white,"Creger, Leo",2105,win,32,,E97,2017
-2660,black,"Ynojosa Aponte, Felix Jose",2387,draw,64,,B38,2017
-2660,black,"Zhandarbekov, Bakberdi",2081,win,40,,D55,2017
+2660,white,"Raznikov, Danny",2485,draw,35,A05,,2017
+2660,black,"Swiercz, Dariusz",2649,draw,15,E09,,2017
+2660,white,"Popilski, Gil",2514,draw,31,A48,,2017
+2660,white,"Creger, Leo",2105,win,32,E97,,2017
+2660,black,"Ynojosa Aponte, Felix Jose",2387,draw,64,B38,,2017
+2660,black,"Zhandarbekov, Bakberdi",2081,win,40,D55,,2017
 2657,white,"Rambaldi, Francesco",2574,win,39,A46,St. Louis,2017
 2657,white,"Azarov, Sergei",2556,win,23,A13,St. Louis,2017
 2657,black,"Nyzhnyk, Illya",2594,draw,46,A34,St. Louis,2017

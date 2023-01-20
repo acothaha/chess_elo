@@ -30,8 +30,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2567,white,"Shankland, Samuel L",2657,draw,54,A07,Almaty,2022
 2567,black,"Brunello, Sabino",2725,win,41,E97,Almaty,2022
 2685,black,"Dragnev, Valentin",2551,draw,25,C65,Germany,2022
-2667,black,"Delchev, Aleksander",2503,win,57,,C49,2022
-2667,white,"Saric, Ivan",2668,draw,72,,A05,2022
+2667,black,"Delchev, Aleksander",2503,win,57,C49,,2022
+2667,white,"Saric, Ivan",2668,draw,72,A05,,2022
 2667,black,"Jepson, Christian",2401,win,41,E92,Helsingborg,2022
 2667,white,"Semcesen, Daniel",2472,win,29,A07,Helsingborg,2022
 2667,white,"Hansen, Eric",2613,win,61,A07,Mayrhofen,2022
@@ -74,10 +74,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2681,white,"Ternault, Mathieu",2367,win,70,C00,Chartres,2022
 2683,white,"Edouard, Romain",2591,draw,54,B51,Germany,2022
 2683,black,"Saltaev, Mihail",2482,win,34,C77,Germany,2022
-2685,black,"Meshkovs, Nikita",2568,lose,44,,E71,2022
-2685,white,"Ernst, Sipke",2542,win,51,,A07,2022
-2685,white,"Horvath, Dominik",2478,win,23,,B30,2022
-2685,black,"Alonso Rosell, Alvar",2564,win,47,,E71,2022
+2685,black,"Meshkovs, Nikita",2568,lose,44,E71,,2022
+2685,white,"Ernst, Sipke",2542,win,51,A07,,2022
+2685,white,"Horvath, Dominik",2478,win,23,B30,,2022
+2685,black,"Alonso Rosell, Alvar",2564,win,47,E71,,2022
 2683,white,"Lindberg, Bengt",2366,win,40,B40,Helsingborg,2022
 2683,black,"Smith, Axel",2430,win,36,E73,Helsingborg,2022
 2683,black,"Gajic, Mladen",2308,win,45,A45,Helsingborg,2022
@@ -282,9 +282,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2617,white,"Ding, Liren",2760,lose,77,C88,Abidjan,2019
 2708,black,"Vrolijk, Liam",2465,draw,25,E11,Germany,2019
 2708,white,"Areshchenko, Alexander",2663,draw,24,A04,Germany,2019
-2709,black,"Cuenca Jimenez, Jose Fernando",2544,draw,49,,E71,2019
-2709,white,"Blomqvist, Erik",2488,draw,34,,B40,2019
-2709,white,"Ingbrandt, Johan",2363,win,40,,A07,2019
+2709,black,"Cuenca Jimenez, Jose Fernando",2544,draw,49,E71,,2019
+2709,white,"Blomqvist, Erik",2488,draw,34,B40,,2019
+2709,white,"Ingbrandt, Johan",2363,win,40,A07,,2019
 2709,black,"Naiditsch, Arkadij",2710,draw,14,C92,Astana,2019
 2709,white,"Jumabayev, Rinat",2609,win,64,A07,Astana,2019
 2709,black,"Adams, Michael",2708,win,67,C95,Astana,2019

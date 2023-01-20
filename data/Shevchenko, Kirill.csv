@@ -3,18 +3,18 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2649,black,"Tin, Jingyao",2562,lose,39,D97,Barcelona,2022
 2649,white,"Basso, Pier Luigi",2503,win,47,A07,Barcelona,2022
 2649,black,"Petkov, Momchil",2531,draw,32,B30,Barcelona,2022
-2584,white,"Sindarov, Javokhir",2554,win,65,,C80,2022
-2584,black,"Sindarov, Javokhir",2554,lose,50,,B23,2022
+2584,white,"Sindarov, Javokhir",2554,win,65,C80,,2022
+2584,black,"Sindarov, Javokhir",2554,lose,50,B23,,2022
 2584,black,"Van Foreest, Lucas",2585,win,26,E71,Jerusalem,2022
 2584,white,"Anton Guijarro, David",2633,win,34,A06,Jerusalem,2022
 2584,white,"Xu, Xiangyu",2577,draw,37,B30,Jerusalem,2022
 2584,white,"Moussard, Jules",2634,win,51,A29,Jerusalem,2022
-2645,white,"Palac, Mladen",2516,win,38,,C77,2022
-2645,black,"Zelcic, Robert",2495,win,74,,B33,2022
-2645,white,"Kozul, Zdenko",2549,win,54,,B62,2022
-2645,black,Santos Latasa,2677,draw,13,,E94,2022
-2645,white,"Moussard, Jules",2686,draw,40,,C42,2022
-2645,black,"Livaic, Leon",2574,win,34,,E90,2022
+2645,white,"Palac, Mladen",2516,win,38,C77,,2022
+2645,black,"Zelcic, Robert",2495,win,74,B33,,2022
+2645,white,"Kozul, Zdenko",2549,win,54,B62,,2022
+2645,black,Santos Latasa,2677,draw,13,E94,,2022
+2645,white,"Moussard, Jules",2686,draw,40,C42,,2022
+2645,black,"Livaic, Leon",2574,win,34,E90,,2022
 2645,white,"Yilmaz, Mustafa",2621,draw,13,C77,"Zagreb, Croatia",2022
 2645,black,"Bosiocic, Marin",2548,draw,50,A05,"Zagreb, Croatia",2022
 2645,white,"Stevic, Hrvoje",2554,draw,68,A26,"Zagreb, Croatia",2022
@@ -39,11 +39,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2645,black,"Brodowski, Piotr",2463,draw,53,A05,Wojtaszek,2022
 2645,white,"Keymer, Vincent",2693,draw,39,C78,Wojtaszek,2022
 2645,white,"Tomczak, Jacek",2582,win,60,B66,Wojtaszek,2022
-2642,black,"Kozak, Adam",2522,win,41,,A28,2022
-2642,white,"Esipenko, Andrey",2692,draw,35,,C84,2022
-2642,black,"Erdogmus, Yagiz Kaan",2456,win,58,,B33,2022
-2642,white,"Arat, Ufuk Sezen",2377,win,30,,A05,2022
-2642,white,"Sekerci, Berkin",1689,win,27,,C12,2022
+2642,black,"Kozak, Adam",2522,win,41,A28,,2022
+2642,white,"Esipenko, Andrey",2692,draw,35,C84,,2022
+2642,black,"Erdogmus, Yagiz Kaan",2456,win,58,B33,,2022
+2642,white,"Arat, Ufuk Sezen",2377,win,30,A05,,2022
+2642,white,"Sekerci, Berkin",1689,win,27,C12,,2022
 ,white,"Can, Isik",,draw,47,A21,Ankara,2022
 ,black,"Kirilmaz, Emre",,win,41,A45,Ankara ,2022
 ,white,"Daneshvar, Tooli Bardiya",,win,66,B10,Ankara,2022
@@ -132,8 +132,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2652,black,"Niemann, Hans Moke",2637,win,72,B20,chess.com INT,2022
 2652,white,"Niemann, Hans Moke",2637,lose,40,C77,chess.com INT,2022
 2652,black,"Niemann, Hans Moke",2637,lose,41,B20,chess.com INT,2022
-2652,black,"Seel, Christian, Dr.",2484,draw,34,,A05,2022
-2652,white,"Volokitin, Andrei",2687,win,35,,B90,2022
+2652,black,"Seel, Christian, Dr.",2484,draw,34,A05,,2022
+2652,white,"Volokitin, Andrei",2687,win,35,B90,,2022
 2652,black,"Carlsen, M.",2864,win,23,A50,Tornelo INT,2022
 2652,white,"Hauge, Lars Oskar",2530,win,67,C65,Tornelo INT,2022
 2652,black,"Christiansen, Johan-Sebastian",2590,win,46,A30,Tornelo INT,2022
@@ -1479,4 +1479,4 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 ,black,"Glebov, Alexey",,win,21,B00,Evpatoria,2009
 ,white,"Reshetar, Alexandr",,lose,69,C30,Evpatoria,2009
 ,black,"Dolia, Alexandr",,win,21,B00,Evpatoria,2009
-,black,"Kirilmaz, Emre",,win,41,,A45,Ankara 
+,black,"Kirilmaz, Emre",,win,41,A45,,Ankara 

@@ -40,14 +40,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2605,white,"Aronian, Levon",2705,lose,48,A15,Saint Louis,2022
 2681,white,"Aronian, Levon",2785,win,73,A15,Saint Louis,2022
 2681,black,"Aronian, Levon",2785,lose,52,A13,Saint Louis,2022
-2676,white,"Nyzhnyk, Illya",2674,draw,36,,C43,2022
-2676,black,"Sevian, Samuel",2684,lose,34,,A29,2022
-2676,black,"Hakobyan, Aram",2601,draw,58,,C65,2022
-2676,white,"Swiercz, Dariusz",2656,draw,50,,E10,2022
-2676,white,"Xiong, Jeffery",2686,draw,41,,D26,2022
-2676,black,"Dragun, Kamil",2586,win,40,,C55,2022
-2676,white,"Lenderman, Aleksandr",2600,win,37,,A30,2022
-2676,black,"Niemann, Hans Moke",2642,draw,71,,A28,2022
+2676,white,"Nyzhnyk, Illya",2674,draw,36,C43,,2022
+2676,black,"Sevian, Samuel",2684,lose,34,A29,,2022
+2676,black,"Hakobyan, Aram",2601,draw,58,C65,,2022
+2676,white,"Swiercz, Dariusz",2656,draw,50,E10,,2022
+2676,white,"Xiong, Jeffery",2686,draw,41,D26,,2022
+2676,black,"Dragun, Kamil",2586,win,40,C55,,2022
+2676,white,"Lenderman, Aleksandr",2600,win,37,A30,,2022
+2676,black,"Niemann, Hans Moke",2642,draw,71,A28,,2022
 2669,black,"So, Wesley",2778,draw,26,E36,Saint Louis,2021
 2669,white,"Burke, John M",2554,draw,54,C84,Saint Louis,2021
 2669,black,"Dominguez Perez, Leinier",2760,draw,40,C55,Saint Louis,2021
@@ -173,14 +173,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2645,white,"Chen, Forest",2107,win,36,B13,chess.com INT,2018
 2645,black,"Zherebukh, Yaroslav",2636,win,32,A07,chess.com INT,2018
 2645,black,"Fedoseev, Vladimir1",2724,draw,51,B90,chess.com INT,2018
-2645,black,"Nakar, Eylon",2468,draw,14,,B51,2017
+2645,black,"Nakar, Eylon",2468,draw,14,B51,,2017
 2645,black,"Hernandez Carmenates, Holden",2461,draw,19,D94,Columbus,2017
-2645,white,"Zherebukh, Yaroslav",2636,win,52,,C65,2017
-2645,black,"Hernandez Carmenate, Holden",2461,draw,19,,D94,2017
+2645,white,"Zherebukh, Yaroslav",2636,win,52,C65,,2017
+2645,black,"Hernandez Carmenate, Holden",2461,draw,19,D94,,2017
 2645,white,"Ruiz Castillo, Joshua Daniel",2368,win,34,B90,Columbus,2017
-2645,black,"Zapata Hincapie, Jhon Alexander",2053,win,52,,B51,2017
+2645,black,"Zapata Hincapie, Jhon Alexander",2053,win,52,B51,,2017
 2645,white,"Arjun, U Prabhu",1779,win,20,C07,Columbus,2017
-2645,white,"Ruiz Castillo, Joshua Daniel",2368,win,34,,B90,2017
+2645,white,"Ruiz Castillo, Joshua Daniel",2368,win,34,B90,,2017
 2644,black,"Chandra, Akshat",2483,draw,39,D70,St. Louis,2017
 2644,white,"Bruzon Batista, Lazaro",2660,draw,17,C50,St. Louis,2017
 2644,white,"Sevian, Samuel",2615,win,53,C97,St. Louis,2017
@@ -252,7 +252,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2674,black,"Garcia Paolicchi, Raul",2153,win,44,D85,Baku,2016
 2663,white,"Nakamura, Hikaru",2787,draw,30,C67,Saint Louis USA,2016
 2663,black,"So, Wesley",2773,draw,35,D45,Saint Louis USA,2016
-,white,"Shankland, Samuel L",,draw,32,Saint Louis USA,,2016
+,white,"Shankland, Samuel L",,draw,32,,Saint Louis USA,2016
 2663,black,"Caruana, Fabiano",2795,draw,33,C11,Saint Louis USA,2016
 2663,white,"Chandra, Akshat",2477,win,40,C07,Saint Louis USA,2016
 2663,black,"Kamsky, Gata",2678,draw,46,D43,Saint Louis USA,2016

@@ -27,8 +27,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2641,black,"Puranik, Abhimanyu",2549,draw,38,B23,Almaty,2022
 2641,white,"Le, Tuan Minh",2442,lose,35,D12,Almaty,2022
 2641,black,"Yudin, Sergei",2454,draw,21,B30,Almaty,2022
-2668,black,"Navara, David",2676,draw,70,,B30,2022
-2668,white,"Rodshtein, Maxim",2602,draw,29,,A05,2022
+2668,black,"Navara, David",2676,draw,70,B30,,2022
+2668,white,"Rodshtein, Maxim",2602,draw,29,A05,,2022
 2670,black,"Huschenbeth, Niclas",2611,draw,74,B30,Czech Republic,2022
 2647,white,"Cheparinov, Ivan",2594,draw,22,A06,Warsaw,2021
 2647,black,"Sargsyan, Shant",2537,draw,96,D43,Warsaw,2021
@@ -3596,7 +3596,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 ,black,"Smirin, Ilia",,win,34,B99,Belarus,1984
 ,white,"Giorgadze, Giorgi",,win,46,E11,Sochi,1984
 ,black,"Serper, Grigory",,draw,42,B99,Sochi,1984
-,black,"Milov, Leonid",,win,6,Kirovabad,,1984
+,black,"Milov, Leonid",,win,6,,Kirovabad,1984
 ,white,"Blodstein, Arkady",,lose,39,A65,Kirovabad,1984
 ,white,"Veremeichik, Vladimir",2300,win,59,D05,Belarus,1983
 ,black,"Maryasin, Boris",,lose,66,B95,Belarus,1983

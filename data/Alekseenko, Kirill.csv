@@ -19,8 +19,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2687,black,Arjun Kalyan,2526,draw,7,C55,Barcelona,2022
 2687,white,"Wadsworth, Matthew J",2470,win,42,C11,Barcelona,2022
 2687,black,"Valmana Canto, Jaime",2358,win,44,B69,Barcelona,2022
-2687,white,"Wagner, Dennis",2580,draw,39,,C50,2022
-2687,black,"Sebenik, Matej",2524,lose,54,,B51,2022
+2687,white,"Wagner, Dennis",2580,draw,39,C50,,2022
+2687,black,"Sebenik, Matej",2524,lose,54,B51,,2022
 2687,black,"Livaic, Leon",2582,lose,57,E23,Jenbach,2022
 2691,white,"Navara, David",2676,draw,58,C65,Mayrhofen,2022
 2691,black,"Postny, Evgeny",2573,draw,36,E10,Mayrhofen,2022
@@ -387,11 +387,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2639,black,"Zhigalko, Andrey",2543,win,44,C76,Czech Republic,2018
 2638,white,"Straka, Vojtech",2387,win,58,B23,Czech Republic,2018
 2639,black,"Kazakovskiy, Valeriy",2405,win,23,A48,Khanty-Mansiysk,2018
-2639,white,"Timofeev, Artyom",2580,draw,41,,C42,2018
+2639,white,"Timofeev, Artyom",2580,draw,41,C42,,2018
 2639,black,"Mikaelyan, Arman",2477,win,71,A11,St Petersburg,2018
 2639,white,"Suleymenov, Alisher",2331,win,38,B61,St Petersburg,2018
 2639,black,"Emeljanov, Alexander",2244,win,77,D22,St Petersburg,2018
-2639,white,"Vokhidov, Shamsiddin",2446,lose,58,,C65,2018
+2639,white,"Vokhidov, Shamsiddin",2446,lose,58,C65,,2018
 2639,white,"Vokhidov, Shamsiddin",2446,lose,57,C65,St Petersburg,2018
 2639,black,"Korennoi, Viktor",2306,win,34,D85,St Petersburg,2018
 2639,white,"Borisovsky, Dmitry",2304,draw,47,B56,St Petersburg,2018

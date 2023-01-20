@@ -89,8 +89,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2747,black,Gukesh D,2632,win,45,E11,Calcutta,2022
 2726,black,"Maghsoodloo, Parham",2560,draw,35,C83,Deizisau,2022
 2747,white,"Moussard, Jules",2686,draw,27,D35,Deizisau,2022
-2747,white,Santos Latasa,2622,draw,33,,A30,2022
-2747,black,Santos Latasa,2622,draw,33,,C80,2022
+2747,white,Santos Latasa,2622,draw,33,A30,,2022
+2747,black,Santos Latasa,2622,draw,33,C80,,2022
 2747,white,"Rodshtein, Maxim",2624,win,46,E10,Jerusalem,2022
 2747,white,"Vidit, Santosh Gujrathi",2662,lose,34,E20,Jerusalem,2022
 2747,black,"Niemann, Hans Moke",2599,win,57,C80,Jerusalem,2022
@@ -200,8 +200,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2770,black,"Vachier-Lagrave, Maxime",2750,draw,20,B10,Bucharest,2022
 2770,white,"Rapport, Richard",2776,draw,37,C10,Bucharest,2022
 2770,black,"So, Wesley",2766,lose,52,E48,Bucharest,2022
-2771,white,"Khenkin, Igor",2506,draw,45,,A20,2022
-2771,black,Nihal Sarin,2648,lose,71,,C53,2022
+2771,white,"Khenkin, Igor",2506,draw,45,A20,,2022
+2771,black,Nihal Sarin,2648,lose,71,C53,,2022
 2771,black,"Maghsoodloo, Parham",2699,draw,30,C67,Germany,2022
 2771,white,Santos Latasa,2656,win,50,E10,Germany,2022
 2722,white,"Nakamura, Hikaru",2837,lose,34,A15,Berlin,2022
@@ -2839,14 +2839,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2757,black,"Richter, Michael",2399,win,29,E70,Mainz,2007
 2757,white,"Schindler, Samuel",2246,win,32,B08,Mainz,2007
 2757,black,"Rosa, Mike",2098,win,26,B08,Mainz,2007
-2757,black,"Tregubov, Pavel V",2599,lose,22,Mainz,,2007
-2757,black,"Bologan, Viktor",2650,lose,13,Mainz,,2007
-2757,white,"Kamsky, Gata",2718,lose,8,Mainz,,2007
-2757,black,"Karjakin, Sergey",2678,win,25,Mainz,,2007
-2757,white,"Moiseenko, Alexander",2641,win,19,Mainz,,2007
-2757,black,"Meier, Georg",2546,win,15,Mainz,,2007
-2757,white,"Schneider, Siegfried",1958,win,15,Mainz,,2007
-2757,black,"Beutel, Jens",,win,14,Mainz,,2007
+2757,black,"Tregubov, Pavel V",2599,lose,22,,Mainz,2007
+2757,black,"Bologan, Viktor",2650,lose,13,,Mainz,2007
+2757,white,"Kamsky, Gata",2718,lose,8,,Mainz,2007
+2757,black,"Karjakin, Sergey",2678,win,25,,Mainz,2007
+2757,white,"Moiseenko, Alexander",2641,win,19,,Mainz,2007
+2757,black,"Meier, Georg",2546,win,15,,Mainz,2007
+2757,white,"Schneider, Siegfried",1958,win,15,,Mainz,2007
+2757,black,"Beutel, Jens",,win,14,,Mainz,2007
 2757,white,"Laznicka, Viktor",2594,win,41,D10,Pardubice,2007
 2757,black,"Babula, Vlastimil",2577,win,52,A42,Pardubice,2007
 2757,white,"Grachev, Boris",2601,win,41,D47,Pardubice,2007
@@ -3602,6 +3602,6 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 ,white,"Sveshnikov, Vladimir",,win,17,D02,Tallinn,1997
 ,black,"Bartel, Mateusz",2140,draw,17,C77,Tallinn,1997
 ,white,"Naiditsch, Arkadij",2175,lose,17,A48,Tallinn,1997
-,black,"Vachier-Lagrave, Maxime",,win,64,,A05,Riga
-,white,"Vachier-Lagrave, Maxime",,lose,73,,A40,Riga
-,black,"Vachier-Lagrave, Maxime",,win,43,,C53,Riga
+,black,"Vachier-Lagrave, Maxime",,win,64,A05,,Riga
+,white,"Vachier-Lagrave, Maxime",,lose,73,A40,,Riga
+,black,"Vachier-Lagrave, Maxime",,win,43,C53,,Riga

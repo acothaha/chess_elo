@@ -67,11 +67,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2641,black,"Vidit, Santosh Gujrathi",2662,draw,34,B22,Calcutta,2022
 2560,white,"Mamedyarov, Shakhriyar",2726,draw,35,C83,Deizisau,2022
 2721,black,"Parligras, Mircea-Emilian",2560,draw,56,D85,Deizisau,2022
-2720,black,"Donchenko, Alexander",2645,draw,30,,E10,2022
-2720,white,"Korpa, Bence",2500,win,70,,E75,2022
-2720,white,"Janzelj, Tim",2456,win,43,,B12,2022
+2720,black,"Donchenko, Alexander",2645,draw,30,E10,,2022
+2720,white,"Korpa, Bence",2500,win,70,E75,,2022
+2720,white,"Janzelj, Tim",2456,win,43,B12,,2022
 2720,white,"Brkic, Ante",2610,draw,80,E10,Jenbach,2022
-2721,white,"Nisipeanu, Liviu-Dieter",2615,win,25,,E10,2022
+2721,white,"Nisipeanu, Liviu-Dieter",2615,win,25,E10,,2022
 2721,black,"Schroeder, Jan-Christian",2544,lose,50,B90,Germany,2022
 2721,white,"Carlsen, Magnus",2856,draw,39,A50,Mayrhofen,2022
 2721,black,"Tabatabaei, M. Amin",2657,draw,45,B67,Mayrhofen,2022
@@ -80,12 +80,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2721,black,"Can, Emre",2592,lose,30,E04,Mayrhofen,2022
 2721,white,"Mihok, Oliver",2545,win,41,E81,Mayrhofen,2022
 2721,black,"Suarez Garcia, Carlos",2430,win,39,A06,Mayrhofen,2022
-2701,black,"Kobalia, Mihail",2578,win,47,,B90,2022
-2701,white,"Sanal, Vahap",2570,draw,63,,D30,2022
-2701,black,"Niemann, Hans Moke",2687,draw,98,,E10,2022
-2701,white,"Gholami, Aryan",2507,draw,30,,E17,2022
+2701,black,"Kobalia, Mihail",2578,win,47,B90,,2022
+2701,white,"Sanal, Vahap",2570,draw,63,D30,,2022
+2701,black,"Niemann, Hans Moke",2687,draw,98,E10,,2022
+2701,white,"Gholami, Aryan",2507,draw,30,E17,,2022
 2701,black,"Abasov, Nijat Azad Oglu",2633,draw,21,C42,Ankara,2022
-2701,white,"Ivic, Velimir",2583,draw,31,,D10,2022
+2701,white,"Ivic, Velimir",2583,draw,31,D10,,2022
 2701,black,"Nguyen, Thai Dai Van",2629,draw,36,C11,Ankara,2022
 ,white,"Nigmatov, Ortik",,win,58,D87,Ankara,2022
 2701,black,Gukesh D,2684,win,29,E10,Ankara,2022
@@ -177,8 +177,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2699,white,"Dubov, Daniil",2702,draw,53,D19,chess.com INT,2022
 2699,black,"Alekseenko, K.",2698,draw,52,C65,chess.com INT,2022
 2699,white,"Bortnyk, Olexandr",2604,win,60,B07,chess.com INT,2022
-2699,black,"Nestorovic, Nikola",2456,win,45,,B90,2022
-2699,white,"Bartel, Mateusz",2618,win,77,,D11,2022
+2699,black,"Nestorovic, Nikola",2456,win,45,B90,,2022
+2699,white,"Bartel, Mateusz",2618,win,77,D11,,2022
 2699,white,"Gokerkan, Cem Kaan",2456,lose,31,D37,chess.com INT,2022
 2699,white,"Moskalenko, A.",2508,lose,56,D30,chess.com INT,2022
 2699,black,"Shankland, S.",2709,lose,34,D97,chess.com INT,2022
@@ -203,7 +203,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2699,white,"Kovalenko, I.",2674,draw,62,B01,chess.com INT,2022
 2699,black,"Ponkratov, P.",2635,win,47,E48,chess.com INT,2022
 2699,white,"Mamedyarov, Shakhriyar",2771,draw,30,C67,Germany,2022
-2699,black,"Harikrishna, Pentala",2705,win,35,,B53,2022
+2699,black,"Harikrishna, Pentala",2705,win,35,B53,,2022
 2699,black,"Dimakiling, O.",2420,lose,32,A09,chess.com INT,2022
 2699,white,"Iskusnyh, S.",2443,lose,39,D11,chess.com INT,2022
 2699,black,"Li, Ben",2361,draw,42,D37,chess.com INT,2022
@@ -276,11 +276,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2701,black,"Goryachkina, A.",2610,win,29,C45,chess.com INT,2022
 2701,white,"Dauner, Benedikt",2321,win,61,B29,chess.com INT,2022
 2701,black,"Kovanova, B.",2342,lose,38,B68,chess.com INT,2022
-2701,black,"Indjic, Aleksandar",2605,lose,58,,E35,2022
-2701,white,"Navara, David",2700,draw,34,,C65,2022
+2701,black,"Indjic, Aleksandar",2605,lose,58,E35,,2022
+2701,white,"Navara, David",2700,draw,34,C65,,2022
 2701,white,"Bluebaum, M.",2642,win,42,E10,chess.com INT,2022
 2701,black,"Matlakov, M.",2674,win,39,B30,chess.com INT,2022
-2701,white,"Sarana, Alexey",2685,win,25,,B96,2022
+2701,white,"Sarana, Alexey",2685,win,25,B96,,2022
 2701,white,"Demchenko, A.",2654,lose,44,C70,chess.com INT,2022
 2701,black,"Paravyan, D.",2617,win,62,B32,chess.com INT,2022
 2701,black,"Caruana, F.",2781,lose,45,E40,chess.com INT,2022
@@ -289,21 +289,21 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2701,black,"Sarana, A.",2685,win,45,E47,chess.com INT,2022
 2701,white,"Vachier Lagrave, M.",2761,draw,70,D02,chess.com INT,2022
 2701,black,"Nihal, Sarin",2652,draw,48,C78,Belgrade SRB,2022
-2701,black,Nihal Sarin,2652,draw,48,,C78,2022
-2701,white,"Markus, Robert",2627,draw,26,,A55,2022
-2701,black,"Abdusattorov, Nodirbek",2651,win,49,,A30,2022
+2701,black,Nihal Sarin,2652,draw,48,C78,,2022
+2701,white,"Markus, Robert",2627,draw,26,A55,,2022
+2701,black,"Abdusattorov, Nodirbek",2651,win,49,A30,,2022
 2701,white,"Thavandiran, S.",2420,lose,61,A40,chess.com INT,2022
 2701,white,"Salimova, Nurgyul",2399,win,43,B10,chess.com INT,2022
 2701,black,"Shuvalova, Polina",2504,win,39,D85,chess.com INT,2022
 2701,white,"Rostovtsev, Dmitry",2189,lose,82,B23,chess.com INT,2022
 2701,black,"Al Tarbosh, W.",2213,win,28,B42,chess.com INT,2022
-2701,white,"Ivanisevic, Ivan",2601,win,35,,D30,2022
+2701,white,"Ivanisevic, Ivan",2601,win,35,D30,,2022
 2701,white,"Manukyan, SaA",2113,win,49,E06,chess.com INT,2022
 2701,black,"Rangel, D.",2207,win,69,A25,chess.com INT,2022
 2701,black,"Ivic, Velimir",2610,draw,33,C78,Belgrade SRB,2022
-2701,black,"Ivic, Velimir",2610,draw,34,,C78,2022
+2701,black,"Ivic, Velimir",2610,draw,34,C78,,2022
 2701,white,"Sjugirov, S.",2680,lose,39,C65,Belgrade SRB,2022
-2701,white,"Sjugirov, Sanan",2680,lose,40,,C65,2022
+2701,white,"Sjugirov, Sanan",2680,lose,40,C65,,2022
 2701,black,"Nakamura, Hi",2750,lose,41,A06,chess.com INT,2022
 2701,black,"Ponkratov, P.",2641,win,70,A22,chess.com INT,2022
 2701,white,"Matlakov, M.",2674,win,64,B90,chess.com INT,2022
@@ -2116,4 +2116,4 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 1989,white,"Tarhon, Brian",1816,win,57,A05,Maribor,2012
 1989,black,"Talmaci, Alexandru",1602,win,25,B15,Maribor,2012
 1914,white,"Doostkam, Pooyan",2151,win,41,D77,Hamadan,2012
-,white,"Sychev, Klementy",,win,26,,C11,Ankara 
+,white,"Sychev, Klementy",,win,26,C11,,Ankara 

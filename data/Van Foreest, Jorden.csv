@@ -153,8 +153,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2714,black,"Shirov, A.",2693,draw,58,C02,Malmo SWE,2022
 2715,black,"Shirov, Alexei",2695,draw,59,B12,Malmo,2022
 2715,black,"Grandelius, Nils",2635,draw,40,B10,Malmo,2022
-2714,black,"Svane, Rasmus",2648,draw,24,,E16,2022
-2714,white,"Bjerre, Jonas Buhl",2611,win,53,,C42,2022
+2714,black,"Svane, Rasmus",2648,draw,24,E16,,2022
+2714,white,"Bjerre, Jonas Buhl",2611,win,53,C42,,2022
 2714,black,"Le, Quang Liem",2709,lose,25,D16,Oslo NOR,2022
 2714,white,"Le, Quang Liem",2709,draw,62,C77,Oslo NOR,2022
 2714,white,"Le, Quang Liem",2709,draw,71,C82,Oslo NOR,2022
@@ -192,8 +192,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2714,black,"Papasimakopoulos, Alexandros",2259,win,60,D02,chess.com INT,2022
 2714,white,"Koziorowicz, Michal",2231,win,40,A02,chess.com INT,2022
 2714,black,"Lewicki, Mir",2340,win,25,A00,chess.com INT,2022
-2714,white,"Santos Ruiz, Miguel",2597,draw,34,,C55,2022
-2714,black,"Indjic, Aleksandar",2613,win,54,,D11,2022
+2714,white,"Santos Ruiz, Miguel",2597,draw,34,C55,,2022
+2714,black,"Indjic, Aleksandar",2613,win,54,D11,,2022
 2714,black,"Kozin, Y.",2251,lose,44,B33,chess.com INT,2022
 2714,white,"Domingo Nunez, Alejandro",2311,lose,40,B10,chess.com INT,2022
 2714,black,"Moral Garcia, S.",2214,win,14,A36,chess.com INT,2022
@@ -944,7 +944,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2612,black,"Van Foreest, Lucas",2521,draw,31,C47,Amsterdam NED,2019
 2612,black,"Van den Doel, E.",2605,draw,56,A48,Amsterdam NED,2019
 2612,white,"L&#039;Ami, E.",2633,win,75,B01,Amsterdam NED,2019
-2612,black,"Bok, Benjamin",2645,draw,19,,A05,2019
+2612,black,"Bok, Benjamin",2645,draw,19,A05,,2019
 2612,white,"Sokolov, Ivan",,win,40,C84,Amsterdam NED,2019
 2612,black,"Werle, J.",2555,win,62,E60,Amsterdam NED,2019
 2612,white,"Van Foreest, Lucas",2521,draw,65,D38,Amsterdam NED,2019
@@ -1514,11 +1514,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2557,black,"Fridman, Daniel",2614,win,48,D11,Maastricht,2016
 2557,black,"Miedema, David",2355,win,28,D10,Maastricht,2016
 2557,white,"Hoornstra, Hans",2011,win,44,A46,Maastricht,2016
-2557,white,"Gharamian, Tigran",2627,lose,42,,B12,2016
+2557,white,"Gharamian, Tigran",2627,lose,42,B12,,2016
 2557,black,"Ducarmon, Quinten",2470,win,42,C76,Maastricht,2016
 2557,white,"Ypma, Peter",2272,win,37,B01,Maastricht,2016
-2551,white,"Tkachiev, Vladislav",2660,draw,32,Stockholm,,2016
-2551,black,"Smirin, Ilia",2665,draw,38,Stockholm,,2016
+2551,white,"Tkachiev, Vladislav",2660,draw,32,,Stockholm,2016
+2551,black,"Smirin, Ilia",2665,draw,38,,Stockholm,2016
 2551,white,"Bachmann, Axel",2621,win,26,B08,Stockholm,2016
 2551,white,"Ronneland, Daniel",2196,win,35,C54,Stockholm,2016
 2551,black,"Hess, Christian",2241,win,30,D30,Stockholm,2016
@@ -2143,4 +2143,4 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 ,black,"Roesink, Myron",,draw,85,B20,Waalwijk,2009
 ,white,"De Groot, Jacob",,win,50,C55,Waalwijk,2009
 1000,black,"Steenbergen, Ruud",1418,draw,15,C20,Groningen,2008
-2671,black,"Giri, Anish",2764,win,58,,D00,http://www.chessbomb.com
+2671,black,"Giri, Anish",2764,win,58,D00,,http://www.chessbomb.com

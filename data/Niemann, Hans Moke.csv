@@ -85,11 +85,11 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2688,black,"Carlsen, Magnus",2861,win,57,E20,Saint Louis,2022
 2688,white,"Mamedyarov, Shakhriyar",2757,win,49,A28,Saint Louis,2022
 2688,white,"Aronian, Levon",2759,draw,50,C67,Saint Louis,2022
-2687,white,"Idani, Pouya",2641,win,46,,B51,2022
-2687,black,"Kuzubov, Yuriy",2644,draw,54,,E10,2022
-2687,white,"Maghsoodloo, Parham",2701,draw,98,,E10,2022
-2687,black,"Kobalia, Mihail",2578,win,33,,B31,2022
-2687,white,"Sanal, Vahap",2570,lose,55,,A13,2022
+2687,white,"Idani, Pouya",2641,win,46,B51,,2022
+2687,black,"Kuzubov, Yuriy",2644,draw,54,E10,,2022
+2687,white,"Maghsoodloo, Parham",2701,draw,98,E10,,2022
+2687,black,"Kobalia, Mihail",2578,win,33,B31,,2022
+2687,white,"Sanal, Vahap",2570,lose,55,A13,,2022
 2688,white,"Huschenbeth, Niclas",2610,draw,82,B90,Germany,2022
 2688,black,"Jones, Gawain C",2652,win,34,C45,Germany,2022
 2688,black,"Grandelius, Nils",2655,draw,59,C84,Germany,2022
@@ -148,9 +148,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2637,white,"Erigaisi, Arjun",2675,win,27,A45,chess.com INT,2022
 2637,black,"Erigaisi, Arjun",2675,win,30,C50,chess.com INT,2022
 2637,white,"Erigaisi, Arjun",2675,lose,68,C11,chess.com INT,2022
-2642,white,"Areshchenko, Alexander",2670,win,43,,B51,2022
+2642,white,"Areshchenko, Alexander",2670,win,43,B51,,2022
 2656,black,"Durarbayli, V.",2638,lose,69,B67,chess.com INT,2022
-2642,black,"Fridman, Daniel",2628,draw,52,,E15,2022
+2642,black,"Fridman, Daniel",2628,draw,52,E15,,2022
 2656,black,"Sjugirov, S.",2696,win,26,E62,chess.com INT,2022
 2656,white,"Antipov, M2.",2592,win,56,A45,chess.com INT,2022
 2656,black,"Shuvalova, Polina",2493,draw,75,D02,chess.com INT,2022
@@ -248,15 +248,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2637,white,"Shandrygin, Nikita",2209,win,27,D00,chess.com INT,2022
 2637,black,"Thorfinnsson, Br",2419,draw,60,A04,Reykjavik ISL,2022
 2637,black,"Thorfinnsson, Bragi",2419,draw,60,A04,Reykjavik,2022
-2637,white,"Hedman, Erik",2362,win,36,,B07,2022
-2637,black,"Hjartarson, Johann",2465,lose,27,,A20,2022
-2637,white,"Gretarsson, Hjorvar Steinn",2542,win,37,,B47,2022
-2637,black,"Jarmula, Lukasz",2434,lose,57,,C80,2022
+2637,white,"Hedman, Erik",2362,win,36,B07,,2022
+2637,black,"Hjartarson, Johann",2465,lose,27,A20,,2022
+2637,white,"Gretarsson, Hjorvar Steinn",2542,win,37,B47,,2022
+2637,black,"Jarmula, Lukasz",2434,lose,57,C80,,2022
 2637,white,"Beerdsen, Thomas",2496,win,30,B51,Reykjavik,2022
 2637,white,"Beerdsen, Thomas",2496,draw,34,B31,Reykjavik,2022
 2637,black,"Sukandar, Irine Kharisma",2386,win,37,B23,Reykjavik,2022
 2637,white,"Johansson, CF.",2221,win,48,B51,Reykjavik ISL,2022
-2637,white,"Johansson, Carl Fredrik",2221,win,39,,B51,2022
+2637,white,"Johansson, Carl Fredrik",2221,win,39,B51,,2022
 2637,white,"Andreikin, D.",2729,lose,50,D02,chess.com INT,2022
 2637,black,"Caruana, F.",2781,win,58,D36,chess.com INT,2022
 2637,black,"Nakamura, Hi",2750,draw,91,A06,chess.com INT,2022
@@ -314,15 +314,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2642,white,"Bluebaum, M.",2642,lose,44,E20,chess.com INT,2022
 2642,black,"Praggnanandhaa, R.",2619,win,45,A37,chess.com INT,2022
 2642,white,"Cheparinov, I.",2672,lose,57,A45,chess.com INT,2022
-2642,black,"Hakobyan, Aram",2601,lose,46,,B51,2022
-2642,white,"Swiercz, Dariusz",2656,lose,75,,C88,2022
+2642,black,"Hakobyan, Aram",2601,lose,46,B51,,2022
+2642,white,"Swiercz, Dariusz",2656,lose,75,C88,,2022
 2642,black,"Antipov, M2.",2615,win,44,C50,Saint Louis USA,2022
-2642,white,"Xiong, Jeffery",2686,draw,45,,B51,2022
+2642,white,"Xiong, Jeffery",2686,draw,45,B51,,2022
 2642,black,"Dragun, K.",2590,lose,82,C47,Saint Louis USA,2022
-2642,white,"Lenderman, Aleksandr",2600,win,74,,E10,2022
-2642,white,"Sevian, Samuel",2684,draw,48,,C81,2022
-2642,black,"Nyzhnyk, Illya",2674,draw,58,,A28,2022
-2642,white,"Robson, Ray",2676,draw,71,,A28,2022
+2642,white,"Lenderman, Aleksandr",2600,win,74,E10,,2022
+2642,white,"Sevian, Samuel",2684,draw,48,C81,,2022
+2642,black,"Nyzhnyk, Illya",2674,draw,58,A28,,2022
+2642,white,"Robson, Ray",2676,draw,71,A28,,2022
 2642,black,"Gareev, T.",2573,lose,32,B06,chess.com INT,2022
 2642,white,"Avila Pavas, Santiago",2450,win,61,A45,chess.com INT,2022
 2642,black,"Harika, D.",2517,win,66,A40,chess.com INT,2022
@@ -928,7 +928,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2436,white,"Sturt, R.",2466,lose,51,D19,New York USA,2019
 2436,black,"Steingrimsson, H.",2549,win,66,D37,New York USA,2019
 2436,black,"Korley, K.",2447,draw,40,E20,New York USA,2019
-2436,white,"Krush, Irina",2424,win,40,,E65,2019
+2436,white,"Krush, Irina",2424,win,40,E65,,2019
 2436,white,"Panjwani, R.",2450,win,51,D20,New York USA,2019
 2436,black,"Barbosa, O PHI.",2532,win,41,A09,New York USA,2019
 2436,white,"Yudasin, L.",2507,win,28,E17,New York USA,2019

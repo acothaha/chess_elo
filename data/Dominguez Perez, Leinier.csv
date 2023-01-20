@@ -110,12 +110,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2735,black,"Shankland, Samuel L",2625,draw,53,A30,Saint Louis,2022
 2756,black,"Shankland, Samuel L",2709,draw,44,A30,Saint Louis,2022
 2756,white,"Shankland, Samuel L",2709,draw,32,C53,Saint Louis,2022
-2756,black,"Keymer, Vincent",2655,lose,46,,D26,2022
+2756,black,"Keymer, Vincent",2655,lose,46,D26,,2022
 2756,white,"Mamedyarov, Shakhriyar",2776,draw,36,C80,Berlin,2022
-2756,white,"Dubov, Daniil",2711,draw,62,,C55,2022
+2756,white,"Dubov, Daniil",2711,draw,62,C55,,2022
 2756,black,"Mamedyarov, Shakhriyar",2776,draw,31,E10,Berlin,2022
-2756,white,"Keymer, Vincent",2655,draw,80,,C78,2022
-2756,black,"Dubov, Daniil",2711,win,52,,E48,2022
+2756,white,"Keymer, Vincent",2655,draw,80,C78,,2022
+2756,black,"Dubov, Daniil",2711,win,52,E48,,2022
 2752,white,"Aronian, Levon",2772,draw,31,C55,Berlin,2022
 2752,black,"Aronian, Levon",2772,lose,41,D20,Berlin,2022
 2752,white,"So, Wesley",2772,win,34,C50,Berlin,2022

@@ -658,9 +658,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2686,black,"Kamsky, Gata",2670,draw,48,A45,Sochi,2016
 2686,white,"Jakovenko, Dmitrij",2731,win,39,C67,Sochi,2016
 2686,white,"Dominguez Perez, Leinier",2732,win,41,D83,Sochi,2016
-2660,black,"Swiercz, Dariusz",2655,draw,60,Germany,,2016
+2660,black,"Swiercz, Dariusz",2655,draw,60,,Germany,2016
 2660,white,"Areshchenko, Alexander",2661,draw,94,B90,Germany,2016
-2660,white,"Areshchenko, Alexander",2674,draw,87,Germany,,2016
+2660,white,"Areshchenko, Alexander",2674,draw,87,,Germany,2016
 2660,white,"Schenk, Andreas",2483,win,69,C11,Germany,2016
 2660,white,"Shirov, Alexei",2712,win,41,D11,Germany,2016
 2677,black,"Bocharov, Dmitry",2595,win,92,A33,Moscow,2016

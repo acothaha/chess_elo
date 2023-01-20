@@ -42,7 +42,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2694,white,"Pultinevicius, Paulius",2561,draw,38,B12,Barcelona,2022
 2694,white,"Velten, Paul",2471,draw,72,C65,Barcelona,2022
 2694,black,"Valenzuela Gomez, Fernando",2368,win,84,B67,Barcelona,2022
-2689,white,"Plenca, Julijan",2447,win,38,,C78,2022
+2689,white,"Plenca, Julijan",2447,win,38,C78,,2022
 2689,black,"Vitiugov, Nikita",2722,lose,35,D26,Germany,2022
 2689,black,"Dziuba, Marcin",2569,win,30,D45,Reykjavik,2022
 2689,white,"Heimisson, Hilmir Freyr",2293,win,46,B67,Reykjavik,2022
@@ -66,15 +66,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2686,black,"Kryvoruchko, Yuriy",2669,draw,39,C77,Linares,2022
 2686,white,"Saric, Ivan",2668,win,26,A00,Radenci,2022
 2686,black,"Spalir, Jernej",2369,draw,76,A00,Radenci,2022
-2685,white,"Arat, Ufuk Sezen",2377,win,36,,C42,2022
-2685,black,"Stoyanov, Tsvetan",2442,draw,34,,B90,2022
-2685,black,"Selbes, Tarik",2255,win,40,,B51,2022
-2685,white,"Yilmaz, Mustafa",2634,draw,63,,C50,2022
-2685,white,"Murzin, Volodar",2541,win,30,,B90,2022
+2685,white,"Arat, Ufuk Sezen",2377,win,36,C42,,2022
+2685,black,"Stoyanov, Tsvetan",2442,draw,34,B90,,2022
+2685,black,"Selbes, Tarik",2255,win,40,B51,,2022
+2685,white,"Yilmaz, Mustafa",2634,draw,63,C50,,2022
+2685,white,"Murzin, Volodar",2541,win,30,B90,,2022
 2685,black,"Yilmazyerli, Mert",2520,draw,41,D02,Ankara,2022
-2685,white,"Haznedaroglu, Kivanc",2421,win,47,,C50,2022
-2672,black,"Sarana, Alexey",2675,draw,20,,D26,2022
-2672,white,"Stern, Rene",2509,win,40,,C65,2022
+2685,white,"Haznedaroglu, Kivanc",2421,win,47,C50,,2022
+2672,black,"Sarana, Alexey",2675,draw,20,D26,,2022
+2672,white,"Stern, Rene",2509,win,40,C65,,2022
 2672,white,"Lagarde, Maxime",2626,win,57,E20,Terme Catez,2022
 2672,white,"Durarbayli, Vasif",2628,draw,135,D12,Terme Catez,2022
 2672,black,"Bjerre, Jonas Buhl",2601,win,63,B62,Terme Catez,2022

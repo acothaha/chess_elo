@@ -1,6 +1,6 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
-2659,black,"Vokhidov, Shamsiddin",2471,lose,35,,B51,2022
-2659,white,"Vokhidov, Shamsiddin",2471,draw,88,,C53,2022
+2659,black,"Vokhidov, Shamsiddin",2471,lose,35,B51,,2022
+2659,white,"Vokhidov, Shamsiddin",2471,draw,88,C53,,2022
 2659,black,"Bai, Jinshi",2498,lose,60,A46,Jerusalem,2022
 2659,black,"Fressinet, Laurent",2684,lose,63,E10,Jerusalem,2022
 2645,white,Gukesh D,2732,win,42,B30,Mayrhofen,2022
@@ -22,10 +22,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2674,white,"Postny, Evgeny",2564,draw,56,C97,Germany,2022
 2687,white,"Stern, Rene",2510,lose,78,C65,Germany,2022
 2687,black,"Piorun, Kacper",2640,lose,39,E10,Germany,2022
-2687,white,"Huschenbeth, Niclas",2611,win,37,,C81,2022
-2684,black,"Jones, Gawain C",2669,win,40,,B90,2022
-2687,white,"Navara, David",2693,draw,29,,C50,2022
-2687,black,"Shevchenko, Kirill",2652,lose,35,,B90,2022
+2687,white,"Huschenbeth, Niclas",2611,win,37,C81,,2022
+2684,black,"Jones, Gawain C",2669,win,40,B90,,2022
+2687,white,"Navara, David",2693,draw,29,C50,,2022
+2687,black,"Shevchenko, Kirill",2652,lose,35,B90,,2022
 2687,black,"Jobava, Baadur",2588,draw,17,A16,Terme Catez,2022
 2687,white,"Bjerre, Jonas Buhl",2601,draw,19,C42,Terme Catez,2022
 2687,black,"Alonso Rosell, Alvar",2565,win,53,E00,Terme Catez,2022
@@ -1045,16 +1045,16 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2681,white,"Moor, Roger",2364,win,42,D85,Mainz,2007
 2681,black,"Heimrath, Reiner",2244,win,30,A48,Mainz,2007
 2681,white,"Buzov, Boris",2096,win,33,E08,Mainz,2007
-2681,white,"Petrosian, Tigran L",2613,win,22,Mainz,,2007
-2681,white,"Kamsky, Gata",2718,draw,43,Mainz,,2007
-2681,black,"Sumets, Andrey",2529,win,5,Mainz,,2007
-2681,white,"Gyimesi, Zoltan",2607,win,15,Mainz,,2007
-2681,white,"Bologan, Viktor",2650,lose,24,Mainz,,2007
-2681,black,"Sargissian, Gabriel",2667,draw,24,Mainz,,2007
-2681,white,"Tregubov, Pavel V",2599,win,25,Mainz,,2007
-2681,black,"Negi, Parimarjan",2529,win,14,Mainz,,2007
-2681,white,"Meinhardt, Maximilian",2378,win,17,Mainz,,2007
-2681,black,"Muench, Ingo",2214,win,14,Mainz,,2007
+2681,white,"Petrosian, Tigran L",2613,win,22,,Mainz,2007
+2681,white,"Kamsky, Gata",2718,draw,43,,Mainz,2007
+2681,black,"Sumets, Andrey",2529,win,5,,Mainz,2007
+2681,white,"Gyimesi, Zoltan",2607,win,15,,Mainz,2007
+2681,white,"Bologan, Viktor",2650,lose,24,,Mainz,2007
+2681,black,"Sargissian, Gabriel",2667,draw,24,,Mainz,2007
+2681,white,"Tregubov, Pavel V",2599,win,25,,Mainz,2007
+2681,black,"Negi, Parimarjan",2529,win,14,,Mainz,2007
+2681,white,"Meinhardt, Maximilian",2378,win,17,,Mainz,2007
+2681,black,"Muench, Ingo",2214,win,14,,Mainz,2007
 2654,white,"Deepan Chakkravarthy, J.",2482,win,21,C69,Torrelavega,2007
 2654,black,"Malakhatko, Vadim",2598,lose,65,E61,Torrelavega,2007
 2654,white,"Jerez Perez, Alfonso",2413,draw,95,C02,Torrelavega,2007

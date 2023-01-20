@@ -55,8 +55,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2646,black,"Assaubayeva, Bibisara",2439,draw,25,E16,Sharjah,2022
 2646,white,"Muradli, Mahammad",2539,lose,45,D30,Sharjah,2022
 2646,black,"Vokhidov, Shamsiddin",2536,draw,46,B30,Sharjah,2022
-2648,black,"Harikrishna, Pentala",2705,draw,40,,C78,2022
-2648,white,"Mamedyarov, Shakhriyar",2771,win,71,,C53,2022
+2648,black,"Harikrishna, Pentala",2705,draw,40,C78,,2022
+2648,white,"Mamedyarov, Shakhriyar",2771,win,71,C53,,2022
 2648,white,"Batsiashvili, Nino",2463,win,52,A46,Ciutadella de Menorca,2022
 2648,black,Aryan Chopra,2592,draw,33,C18,Ciutadella de Menorca,2022
 2648,white,"Grigorian, Spartak",2470,win,20,A46,Ciutadella de Menorca,2022
@@ -72,15 +72,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2648,white,"Schwarz, Dusan",2295,win,28,B53,Fagernes,2022
 2648,black,"Brynell, Stellan",2406,draw,38,D02,Fagernes,2022
 2648,white,"Ravi, Teja S.",2471,win,31,A21,Fagernes,2022
-2652,black,"Sjugirov, Sanan",2680,draw,30,,C47,2022
-2652,white,"Indjic, Aleksandar",2605,win,41,,A06,2022
-2652,black,"Navara, David",2700,lose,60,,A28,2022
-2652,white,"Maghsoodloo, Parham",2701,draw,48,,C78,2022
-2652,white,"Sarana, Alexey",2685,draw,30,,B23,2022
-2652,black,"Markus, Robert",2627,draw,31,,A07,2022
-2652,white,"Abdusattorov, Nodirbek",2651,win,66,,A15,2022
-2652,black,"Ivanisevic, Ivan",2601,draw,28,,D27,2022
-2652,white,"Ivic, Velimir",2610,win,45,,B30,2022
+2652,black,"Sjugirov, Sanan",2680,draw,30,C47,,2022
+2652,white,"Indjic, Aleksandar",2605,win,41,A06,,2022
+2652,black,"Navara, David",2700,lose,60,A28,,2022
+2652,white,"Maghsoodloo, Parham",2701,draw,48,C78,,2022
+2652,white,"Sarana, Alexey",2685,draw,30,B23,,2022
+2652,black,"Markus, Robert",2627,draw,31,A07,,2022
+2652,white,"Abdusattorov, Nodirbek",2651,win,66,A15,,2022
+2652,black,"Ivanisevic, Ivan",2601,draw,28,D27,,2022
+2652,white,"Ivic, Velimir",2610,win,45,B30,,2022
 2656,white,"Klimkowski, Jan",2350,draw,54,A01,Cannes,2022
 2656,black,"Materia, Marco",2391,draw,76,E61,Cannes,2022
 2656,white,"Godena, Michele",2442,draw,46,C53,Cannes,2022
@@ -253,7 +253,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2620,black,"Sjugirov, Sanan",2661,win,45,C88,Sochi,2021
 2620,white,"Sjugirov, Sanan",2661,draw,30,A50,Sochi,2021
 2620,white,"Ssegwanyi, Arthur",2409,draw,23,D02,Sochi,2021
-2620,black,"Ssegwanyi, Arthur",2409,win,50,,C18,2021
+2620,black,"Ssegwanyi, Arthur",2409,win,50,C18,,2021
 2620,black,"Fedoseev, Vladimir",2696,draw,36,D32,Belgrade,2021
 2620,white,"Kovalenko, Igor",2643,win,41,D02,Belgrade,2021
 2620,black,"Sanal, Vahap",2556,win,38,C02,Belgrade,2021

@@ -26,14 +26,14 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2640,black,"Agmanov, Zhandos",2403,win,47,C50,Almaty,2022
 2640,white,"Murzin, Volodar",2534,draw,72,D12,Almaty,2022
 2640,black,"Aleksandrov, Aleksej",2450,win,50,A06,Almaty,2022
-2675,black,"Cernousek, Lukas",2426,win,24,,B33,2022
+2675,black,"Cernousek, Lukas",2426,win,24,B33,,2022
 2668,white,"Alonso Rosell, Alvar",2561,win,50,A13,Germany,2022
 2633,black,"Nihal, Sarin",2616,draw,78,A46,Jerusalem,2022
 2633,white,"Nihal, Sarin",2616,lose,57,C77,Jerusalem,2022
 2633,white,"Xu, Xiangyu",2577,draw,34,B40,Jerusalem,2022
 2633,black,"Xu, Xiangyu",2577,win,48,A20,Jerusalem,2022
-2633,white,"Radjabov, Teimour",2718,win,68,,E20,2022
-2633,black,"Radjabov, Teimour",2718,draw,43,,E10,2022
+2633,white,"Radjabov, Teimour",2718,win,68,E20,,2022
+2633,black,"Radjabov, Teimour",2718,draw,43,E10,,2022
 2633,black,"Shevchenko, Kirill",2584,lose,34,A06,Jerusalem,2022
 2633,white,"Moussard, Jules",2634,win,124,D58,Jerusalem,2022
 2633,white,"Van Foreest, Lucas",2585,win,40,C65,Jerusalem,2022
@@ -82,9 +82,9 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2692,black,"Navara, David",2681,lose,50,D31,Prague CZE,2022
 2694,black,"Efimenko, Zahar",2597,lose,43,C77,Germany,2022
 2694,white,"Vrolijk, Liam",2476,draw,40,A06,Germany,2022
-2694,black,"Sprenger, Jan Michael, Dr.",2483,win,40,,B90,2022
-2694,black,"Martinovic, Sasa",2557,win,34,,E12,2022
-2694,white,"Bogner, Sebastian",2560,win,53,,C42,2022
+2694,black,"Sprenger, Jan Michael, Dr.",2483,win,40,B90,,2022
+2694,black,"Martinovic, Sasa",2557,win,34,E12,,2022
+2694,white,"Bogner, Sebastian",2560,win,53,C42,,2022
 2694,white,"Asadli, Vugar",2579,win,30,B40,Terme Catez,2022
 2694,black,"Kobo, Ori",2510,draw,14,A07,Terme Catez,2022
 2694,white,"Bernadskiy, Vitaliy",2606,draw,23,B28,Terme Catez,2022
@@ -528,15 +528,15 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2678,white,"Xiang, Zeyu",2439,draw,73,A20,China,2019
 2678,black,Li Chao2,2697,win,49,D35,China CHN,2019
 2678,black,"Li, Chao B",2697,win,49,A50,China,2019
-2678,black,"Zambrana, Oswaldo",2440,win,40,,C50,2019
-2678,white,"Larino Nieto, David",2457,draw,28,,D30,2019
-2678,black,"Del Rio De Angelis, Salvador G.",2472,draw,43,,A50,2019
-2678,white,"Escobar Forero, Alder",2477,draw,52,,D15,2019
-2678,black,"Sosa, Tomas",2508,lose,45,,B58,2019
-2678,white,"Henriquez Villagra, Cristobal",2562,draw,48,,D43,2019
-2678,black,"Espinosa Aranda, Angel",2497,win,59,,B52,2019
-2678,white,"Gines Esteo, Pedro Antonio",2417,win,31,,A20,2019
-2678,black,"Serarols Mabras, Bernat",2338,win,43,,E04,2019
+2678,black,"Zambrana, Oswaldo",2440,win,40,C50,,2019
+2678,white,"Larino Nieto, David",2457,draw,28,D30,,2019
+2678,black,"Del Rio De Angelis, Salvador G.",2472,draw,43,A50,,2019
+2678,white,"Escobar Forero, Alder",2477,draw,52,D15,,2019
+2678,black,"Sosa, Tomas",2508,lose,45,B58,,2019
+2678,white,"Henriquez Villagra, Cristobal",2562,draw,48,D43,,2019
+2678,black,"Espinosa Aranda, Angel",2497,win,59,B52,,2019
+2678,white,"Gines Esteo, Pedro Antonio",2417,win,31,A20,,2019
+2678,black,"Serarols Mabras, Bernat",2338,win,43,E04,,2019
 2678,white,"Amin, Bassem",2707,draw,31,E71,ChangSha,2019
 2678,white,"Sethuraman, SP.",2630,win,32,A15,ChangSha,2019
 2678,black,Zhao Jun,2636,draw,47,E32,Changsha CHN,2019

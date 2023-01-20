@@ -1,8 +1,8 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2667,black,"Jovanovic, Zoran",2513,draw,35,B40,Germany,2022
-2667,white,"Buhmann, Rainer",2559,draw,69,,A07,2022
-2667,white,"Mesaros, Florian",2404,draw,34,,C84,2022
-2667,black,"Diermair, Andreas",2442,win,47,,E10,2022
+2667,white,"Buhmann, Rainer",2559,draw,69,A07,,2022
+2667,white,"Mesaros, Florian",2404,draw,34,C84,,2022
+2667,black,"Diermair, Andreas",2442,win,47,E10,,2022
 2667,black,"Bosiocic, Marin",2536,lose,45,A07,Jenbach,2022
 2666,white,"Suarez Uriel, Adrian",2375,lose,50,A48,Linares,2022
 2666,black,"Suarez Gomez, Julio",2440,win,26,E71,Linares,2022
@@ -56,10 +56,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2653,white,"Velten, Paul",2486,draw,31,A11,Chartres,2022
 2648,black,"Schnider, Gert",2417,draw,43,C47,Germany,2022
 2648,white,"Johansson, Linus",2473,win,55,C07,Germany,2022
-2648,black,"Kukov, Velislav",2337,draw,50,,A45,2022
-2648,white,"Druska, Juraj",2503,lose,40,,B90,2022
-2654,white,"Stark, Lars",2380,win,44,,A46,2022
-2654,black,"Lemmers, Oscar",2340,win,35,,C25,2022
+2648,black,"Kukov, Velislav",2337,draw,50,A45,,2022
+2648,white,"Druska, Juraj",2503,lose,40,B90,,2022
+2654,white,"Stark, Lars",2380,win,44,A46,,2022
+2654,black,"Lemmers, Oscar",2340,win,35,C25,,2022
 2648,black,"Ftacnik, Lubomir",2495,win,33,E68,"Aschach, St. Veit/Glan, St. Ve",2022
 2648,white,"Testor, Sebastian",2323,win,27,C10,"Aschach, St. Veit/Glan, St. Ve",2022
 2648,black,"Kristoferitsch, Daniel",2253,win,23,A50,"Aschach, St. Veit/Glan, St. Ve",2022
@@ -616,10 +616,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2663,black,"Sumets, Andrey",2571,win,44,E91,Drancy,2016
 2663,white,"Todorov, Todor",2494,win,25,C46,Drancy,2016
 2663,black,"Cornette, Matthieu",2579,win,14,B52,Drancy,2016
-2660,white,"Demuth, Adrien",2541,lose,55,,2016,
-2660,black,"Meyer, Falko",2222,win,32,,2016,
-2660,white,"Mons, Leon",2461,win,43,,2016,
-2660,white,"Hausrath, Daniel",2501,win,43,,2016,
+2660,white,"Demuth, Adrien",2541,lose,55,,,2016
+2660,black,"Meyer, Falko",2222,win,32,,,2016
+2660,white,"Mons, Leon",2461,win,43,,,2016
+2660,white,"Hausrath, Daniel",2501,win,43,,,2016
 2689,white,"Kovacevic, Aleksandar",2507,draw,49,A46,Hungary,2016
 2689,black,"Berkes, Ferenc",2648,draw,15,E62,Hungary,2016
 2684,black,"Gharamian, Tigran",2660,draw,47,B31,Germany,2016
@@ -1828,10 +1828,10 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2652,black,"Markus, Robert",2586,draw,19,E11,Zlatibor,2007
 2652,white,"Solodovnichenko, Yuri",2582,win,47,B81,Zlatibor,2007
 2652,black,"Ivanchuk, Vassily",2762,lose,77,E01,Mainz,2007
-2652,black,"Karjakin, Sergey",2678,lose,31,Mainz,,2007
-2652,white,"Akesson, Ralf",2477,win,16,Mainz,,2007
-2652,black,"Kamsky, Gata",2718,lose,17,Mainz,,2007
-2652,white,"Ivanchuk, Vassily",2762,win,18,Mainz,,2007
+2652,black,"Karjakin, Sergey",2678,lose,31,,Mainz,2007
+2652,white,"Akesson, Ralf",2477,win,16,,Mainz,2007
+2652,black,"Kamsky, Gata",2718,lose,17,,Mainz,2007
+2652,white,"Ivanchuk, Vassily",2762,win,18,,Mainz,2007
 2652,black,"Miezis, Normunds",2524,draw,46,A29,Liepaja,2007
 2652,white,"Georgiev, Kiril",2663,draw,35,B52,Liepaja,2007
 2652,black,"Malisauskas, Vidmantas",2495,draw,21,C67,Liepaja,2007

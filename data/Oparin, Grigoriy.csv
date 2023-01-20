@@ -7,7 +7,7 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2683,white,"Chandra, Akshat",2472,win,37,D41,Charlotte,2022
 2683,black,Raja Harshit,2461,draw,15,C67,Charlotte,2022
 2683,white,"Sethuraman, Sandeep",2371,win,27,A07,Charlotte,2022
-2683,black,"Zhao, Erick",2243,win,37,,C91,2022
+2683,black,"Zhao, Erick",2243,win,37,C91,,2022
 2683,black,"Yu, Yangyi",2716,lose,41,C65,Saint Louis,2022
 2683,white,"Vidit, Santosh Gujrathi",2724,lose,47,E32,Saint Louis,2022
 2683,black,"Hakobyan, Aram",2613,lose,48,C45,Saint Louis,2022
@@ -156,8 +156,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2654,black,"Arkell, Keith C",2447,win,70,A64,Douglas,2019
 2654,white,"Movsesian, Sergei",2654,lose,45,E00,Khanty-Mansiysk,2019
 2654,black,"Movsesian, Sergei",2654,draw,28,C78,Khanty-Mansiysk,2019
-2660,black,"Butkiewicz, Lukasz",2425,draw,18,,B12,2019
-2660,white,"Kadric, Denis",2562,draw,15,,A41,2019
+2660,black,"Butkiewicz, Lukasz",2425,draw,18,B12,,2019
+2660,white,"Kadric, Denis",2562,draw,15,A41,,2019
 2644,white,"Kovalenko, Igor",2651,draw,45,A07,Saint Louis,2019
 2644,black,"Ganguly, Surya Shekhar",2642,draw,52,C55,Saint Louis,2019
 2644,black,"Fridman, Daniel",2644,draw,30,D31,Saint Louis,2019
