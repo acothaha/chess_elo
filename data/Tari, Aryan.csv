@@ -1,0 +1,1468 @@
+rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
+2620,white,"Caruana, Fabiano",2847,lose,46,C45,Almaty,2022
+2620,black,"Bologan, Victor",2525,lose,28,C55,Almaty,2022
+2660,white,"Seo, Jung Min",2507,draw,64,B90,Barcelona,2022
+2660,black,Arjun Kalyan,2526,draw,27,C55,Barcelona,2022
+2660,white,"Indjic, Aleksandar",2631,draw,44,D30,Germany,2022
+2656,black,"Vaibhav, Suri",2610,draw,40,D85,,2022
+2656,white,"Priasmoro, Novendra",2512,win,43,C55,,2022
+2656,black,Lalit Babu M R,2550,draw,39,D86,,2022
+2656,white,"Dungca, Ryan",2167,win,40,B39,,2022
+2656,black,"Nasuta, Grzegorz",2542,draw,27,C55,,2022
+2656,white,"Schebler, Gerhard",2374,win,33,B12,,2022
+2656,black,"Weeks, Manuel",2160,win,48,B51,,2022
+2656,white,Gourav Nigam,1966,win,23,B51,,2022
+2656,white,"Van Foreest, Jorden",2694,draw,58,C55,Mayrhofen,2022
+2656,white,Santos Latasa,2677,win,66,C02,Mayrhofen,2022
+2656,black,"Vidit, Santosh Gujrathi",2710,lose,35,C45,Mayrhofen,2022
+2656,black,"Heimann, Andreas",2573,draw,59,D85,Mayrhofen,2022
+2656,black,"Roseneck, Jonas",2414,win,43,E10,Mayrhofen,2022
+2656,white,"Niemi, Mikko",2306,win,25,A00,Mayrhofen,2022
+2672,black,"Paragua, Mark",2461,draw,30,B12,Chennai,2022
+2672,white,"Priasmoro, Novendra",2494,draw,50,C55,Chennai,2022
+2672,black,"Gazik, Viktor",2544,lose,45,B50,Chennai,2022
+2672,black,"Risteski, Emil",2405,win,32,B12,Chennai,2022
+2672,white,"Kuybokarov, Temur",2583,lose,39,D26,Chennai,2022
+2672,white,"Phiri, Richmond",2293,win,42,B41,Chennai,2022
+2672,black,"Gundavaa, Bayarsaikhan",2503,draw,42,E04,Chennai,2022
+2672,white,"Moroni, Luca Jr",2584,draw,40,D02,Chennai,2022
+2672,black,"Hoffman, Alejandro",2390,win,36,E10,Chennai,2022
+2672,black,"Kaloust, Giorgio",1942,win,30,E04,Chennai,2022
+2654,white,"Anand, Viswanathan",2751,draw,22,C83,The Stavanger region,2022
+2654,black,"Giri, Anish",2761,lose,61,A06,The Stavanger region,2022
+2654,white,"Carlsen, Magnus",2864,draw,33,C47,The Stavanger region,2022
+2654,black,"So, Wesley",2766,draw,81,C55,The Stavanger region,2022
+2654,white,"Wang, Hao",2744,win,44,C55,The Stavanger region,2022
+2654,black,"Topalov, Veselin",2730,draw,51,C55,The Stavanger region,2022
+2654,white,"Vachier-Lagrave, Maxime",2750,lose,29,B52,The Stavanger region,2022
+2654,black,"Radjabov, Teimour",2753,draw,33,D41,The Stavanger region,2022
+2654,black,"Mamedyarov, Shakhriyar",2770,draw,28,E21,The Stavanger region,2022
+2567,white,"Wang, Hao",2712,win,61,B23,The Stavanger region,2022
+2567,black,"Giri, Anish",2766,draw,37,A05,The Stavanger region,2022
+2567,white,"Radjabov, Teimour",2705,win,33,C10,The Stavanger region,2022
+2567,black,"Topalov, Veselin",2667,lose,39,A10,The Stavanger region,2022
+2567,white,"So, Wesley",2814,lose,60,C67,The Stavanger region,2022
+2567,black,"Carlsen, Magnus",2832,lose,25,A45,The Stavanger region,2022
+2567,black,"Vachier-Lagrave, Maxime",2813,win,38,A05,The Stavanger region,2022
+2567,white,"Mamedyarov, Shakhriyar",2778,win,26,C41,The Stavanger region,2022
+2567,black,"Anand, Viswanathan",2758,lose,37,A05,The Stavanger region,2022
+2650,black,"Ernst, Sipke",2542,win,47,E46,,2022
+2650,white,"Meshkovs, Nikita",2568,win,37,B31,,2022
+2650,black,"Kempinski, Robert",2559,draw,33,A46,Czech Republic,2022
+2650,white,"Kociscak, Jiri",2473,win,46,C55,Czech Republic,2022
+2650,black,"Laznicka, Viktor",2628,draw,15,D41,Czech Republic,2022
+2653,white,"Moroni, Luca Jr",2588,win,46,C53,Terme Catez,2022
+2653,black,"Safarli, Eltaj",2589,draw,13,C65,Terme Catez,2022
+2653,white,"Asadli, Vugar",2579,draw,11,B29,Terme Catez,2022
+2653,white,"Dardha, Daniel",2540,draw,36,B30,Terme Catez,2022
+2653,black,"Gagunashvili, Merab",2575,draw,44,D70,Terme Catez,2022
+2653,white,"Lodici, Lorenzo",2537,draw,24,E04,Terme Catez,2022
+2653,black,"Kadric, Denis",2573,draw,20,C53,Terme Catez,2022
+2653,black,"Kobo, Ori",2510,draw,22,D85,Terme Catez,2022
+2653,white,"Tomazini, Zan",2376,win,70,D70,Terme Catez,2022
+2660,white,"Djurhuus, Rune",2403,lose,68,C17,Oslo,2022
+2660,black,"Sagafos, Magne",2386,win,40,B57,Oslo,2022
+2656,black,"Efimenko, Zahar",2601,lose,45,A07,Warsaw,2021
+2656,black,"Chigaev, Maksim",2546,win,45,D02,Warsaw,2021
+2656,white,"Parligras, Mircea Emilian",2469,win,40,C65,Warsaw,2021
+2656,black,"Najer, Evgeniy",2551,lose,39,C55,Warsaw,2021
+2656,white,"Puranik, Abhimanyu",2437,win,39,C77,Warsaw,2021
+2656,black,"Klekowski, Maciej",2444,draw,70,A13,Warsaw,2021
+2656,white,"Kovalev, Vladislav",2527,lose,68,C72,Warsaw,2021
+2656,black,"Van Foreest, Lucas",2521,win,37,C44,Warsaw,2021
+2656,white,"Kozak, Adam",2448,draw,121,B30,Warsaw,2021
+2656,black,"Bologan, Victor",2472,draw,75,C65,Warsaw,2021
+2656,white,"Bellahcene, Bilel",2493,win,36,B23,Warsaw,2021
+2656,black,Gukesh D,2506,lose,52,D41,Warsaw,2021
+2656,white,"Jumabayev, Rinat",2536,lose,47,C11,Warsaw,2021
+2656,black,"Postny, Evgeny",2521,win,64,D30,Warsaw,2021
+2656,white,"Costachi, Mihnea",2482,lose,45,C72,Warsaw,2021
+2656,black,"Dvirnyy, Danyyil",2531,lose,37,A07,Warsaw,2021
+2656,white,"Sargsyan, Shant",2537,win,49,C77,Warsaw,2021
+2656,black,"Nguyen, Thai Dai Van",2446,win,34,D30,Warsaw,2021
+2656,white,"Lima, Darcy",2379,win,26,C11,Warsaw,2021
+2656,black,"Peng, Li Min",2412,lose,43,A06,Warsaw,2021
+2656,white,"Saraci, Nderim",2479,lose,67,C77,Warsaw,2021
+2542,black,"Jobava, Baadur",2679,draw,28,C55,Warsaw,2021
+2542,white,"Kovalev, Vladislav",2647,draw,34,C77,Warsaw,2021
+2542,black,"Salem, A.R. Saleh",2729,lose,32,D32,Warsaw,2021
+2542,black,"Onischuk, Vladimir",2687,lose,80,C55,Warsaw,2021
+2646,white,"Nguyen, Thai Dai Van",2577,draw,42,C80,Riga,2021
+2649,black,"Kuybokarov, Temur",2549,draw,79,C80,Riga,2021
+2646,white,"Artemiev, Vladislav",2699,lose,45,C65,Riga,2021
+2646,black,"Predke, Alexandr",2666,lose,63,E04,Riga,2021
+2646,white,"Sjugirov, Sanan",2663,draw,49,B52,Riga,2021
+2646,black,"Korobov, Anton",2690,draw,23,D32,Riga,2021
+2646,white,"Yu, Yangyi",2704,draw,69,C42,Riga,2021
+2646,black,"Maghsoodloo, Parham",2701,win,38,A13,Riga,2021
+2646,white,"Fedoseev, Vladimir",2704,draw,51,B12,Riga,2021
+2646,white,"Gretarsson, Hjorvar Steinn",2577,win,64,B12,Riga,2021
+2646,black,"Van Foreest, Lucas",2543,draw,32,E34,Riga,2021
+2646,white,"Shirov, Alexei",2659,win,68,C92,Toledo,2021
+2646,black,"Cheparinov, Ivan",2659,draw,30,A20,Toledo,2021
+2646,white,"Vallejo Pons, Francisco",2701,draw,30,B12,Toledo,2021
+2646,black,"Anton Guijarro, David",2658,lose,54,D40,Toledo,2021
+2646,white,"Kryvoruchko, Yuriy",2686,draw,30,C65,Toledo,2021
+2646,black,"Gelfand, Boris",2680,draw,30,E04,Toledo,2021
+2646,black,"Jones, Gawain C",2657,draw,60,C67,Toledo,2021
+2642,white,"Grischuk, Alexander",2775,draw,30,C67,"Struga, Ohrid Lake",2021
+2642,white,"Dubov, Daniil",2714,lose,44,C78,"Struga, Ohrid Lake",2021
+2642,black,"Karjakin, Sergey",2758,lose,46,A01,The Stavanger region,2021
+2642,black,"Karjakin, Sergey",2758,draw,33,E10,The Stavanger region,2021
+2642,white,"Firouzja, Alireza",2754,lose,50,B90,The Stavanger region,2021
+2642,black,"Nepomniachtchi, Ian",2792,win,34,A21,The Stavanger region,2021
+2642,white,"Carlsen, Magnus",2855,lose,51,C88,The Stavanger region,2021
+2642,black,"Rapport, Richard",2760,lose,58,D32,The Stavanger region,2021
+2642,black,"Firouzja, Alireza",2754,lose,36,C55,The Stavanger region,2021
+2642,white,"Karjakin, Sergey",2758,lose,55,C65,The Stavanger region,2021
+2642,white,"Karjakin, Sergey",2758,draw,30,C67,The Stavanger region,2021
+2642,white,"Nepomniachtchi, Ian",2792,draw,32,B90,The Stavanger region,2021
+2642,white,"Nepomniachtchi, Ian",2792,draw,32,B90,The Stavanger region,2021
+2642,black,"Carlsen, Magnus",2855,lose,47,C55,The Stavanger region,2021
+2642,black,"Carlsen, Magnus",2855,draw,46,C55,The Stavanger region,2021
+2642,white,"Rapport, Richard",2760,lose,55,C15,The Stavanger region,2021
+2639,white,"Mamedyarov, Shakhriyar",2782,draw,36,C42,chess24.com INT,2021
+2639,black,"Le, Quang Liem",2709,draw,48,D40,chess24.com INT,2021
+2639,white,"Koneru, Humpy",2586,win,30,D02,chess24.com INT,2021
+2639,black,"Nakamura, Hikaru",2736,lose,40,D85,chess24.com INT,2021
+2639,white,"Anton Guijarro, David",2673,lose,51,B13,chess24.com INT,2021
+2639,black,"Harikrishna, Pentala",2730,draw,39,C84,chess24.com INT,2021
+2639,white,"Artemiev, Vladislav",2704,win,60,B47,chess24.com INT,2021
+2639,black,"Ju, Wenjun",2560,draw,46,D87,chess24.com INT,2021
+2639,white,"Iturrizaga Bonelli, Eduardo",2607,draw,64,B13,chess24.com INT,2021
+2639,black,"Mishra, Abhimanyu",2504,draw,50,D96,chess24.com INT,2021
+2639,black,"Aronian, Levon",2782,lose,64,C77,chess24.com INT,2021
+2639,white,"So, Wesley",2772,draw,39,C67,chess24.com INT,2021
+2639,black,"Firouzja, Alireza",2759,lose,35,C88,chess24.com INT,2021
+2639,white,"Van Foreest, Jorden",2688,win,38,D90,chess24.com INT,2021
+2639,black,"Adhiban, Baskaran",2660,lose,36,C50,chess24.com INT,2021
+2639,white,"Carlsen, Magnus",2847,lose,75,B46,Sochi,2021
+2639,black,"Carlsen, Magnus",2847,lose,40,A13,Sochi,2021
+2639,black,"Bareev, Evgeny",2638,draw,38,E04,Sochi,2021
+2639,white,"Bareev, Evgeny",2638,win,39,C11,Sochi,2021
+2639,black,"Barrish, Daniel",2313,win,54,C58,Sochi,2021
+2639,black,"Dominguez Perez, Leinier",2758,lose,35,C67,chess24.com INT,2021
+2639,white,"Le, Quang Liem",2709,draw,52,C45,chess24.com INT,2021
+2639,black,"Karjakin, Sergey",2757,win,65,C50,chess24.com INT,2021
+2639,white,"Mamedyarov, Shakhriyar",2770,lose,55,B13,chess24.com INT,2021
+2639,black,"So, Wesley",2770,lose,31,D02,chess24.com INT,2021
+2639,white,"Praggnanandhaa, R.",2608,win,62,B23,chess24.com INT,2021
+2639,black,"Duda, Jan-Krzysztof",2729,win,30,C20,chess24.com INT,2021
+2639,white,"Firouzja, Alireza",2759,win,55,B13,chess24.com INT,2021
+2639,black,"Nakamura, Hikaru",2736,lose,47,E04,chess24.com INT,2021
+2639,white,"Carlsen, Magnus",2847,lose,66,B06,chess24.com INT,2021
+2639,black,"Christiansen, Johan-Sebastian",2618,win,59,C26,chess24.com INT,2021
+2639,white,"Aronian, Levon",2781,draw,28,C47,chess24.com INT,2021
+2639,white,"Jones, Gawain C B",2670,draw,46,B76,chess24.com INT,2021
+2639,black,"Radjabov, Teimour",2765,lose,36,D40,chess24.com INT,2021
+2639,white,"Vidit, Santosh Gujrathi",2726,draw,102,B40,chess24.com INT,2021
+2625,white,"Caruana, Fabiano",2823,draw,42,C01,Wijk aan Zee,2021
+2625,black,"Grandelius, Nils",2663,draw,30,C53,Wijk aan Zee,2021
+2625,white,"Esipenko, Andrey",2677,win,33,C72,Wijk aan Zee,2021
+2625,black,"Harikrishna, Pentala",2732,draw,52,C78,Wijk aan Zee,2021
+2625,white,"Duda, Jan Krzysztof",2743,draw,32,B51,Wijk aan Zee,2021
+2625,black,"Donchenko, Alexander",2668,draw,36,E04,Wijk aan Zee,2021
+2625,white,"Van Foreest, Jorden",2671,lose,32,C70,Wijk aan Zee,2021
+2625,black,"Vachier-Lagrave, Maxime",2784,draw,26,A07,Wijk aan Zee,2021
+2625,black,"Anton Guijarro, David",2679,draw,60,C67,Wijk aan Zee,2021
+2625,white,"Firouzja, Alireza",2749,draw,30,B12,Wijk aan Zee,2021
+2625,black,"Carlsen, Magnus",2862,draw,56,D41,Wijk aan Zee,2021
+2625,white,"Wojtaszek, Radoslaw",2705,draw,68,B51,Wijk aan Zee,2021
+2625,black,"Giri, Anish",2764,lose,47,C65,Wijk aan Zee,2021
+2633,black,"Caruana, Fabiano",2828,lose,38,C84,The Stavanger region,2020
+2633,black,"Caruana, Fabiano",2828,draw,50,C88,The Stavanger region,2020
+2633,white,"Aronian, Levon",2767,lose,34,C45,The Stavanger region,2020
+2633,white,"Aronian, Levon",2767,draw,50,B13,The Stavanger region,2020
+2633,black,"Carlsen, Magnus",2863,lose,45,C84,The Stavanger region,2020
+2633,black,"Duda, Jan Krzysztof",2757,lose,27,C70,The Stavanger region,2020
+2633,white,"Firouzja, Alireza",2728,lose,34,B13,The Stavanger region,2020
+2633,black,"Firouzja, Alireza",2728,lose,50,C53,The Stavanger region,2020
+2633,white,"Duda, Jan-Krzysztof",2757,win,65,B51,The Stavanger region,2020
+2633,white,"Duda, Jan Krzysztof",2757,draw,34,B23,The Stavanger region,2020
+2633,white,"Carlsen, Magnus",2863,lose,45,B69,The Stavanger region,2020
+2633,black,"Aronian, Levon",2767,lose,48,C89,The Stavanger region,2020
+2633,white,"Caruana, Fabiano",2828,lose,55,B47,The Stavanger region,2020
+2630,black,"Vachier-Lagrave, Maxime",2778,lose,37,D35,Karlsruhe,2020
+2630,white,"Malakhov, Vladimir",2669,draw,21,C45,Karlsruhe,2020
+2630,white,"McShane, Luke J",2680,draw,51,C65,Karlsruhe,2020
+2629,white,"Fedoseev, Vladimir",2671,lose,57,B13,Germany,2020
+2689,black,"Drygalov, Sergey",2515,draw,14,C92,Moscow,2019
+2689,white,"Xu, Yinglun",2452,draw,40,C11,Moscow,2019
+2689,black,"Castellanos Rodriguez, Renier",2561,lose,42,C55,Moscow,2019
+2689,white,"Sanal, Vahap",2563,win,85,B00,Moscow,2019
+2689,black,"Safarli, Eltaj",2609,lose,61,C77,Moscow,2019
+2689,white,"Paravyan, David",2627,lose,44,B31,Moscow,2019
+2689,black,Socko B,2557,lose,81,D70,Moscow,2019
+2689,black,"Indjic, Aleksandar",2639,win,38,A46,Moscow,2019
+2689,white,"Tomashevsky, Evgeny",2624,draw,100,C65,Moscow,2019
+2689,black,"Adhiban, Baskaran",2612,win,34,D86,Moscow,2019
+2689,white,"Vavulin, Maxim",2472,lose,59,B06,Moscow,2019
+2689,black,"Timofeev, Artyom",2560,win,53,A37,Moscow,2019
+2689,white,"Firouzja, Alireza",2649,lose,63,B41,Moscow,2019
+2689,black,"Motylev, Alexander",2629,draw,52,C77,Moscow,2019
+2689,white,"Petrosian, Tigran L",2609,win,60,B06,Moscow,2019
+2689,black,"Bluebaum, Matthias",2590,draw,33,D86,Moscow,2019
+2689,white,"Sakaev, Konstantin",2585,draw,67,B20,Moscow,2019
+2689,black,"Predke, Alexandr",2566,win,63,C24,Moscow,2019
+2689,white,"Khusnutdinov, Rustam",2578,lose,57,C19,Moscow,2019
+2689,black,"Yanchenko, Roman",2531,win,38,D31,Moscow,2019
+2689,white,"Potkin, Vladimir",2524,win,66,C46,Moscow,2019
+2562,black,"Anton Guijarro, David",2709,lose,45,A05,Moscow,2019
+2562,white,"Jakovenko, Dmitrij",2748,draw,38,B51,Moscow,2019
+2562,black,"Tomashevsky, Evgeny",2714,draw,27,A30,Moscow,2019
+2562,black,"Salem, A.R. Saleh",2717,draw,39,A05,Moscow,2019
+2562,white,"Korobov, Anton",2818,draw,35,B51,Moscow,2019
+2629,black,"Laznicka, Viktor",2667,draw,39,A10,Germany,2019
+2629,white,"Fressinet, Laurent",2633,draw,25,A06,Germany,2019
+2630,black,"Rodshtein, Maxim",2684,lose,68,D70,Batumi,2019
+2630,black,"Sargissian, Gabriel",2690,lose,59,D90,Batumi,2019
+2630,black,"Fedoseev, Vladimir",2664,lose,69,D70,Douglas,2019
+2630,white,"Cheparinov, Ivan",2670,draw,56,B56,Douglas,2019
+2630,black,"Vidit, Santosh Gujrathi",2718,lose,40,A32,Douglas,2019
+2630,white,"Kryvoruchko, Yuriy",2669,draw,41,C55,Douglas,2019
+2630,black,"Sasikiran, Krishnan",2675,win,34,C92,Douglas,2019
+2630,white,"Christiansen, Johan-Sebastian",2558,win,31,C11,Douglas,2019
+2630,black,"Le, Quang Liem",2708,draw,48,D70,Douglas,2019
+2630,white,"So, Wesley",2767,draw,40,C67,Douglas,2019
+2630,black,"Wojtaszek, Radoslaw",2748,lose,41,D70,Douglas,2019
+2630,white,"Aronian, Levon",2758,draw,34,C67,Douglas,2019
+2630,white,"Sevian, Samuel",2654,draw,39,A06,Khanty-Mansiysk,2019
+2630,black,"Sevian, Samuel",2654,lose,61,E10,Khanty-Mansiysk,2019
+2634,white,"Mammadzada, Gunay",2425,win,32,A04,Latvia,2019
+2620,black,"Sargissian, Gabriel",2681,draw,21,D70,Elsinore,2019
+2623,black,"Abdumalik, Zhansaya",2464,draw,50,C78,Teplice,2019
+2613,white,"Kasimdzhanov, Rustam",2663,lose,34,B33,Saint Louis,2019
+2613,black,"Bok, Benjamin",2638,draw,34,A05,Saint Louis,2019
+2613,white,"Ivanchuk, Vassily",2698,draw,31,C65,Saint Louis,2019
+2613,black,"Nyzhnyk, Illya",2638,draw,56,A30,Saint Louis,2019
+2613,white,"Robson, Ray",2667,draw,32,C81,Saint Louis,2019
+2613,black,"Xiong, Jeffery",2663,draw,66,A05,Saint Louis,2019
+2613,black,"Le, Quang Liem",2715,draw,36,B33,Saint Louis,2019
+2620,black,"Howell, David",2689,draw,69,A05,England,2019
+2625,black,"Vachier-Lagrave, Maxime",2780,lose,36,A30,Gibraltar,2019
+2625,black,"Harika, Dronavalli",2471,win,47,D31,Gibraltar,2019
+2625,white,"Cornette, Deimante",2448,win,49,E43,chess.com INT,2019
+2625,white,"Lagarde, Maxime",2604,lose,42,B67,chess.com INT,2019
+2625,black,"Joie, Sebastien",2439,draw,74,A07,chess.com INT,2019
+2625,black,"Libiszewski, Fabien",2481,win,62,C54,chess.com INT,2019
+2620,black,"Jumabayev, Rinat",2602,lose,53,C54,St Petersburg,2018
+2620,white,"Alekseenko, Kirill",2638,lose,82,B31,St Petersburg,2018
+2620,black,"Ponkratov, Pavel",2630,lose,61,A34,St Petersburg,2018
+2620,white,"Hakobyan, Aram",2545,win,64,C45,St Petersburg,2018
+2608,black,"Wang, Hao",2775,draw,112,C58,Saint Petersburg,2018
+2620,white,"Sakaev, Konstantin",2584,win,66,B50,St Petersburg,2018
+2620,black,"Yudin, Sergei",2507,lose,37,B13,St Petersburg,2018
+2620,white,"Reshetnikov, Alexey",2492,win,26,B30,St Petersburg,2018
+2620,black,"Tang, Andrew",2487,draw,71,B13,St Petersburg,2018
+2620,white,"Seliverstov, Vladimir",2462,draw,73,B06,St Petersburg,2018
+2620,black,"Belozerov, Andrei",2528,draw,68,C55,St Petersburg,2018
+2608,white,"Guseinov, Gadir",2708,lose,49,B27,Saint Petersburg,2018
+2620,black,"Vokhidov, Shamsiddin",2480,win,62,B19,St Petersburg,2018
+2608,white,"Dreev, Alexey",2675,draw,67,B12,Saint Petersburg,2018
+2608,black,"Grischuk, Alexander",2825,lose,33,A05,Saint Petersburg,2018
+2620,white,"Salgado Lopez, Ivan",2629,win,44,B11,St Petersburg,2018
+2620,black,"Borisenko, Viacheslav",2289,win,35,B11,St Petersburg,2018
+2620,white,"Vastrukhin, Oleg",2413,win,52,B15,St Petersburg,2018
+2620,black,"Nihal, Sarin",2576,lose,76,C54,St Petersburg,2018
+2608,white,"Aronian, Levon",2858,lose,56,C45,Saint Petersburg,2018
+2620,black,"Zaitsev, Alexander",2473,win,53,C28,St Petersburg,2018
+2554,black,"Akopian, Vladimir",2707,draw,21,A05,Saint Petersburg,2018
+2554,white,"Shirov, Alexei",2674,lose,40,C42,Saint Petersburg,2018
+2554,white,"Esipenko, Andrey",2643,win,52,C45,Saint Petersburg,2018
+2554,black,"Motylev, Alexander",2697,lose,27,B12,Saint Petersburg,2018
+2620,white,"Adly, Ahmed",2626,win,42,B70,St Petersburg,2018
+2554,black,"Jakovenko, Dmitrij",2731,lose,24,A05,Saint Petersburg,2018
+2554,white,"Fridman, Daniel",2677,draw,42,C42,Saint Petersburg,2018
+2620,black,"Demchenko, Anton",2679,win,41,B18,St Petersburg,2018
+2620,white,"Bocharov, Ivan",2563,draw,32,C45,St Petersburg,2018
+2620,black,"Chen, Qi B",2437,win,47,C60,St Petersburg,2018
+2620,white,"Drygalov, Sergey",2446,win,39,B47,St Petersburg,2018
+2554,black,"Aronian, Levon",2802,lose,45,B13,Saint Petersburg,2018
+2620,white,"Hirneise, Tobias",2464,win,35,C45,St Petersburg,2018
+2620,black,"Hirneise, Jens",2371,draw,69,C70,St Petersburg,2018
+2554,white,"Artemiev, Vladislav",2812,lose,60,B52,Saint Petersburg,2018
+2614,white,"Libiszewski, Fabien",2480,win,57,C11,Germany,2018
+2614,black,"Buhmann, Rainer",2574,draw,22,A34,Germany,2018
+2618,black,"Jepson, Christian",2413,win,42,D85,Denmark,2018
+2614,black,"Nyback, Tomi",2571,draw,14,D71,Germany,2018
+2614,black,"Hausrath, Daniel",2493,draw,22,A37,Germany,2018
+2614,white,"Ernst, Sipke",2535,draw,31,C84,Germany,2018
+2614,black,"Hector, Jonny",2495,win,37,C56,Germany,2018
+2618,white,"Mekhitarian, Krikor Sevag",2546,draw,25,D39,Douglas,2018
+2618,black,"Ladron de Guevara Pinto, Paolo",2427,win,21,C50,Douglas,2018
+2618,white,"Sundararajan, Kidambi",2445,draw,33,C87,Douglas,2018
+2618,black,"Swapnil, S Dhopade",2493,lose,51,D38,Douglas,2018
+2618,white,"Sadhwani, Raunak",2438,draw,54,B12,Douglas,2018
+2618,black,"Vachier-Lagrave, Maxime",2780,lose,40,D70,Douglas,2018
+2618,black,"Vachier Lagrave, Maxime",2780,lose,40,D71,Douglas,2018
+2618,white,"Zumsande, Martin",2492,win,46,C11,Douglas,2018
+2618,black,"Wu, Li",2335,win,26,A35,Douglas,2018
+2618,white,"Matlakov, Maxim",2683,draw,30,C47,Halkidiki,2018
+2618,black,"Jakovenko, Dmitrij",2752,draw,31,B12,Halkidiki,2018
+2618,white,"Safarli, Eltaj",2676,draw,31,B30,Halkidiki,2018
+2618,white,"Swinkels, Robin",2486,win,56,A21,Porto Carras,2018
+2618,white,"Vidit, Santosh Gujrathi",2711,lose,65,B31,Halkidiki,2018
+2618,black,"Pruijssers, Roeland",2501,lose,44,B13,Porto Carras,2018
+2618,black,"Adams, Michael",2712,draw,68,B10,Batumi,2018
+2618,white,"Papaioannou, Ioannis",2634,draw,37,B90,Batumi,2018
+2618,black,"Hussein, AHAL Ali",2273,win,50,B50,Batumi,2018
+2618,white,"Saric, Ivan",2689,lose,62,B90,Batumi,2018
+2618,white,"Steingrimsson, Hedinn",2573,win,47,C45,Batumi,2018
+2618,black,"Sulskis, Sarunas",2525,draw,35,A36,Batumi,2018
+2618,white,"Mchedlishvili, Mikheil",2607,win,25,B09,Batumi,2018
+2618,black,"Handjaba, Mclean",1956,win,33,D00,Batumi,2018
+2615,black,"Andreikin, Dmitry",2702,lose,26,C91,Elsinore,2018
+2615,white,"Arvola, Benjamin",2471,win,83,B23,Helsingor,2018
+2615,black,"Ochsner, Bjorn Moller",2469,win,40,B47,Helsingor,2018
+2615,white,"Tryggestad, Andreas Garberg",2302,win,51,B48,Helsingor,2018
+2615,black,"Holm, Kristian Stuvik",2453,draw,44,B08,Helsingor,2018
+2615,white,"Thybo, Jesper Sondergaard",2497,draw,50,C95,Helsingor,2018
+2615,black,"Aabling Thomsen, Jakob",2379,win,28,B13,Helsingor,2018
+2615,white,"Bengtsson, Jessica",1985,win,12,C64,Helsingor,2018
+2615,black,"Hansen, Tommy",1732,win,35,B14,Helsingor,2018
+2615,white,"Munshi, Aditya",1953,draw,33,A21,Helsingor,2018
+2615,black,"Urkedal, Frode Olav Olsen",2552,draw,44,A34,Sarpsborg,2018
+2615,white,"Arvola, Benjamin",2471,win,51,B90,Sarpsborg,2018
+2615,black,"Hauge, Lars Oskar",2434,draw,17,C55,Sarpsborg,2018
+2615,white,"Haldorsen, Benjamin",2423,win,46,B48,Sarpsborg,2018
+2615,black,"Gronn, Atle",2352,win,39,A04,Sarpsborg,2018
+2615,white,"Christiansen, Johan Sebastian",2506,draw,17,D24,Sarpsborg,2018
+2615,black,"Hammer, Jon Ludvig",2631,lose,56,A10,Sarpsborg,2018
+2615,white,"Holm, Kristian Stuvik",2453,win,45,C88,Sarpsborg,2018
+2615,black,"Vestby Ellingsen, Mads",2429,win,49,D85,Sarpsborg,2018
+2603,black,"Tisdall, Jonathan D",2402,win,22,A06,Bergen,2018
+2603,black,"Lovik, Lasse Ostebo",2376,win,22,D76,Bergen,2018
+2603,white,"Manne, Per Erik",2184,win,38,B04,Bergen,2018
+2603,black,"Ronnestad, Liam Jansson",1579,win,43,D94,Bergen,2018
+2603,black,"Gledura, Benjamin",2615,draw,24,D90,Malmo,2018
+2603,white,"Grandelius, Nils",2651,draw,40,C89,Malmo,2018
+2603,white,"Morozevich, Alexander",2665,draw,27,C11,Malmo,2018
+2603,black,"Johansson, Linus",2457,win,49,E48,Malmo,2018
+2603,white,"Vidit, Santosh Gujrathi",2707,draw,44,B40,Malmo,2018
+2581,black,"Mikalsen, Erlend",2297,win,37,C92,Norway,2018
+2581,white,"Johannessen, Leif Erlend",2469,win,50,C45,Norway,2018
+2597,white,"Piorun, Kacper",2659,draw,20,C70,Moscow,2018
+2597,black,"Inarkiev, Ernesto",2684,draw,90,D70,Moscow,2018
+2597,white,"Karavade, Eesha",2386,win,33,C65,Moscow,2018
+2597,black,"Sasikiran, Krishnan",2671,lose,37,B12,Moscow,2018
+2597,white,"Kamsky, Gata",2677,draw,24,C60,Moscow,2018
+2597,white,"Mikaelyan, Arman",2486,win,39,C89,Moscow,2018
+2597,black,"Repka, Christopher",2513,draw,27,A09,Moscow,2018
+2597,white,"Hakobyan, Aram",2497,draw,24,C74,Moscow,2018
+2597,black,"Liu, Yan",2476,draw,30,A13,Moscow,2018
+2599,white,"Barseghyan, Harutyun",2467,draw,69,D02,chess.com INT,2018
+2599,white,"Zhou, Yang Fan",2449,win,41,E68,chess.com INT,2018
+2599,white,"Moussard, Jules",2571,lose,63,B00,chess.com INT,2018
+2599,white,"Pantsulaia, Levan",2605,lose,43,B13,chess.com INT,2018
+2599,black,"Atalik, Suat",2538,win,42,D25,chess.com INT,2018
+2599,black,"Skoberne, Jure",2553,win,45,D02,chess.com INT,2018
+2599,black,"Roberson, Peter T",2412,draw,20,A01,chess.com INT,2018
+2599,black,"Stefansson, Hannes",2523,win,54,C97,chess.com INT,2018
+2599,white,"Kaasen, Tor Fredrik",2340,win,43,D03,chess.com INT,2018
+2599,white,"Pruijssers, Roeland",2536,draw,19,A85,chess.com INT,2018
+2599,black,"Holm, Kristian Stuvik",2436,win,40,A07,chess.com INT,2018
+2599,black,"Urkedal, Frode Olav Olsen",2572,draw,76,D80,chess.com INT,2018
+2599,black,"L&#039;Ami, Erwin",2634,draw,21,D85,Wijk aan Zee,2018
+2599,white,"Harika, Dronavalli",2497,draw,38,A13,Wijk aan Zee,2018
+2599,black,"Amin, Bassem",2693,draw,43,A07,Wijk aan Zee,2018
+2599,white,"Krasenkow, Michal",2671,draw,71,C45,Wijk aan Zee,2018
+2599,white,"Bok, Benjamin",2607,draw,18,D11,Wijk aan Zee,2018
+2599,black,"Van Foreest, Jorden",2629,lose,22,C45,Wijk aan Zee,2018
+2599,white,"Girya, Olga",2489,win,38,B12,Wijk aan Zee,2018
+2599,black,"Korobov, Anton",2652,lose,41,D70,Wijk aan Zee,2018
+2599,white,"Dudukin, Ilya",2396,win,42,B14,chess.com INT,2018
+2599,white,"Grigoriants, Sergey",2568,draw,53,A25,chess.com INT,2018
+2599,black,"Gorozhanin, Mikhail",2435,win,66,D02,chess.com INT,2018
+2599,black,"Sharafiev, Azat",2432,draw,34,D02,chess.com INT,2018
+2599,white,"Xiong, Jeffery",2634,win,43,B90,Wijk aan Zee,2018
+2599,black,"Bluebaum, Matthias",2640,draw,42,A05,Wijk aan Zee,2018
+2599,white,"Gordievsky, Dmitry",2622,draw,43,D90,Wijk aan Zee,2018
+2599,black,"Van Foreest, Lucas",2481,lose,85,B13,Wijk aan Zee,2018
+2599,white,"Vidit, Santosh Gujrathi",2718,draw,37,C92,Wijk aan Zee,2018
+2593,white,"Chigaev, Maksim",2555,lose,47,C92,Stockholm,2018
+2593,black,"Piorun, Kacper",2651,draw,31,A05,Rilton,2018
+2593,white,"Antipov, Mikhail Al",2588,win,69,C01,Stockholm,2018
+2593,black,"Golikov, Daniil",2220,win,60,A36,Stockholm,2018
+2593,white,"Usmanov, Vasily",2467,draw,59,C11,Stockholm,2018
+2593,black,"Salomon, Johan",2475,draw,30,A34,Stockholm,2017
+2593,white,"Blomqvist, Erik",2499,draw,67,B01,Stockholm,2017
+2593,black,"Sai Agni, Jeevitesh J",2384,win,40,D93,Stockholm,2017
+2593,white,"Pogosyan, Stefan",2312,win,68,B47,Stockholm,2017
+2593,black,"Pulpan, Jakub",2400,draw,87,B10,Katowice,2017
+2581,white,"Zhigalko, Sergei",2707,lose,28,B33,Katowice,2017
+2593,black,"Zwardon, Vojtech",2408,win,41,A20,Katowice,2017
+2593,white,"Rocha, Sergio MC",2370,win,52,B06,Katowice,2017
+2593,black,"Nikitenko, Mihail",2361,draw,60,C90,Katowice,2017
+2593,white,"Orndahl, Markus",2182,win,44,B45,Katowice,2017
+2593,black,"Bednarek, Sylwester",2307,lose,32,D02,Katowice,2017
+2593,white,"Jaroch, Karol",2252,win,56,E18,Katowice,2017
+2593,black,"Varvadoukas, Theodoros",2178,win,24,A00,Katowice,2017
+2593,white,"Stabulnieks, Klavs",2181,win,50,E60,Katowice,2017
+2593,black,"Czyzak, Blazej",,win,34,C55,Katowice,2017
+2593,black,"Kantans, Toms",2484,win,32,B12,Katowice,2017
+2593,white,"Kantans, Toms",2484,win,61,B29,Katowice,2017
+2593,white,"Brodowski, Piotr",2430,lose,64,B33,Katowice,2017
+2593,black,"Brodowski, Piotr",2430,win,47,A09,Katowice,2017
+2593,black,"Arnaudov, Petar G",2439,lose,72,A05,Katowice,2017
+2593,white,"Arnaudov, Petar G",2439,win,31,A18,Katowice,2017
+2593,white,"Jakubowski, Krzysztof",2526,lose,35,B80,Katowice,2017
+2593,black,"Jakubowski, Krzysztof",2526,win,26,A21,Katowice,2017
+2593,black,"Wojtaszek, Radoslaw",2736,win,28,A34,Katowice,2017
+2550,white,"Wojtaszek, Radoslaw",2718,lose,50,B13,Katowice,2017
+2593,white,"Plat, Vojtech",2567,win,32,B07,Katowice,2017
+2593,black,"Plat, Vojtech",2567,draw,26,B13,Katowice,2017
+2550,white,"Andriasian, Zaven",2755,win,55,B10,Katowice,2017
+2593,black,"Andriasian, Zaven",2585,lose,55,B10,Katowice,2017
+2593,white,"Andriasian, Zaven",2585,draw,36,B53,Katowice,2017
+2550,black,"Andriasian, Zaven",2755,draw,36,B51,Katowice,2017
+2593,white,"Bartel, Michal",2360,win,45,C84,Katowice,2017
+2593,black,"Bartel, Michal",2360,win,36,B12,Katowice,2017
+2593,black,"Lavendelis, Egons",2278,win,46,C56,Katowice,2017
+2593,white,"Lavendelis, Egons",2278,win,48,A22,Katowice,2017
+2593,white,"Blaho, Stefan",2029,win,51,A11,Katowice,2017
+2593,black,"Blaho, Stefan",2029,win,32,D02,Katowice,2017
+2593,black,"Daniszkowicz, Bohdan",1829,win,31,B08,Katowice,2017
+2593,white,"Daniszkowicz, Bohdan",1829,win,21,A84,Katowice,2017
+2581,black,"Andersen, Lars Even",2302,win,46,E04,Norway,2017
+2581,white,"Djurhuus, Rune",2421,win,34,B00,Norway,2017
+2581,black,"Hole, Oystein",2333,win,26,D38,Norway,2017
+2581,black,"Van Foreest, Jorden",2616,draw,54,C54,Tarvisio,2017
+2581,white,"Xu, Xiangyu",2543,draw,30,B12,Tarvisio,2017
+2581,white,"Praggnanandhaa, R.",2509,draw,39,C78,Tarvisio,2017
+2581,black,"Oparin, Grigoriy",2606,win,26,B12,Tarvisio,2017
+2581,black,"Liang, Awonder",2558,draw,40,C92,Tarvisio,2017
+2581,white,"Alekseenko, Kirill",2563,win,38,B51,Tarvisio,2017
+2581,white,"Sarana, Alexey",2543,win,54,B90,Tarvisio,2017
+2581,black,"Van Foreest, Lucas",2474,win,51,C77,Tarvisio,2017
+2581,white,"Petrov, Martin",2431,win,36,B50,Tarvisio,2017
+2581,black,"Saiyn, Zhanat",2374,win,44,D25,Tarvisio,2017
+2581,white,"Tran, Minh Thang",2361,draw,30,B41,Tarvisio,2017
+2578,black,"Hristodoulou, Panagiotis",2318,win,40,B54,Heraklio,2017
+2578,white,"Djukic, Nikola",2519,draw,60,B50,Heraklio,2017
+2578,black,"Vocaturo, Daniele",2607,draw,89,A36,Heraklio,2017
+2578,white,"Ftacnik, Lubomir",2546,lose,40,D85,Heraklio,2017
+2578,white,"Nyback, Tomi",2572,lose,37,C92,Crete,2017
+2578,black,"Edouard, Romain",2607,draw,40,A30,Heraklio,2017
+2578,white,"Ziska, Helgi Dam",2545,draw,30,E90,Heraklio,2017
+2578,black,"Adams, Michael",2727,draw,46,B11,Crete,2017
+2578,white,"David, Edwin",2211,win,32,A28,Kristiansund,2017
+2578,black,"Elsness, Frode",2464,lose,30,A09,Kristiansund,2017
+2578,black,"Tryggestad, Andreas Garberg",2250,win,34,C68,Kristiansund,2017
+2578,black,"Olsen, Age",1687,win,31,A05,Kristiansund,2017
+2578,black,"Petenyi, Tamas",2449,lose,40,D02,Antalya,2017
+2578,black,"Sadikhov, Ulvi Ramil Oglu",2487,win,64,C68,Antalya,2017
+2578,black,"Hammer, Jon Ludvig",2632,win,100,B51,Manavgat,2017
+2578,white,"Budima, Armend",2226,win,28,A34,Antalya,2017
+2578,white,"Ding, Liren",2772,lose,39,B92,Manavgat,2017
+2578,black,"O&#039;Connell, Gerard",2150,win,43,D37,Antalya,2017
+2578,black,"Harikrishna, Pentala",2733,lose,41,B11,Manavgat,2017
+2588,white,"Fressinet, Laurent",2657,draw,34,C89,Douglas,2017
+2588,black,"Vallejo Pons, Francisco",2717,draw,44,B11,Douglas,2017
+2588,white,"Arjun, Kalyan",2406,win,68,C95,Douglas,2017
+2588,black,"Swapnil, S Dhopade",2532,lose,49,D85,Douglas,2017
+2588,white,"Leko, Peter",2679,draw,30,E10,Douglas,2017
+2588,white,"Adams, Michael",2738,draw,42,E10,Douglas,2017
+2588,black,"Short, Nigel D",2698,draw,32,B10,Douglas,2017
+2588,white,"Enkhtuul, Altanulzii",2327,win,53,B04,Douglas,2017
+2588,black,"Mueller, Philipp1",2220,win,20,A20,Douglas,2017
+2591,black,"Lenderman, Aleksandr",2565,lose,39,A34,Tbilisi,2017
+2591,white,"Lenderman, Aleksandr",2565,draw,18,B48,Tbilisi,2017
+2562,white,"Howell, David",2645,win,30,E10,Tbilisi,2017
+2562,black,"Howell, David",2645,draw,7,A20,Tbilisi,2017
+2562,black,"Howell, David",2645,draw,50,A28,Tbilisi,2017
+2562,white,"Howell, David",2645,draw,36,E10,Tbilisi,2017
+2588,black,"Howell, David",2701,draw,27,A28,Tbilisi,2017
+2588,white,"Howell, David",2701,draw,29,C45,Tbilisi,2017
+2591,white,"Suarez Uriel, Adrian",2406,lose,29,D80,Barcelona,2017
+2591,black,"Cruz, Jonathan",2424,draw,27,B19,Barcelona,2017
+2591,white,"Goh, Wei Ming Kevin",2446,draw,23,A29,Barcelona,2017
+2591,black,"Flick, Antoine",2371,win,65,D77,Barcelona,2017
+2591,white,"Ponce Cano, Adrian",2281,win,31,A41,Barcelona,2017
+2591,black,"Jareno Badenas, Aleix",2113,win,31,B90,Barcelona,2017
+2595,black,"Gundogan, Cem",2062,win,42,C70,Kocaeli,2017
+2595,black,"Kravtsiv, Martyn",2657,draw,33,A06,Kocaeli,2017
+2595,white,"Ozer, Omer Faruk",2411,draw,31,B48,Kocaeli,2017
+2595,white,"Samani, Yamac",2263,win,32,B76,Kocaeli,2017
+2595,white,"Najer, Evgeniy",2706,draw,65,B51,Kocaeli,2017
+2595,white,"Dastan, Batuhan Muhammed",2529,draw,49,B51,Kocaeli,2017
+2595,black,"Sevgi, Volkan",2199,draw,47,B11,Kocaeli,2017
+2595,white,"Maghsoodloo, Parham",2584,draw,30,A52,Kocaeli,2017
+2595,black,"Asadli, Vugar Afgan Oglu",2457,draw,36,C26,Kocaeli,2017
+2595,white,"Sanal, Vahap",2533,draw,52,C58,Kocaeli,2017
+2595,black,"Tirak, Mert",1909,win,45,C47,Kocaeli,2017
+2595,white,"Arat, Ufuk Sezen",2400,win,73,B13,Kocaeli,2017
+2593,white,"Lie, Espen",2462,draw,71,D34,Stavanger,2017
+2593,black,"Christiansen, Johan Sebastian",2458,draw,20,A23,Stavanger,2017
+2593,white,"Hammer, Jon Ludvig",2628,draw,28,C65,Stavanger,2017
+2593,white,"Agdestein, Simen",2604,draw,108,B52,Stavanger,2017
+2593,black,"Moen, Andreas",2330,win,37,B90,Stavanger,2017
+2593,white,"Urkedal, Frode Olav Olsen",2541,draw,19,A18,Stavanger,2017
+2593,black,"Elsness, Frode",2466,draw,69,E01,Stavanger,2017
+2593,white,"Holm, Kristian Stuvik",2403,draw,39,D35,Stavanger,2017
+2593,black,"Haldorsen, Benjamin",2356,win,59,C54,Stavanger,2017
+2593,white,"Vidit, Santosh Gujrathi",2692,draw,56,C45,Khanty-Mansiysk,2017
+2593,white,"Wojtaszek, Radoslaw",2730,draw,28,B51,Khanty-Mansiysk,2017
+2593,black,"Zhigalko, Sergei",2635,lose,25,B12,Khanty-Mansiysk,2017
+2593,black,"Svidler, Peter",2756,draw,29,A22,Khanty-Mansiysk,2017
+2593,white,"Korobov, Anton",2711,draw,95,B47,Khanty-Mansiysk,2017
+2593,black,"Solak, Dragan",2641,draw,36,C69,Khanty-Mansiysk,2017
+2593,white,"Hesham, Abdelrahman",2372,draw,69,E90,Khanty-Mansiysk,2017
+2593,black,"Shankland, Samuel L",2676,draw,20,C50,Khanty-Mansiysk,2017
+2597,white,"Genocchio, Daniele",2419,win,48,C16,Gallipoli,2017
+2597,black,"Sadzikowski, Daniel",2547,draw,11,B13,Gallipoli,2017
+2597,white,"Vazquez Igarza, Renier",2577,draw,41,B47,Gallipoli,2017
+2597,black,"Leko, Peter",2699,draw,31,C96,Gallipoli,2017
+2597,white,"Prohaszka, Peter",2592,draw,42,B13,Gallipoli,2017
+2597,black,"Lodici, Lorenzo",2402,draw,37,D37,Gallipoli,2017
+2597,black,"Xu, Xiangyu",2503,draw,19,D84,Dubai,2017
+2597,white,"Laxman, Rajaram",2403,win,34,E49,Dubai,2017
+2597,black,"Korobov, Anton",2695,lose,55,A20,Dubai,2017
+2597,white,"Kotanjian, Tigran",2469,win,50,B54,Dubai,2017
+2597,black,"Saurabh, Anand",2284,win,49,C45,Dubai,2017
+2597,white,"Vignesh, NR.",2411,lose,69,C66,Dubai,2017
+2597,black,"Asadli, Vugar Afgan Oglu",2431,draw,33,B12,Dubai,2017
+2597,white,"Ahmad, Al Khatib",2308,win,34,B09,Dubai,2017
+2597,black,"Mendonca, Leon Luke",2110,win,47,A09,Dubai,2017
+2570,black,"Grandelius, Nils",2642,draw,28,C96,Sweden,2017
+2570,white,"Goganov, Aleksey",2635,lose,24,C18,Sweden,2017
+2596,white,"Pantsulaia, Levan",2589,win,45,B41,chess.com INT,2017
+2596,black,"Pantzar, Milton",2257,draw,76,E46,chess.com INT,2017
+2596,white,"Jobava, Baadur",2701,draw,132,C41,chess.com INT,2017
+2596,black,"Meier, Georg",2630,draw,76,D79,chess.com INT,2017
+2596,black,"Pantsulaia, Levan",2589,draw,49,A30,chess.com INT,2017
+2596,white,"Pantzar, Milton",2257,win,50,A43,chess.com INT,2017
+2596,black,"Jobava, Baadur",2701,lose,40,A45,chess.com INT,2017
+2596,white,"Meier, Georg",2630,lose,101,C10,chess.com INT,2017
+2596,white,"Hammer, Jon Ludvig",2630,draw,18,C65,Sweden,2017
+2596,white,"Gupta, Abhijeet",2627,lose,90,A29,chess.com INT,2017
+2596,white,"Aradhya, Garg",2315,win,50,D02,chess.com INT,2017
+2596,black,"Salem, AR Saleh",2652,win,49,D87,chess.com INT,2017
+2596,black,"Grover, Sahaj",2473,win,48,D80,chess.com INT,2017
+2570,white,"Kyrkjebo, Erlend",2098,win,38,B76,Norway,2017
+2570,black,"Gausel, Einar",2475,draw,34,D38,Norway,2017
+2570,black,"Stigar, Petter",2244,win,46,D37,Norway,2017
+2596,white,"Gordievsky, Dmitry",2564,draw,43,E65,Moscow,2017
+2596,black,"Kamsky, Gata",2669,lose,33,A00,Moscow,2017
+2596,black,"Vidit, Santosh Gujrathi",2673,draw,29,B12,Moscow,2017
+2596,white,"Motylev, Alexander",2663,draw,20,C74,Moscow,2017
+2596,white,"Bluebaum, Matthias",2632,draw,26,C11,Moscow,2017
+2596,black,"Sasikiran, Krishnan",2674,draw,26,B12,Moscow,2017
+2596,black,"Artemiev, Vladislav",2655,draw,48,A05,Moscow,2017
+2596,white,"Najer, Evgeniy",2659,draw,40,B47,Moscow,2017
+2596,white,"Praggnanandhaa, R.",2455,win,56,C76,Moscow,2017
+2584,white,"Grover, Sahaj",2467,win,35,A29,chess.com INT,2017
+2584,white,"Aradhya, Garg",2230,win,23,A18,chess.com INT,2017
+2584,black,"Gupta, Abhijeet",2645,win,42,D02,chess.com INT,2017
+2584,black,"Nihal, Sarin",2340,lose,54,E39,chess.com INT,2017
+2584,white,"Hansen, Eric",2603,draw,125,A33,chess.com INT,2017
+2584,white,"Hambleton, Aman",2441,win,58,B47,chess.com INT,2017
+2584,black,"Caruana, Fabiano",2827,draw,75,B12,chess.com INT,2017
+2584,black,"Oussedik, Elias",2155,lose,41,D85,chess.com INT,2017
+2584,white,"Dudukin, Ilya",2396,draw,45,B31,chess.com INT,2017
+2584,white,"Yatzenko, Anton",2361,lose,37,D50,chess.com INT,2017
+2584,black,"Gorozhanin, Mikhail",2408,win,43,D00,chess.com INT,2017
+2584,black,"Shaposhnikov, Evgeny",2557,lose,63,B18,chess.com INT,2017
+2584,black,"Lei, Tingjie",2467,win,29,E01,Wijk aan Zee,2017
+2584,white,"Xiong, Jeffery",2667,win,42,C42,Wijk aan Zee,2017
+2584,black,"L&#039;Ami, Erwin",2605,draw,33,D85,Wijk aan Zee,2017
+2584,white,"Van Foreest, Jorden",2612,draw,64,B47,Wijk aan Zee,2017
+2584,black,"Ragger, Markus",2697,draw,29,B12,Wijk aan Zee,2017
+2584,white,"Bok, Benjamin",2608,draw,27,C11,Wijk aan Zee,2017
+2584,white,"Grandelius, Nils",2642,draw,88,A13,Wijk aan Zee,2017
+2584,black,"Smirin, Ilia",2667,win,31,B12,Wijk aan Zee,2017
+2584,white,"Guramishvili, Sopiko",2370,win,65,B51,Wijk aan Zee,2017
+2584,black,"Jones, Gawain C",2665,lose,57,A48,Wijk aan Zee,2017
+2584,white,"Lu, Shanglei",2612,lose,41,B81,Wijk aan Zee,2017
+2584,black,"Dobrov, Vladimir",2499,draw,40,D96,Wijk aan Zee,2017
+2584,white,"Hansen, Eric",2603,draw,49,C96,Wijk aan Zee,2017
+2584,white,"Kovalenko, Igor",2684,win,33,C19,chess.com INT,2017
+2584,white,"Reimanis, Ritvars",2264,win,67,B31,chess.com INT,2017
+2584,black,"Neiksans, Arturs",2627,lose,30,C50,chess.com INT,2017
+2584,black,"Kantans, Toms",2456,draw,75,B12,chess.com INT,2017
+2584,black,"Tregubov, Pavel V",2585,win,53,D94,Doha,2016
+2584,white,"Potapov, Pavel",2493,draw,50,B01,Doha,2016
+2584,black,"Anton Guijarro, David",2650,lose,29,A06,Doha,2016
+2584,white,"Maghsoodloo, Parham",2584,lose,55,B41,Doha,2016
+2584,white,"Ghaem Maghami, Ehsan",2574,win,40,B12,Doha,2016
+2584,black,"Pichot, Alan",2544,lose,62,C96,Doha,2016
+2584,black,"Sanal, Vahap",2474,win,48,A09,Doha,2016
+2584,white,"Grandelius, Nils",2643,lose,20,B90,Doha,2016
+2584,black,"Vidit, Santosh Gujrathi",2689,draw,71,A34,Doha,2016
+2584,white,"Vallejo Pons, Francisco",2711,lose,23,C65,Doha,2016
+2584,black,"Naiditsch, Arkadij",2687,draw,52,A48,Doha,2016
+2584,white,"Wei, Yi",2707,lose,36,B14,Doha,2016
+2584,white,"Kozul, Zdenko",2613,win,47,B67,Doha,2016
+2584,black,"Jumabayev, Rinat",2611,win,35,A09,Doha,2016
+2584,white,"Al Sayed, Mohammed",2508,win,42,B81,Doha,2016
+2584,black,"Amin, Bassem",2662,draw,57,B14,Doha,2016
+2584,black,"Borisek, Jure",2561,draw,45,B12,Doha,2016
+2584,white,"Fressinet, Laurent",2672,lose,40,E62,Doha,2016
+2584,black,"Moiseenko, Alexander",2657,lose,36,A45,Doha,2016
+2584,white,"Wojtaszek, Radoslaw",2749,lose,36,A29,Doha,2016
+2584,black,"Zhigalko, Sergei",2671,win,50,C58,Doha,2016
+2552,black,"Amin, Bassem",2691,lose,35,A05,Doha,2016
+2552,black,"Moiseenko, Alexander",2651,lose,60,A45,Doha,2016
+2552,white,"Leko, Peter",2692,draw,61,A30,Doha,2016
+2552,white,"Howell, David",2671,lose,29,A50,Doha,2016
+2552,black,"Vitiugov, Nikita",2648,draw,76,A45,Doha,2016
+2552,black,"Malakhov, Vladimir",2721,draw,88,B10,Doha,2016
+2552,white,"Salem, A.R. Saleh",2694,lose,39,B90,Doha,2016
+2552,white,"Dubov, Daniil",2716,win,52,C84,Doha,2016
+2572,white,"Petenyi, Tamas",2443,win,44,B90,Novi Sad,2016
+2572,black,"Smirin, Ilia",2674,lose,34,C96,Novi Sad,2016
+2572,white,"Peng, Zhaoqin",2380,win,35,C41,Novi Sad,2016
+2572,white,"Koch, Thomas",2472,win,35,B90,Novi Sad,2016
+2572,black,"Huzman, Alexander",2567,draw,30,A34,Novi Sad,2016
+2572,white,"Vuckovic, Bojan",2584,draw,43,D90,Novi Sad,2016
+2570,black,"Hansen, Torbjorn Ringdal",2457,win,34,B92,Norway,2016
+2570,black,"Hammerstad, Asmund",2228,win,23,E32,Norway,2016
+2570,white,"Christenson, Flemming",2213,win,57,C11,Norway,2016
+2570,black,"Von Bahr, Oskar",2362,draw,40,A37,Sweden,2016
+2570,white,"Eriksson, Jorgen",2216,win,39,B36,Sweden,2016
+2570,white,"Sammalvuo, Tapani",2427,draw,30,C84,Sweden,2016
+2570,black,"Zubov, Alexander",2606,draw,84,A48,Fornebu,2016
+2570,white,"Kaasen, Tor Fredrik",1927,win,30,C11,Fornebu,2016
+2570,white,"Kovalenko, Igor",2664,draw,59,C45,Oslo,2016
+2570,black,"Derakhshani, Dorsa",2405,win,33,B51,Fornebu,2016
+2570,white,"Welling, Gerard",2319,win,19,B15,Fornebu,2016
+2570,black,"Kovachev, Daniel Jakobsen",2329,draw,50,D90,Fornebu,2016
+2570,white,"Gonzalez, Francisco Silva",2086,win,44,A29,Fornebu,2016
+2570,black,"Fossheim, Yngve Goetestam",1827,win,40,B12,Fornebu,2016
+2570,white,"Blomqvist, Erik",2545,draw,26,C10,Vasteras,2016
+2570,black,"Bellon Lopez, Juan Manuel",2344,win,36,A45,Vasteras,2016
+2570,white,"Ernst, Thomas",2372,draw,36,C80,Vasteras,2016
+2570,black,"Semcesen, Daniel",2457,draw,18,D80,Vasteras,2016
+2570,white,"Livner, Anders",2345,win,39,B12,Vasteras,2016
+2570,black,"Eriksson, Jorgen",2228,win,39,A45,Vasteras,2016
+2570,white,"Janse, Love",2121,win,29,A85,Vasteras,2016
+2570,black,"Sparv, Joakim",1956,win,42,C70,Vasteras,2016
+2570,black,"Vidit, Santosh Gujrathi",2669,lose,45,D70,Baku,2016
+2570,white,"Lorparizangeneh, Shahin",2478,win,29,C84,Baku,2016
+2570,black,"So, Wesley",2782,draw,33,C50,Baku,2016
+2570,white,"Vera Siguenas, Deivy Anthoni",2499,win,43,E62,Baku,2016
+2570,black,"Yilmaz, Mustafa Enes",2616,draw,55,A34,Baku,2016
+2570,white,"Torre, Eugenio",2447,draw,31,C45,Baku,2016
+2570,white,"Capone, Nicola",2373,draw,38,C18,Baku,2016
+2570,black,"Smirnov, Anton",2482,draw,30,C91,Baku,2016
+2570,black,"Deac, Bogdan Daniel",2524,lose,39,B19,Baku,2016
+2570,white,"Rahman, Ziaur",2512,win,53,B67,Baku,2016
+2570,black,"Strugnell, Carl",2239,win,39,B12,Baku,2016
+2571,white,"Gunduz, Umut Erdem",2149,win,28,A61,Izmir,2016
+2571,white,"Salgado Lopez, Ivan",2651,draw,20,D90,Izmir,2016
+2571,white,"Paichadze, Luka",2544,draw,31,E11,Izmir,2016
+2571,black,"Jobava, Baadur",2669,lose,92,B10,Izmir,2016
+2571,white,"Solak, Dragan",2633,draw,20,B12,Izmir,2016
+2571,black,"Yilmaz, Mustafa Enes",2622,draw,54,A35,Izmir,2016
+2571,white,"Annaberdiyev, Babageldi",2242,win,54,C84,Izmir,2016
+2571,black,"Matsenko, Sergei",2534,draw,24,D83,Izmir,2016
+2571,white,"Ipatov, Alexander",2657,draw,22,D02,Izmir,2016
+2571,black,"Eminov, Orkhan",2221,draw,76,C48,Izmir,2016
+2571,white,"Ozen, Bahadir",2306,draw,56,D37,Izmir,2016
+2571,white,"Antipov, Mikhail Al",2584,win,39,E10,Izmir,2016
+2558,white,"Hovhannisyan, Robert",2632,draw,14,C67,Gjakovo,2016
+2558,black,"Saric, Ivan",2650,draw,67,C96,Gjakovo,2016
+2558,white,"Berkes, Ferenc",2636,draw,60,B56,Gjakovo,2016
+2558,black,"Oleksienko, Mikhailo",2622,win,40,C45,Gjakova,2016
+2558,white,"Bok, Benjamin",2614,draw,20,D43,Gjakova,2016
+2558,white,"Kobalia, Mihail",2646,draw,27,B41,Gjakovo,2016
+2558,black,"Hammer, Jon Ludvig",2689,draw,58,A20,Gjakovo,2016
+2558,black,"Dreev, Alexey",2662,lose,32,D83,Gjakovo,2016
+2549,white,"Pratyusha, Bodda",2318,win,30,D43,Stockholm,2016
+2549,black,"Eriksson, Jorgen",2231,win,67,D02,Stockholm,2016
+2549,white,"Rydstrom, Tom",2302,draw,58,C88,Stockholm,2016
+2549,black,"Geenen, Marc",2264,draw,31,B48,Stockholm,2016
+2549,white,"Wahlbom, Magnus",2223,draw,51,D85,Stockholm,2016
+2549,black,"Pajeken, Wolfgang",2269,draw,69,D25,Stockholm,2016
+2549,white,"Aronsson, Marten",2304,draw,59,C55,Stockholm,2016
+2549,black,"Hedin, Gunnar",2172,win,44,A01,Stockholm,2016
+2549,white,"Dadabaev, J.",1975,win,34,B53,Stockholm,2016
+2549,black,"Blomqvist, Erik",2515,draw,21,A21,Stavanger,2016
+2549,white,"Blomqvist, Erik",2515,win,24,B80,Stavanger,2016
+2553,white,"Grandelius, Nils",2646,draw,38,C91,Fagernes,2016
+2553,black,"Hammer, Jon Ludvig",2701,lose,45,A20,Fagernes,2016
+2553,black,"Hou, Yifan",2667,lose,60,A34,Fagernes,2016
+2553,black,"Grandelius, Nils",2646,lose,43,A34,Fagernes,2016
+2553,white,"Hammer, Jon Ludvig",2701,lose,40,D03,Fagernes,2016
+2553,white,"Hou, Yifan",2667,draw,54,D37,Fagernes,2016
+2553,white,"Sarkar, Justin",2426,win,27,B94,Reykjavik,2016
+2553,black,"Thorfinnsson, Bjorn",2410,win,43,A20,Reykjavik,2016
+2553,white,"Liang, Awonder",2405,draw,74,C84,Reykjavik,2016
+2553,black,"Viana, Dirceu",2261,win,47,B20,Reykjavik,2016
+2553,white,"Riccardi, Thomas H",2135,win,12,A30,Reykjavik,2016
+2553,black,"Vuilleumier, Alexandre",2366,lose,27,D02,Reykjavik,2016
+2553,white,"Sachdev, Tania",2370,draw,59,C84,Reykjavik,2016
+2553,black,"Mihajlov, Sebastian",2387,draw,52,D04,Reykjavik,2016
+2553,white,"Bjornsson, Tomas",2175,win,50,B41,Reykjavik,2016
+2553,black,"Fischer, Robert",1993,win,42,A07,Reykjavik,2016
+2521,black,"Berg, Emanuel",2576,win,82,C77,Norway,2016
+2521,black,"Stokke, Kjetil",2366,win,55,D38,Norway,2016
+2521,white,"Kolas, Tore",2210,win,31,B67,Norway,2016
+2532,black,"Rasmussen, Allan Stig",2498,lose,25,A48,Sweden,2016
+2532,white,"Hultin, Johan",2312,win,55,C10,Sweden,2016
+2518,black,"Eljanov, Pavel",2717,lose,38,D73,Germany,2016
+2518,white,"Melkumyan, Hrant",2622,draw,60,B12,Germany,2016
+2556,black,"Wojtaszek, Radoslaw",2727,draw,30,D80,Gibraltar,2016
+2556,white,"Duda, Jan Krzysztof",2660,draw,30,B96,Gibraltar,2016
+2556,black,"Bacrot, Etienne",2697,lose,30,B11,Gibraltar,2016
+2556,white,"Almasi, Zoltan",2684,win,25,E43,Gibraltar,2016
+2556,black,"Ni, Hua",2697,draw,29,D02,Gibraltar,2016
+2556,white,"Esserman, Marc",2419,win,38,B99,Gibraltar,2016
+2556,black,"Gulamali, Kazim",2379,win,32,D70,Gibraltar,2016
+2556,white,"Vachier-Lagrave, Maxime",2785,lose,37,D90,Gibraltar,2016
+2556,black,"Kuipers, Stefan",2399,win,28,C77,Gibraltar,2016
+2556,white,"Midonet, Matthieu",2211,win,24,B30,Gibraltar,2016
+2521,white,"Hansen, Torbjorn Ringdal",2479,draw,38,E70,Norway,2016
+2521,black,"Ostmoe, Geir S Tallaksen",2458,lose,38,A37,Norway,2016
+2556,black,"Hagen, Andreas Skytte",2395,win,63,D85,Stockholm,2016
+2556,white,"Semcesen, Daniel",2431,draw,55,C45,Stockholm,2016
+2556,black,"Martynov, Pavel2",2380,win,42,B53,Stockholm,2016
+2556,white,"Nyysti, Sampsa",2370,win,38,E32,Stockholm,2016
+2556,black,"Sagit, Rauan",2375,lose,60,A07,Stockholm,2016
+2556,white,"Thorn, Eric",2140,win,30,E63,Stockholm,2015
+2556,black,"Adler, Bo",2174,win,34,A01,Stockholm,2015
+2556,white,"Eriksson, Jorgen",2206,lose,85,B36,Stockholm,2015
+2556,black,"Rydstrom, Tom",2266,draw,39,B10,Stockholm,2015
+2532,black,"Duda, Jan Krzysztof",2658,draw,50,C50,Reykjavik,2015
+2532,black,"Fridman, Daniel",2627,draw,41,D85,Reykjavik,2015
+2532,white,"Mastrovasilis, Athanasios",2544,win,43,D43,Reykjavik,2015
+2532,black,"Almasi, Zoltan",2689,lose,57,A07,Reykjavik,2015
+2532,white,"Georgiadis, Nico",2473,win,40,D38,Reykjavik,2015
+2532,white,"Schandorff, Lars",2519,win,43,C90,Reykjavik,2015
+2532,white,"Movsesian, Sergei",2666,win,60,B48,Reykjavik,2015
+2532,black,"Laurusas, Tomas",2435,draw,70,D31,Reykjavik,2015
+2532,white,"Blagojevic, Dragisa",2481,draw,45,D52,Reykjavik,2015
+2521,white,"Andersen, Lars Even",2279,win,42,C43,Norway,2015
+2521,black,"Royset, Jon Kristian",2250,win,48,B23,Norway,2015
+2521,white,"Varley, Nicolas",2115,win,42,E97,Norway,2015
+2521,white,"Woldseth, Ole",2106,win,36,E32,Norway,2015
+2521,white,"Sprenger, Jan Michael",2510,draw,38,B46,Skopje,2015
+2521,black,"Nakar, Eylon",2463,lose,47,B90,Skopje,2015
+2521,black,"Rasulov, Vugar Ural Oglu",2505,draw,45,B18,Skopje,2015
+2521,white,"Malakhov, Vladimir",2694,draw,41,C45,Skopje,2015
+2521,white,"Martinez Duany, Lelys Stanley",2470,win,45,B39,Skopje,2015
+2521,black,"Najer, Evgeniy",2658,lose,52,B11,Skopje,2015
+2521,white,"Pilgaard, Kim",2373,win,43,C76,Skopje,2015
+2521,black,"Sethuraman, SP.",2640,lose,39,B12,Berlin,2015
+2521,white,"Heimann, Andreas",2546,lose,30,A33,Berlin,2015
+2521,black,"Naumann, Alexander",2545,win,37,D76,Berlin,2015
+2521,white,"Olafsson, Helgi",2549,win,38,A29,Berlin,2015
+2521,white,"Agrest, Evgenij",2596,lose,45,B19,Berlin,2015
+2521,black,"Rasmussen, Allan Stig",2498,win,29,A10,Berlin,2015
+2521,black,"Handke, Florian",2531,lose,37,E04,Berlin,2015
+2521,white,"Agdestein, Simen",2606,lose,41,A85,Berlin,2015
+2521,black,"Volokitin, Andrei",2639,lose,31,B12,Berlin,2015
+2521,white,"Kryvoruchko, Yuriy",2710,draw,42,C65,Berlin,2015
+2521,black,"Maze, Sebastien",2582,win,48,B11,Berlin,2015
+2521,white,"Richter, Michael",2517,win,25,D31,Berlin,2015
+2521,black,"Ehlvest, Jaan",2535,lose,43,A09,Berlin,2015
+2521,white,"Petursson, Margeir",2520,draw,80,A29,Berlin,2015
+2521,black,"Wendt, Jan Dietrich",2332,win,48,D25,Berlin,2015
+2521,white,"Mikhalevski, Victor",2536,lose,68,D85,Berlin,2015
+2521,black,"Nikolic, Predrag",2603,draw,52,D25,Berlin,2015
+2521,white,"Halkias, Stelios",2534,draw,66,C84,Berlin,2015
+2521,black,"Vidit, Santosh Gujrathi",2651,draw,48,D20,Berlin,2015
+2521,white,"Lagno, Kateryna",2523,lose,38,D90,Berlin,2015
+2521,black,"Sasikiran, Krishnan",2639,lose,33,E30,Berlin,2015
+2521,black,"Wagner, Dennis",2575,draw,28,D38,Berlin,2015
+2521,white,"Olafsson, Helgi",2549,draw,49,C84,Berlin,2015
+2521,black,"Grigoriants, Sergey",2603,lose,25,A20,Berlin,2015
+2521,white,"Guliyev, Namig",2579,win,19,A29,Berlin,2015
+2521,black,"Gajewski, Grzegorz",2654,lose,30,A37,Berlin,2015
+2521,white,"Berend, Elvira S",2370,win,64,E63,Berlin,2015
+2521,black,"Alekseev, Evgeny",2642,lose,59,B53,Berlin,2015
+2521,white,"Hansen, Eric",2573,lose,31,B41,Berlin,2015
+2521,black,"Bindrich, Falko",2594,draw,31,E04,Berlin,2015
+2521,white,"Jumabayev, Rinat",2606,win,42,B50,Berlin,2015
+2521,white,"Carow, Johannes",2431,win,49,D90,Berlin,2015
+2521,black,"Van Wely, Loek",2632,lose,46,D90,Berlin,2015
+2521,black,"Bruedigam, Martin",2375,win,47,B51,Berlin,2015
+2521,white,"Andreikin, Dmitry",2720,lose,52,A27,Berlin,2015
+2521,black,"Navara, David",2734,lose,40,B19,Berlin,2015
+2518,black,"Cramling, Pia",2513,draw,7,D02,Vasteras,2015
+2518,white,"Danielsen, Henrik",2510,win,37,C41,Vasteras,2015
+2518,white,"Sjodahl, Pontus",2422,win,28,E04,Vasteras,2015
+2518,black,"Haug, Johannes",2252,win,45,B51,Vasteras,2015
+2518,white,"Ernst, Thomas",2336,draw,48,C85,Vasteras,2015
+2518,black,"Henriksson, Johan",2272,win,38,D76,Vasteras,2015
+2518,white,"Svensson, Mikael",2044,win,29,A01,Vasteras,2015
+2518,black,"Liedbeck, Patrik",1947,win,31,B90,Vasteras,2015
+2518,black,"Michna, Marta",2398,draw,29,A48,Germany,2015
+2518,black,"Svane, Rasmus",2542,draw,34,D38,Germany,2015
+2518,white,"Johansson, Linus",2400,win,40,A61,Khanty-Mansiysk,2015
+2518,white,"Barbot, Pierre",2455,win,27,B68,Khanty-Mansiysk,2015
+2518,black,"Menezes, Christoph",2364,draw,33,E21,Khanty-Mansiysk,2015
+2518,white,"Van Foreest, Jorden",2541,lose,37,C11,Khanty-Mansiysk,2015
+2518,black,"Laurusas, Tomas",2429,draw,32,D91,Khanty-Mansiysk,2015
+2518,white,"Bai, Jinshi",2519,draw,27,A10,Khanty-Mansiysk,2015
+2518,black,"Abasov, Nijat Azad",2511,draw,42,B19,Khanty-Mansiysk,2015
+2518,white,"Narayanan, Sunilduth Lyna",2473,win,57,E70,Khanty-Mansiysk,2015
+2518,black,"Karthikeyan, M2.",2509,draw,52,B12,Khanty-Mansiysk,2015
+2518,white,"Tran, Tuan Minh",2417,draw,31,B86,Khanty-Mansiysk,2015
+2518,black,"Grigoryan, Karen H",2609,lose,64,D38,Khanty-Mansiysk,2015
+2518,white,"Ali Marandi, Cemil Can",2422,win,39,D85,Khanty-Mansiysk,2015
+2518,black,"Popov, Mikhail",2327,win,52,B12,Khanty-Mansiysk,2015
+2510,black,"Maier, Christian",2382,win,30,B10,Vienna,2015
+2510,white,"Carow, Johannes",2407,draw,27,D85,Vienna,2015
+2510,black,"Picard, Romain",2326,win,55,D77,Vienna,2015
+2510,white,"Banusz, Tamas",2586,lose,46,D17,Vienna,2015
+2510,black,"Bruchmann, Stephan",2294,win,41,B51,Vienna,2015
+2510,white,"Groetz, Harald",2279,win,46,B41,Vienna,2015
+2510,black,"Mihajlov, Sebastian",2309,draw,20,D38,Vienna,2015
+2510,white,"Salvenmoser, Stefan",2215,win,25,A29,Vienna,2015
+2510,black,"Batyte, Daiva",2072,win,31,A36,Vienna,2015
+2510,black,"Semcesen, Daniel",2442,draw,9,D38,Lund,2015
+2510,white,"Nygren, Kim",2211,win,36,A84,Lund,2015
+2510,white,"Karlsson, Lars",2426,draw,34,B09,Lund,2015
+2510,black,"Christiansen, Johan Sebastian",2416,win,33,A09,Lund,2015
+2510,white,"Bellon Lopez, Juan Manuel",2364,draw,45,B45,Lund,2015
+2510,black,"Malekian, Babak",2236,win,19,D93,Lund,2015
+2510,white,"Ronneland, Daniel",2205,win,37,E69,Lund,2015
+2510,black,"Kirppo, Ronny",1883,win,23,D24,Lund,2015
+2499,black,"Mosadeghpour, Masoud",2370,draw,15,C56,Urmia,2015
+2499,white,"Rasulov, Vugar Ural Oglu",2504,draw,53,B99,Urmia,2015
+2499,black,"Mousavi, Seyed Khalil",2422,draw,22,A37,Urmia,2015
+2499,white,"Noroozi, Omid",2364,win,37,B98,Urmia,2015
+2499,black,"Ghaem Maghami, Ehsan",2570,lose,56,A28,Urmia,2015
+2499,white,"Asgarizadeh, Minoo",2117,win,36,E63,Urmia,2015
+2499,black,"Asadi, Ali",2104,draw,44,C84,Urmia,2015
+2499,white,"Asgari, Morteza",2247,win,36,E62,Urmia,2015
+2499,black,"Barzigar Touchahi, Behrang",2189,win,51,E54,Urmia,2015
+2499,white,"Holm, Kristian Stuvik",2398,draw,15,C63,Oslo,2015
+2499,black,"Gausel, Einar",2485,win,45,A13,Oslo,2015
+2499,black,"Djurhuus, Rune",2422,win,60,B19,Oslo,2015
+2499,white,"Urkedal, Frode Olav Olsen",2512,win,28,C11,Oslo,2015
+2499,white,"Mikalsen, Erlend",2334,win,28,C78,Oslo,2015
+2499,black,"Salomon, Johan",2419,lose,24,A45,Oslo,2015
+2499,white,"Elsness, Frode",2434,win,17,C90,Oslo,2015
+2499,black,"Djurhuus, Eivind X",2149,win,49,A20,Oslo,2015
+2499,white,"Fossan, Erik",2356,draw,27,B39,Oslo,2015
+2521,white,"Solodovnichenko, Yuri",2587,lose,52,A30,Vaxjo,2015
+2521,black,"Fernandez, Daniel Howard",2447,lose,39,A01,Vaxjo,2015
+2521,white,"Rusev, Krasimir",2541,lose,36,C41,Vaxjo,2015
+2521,black,"Johansson, Linus",2391,draw,76,D76,Vaxjo,2015
+2521,black,"Smith, Axel",2452,draw,48,D85,Vaxjo,2015
+2521,white,"Ochsner, Bjorn Moller",2413,lose,43,C78,Vaxjo,2015
+2521,black,"Berg, Emanuel",2558,lose,44,B19,Vaxjo,2015
+2521,white,"Svane, Rasmus",2519,draw,46,D19,Vaxjo,2015
+2521,black,"Westerberg, Jonathan",2443,draw,73,C56,Vaxjo,2015
+2520,black,"Hammer, Jon Ludvig",2665,draw,4,E40,Oslo,2015
+2520,white,"Hansen, Curt",2621,win,74,B37,Oslo,2015
+2520,white,"Grandelius, Nils",2623,draw,59,B41,Oslo,2015
+2520,black,"Agdestein, Simen",2620,win,30,A11,Oslo,2015
+2520,white,"Fressinet, Laurent",2712,draw,47,C65,Oslo,2015
+2520,white,"Hammer, Jon Ludvig",2665,draw,32,C65,Oslo,2015
+2520,black,"Hansen, Curt",2621,draw,23,E54,Oslo,2015
+2520,black,"Grandelius, Nils",2623,draw,39,D85,Oslo,2015
+2520,white,"Agdestein, Simen",2620,draw,41,B04,Oslo,2015
+2520,black,"Fressinet, Laurent",2712,lose,41,D38,Oslo,2015
+2509,white,"Fries Nielsen, Niels Jorgen",2333,win,55,A54,Ballerup,2015
+2509,black,"Semcesen, Daniel",2469,lose,41,D70,Ballerup,2015
+2509,black,"Gledura, Benjamin",2454,draw,13,D20,Ballerup,2015
+2509,white,"Westerinen, Heikki MJ",2308,win,64,D22,Ballerup,2015
+2509,black,"Matthiesen, Martin",2297,draw,19,E32,Ballerup,2015
+2509,white,"Brynell, Stellan",2444,draw,50,C11,Ballerup,2015
+2509,black,"Hagen, Andreas Skytte",2412,draw,66,A09,Ballerup,2015
+2509,white,"Haubro, Martin",2326,win,34,A61,Ballerup,2015
+2509,black,"Dijkhuis, Sven",2082,win,33,B41,Ballerup,2015
+2450,white,"Cornette, Matthieu",2548,draw,54,A18,Germany,2015
+2450,black,"Meister, Peter",2411,win,46,D38,Germany,2015
+2509,white,"Christiansen, Johan Sebastian",2351,win,48,A58,Fagernes,2015
+2509,black,"Hauge, Lars Oskar",2380,draw,26,B12,Fagernes,2015
+2509,white,"Rozentalis, Eduardas",2549,draw,23,B04,Fagernes,2015
+2509,black,"Dann, Matthias",2475,draw,37,B11,Fagernes,2015
+2509,white,"Johannessen, Leif Erlend",2527,draw,23,C11,Fagernes,2015
+2509,black,"Mihajlov, Svetoslav",2203,win,35,D38,Fagernes,2015
+2509,white,"Vovk, Andrey",2644,lose,47,B30,Fagernes,2015
+2509,black,"Romanov, Evgeny",2613,draw,25,A48,Fagernes,2015
+2509,white,"Merkesvik, Sondre",2135,win,40,A16,Fagernes,2015
+2485,white,"Bergstrom, Peter",2299,win,30,B12,Sweden,2015
+2485,black,"Blomqvist, Erik",2525,win,40,B76,Sweden,2015
+2485,white,"Berg, Emanuel",2544,win,67,B41,Sweden,2015
+2509,black,"Loos, Roland",2337,draw,42,B42,Reykjavik,2015
+2509,white,"Nguyen, Thai Dai Van",2338,draw,41,D85,Reykjavik,2015
+2509,black,"Thorgeirsson, Jon Kristinn",2177,win,44,B42,Reykjavik,2015
+2509,white,"Christiansen, Johan Sebastian",2351,lose,38,C11,Reykjavik,2015
+2509,black,"Granda Zuniga, Julio E",2646,lose,30,B11,Reykjavik,2015
+2509,black,"Gulamali, Kazim",2350,win,26,B18,Reykjavik,2015
+2509,white,"Eljanov, Pavel",2727,lose,29,B48,Reykjavik,2015
+2509,white,"Arngrimsson, Dagur",2366,win,38,B41,Reykjavik,2015
+2509,black,"Morshedi, Ali",2221,win,28,C60,Reykjavik,2015
+2509,white,"Petersson, Baldur Teodor",1951,win,26,B80,Reykjavik,2015
+2487,white,"Berg, Emanuel",2551,lose,20,B44,Norway,2015
+2487,black,"Gullaksen, Eirik T",2339,draw,38,B18,Norway,2015
+2487,black,"Lie, Espen",2429,win,39,A07,Norway,2015
+2450,black,"Balogh, Csaba",2660,draw,151,B12,Germany,2015
+2450,white,"Shirov, Alexei",2691,draw,43,C78,Germany,2015
+2493,white,"Adair, James",2421,draw,29,A58,England,2015
+2493,black,"Rich, Mark",2111,win,27,B23,England,2015
+2487,white,"Gudbrandsen, Gustav",2230,win,32,C11,Norway,2015
+2487,white,"Bae, Torstein",2439,draw,18,D08,Norway,2015
+2487,white,"Grandelius, Nils",2602,draw,59,E16,Caleta,2015
+2487,black,"Salem, A.R. Saleh",2603,draw,38,A20,Caleta,2015
+2487,white,"Anton Guijarro, David",2617,draw,38,A88,Caleta,2015
+2487,black,"Povah, Nigel E",2324,win,35,A45,Caleta,2015
+2487,white,"Salgado Lopez, Ivan",2628,lose,83,C45,Caleta,2015
+2485,white,"Rahul, Kumar Pune",2169,win,39,A55,Sweden,2015
+2487,white,"Edouard, Romain",2638,draw,30,B51,Caleta,2015
+2487,black,"Amgalanbaatar, Ravdanlkhumbuu",2117,win,36,B10,Caleta,2015
+2487,white,"Balogun, Oluwafemi",2193,win,27,E69,Caleta,2015
+2487,black,"Rapport, Richard",2716,lose,19,D03,Caleta,2015
+2487,white,"Gieritz, Dietmar",2048,win,37,D90,Caleta,2015
+2485,black,"Malesevic, Nedeljko",2265,win,43,A30,Sweden,2015
+2450,black,"Skrondal, Inge Sandstad",2258,win,57,A31,Norway,2015
+2450,black,"Royset, Pal",2243,draw,40,B12,Norway,2015
+2485,white,"Lokander, Martin",2365,win,60,C79,Stockholm,2015
+2485,black,"Cramling, Pia",2518,draw,88,D25,Stockholm,2015
+2485,white,"Hedman, Erik",2375,win,30,B48,Stockholm,2015
+2485,black,"Smirin, Ilia",2644,lose,44,C77,Stockholm,2015
+2485,white,"Johansson, Linus",2391,win,38,C11,Stockholm,2015
+2485,black,"Ivanov, Sergey",2559,lose,43,C42,Stockholm,2014
+2485,white,"Krasenkow, Michal",2614,draw,68,D90,Stockholm,2014
+2485,white,"Cederstam Barsk, Carl",2317,win,22,B53,Stockholm,2014
+2485,black,"Johansson, Gunnar",2231,win,38,E32,Stockholm,2014
+2479,white,"Duda, Jan Krzysztof",2599,win,113,C45,Doha,2014
+2479,black,"Abdumalik, Zhansaya",2332,win,58,B94,Doha,2014
+2479,white,"Konguvel, Ponnuswamy",2347,draw,34,E97,Doha,2014
+2479,black,"Tomnikova, Lidia",2210,draw,40,B42,Doha,2014
+2479,white,"Adhiban, Baskaran",2630,lose,38,B51,Doha,2014
+2479,black,"Gaehwiler, Gabriel",2334,win,51,D85,Doha,2014
+2479,white,"Efimenko, Zahar",2644,lose,28,A54,Doha,2014
+2479,black,"Nemcova, Katerina",2312,win,57,B90,Doha,2014
+2479,white,"Melkumyan, Hrant",2678,lose,42,C67,Doha,2014
+2450,white,"Moreno Tejera, Emilio",2441,draw,58,C45,Germany,2014
+2450,black,"Loxine, Jakov",2403,draw,24,B23,Germany,2014
+2450,black,"Andersen, Lars Even",2253,win,27,D24,Norway,2014
+2450,white,"Christenson, Flemming",2259,win,71,B53,Norway,2014
+2450,black,"Bok, Benjamin",2591,lose,36,C67,Pune,2014
+2450,white,"Oparin, Grigoriy",2552,draw,62,D37,Pune,2014
+2450,white,"Antipov, Mikhail Al",2524,win,29,E04,Pune,2014
+2450,black,"Nasanjargal, Urtnasan",2330,win,54,D04,Pune,2014
+2450,white,"Bersamina, Paulo",2380,lose,157,B36,Pune,2014
+2450,black,"Cabarkapa, Novak",2379,win,18,B12,Pune,2014
+2450,white,"Wei, Yi",2641,lose,30,B53,Pune,2014
+2450,black,"Vidit, Santosh Gujrathi",2635,win,45,E15,Pune,2014
+2450,white,"Van Kampen, Robin",2641,draw,31,B51,Pune,2014
+2450,black,"Duda, Jan Krzysztof",2599,draw,54,C65,Pune,2014
+2450,white,"Patil, Pratik1",2231,win,27,A16,Pune,2014
+2450,black,"Manigandan, SS.",2099,win,35,D85,Pune,2014
+2450,white,"Abhijith, M.",2126,draw,64,C11,Pune,2014
+2456,white,"Hauge, Lars Oskar",2322,win,20,C18,Oslo,2014
+2456,black,"Basso, Pier Luigi",2322,draw,25,A23,Oslo,2014
+2456,white,"Manea, Alexandru",2368,draw,119,B48,Oslo,2014
+2456,black,"Istratescu, Andrei",2653,lose,41,D97,Oslo,2014
+2456,white,"Raghavi, Nagarajan",2253,win,59,E05,Oslo,2014
+2456,white,"Haug, Johannes",2194,win,51,D90,Oslo,2014
+2456,white,"Blomqvist, Erik",2506,win,22,B48,Vasteras,2014
+2456,black,"Andersson, Tommy",2337,win,21,E02,Vasteras,2014
+2456,black,"Solodovnichenko, Yuri",2566,draw,55,C67,Oslo,2014
+2456,white,"Kunin, Vitaly L",2580,draw,49,C41,Vasteras,2014
+2456,black,"Smith, Axel",2481,draw,59,D85,Vasteras,2014
+2456,white,"Hovhannisyan, Hrayr",2144,win,50,A33,Vasteras,2014
+2440,white,"Sipila, Vilka",2425,draw,139,D15,Tromso,2014
+2440,black,"Martinez Romero, Martin",2387,win,27,B42,Tromso,2014
+2440,white,"Nepomniachtchi, Ian",2714,draw,48,C07,Tromso,2014
+2440,black,"Ezat, Mohamed Mahmoud",2466,lose,73,E11,Tromso,2014
+2440,white,"Hracek, Zbynek",2634,lose,23,C84,Tromso,2014
+2440,black,"Sebenik, Matej",2537,win,33,A09,Tromso,2014
+2440,black,"Stojanovic, Dalibor",2503,draw,32,B42,Tromso,2014
+2440,black,"Moiseenko, Alexander",2707,lose,28,D85,Tromso,2014
+2440,white,"Bueno, Mark",1828,win,36,E18,Tromso,2014
+2412,black,"Timman, Jan H",2610,draw,40,A23,Helsingor,2014
+2412,black,"Olsarova, Tereza",2251,win,23,B43,Helsingor,2014
+2412,white,"Haugli, Petter",2286,draw,36,E63,Helsingor,2014
+2412,black,"Meier, Georg",2632,lose,58,D97,Helsingor,2014
+2412,white,"Weeks, Manuel William",2206,win,32,E14,Helsingor,2014
+2412,black,"Ramirez, Alejandro",2580,draw,15,D25,Helsingor,2014
+2412,white,"Veng, Johny",2244,win,34,C41,Helsingor,2014
+2412,black,"Haubro, Martin",2224,draw,44,C54,Helsingor,2014
+2412,white,"Andersen, Rune Egede",2132,win,39,A29,Helsingor,2014
+2412,black,"Henrichsen, Jens",1959,win,28,D85,Helsingor,2014
+2412,white,"Djurhuus, Rune",2446,win,81,A59,Trondheim,2014
+2412,black,"Fossan, Erik",2362,draw,30,B22,Trondheim,2014
+2412,black,"Hobber, Anders",2315,draw,34,D01,Trondheim,2014
+2412,white,"Urkedal, Frode Olav Olsen",2487,win,31,E00,Trondheim,2014
+2412,white,"Hole, Oystein",2351,win,46,B12,Trondheim,2014
+2412,black,"Lovik, Lasse Ostebo",2342,win,40,E32,Trondheim,2014
+2412,white,"Mihajlov, Sebastian",2227,draw,21,B10,Trondheim,2014
+2412,black,"Holm, Kristian Stuvik",2316,draw,18,A29,Trondheim,2014
+2412,white,"Hauge, Lars Oskar",2313,draw,26,A29,Trondheim,2014
+2402,white,"Gdanski, Jacek",2510,draw,55,B36,Vaxjo,2014
+2402,black,"Sipila, Vilka",2423,win,49,B40,Vaxjo,2014
+2402,white,"Smerdon, David",2519,win,52,B01,Vaxjo,2014
+2402,black,"Hillarp Persson, Tiger",2556,lose,41,D70,Vaxjo,2014
+2402,white,"Ducarmon, Quinten",2483,draw,45,B48,Vaxjo,2014
+2402,black,"Svane, Rasmus",2493,draw,57,D85,Vaxjo,2014
+2402,white,"Andersen, Mads",2466,draw,53,A33,Vaxjo,2014
+2402,black,"Nithander, Victor",2438,lose,45,B90,Vaxjo,2014
+2402,white,"Smith, Axel",2481,win,63,A37,Vaxjo,2014
+2402,white,"Djurhuus, Rune",2452,draw,26,E97,Oslo,2014
+2402,black,"Poulsen, Iver",2112,win,29,B73,Oslo,2014
+2402,black,"Schjelderup, Nils Jakob",1882,win,38,B23,Oslo,2014
+2402,white,"Raznikov, Danny",2495,draw,28,B97,Golden Sands,2014
+2402,black,"Efroimski, Marsel",2287,win,27,B84,Golden Sands,2014
+2402,black,"Greenfeld, Alon",2545,draw,32,D71,Golden Sands,2014
+2402,white,"Popovic, Dusan",2537,draw,53,C41,Golden Sands,2014
+2402,black,"Gabuzyan, Hovhannes",2537,draw,27,D78,Golden Sands,2014
+2402,black,"Hincu, Olga",2006,win,59,A48,Golden Sands,2014
+2387,black,"Urkedal, Frode Olav Olsen",2494,win,28,D85,Fagernes,2014
+2387,white,"Andersen, Alf Roger",2230,win,43,B53,Fagernes,2014
+2387,black,"Getz, Nicolai",2388,lose,27,B87,Fagernes,2014
+2387,white,"Houska, Jovanka",2410,draw,46,B12,Fagernes,2014
+2387,black,"Svane, Rasmus",2487,draw,60,A38,Fagernes,2014
+2387,white,"Djurhuus, Rune",2447,draw,21,A85,Fagernes,2014
+2387,black,"Johannessen, Leif Erlend",2530,draw,26,D78,Fagernes,2014
+2387,white,"Bjerke, Richard",2194,win,41,A70,Fagernes,2014
+2387,black,"Romanov, Evgeny",2642,lose,73,A48,Fagernes,2014
+2293,white,"Djurhuus, Rune",2453,draw,19,A59,Oslo,2014
+2293,black,"Sousa, Ludy Helsio Paulo",2228,win,32,C60,Oslo,2014
+2293,black,"Gyldenas, Ole Jorn",2018,win,39,E15,Oslo,2014
+2293,white,"Snellingen, Jorn",1968,win,35,B53,Oslo,2014
+2293,white,"Djurhuus, Eivind X",1879,draw,67,A20,Oslo,2014
+2408,white,"Lahlum, Hans Olav",2187,draw,42,D31,Norway,2014
+2424,white,"Cherednichenko, Svetlana",2270,win,24,B07,Yerevan,2014
+2424,black,"Basencyan, Mark",2186,win,70,D93,Yerevan,2014
+2424,black,"Karatorossian, David",2262,lose,20,B99,Yerevan,2014
+2424,white,"Parvanyan, Ashot",1804,win,28,A29,Yerevan,2014
+2424,white,"Cerbulenco, Liviu",2160,lose,43,A33,Yerevan,2014
+2424,black,"Oganisjan, Roman",2243,lose,56,B90,Yerevan,2014
+2424,white,"Danielyan, Vahe",1919,win,41,A84,Yerevan,2014
+2424,black,"Gharagyozyan, Artur",2216,lose,65,B90,Yerevan,2014
+2424,white,"Dilanian, Grigor",2266,draw,54,B38,Yerevan,2014
+2424,black,"Motylev, Alexander",2656,lose,39,B90,Yerevan,2014
+2424,white,"Matlakov, Maxim",2695,draw,39,A29,Yerevan,2014
+2420,white,"Sanders, Isaac B",2269,win,44,B81,England,2014
+2420,black,"Roberson, Peter T",2374,draw,72,B22,England,2014
+2408,black,"Haugli, Petter",2278,draw,62,D87,Caleta,2014
+2408,white,"Fier, Alexandr",2572,lose,34,B53,Caleta,2014
+2408,black,"Cramling, Pia",2525,draw,88,A16,Caleta,2014
+2408,white,"Xu, Jun",2510,draw,38,B53,Caleta,2014
+2408,black,"Gopal, Geetha Narayanan",2550,draw,36,B52,Caleta,2014
+2408,white,"Libiszewski, Fabien",2533,draw,22,E91,Caleta,2014
+2408,black,"Ganguly, Surya Shekhar",2619,draw,40,C70,Caleta,2014
+2408,black,"Sandipan, Chanda",2609,win,57,E04,Caleta,2014
+2408,white,"Salgado Lopez, Ivan",2597,draw,64,D90,Caleta,2014
+2408,white,"Zachariassen, John",1894,win,54,B06,Caleta,2014
+2408,white,"Arvola, Benjamin",2315,win,48,E11,Norway,2014
+2408,black,"Tisdall, Jonathan D",2421,lose,28,D90,Norway,2014
+2408,white,"Nordahl, Helge Andreas",2337,draw,32,B51,Norway,2014
+2418,white,"Martirosyan, Haik M",,win,25,B12,Al Ain,2013
+2418,black,"Liu, Yan",2256,draw,54,D02,Al Ain,2013
+2418,white,"Li, Di",2091,lose,29,C10,Al Ain,2013
+2418,black,"Song, Edward",2208,win,48,B92,Al Ain,2013
+2418,black,"Liu, Xiangyi",2136,win,56,A04,Al Ain,2013
+2418,white,"Tran, Minh Thang",2062,win,28,B31,Al Ain,2013
+2418,white,"Acsinte, Matei Ionut",2094,draw,25,C06,Al Ain,2013
+2418,black,"Nigmatov, Ortik",2023,win,50,D02,Al Ain,2013
+2418,white,"Mohammad, Nouali",,draw,43,A59,Al Ain,2013
+2418,black,"Loh, Zachary",2036,draw,41,E46,Al Ain,2013
+2418,white,"Doluweera, Minul Sanjula",1857,win,30,B19,Al Ain,2013
+2420,black,"Muir, Andrew J",2312,draw,81,D85,Warsaw,2013
+2420,white,"Zagorskis, Darius",2480,lose,41,C41,Warsaw,2013
+2420,white,"Pancevski, Filip",2478,draw,76,B04,Warsaw,2013
+2420,black,"Michiels, Bart",2506,lose,45,E32,Warsaw,2013
+2420,black,"Hansen, Sune Berg",2563,lose,53,A28,Warsaw,2013
+2420,white,"Jones, Richard S",2435,draw,40,C43,Warsaw,2013
+2420,white,"Pelletier, Yannick",2575,draw,31,C10,Warsaw,2013
+2420,black,"Lenic, Luka",2637,draw,76,D85,Warsaw,2013
+2420,black,"Zhigalko, Sergei",2694,draw,40,C60,Warsaw,2013
+2420,black,"Haugli, Petter",2286,win,35,D94,Norway,2013
+2420,white,"Moen, Andreas",2365,draw,64,C45,Norway,2013
+2420,white,"Gullaksen, Eirik T",2371,draw,37,B31,Norway,2013
+2426,white,"Sarana, Alexey",2244,win,59,B90,Budva,2013
+2426,black,"Lopez Mulet, Inigo",2169,win,35,D24,Budva,2013
+2426,white,"Tomczak, Mikolaj",2097,win,50,B53,Budva,2013
+2426,black,"Kudelya, Igor",2230,lose,50,B56,Budva,2013
+2426,white,"Morozov, Nichita",2160,win,31,B09,Budva,2013
+2426,black,"Plenca, Jadranko",2164,draw,41,B31,Budva,2013
+2426,white,"Livaic, Leon",2050,win,27,C06,Budva,2013
+2426,black,"Arcuti, Davide",2060,draw,42,D25,Budva,2013
+2426,white,"Korniotis, Filippos",1931,draw,41,E11,Budva,2013
+2401,black,"Vovk, Andrey",2581,draw,32,B17,Riga,2013
+2401,black,"Socko, Bartosz",2646,draw,45,A20,Riga,2013
+2383,white,"Halkias, Stelios",2565,draw,47,C55,Helsingor,2013
+2383,black,"Fossan, Petter",2245,win,49,B35,Helsingor,2013
+2383,white,"Evertsson, Lennart",2200,win,24,B43,Helsingor,2013
+2383,black,"Melkumyan, Hrant",2632,lose,22,A20,Helsingor,2013
+2383,white,"Schandorff, Lars",2522,draw,26,B90,Helsingor,2013
+2383,black,"Louis, Thibault",2222,win,37,B12,Helsingor,2013
+2383,white,"Maze, Sebastien",2547,lose,62,B35,Helsingor,2013
+2383,black,"Halamus, Agata",2046,win,27,B17,Helsingor,2013
+2383,white,"Jensen, Michael Agermose",2066,win,35,B76,Helsingor,2013
+2383,black,"Molvig, Julius",1889,win,30,D24,Helsingor,2013
+2354,black,"Getz, Nicolai",2359,win,40,D94,Lillehammer,2013
+2354,white,"Hole, Oystein",2353,draw,54,B12,Lillehammer,2013
+2354,black,"Hammer, Jon Ludvig",2599,lose,28,E04,Lillehammer,2013
+2354,white,"Devereaux, Maxim",2356,draw,60,C54,Lillehammer,2013
+2354,black,"Djurhuus, Rune",2455,draw,27,B11,Lillehammer,2013
+2354,white,"Moen, Andreas",2410,win,21,C43,Lillehammer,2013
+2354,black,"Chavannes, Ivar",2181,win,58,D20,Lillehammer,2013
+2354,white,"Urkedal, Frode Olav Olsen",2470,lose,25,C58,Lillehammer,2013
+2354,black,"Johannessen, Leif Erlend",2520,draw,19,A11,Lillehammer,2013
+2354,white,"Hillarp Persson, Tiger",2517,draw,37,B06,Oslo,2013
+2354,white,"Danielsen, Henrik",2508,draw,30,B06,Oslo,2013
+2354,black,"Hebden, Mark",2548,draw,40,D25,Oslo,2013
+2354,white,"Bekker Jensen, Simon",2419,win,24,B90,Oslo,2013
+2354,black,"Djurhuus, Rune",2455,win,24,B12,Oslo,2013
+2354,white,"Toby, Albert",2074,win,52,B32,Oslo,2013
+2354,white,"Ostmoe, Geir S Tallaksen",2444,lose,28,C57,Oslo,2013
+2354,black,"Ziska, Helgi Dam",2474,draw,64,B11,Oslo,2013
+2354,black,"Machlik, Monika",1917,win,27,D25,Oslo,2013
+2385,black,"Pavlidou, Ekaterini",2209,win,69,E36,Legnica,2013
+2385,white,"Henseler, Jorgen",2093,win,40,B33,Legnica,2013
+2385,black,"Matsenko, Andrei",2212,lose,60,B12,Legnica,2013
+2385,white,"Iwanow, Anna",2195,draw,105,B80,Legnica,2013
+2385,black,"Huber, Martin Christian",2176,lose,43,D25,Legnica,2013
+2385,white,"Marjanovic, Dejan",2186,draw,42,B07,Legnica,2013
+2385,black,"Mastrovasilis, Athanasios",2514,lose,40,D20,Legnica,2013
+2385,black,"Gabuzyan, Hovhannes",2532,lose,32,B14,Legnica,2013
+2385,white,"Zontakh, Andrey",2521,draw,43,A30,Legnica,2013
+2385,white,"Lenic, Luka",2621,lose,33,C58,Legnica,2013
+2293,black,"Ochsner, Bjorn Moller",2347,lose,38,B38,Copenhagen,2013
+2293,white,"Thybo, Jesper Sondergaard",2091,win,24,B13,Ballerup,2013
+2293,black,"Bejtovic, Jasmin",2406,draw,20,A05,Copenhagen,2013
+2293,white,"Pedersen, Sven",2083,win,46,B42,Ballerup,2013
+2293,black,"Danielsen, Henrik",2500,lose,43,A05,Copenhagen,2013
+2293,white,"Poulsen, Iver",2057,win,24,B32,Copenhagen,2013
+2293,black,"Rhee, Alexander H",2147,draw,38,A13,Copenhagen,2013
+2293,white,"Tikkanen, Hans",2552,lose,32,C13,Ballerup,2013
+2293,black,"Frank Nielsen, Marie",1984,win,35,D94,Ballerup,2013
+2293,white,"Georgiev, Vladimir",2559,draw,30,C54,Oslo,2013
+2293,white,"Valla, Martin",2140,win,26,B19,Oslo,2013
+2293,black,"Gyldenas, Ole Jorn",2018,win,49,E54,Oslo,2013
+2293,white,"Salomon, Johan",2139,draw,51,B42,Oslo,2013
+2293,black,"Pettersen, Joar Gullestad",1981,win,20,A46,Oslo,2013
+2295,black,"Kjolberg, Lars",2173,win,36,D91,Norway,2013
+2295,white,"Gamback, Bjorn",2163,win,40,B42,Norway,2013
+2295,black,"Adnoy, Hallvard Voll",2263,win,68,A45,Norway,2013
+2293,black,"Ninov, Nikolai",2508,draw,72,B36,Fagernes,2013
+2293,white,"Elsness, Frode",2483,draw,28,C51,Fagernes,2013
+2293,black,"Urkedal, Frode Olav Olsen",2470,win,34,E52,Fagernes,2013
+2293,white,"Lie, Espen",2471,draw,11,B04,Fagernes,2013
+2293,black,"Turov, Maxim",2599,lose,45,E36,Fagernes,2013
+2293,white,"Kveinys, Aloyzas",2528,draw,93,B42,Fagernes,2013
+2293,black,"Hammer, Jon Ludvig",2629,win,49,D38,Fagernes,2013
+2293,white,"Pap, Misa",2511,win,34,C51,Fagernes,2013
+2263,black,"Socko, Bartosz",2643,draw,40,E39,Reykjavik,2013
+2263,white,"Mikkelsen, Nikolaj",2421,win,30,B67,Reykjavik,2013
+2263,black,"Marentini, Marcel",2069,win,41,A05,Reykjavik,2013
+2263,white,"Karlsson, Mikael Johann",1990,win,42,B46,Reykjavik,2013
+2263,black,"Bartholomew, John",2435,lose,60,A17,Reykjavik,2013
+2263,white,"Kleinert, Juergen",1991,win,16,C52,Reykjavik,2013
+2263,black,"Smith, Axel",2485,lose,21,A21,Reykjavik,2013
+2263,white,"Thorsteinsdottir, Hallgerdur",1960,win,24,B19,Reykjavik,2013
+2263,black,"Grandelius, Nils",2566,lose,27,B12,Reykjavik,2013
+2263,white,"Ramtin, Raman",1661,win,28,C58,Reykjavik,2013
+2268,white,"Trent, Lawrence",2429,draw,27,C58,Caleta,2013
+2268,black,"Jones, Richard S",2393,draw,52,B17,Caleta,2013
+2268,white,"Harika, Dronavalli",2514,lose,35,B04,Caleta,2013
+2268,black,"Kriebel, Tadeas",2369,win,63,B35,Caleta,2013
+2268,white,"Van Kemenade, Rudy",2043,win,41,A26,Caleta,2013
+2268,white,"Kozarcanin, Sead",2090,draw,54,C50,Caleta,2013
+2268,black,"Hoang, Thanh Trang",2469,lose,62,A45,Caleta,2013
+2268,black,"Thornton, John D",2053,win,43,A23,Caleta,2013
+2268,white,"Gallagher, Joseph G",2499,lose,36,B67,Caleta,2013
+2268,black,"Diaz Gallego, Saul",1655,win,37,E38,Caleta,2013
+2268,white,"Ornstein, Axel",2361,win,72,C50,Stockholm,2013
+2268,black,"Olofsson Dolk, Mattis",2024,win,45,B12,Stockholm,2013
+2268,white,"Mikalsen, Erlend",2074,lose,21,B27,Stockholm,2013
+2268,black,"Kristiansen, Jens",2454,lose,52,B26,Stockholm,2013
+2268,black,"Norlin, Egor",2112,draw,22,E38,Stockholm,2012
+2268,white,"Kassani, Sam",2099,draw,59,B19,Stockholm,2012
+2268,black,"Rydstrom, Tom",2174,win,40,B35,Stockholm,2012
+2268,white,"Socko, Bartosz",2631,lose,34,A05,Stockholm,2012
+2295,black,"Thybo, Jesper Sondergaard",2001,win,43,E38,Maribor,2012
+2295,white,"Haria, Ravi",2034,draw,52,E05,Maribor,2012
+2295,black,"Mihajlov, Sebastian",2076,draw,20,A68,Maribor,2012
+2295,white,"Pak, Alexander",2126,draw,34,B90,Maribor,2012
+2295,black,"Markoja, Boris",2090,draw,32,A39,Maribor,2012
+2295,white,"Xu, Minghui",2112,draw,30,D27,Maribor,2012
+2295,black,"Abbas, Daniel",2016,win,73,B13,Maribor,2012
+2295,white,"Zsirai, Peter",2195,lose,53,A07,Maribor,2012
+2295,black,"Plenca, Jadranko",2072,win,71,B14,Maribor,2012
+2295,white,"Murko, David",1611,win,46,A30,Maribor,2012
+2295,black,"Skuhala, Luka",1852,draw,49,B35,Maribor,2012
+2295,white,"Thorstensen, Trond",2241,win,25,C10,Norway,2012
+2295,black,"Solberg, Joachim",2209,lose,50,B12,Norway,2012
+2295,white,"Stenersen, Gudmund",2201,win,32,C54,Norway,2012
+2295,white,"Martinsen, Stig K",2166,win,31,B09,Norway,2012
+2295,white,"Persson, Mats",2237,win,26,C50,Norway,2012
+2280,white,"Danielsen, Henrik",2524,draw,38,B01,Copenhagen,2012
+2280,black,"Ochsner, Bjorn Moller",2322,lose,34,B35,Copenhagen,2012
+2280,white,"Holm, Kristian Stuvik",2316,draw,18,A39,Copenhagen,2012
+2280,black,"Hoi, Carsten",2370,draw,26,D85,Copenhagen,2012
+2280,white,"Teplyi, Igor",2386,draw,101,A41,Copenhagen,2012
+2280,black,"Kvisvik, Brede Alexander",2342,draw,35,B38,Copenhagen,2012
+2280,white,"Eriksson, Christian",2098,draw,31,B37,Copenhagen,2012
+2280,black,"Carstensen, Jacob",2362,win,61,D93,Copenhagen,2012
+2285,black,"Mihajlov, Sebastian",2043,win,62,E16,Oslo,2012
+2285,black,"Kvisvik, Brede Alexander",2342,draw,48,B38,Oslo,2012
+2285,black,"Solodovnichenko, Yuri",2602,draw,64,B35,Oslo,2012
+2285,black,"Houska, Jovanka",2398,lose,60,A39,Oslo,2012
+2285,black,"Djurhuus, Rune",2436,lose,47,B22,Oslo,2012
+2285,white,"Hansen, Erle Andrea Marki",1861,win,21,B40,Oslo,2012
+2256,white,"Taksrud, Vidar",2057,win,29,E01,Helsingor,2012
+2256,black,"Danielsen, Henrik",2511,lose,31,B20,Helsingor,2012
+2256,white,"Hedman, Erik",2381,draw,37,B92,Helsingor,2012
+2256,black,"Larsen, Ulrik Jejlskov",2010,win,35,B25,Helsingor,2012
+2256,white,"Blomqvist, Erik",2457,lose,21,E05,Helsingor,2012
+2256,black,"Eriksson, Christian",2106,win,50,B22,Helsingor,2012
+2256,white,"Jorgensen, Carina Eilegaard",2039,win,65,D02,Helsingor,2012
+2256,black,"Burmakin, Vladimir",2590,lose,42,A30,Helsingor,2012
+2256,white,"Vesterli, Michael",2029,win,48,A26,Helsingor,2012
+2256,black,"Kristensen, Bjarke Hautop",1824,win,32,A36,Helsingor,2012
+2216,black,"Hammer, Jon Ludvig",2630,lose,35,E60,Oslo,2012
+2216,black,"Wibe, Per H",1849,win,27,A10,Oslo,2012
+2216,black,"Moseng, Geir",2124,win,57,A34,Oslo,2012
+2216,white,"Kjolberg, Jens Hjorth",1982,win,33,A26,Oslo,2012
+2216,white,"Hillarp Persson, Tiger",2578,lose,42,B06,Oslo,2012
+2216,white,"Gonzalez, Francisco",1991,win,35,A11,Oslo,2012
+2216,black,"Ziska, Helgi Dam",2450,lose,56,B31,Oslo,2012
+2216,white,"Christiansen, Johan Sebastian",1995,win,52,B78,Oslo,2012
+2216,black,"Arntsen, Frode",1815,win,36,A38,Oslo,2012
+2216,white,"Gronn, Atle",2377,win,61,A04,Fagernes,2012
+2216,black,"Bae, Torstein",2422,draw,53,B70,Fagernes,2012
+2216,black,"Stensholt, Sigvat K",,draw,24,D97,Fagernes,2012
+2216,white,"Olsen, Robin",1901,win,42,A38,Fagernes,2012
+2216,black,"Strand, Oyvin",1960,win,23,D77,Fagernes,2012
+2216,black,"Jacobsen, Bo",2337,win,23,A39,Odense,2012
+2216,white,"Hansen, Lars Henrik Bech",1992,win,33,B27,Odense,2012
+2216,black,"Pedersen, Hans Buus",2112,draw,37,B11,Odense,2012
+2216,white,"Rusev, Krasimir",2525,lose,30,A12,Odense,2012
+2216,black,"Poulsen, Iver",2084,win,51,B35,Odense,2012
+2216,white,"Lund, Silas",2401,lose,52,D02,Odense,2012
+2216,black,"Hauge, Lars Oskar",2071,win,18,B12,Odense,2012
+2216,white,"Haub, Thorsten Michael",2476,lose,47,B06,Odense,2012
+2216,black,"Holmstrom, Johan",,win,43,A39,Odense,2012
+2202,black,"Rozentalis, Eduardas",2601,lose,41,B11,Fagernes,2012
+2202,white,"Kasparov, Sergey",2503,draw,63,E67,Fagernes,2012
+2202,black,"Johannessen, Leif Erlend",2503,lose,65,B23,Fagernes,2012
+2227,white,"Lundeby, Oyvind Andersen",2178,draw,29,D02,Norway,2012
+2227,black,"Cengija, Vanja",2267,draw,41,A45,Norway,2012
+2227,white,"Elseth, Roar",2349,draw,25,D41,Norway,2012
+2206,black,"Belyakov, Bogdan",2375,lose,60,B17,Moscow,2012
+2206,black,"Pasiev, Rakhim",2312,draw,52,B12,Moscow,2012
+2206,white,"Tonoian, Armen",2374,lose,77,B48,Moscow,2012
+2206,black,"Wang, Jue",2388,lose,24,B12,Moscow,2012
+2206,white,"Huang, Qian",2389,draw,20,A39,Moscow,2012
+2206,black,"Sychev, Klementy",2362,draw,39,B12,Moscow,2012
+2206,white,"Rychagov, Andrey",2542,lose,80,A87,Moscow,2012
+2206,black,"Gagarin, Vasilij",2417,draw,54,D80,Moscow,2012
+2206,white,"Javakhadze, Zurab",2413,draw,40,A30,Moscow,2012
+2227,white,"Hagen, Anders Gjerdrum",2139,draw,48,B30,Norway,2012
+2227,black,"Bae, Torstein",2419,lose,25,B87,Norway,2012
+2227,black,"Khanin, Semen",2130,draw,39,B35,Caldas Novas,2011
+2227,black,"Morozov, Nichita",1931,draw,43,A48,Caldas Novas,2011
+2227,white,"Song, Michael",2032,draw,34,B33,Caldas Novas,2011
+2227,black,"Thybo, Jesper Sondergaard",1991,win,51,B81,Caldas Novas,2011
+2227,white,"Chen, Michael",,win,51,C79,Caldas Novas,2011
+2227,black,"Costachi, Mihnea",1912,draw,75,D38,Caldas Novas,2011
+2227,white,"Cadilhac, Igor Tokuichi Kikuc",1701,win,40,C19,Caldas Novas,2011
+2227,white,"Harestad, Hans Krogh",2258,lose,55,C41,Norway,2011
+2227,white,"Hobber, Anders",2193,draw,20,A14,Norway,2011
+2227,white,"Thorstensen, Trond",2234,win,58,C10,Norway,2011
+2227,white,"Gabrielsen, Trond",2277,draw,31,B19,Norway,2011
+2224,black,"Vaarala, Eric",2226,draw,36,B20,Oslo,2011
+2224,white,"Galinsky, Timofey",2441,draw,39,E01,Oslo,2011
+2224,white,"Flaata, Alexander R",2108,win,65,B72,Oslo,2011
+2224,black,"Spirin, Oleg",2493,lose,53,A39,Oslo,2011
+2224,black,"Dolzhikova, Olga",2275,lose,26,B22,Oslo,2011
+2224,white,"Gronn, Atle",2378,lose,60,B08,Oslo,2011
+2224,black,"Moor, Olivier",2399,draw,29,A48,Oslo,2011
+2224,white,"Gronnestad, Anita",1990,win,30,C45,Oslo,2011
+2224,black,"Urkedal, Frode Olav Olsen",2447,lose,29,E59,Oslo,2011
+2224,black,"Murray, David",2120,draw,36,B52,Rogaska Slatina,2011
+2224,white,"Drabke, Lorenz Maximilian",2463,lose,44,B42,Rogaska Slatina,2011
+2224,black,"Nemeth, Miklos",2438,lose,31,B96,Rogaska Slatina,2011
+2224,white,"Straka, Jozef1",2299,win,51,B32,Rogaska Slatina,2011
+2224,black,"Bolacky, Jiri",2269,win,33,B23,Rogaska Slatina,2011
+2224,white,"Zeytinoglu, Nasir Ekin",2002,draw,58,E68,Rogaska Slatina,2011
+2224,white,"Zvjaginsev, Vadim",2666,lose,32,B08,Rogaska Slatina,2011
+2179,white,"David, Alberto",2609,lose,48,B42,Riga,2011
+2179,black,"Zapata, Alonso",2472,draw,67,B34,Orlando,2011
+2179,white,"Adams, Nick A",2240,draw,25,B15,Orlando,2011
+2179,white,"Ewing, Gabriel",,win,34,C11,Orlando,2011
+2169,black,"Urkedal, Frode Olav Olsen",2448,lose,22,E46,Oslo,2011
+2169,white,"Vas, Peter1",2297,draw,27,C95,Oslo,2011
+2169,black,"Getz, Nicolai",2385,win,49,B21,Oslo,2011
+2169,black,"Hansen, Lars Henrik Bech",1993,win,35,B94,Oslo,2011
+2169,white,"Arnold, Marc Tyler",2432,lose,38,B42,Oslo,2011
+2169,white,"Rundgren, Anders",1943,win,53,B17,Oslo,2011
+2169,black,"Berg, Emanuel",2608,lose,29,B35,Oslo,2011
+2169,white,"Hansen, Erle Andrea Marki",1749,win,33,B33,Oslo,2011
+2155,white,"Johannessen, Leif Erlend",2514,draw,30,C19,Fagernes,2011
+2155,black,"Urkedal, Frode Olav Olsen",2447,draw,64,E15,Fagernes,2011
+2155,black,"Torgersen, Terje",2041,win,36,A38,Fagernes,2011
+2155,white,"Gholami, Armin",1797,win,32,C10,Fagernes,2011
+2155,black,"Westerinen, Heikki MJ",2358,lose,25,B31,Fagernes,2011
+2155,white,"Richter, Michael",2486,lose,53,C14,Fagernes,2011
+2155,black,"Hauge, Lars Oskar",1990,win,60,B31,Fagernes,2011
+2155,white,"Christiansen, Johan Sebastian",1924,win,38,C11,Fagernes,2011
+2155,black,"Kjoita, Henning",1843,draw,73,B34,Fagernes,2011
+2058,black,"Sammalvuo, Niina",2191,win,51,B72,Oslo,2011
+2097,black,"Obiamiwe, Paul",2015,win,47,B38,Caleta,2011
+2097,white,"Jaunooby, Ali Reza",2207,win,43,B01,Caleta,2011
+2097,white,"Sipila, Vilka",2269,lose,66,B35,Caleta,2011
+2097,white,"Elishev, Ivan",2226,win,40,B35,Caleta,2011
+2097,white,"Fogg, Martin",,win,24,B94,Caleta,2011
+2097,black,"Spence, David",2231,lose,21,B22,Caleta,2011
+2097,black,"Dittmar, Peter",2328,lose,47,A39,Caleta,2011
+2097,white,"Goodfellow, Russell Robert",1720,win,19,B84,Caleta,2011
+2097,white,"Gholami, Armin",1779,win,29,C11,Caleta,2011
+2097,black,"Livesey, R Nigel",1880,win,31,A36,Caleta,2011
+2097,white,"Elishev, Ivan",2226,lose,46,B78,Caleta,2011
+2097,black,"Slavin, Alexei",2417,lose,42,E14,Caleta,2011
+2097,black,"Vinas Guerrero, Carlos Alberto",2121,draw,20,B90,Caleta,2011
+2097,white,"Wohl, Aleksandar H",2409,lose,44,B06,Caleta,2011
+2097,white,"Daoudi, Kamal",2155,win,62,C95,Caleta,2011
+2097,black,"Gillespie, Gary",1848,win,32,B37,Caleta,2011
+2097,white,"Zygouris, Hristos",2215,win,49,B43,Caleta,2011
+2097,white,"Birkestrand, Odd Helge",1894,draw,84,C87,Caleta,2011
+2097,black,"Hermes, Geoff",,win,54,B22,Caleta,2011
+2058,black,"Sorgjerd, Jan",2131,draw,54,A30,Oslo,2011
+2058,black,"Hagen, Anders Gjerdrum",2084,draw,12,A30,Oslo,2010
+2058,black,"Trygstad, Kristian",2332,lose,49,B23,Oslo,2010
+2058,black,"Larsen, Martin Halsvik",2123,win,42,B34,Oslo,2010
+2053,black,"Duda, Jan Krzysztof",2247,draw,27,B34,Porto Carras,2010
+2053,white,"Sidhant, Mohapatra",2125,win,41,B45,Porto Carras,2010
+2053,white,"Sanal, Vahap",2170,draw,38,C45,Porto Carras,2010
+2053,black,"Williams, Justus D",2155,draw,35,A39,Porto Carras,2010
+2053,white,"Vetoshko, Volodymyr",2211,draw,43,B78,Porto Carras,2010
+2053,black,"Ghosh, Diptayan",2193,draw,24,A39,Porto Carras,2010
+2053,white,"Sadikhov, Ulvi Ramil Oglu",2060,win,26,B80,Porto Carras,2010
+1999,white,"Ulvnes, Roar",1945,draw,13,B35,Drammen,2010
+1999,black,"Haga, Halvor",1961,draw,84,A08,Drammen,2010
+1999,black,"Mattsson, Hakan",1880,win,38,E12,Drammen,2010
+1999,white,"Haug, Johannes",1505,win,20,C01,Drammen,2010
+1999,white,"Wister, Tom R",1615,lose,35,C19,Drammen,2010
+2060,black,"Poobalasingam, Peter",2326,lose,56,E04,Tromsoe,2010
+2060,white,"Steil Antoni, Fiona",2193,win,63,C45,Tromsoe,2010
+2060,black,"Royset, Jon Kristian",2190,draw,15,B31,Tromsoe,2010
+2060,white,"Kjoita, Torgeir",1796,win,36,C45,Tromsoe,2010
+2060,black,"Van den Bersselaar, Jeroen",2197,lose,38,E12,Tromsoe,2010
+2060,white,"Leite, Steinar",1714,win,26,C63,Tromsoe,2010
+2060,black,"Bortnyk, Olexandr",2318,lose,23,B20,Tromsoe,2010
+2060,white,"Jorgensen, Bengt Arne",,win,19,B46,Tromsoe,2010
+2060,black,"Shytaj, Luca",2466,lose,27,B50,Tromsoe,2010
+1997,white,"Mihajlov, Svetoslav",2117,draw,10,B49,Oslo,2010
+1997,black,"Moe, Pal",1822,win,43,B34,Oslo,2010
+1997,black,"Smits, Francois",,lose,27,B23,Oslo,2010
+1997,black,"Getz, Nicolai",2243,lose,33,B90,Oslo,2010
+1997,white,"Moen, Ole Christian",2233,draw,27,C71,Oslo,2010
+1997,white,"Pedersen, Sven",2133,win,37,B44,Oslo,2010
+1997,black,"Nomat, Emil Lion",1808,win,33,E38,Oslo,2010
+1997,white,"Hillarp Persson, Tiger",2542,lose,37,B42,Oslo,2010
+1997,white,"Moe, Pal",1822,win,22,B99,Oslo,2010
+1997,black,"Kjoita, Henning",1813,draw,38,C01,Oslo,2010
+1997,white,"Norberg, Espen",2071,lose,45,C14,Oslo,2010
+1997,black,"Gonzales, Rafael T",,win,38,B87,Oslo,2010
+1997,black,"Johansen, Pal Hermunn",,draw,87,B90,Oslo,2010
+1997,white,"Salomon, Johan",1770,draw,46,C95,Oslo,2010
+1932,white,"Doubleday, William G",2115,draw,37,B89,Caleta,2010
+1932,white,"Flermoen, Peter",2108,draw,35,B36,Caleta,2010
+1932,black,"Urbina Perez, Juan Antonio",2197,lose,44,B90,Caleta,2010
+1932,black,"Navarro Perez, Manuel",2099,win,47,B23,Caleta,2010
+1932,white,"Schoene, Maria",2251,draw,81,B08,Caleta,2010
+1932,white,"Wheldon, Philip",2103,draw,62,B57,Caleta,2010
+1932,black,"Haarr, Jon Kristian",2157,draw,36,B14,Caleta,2010
+1932,black,"Erdelyi, Tamas",2156,draw,32,D97,Caleta,2010
+1932,white,"Jameson, David",2053,win,70,B19,Caleta,2010
+1932,white,"Kympergr, Vojtech",1599,win,27,C88,Caleta,2010
+1932,black,"Flermoen, Peter",2108,draw,30,B90,Caleta,2010
+1932,black,"Kympergr, Vojtech",1599,win,38,B12,Caleta,2010
+1932,white,"Thingstad, Even",2141,win,33,B19,Caleta,2010
+1932,white,"Lumsdon, Andrew",2090,lose,53,B16,Caleta,2010
+1932,black,"Haarr, Jon Kristian",2157,win,38,D41,Caleta,2010
+1932,black,"Nilsen, Joachim Birger",2152,lose,32,A45,Caleta,2010
+1932,white,"Dasaolu, Adeoye",2068,draw,34,B01,Caleta,2010
+1932,black,"Tscharotschkin, Michael",2211,draw,66,D02,Caleta,2010
+1932,white,"Fox, Anthony",2113,draw,30,C93,Caleta,2010
+1932,black,"Flores Chico, Jorge",2052,draw,39,D01,Caleta,2010
+1932,black,"Sousa, Helsio Paulo",2236,lose,33,B19,Norway,2010
+1932,white,"Salimbeni, George PW",2162,lose,19,B06,Hastings,2010
+1932,white,"Tozer, Philip",2106,draw,25,C01,Hastings,2010
+1932,black,"Goodger, Martyn",2147,draw,32,B10,Hastings,2010
+1932,white,"Devoille, Hugo",1691,win,32,B48,Hastings,2010
+1932,black,"Snape, Ian",2176,lose,37,D74,Hastings,2009
+1932,black,"Lock, Gavin R",2170,draw,29,A16,Hastings,2009
+1932,white,"Green, Andrew",2151,lose,46,B03,Hastings,2009
+1932,black,"Barton, A.",2119,draw,48,D03,Hastings,2009
+1932,white,"Mkrtchyan, Mikayel",,win,28,C95,Kemer,2009
+1932,black,"Shahaliyev, Ismayil Bahram",,win,47,B20,Kemer,2009
+1932,black,"Xu, Jialun",,lose,53,B22,Kemer,2009
+1932,white,"Sheremet, Anton",1864,win,31,B35,Kemer,2009
+1932,white,"Nigmatov, Ortik",,win,26,B80,Kemer,2009
+1932,black,"Ozgur, Tibet Kagan",1570,win,56,D02,Kemer,2009
+1932,black,"Asgharzadeeh, Mohammad Reza",,lose,58,E32,Kemer,2009
+1932,white,"Chiang, Jonathan",1640,win,42,B80,Kemer,2009
+1932,black,"Kumcu, Ugur",1609,win,28,B53,Kemer,2009
+1932,white,"Petrosyan, Arman",1724,lose,35,B12,Kemer,2009
+1932,white,"Forno, Diego",,win,52,B44,Kemer,2009
+1932,white,"Elseth, Roar",2324,lose,50,C91,Norway,2009
+1760,white,"Petterson, Tor",,win,56,C62,Bekkestua,2009
+1901,white,"Carnstam, Tomas",2047,draw,46,B32,Helsingor,2009
+1901,black,"Bjorneboe, Kristian",2041,draw,23,D05,Helsingor,2009
+1901,white,"Rydstrom, Tom",,win,63,C90,Helsingor,2009
+1901,black,"Ostlund, Anders",2067,lose,30,B80,Helsingor,2009
+1901,white,"Larsen, Tor Ketil",2074,draw,22,B02,Helsingor,2009
+1901,black,"Brendel, Bergit",2046,win,52,B96,Helsingor,2009
+1901,white,"Brondum, Eric",2122,lose,47,B06,Helsingor,2009
+1901,black,"Nielsen, Jan Mose",2115,draw,71,E12,Helsingor,2009
+1901,white,"Edvardsson, Hannu L",,win,42,C65,Helsingor,2009
+1901,black,"Jacobsen, Bo",2303,lose,30,E61,Helsingor,2009
+1873,black,"Ulvnes, Roar",1991,lose,26,B99,Oslo,2009
+1873,white,"Getz, Nicolai",2205,draw,27,C78,Oslo,2009
+1873,white,"Edvardsen, Ragnar",2060,draw,45,B33,Oslo,2009
+1873,black,"Thrana, Svein Arne",,win,36,B80,Oslo,2009
+1873,black,"Haug, Johannes",,win,47,C00,Oslo,2009
+1873,white,"Thingstad, Even",2050,lose,55,B19,Oslo,2009
+1873,black,"Hagen, Anders Gjerdrum",2109,win,39,E12,Oslo,2009
+1873,white,"Guddahl, Viggo",2118,lose,49,C01,Oslo,2009
+1873,white,"Westerinen, Heikki MJ",2344,lose,24,C01,Oslo,2009
+1760,white,"Urkedal, Frode Olav Olsen",2321,lose,33,B31,Oslo,2009
+1760,black,"Thingstad, Even",2054,lose,53,E32,Oslo,2009
+1760,white,"Martinsen, Stig K",2148,draw,71,B48,Oslo,2009
+1760,black,"Thingstad, Anders",1836,win,81,E52,Oslo,2009
+1760,white,"Kjoita, Henning",1569,win,38,B77,Oslo,2009
+1760,black,"Lie, Terje",1315,win,52,E12,Oslo,2009
+1760,white,"Grotnes, Nils Ragnar",2175,lose,26,B19,Asker,2009
+1878,black,"Einarsen, Kenneth",2029,draw,59,C06,Oslo,2009
+1878,black,"Rathan, Raksha",1339,win,38,E12,Oslo,2009
+1878,white,"Lovik, Lasse Ostebo",2183,lose,25,C01,Oslo,2009
+1878,black,"Olsen, Ulrik",999,win,34,E12,Oslo,2009
+1700,black,"Guttulsrud, Odd Martin",1944,lose,58,B84,Norway,2008
+1700,black,"Martinsen, Stig K",2108,lose,26,E32,Norway,2008
+1700,white,"Furu, Thormod",1871,lose,42,B01,Norway,2008
+,black,"Duda, Jan Krzysztof",2013,lose,21,B99,Vung Tau,2008
+,white,"Asgarizadeh, Ahmad",2026,win,40,B79,Vung Tau,2008
+,black,"Arjun, Bharat",1853,win,25,E13,Vung Tau,2008
+,black,"Khodashenas, Mersad",1929,win,96,B21,Vung Tau,2008
+,white,"Shaikh, Nubairshah",1855,win,25,B08,Vung Tau,2008
+,black,"Davaasuren, Buyanzaya",,win,68,B80,Vung Tau,2008
+,white,"Lim, De Li Derek",1715,draw,44,B40,Vung Tau,2008
+,black,"Graif, William",,win,25,B84,Vung Tau,2008
+,white,"Chen, Baining",,lose,46,B97,Vung Tau,2008
+,black,"Lehmann, Dominik",,win,27,B80,Vung Tau,2008
+,white,"Conradie, Andre",,lose,27,B19,Vung Tau,2008
+1465,black,"Bjelland, Nils Inge",1254,lose,26,A05,Oslo,2008
+1465,black,"Ristesund, Odd",1398,draw,23,A00,Oslo,2008
+1465,black,"Govatsmark, Konstantin",1420,draw,16,B99,Oslo,2008
+1465,white,"Thingstad, Tormod",950,win,22,C50,Oslo,2008
+1409,black,"Kjolberg, Jens Hjorth",1494,win,32,D12,Oslo,2008
+1409,white,"Soreng, Eirik",1633,lose,18,B13,Oslo,2008
+1409,black,"Olsen, Andrei",1533,draw,31,B31,Oslo,2008
+1409,white,"Hova, Frode",1558,win,39,B66,Oslo,2008
+1377,white,"Rough, Robert E",1651,draw,27,D02,Gibraltar,2008
+1377,black,"Hughes, Peter",1749,draw,35,D10,Gibraltar,2008
+1377,white,"Goodfellow, Russell Robert",1648,lose,65,B43,Gibraltar,2008
+1377,white,"Ruiz, Jose Mari",1000,win,33,C40,Gibraltar,2008
+1377,black,"Kennedy, Philip J",1704,lose,51,D02,Gibraltar,2008
+1183,black,"Hansen, Harald",1275,win,23,C35,Oslo,2007
+1183,black,"Misund, Joakim",887,draw,34,C44,Oslo,2007
+1183,white,"Taube, Gregor",588,win,26,C50,Oslo,2007
+1183,black,"Loberg, Jo Kristian",1296,lose,28,B32,Oslo,2007
+1183,white,"Johansen, Stian",976,draw,35,B30,Oslo,2007
+1183,white,"Govatsmark, Konstantin",1346,lose,40,B30,Oslo,2007
+688,white,"Rathan, Raksha",1064,lose,23,B07,Moss,2006
+2642,black,"Carlsen, Magnus",2855,lose,47,C55,,http://www.chessbomb.com
+2642,black,"Carlsen, Magnus",2855,lose,47,C55,,http://www.chessbomb.com
+2642,black,"Carlsen, Magnus",2855,lose,47,C55,,http://www.chessbomb.com
