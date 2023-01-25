@@ -3,22 +3,64 @@ from streamlit_extras.switch_page_button import switch_page
 import base64
 from io import StringIO
 
-
+st.set_page_config(layout="wide", 
+    page_title="test gan", 
+    )
+# CSS style
 st.markdown('''
 <style>
-.green {
+.first_title {
     font-family: Georgia, serif;
-    color: green;
-    font-weight:700;
-    font-size: 100px;
+    font-weight: bold;
+    font-size: 75px;
     text-align: center;
 }
+.intro {
+    font-size: 20px !important;
+    text-align: justify;
+}
+.title {
+    font-size:40px !important;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #4976E4;
+    text-decoration-thickness: 5px;
+    width: 100%;
+}
 </style>
-
-<div class="green">
-    Markdown css styles
-</div>
 ''', unsafe_allow_html=True)
+
+
+
+
+st.markdown('''
+    <div class="first_title">
+        Markdown css styles
+    </div>
+    ''', unsafe_allow_html=True)
+
+
+c1, c2 = st.columns((3, 2))
+with c2:
+    st.write("##")
+    st.write("##")
+    st.markdown("hilih kindsfgsdfredsvnuhviufhviuhduvhaeiurhvidshvihfduhvifhvuidhfsvihuierhvudsbvuab")
+st.write("##")
+with c1:
+    st.write("##")
+    st.write("##")
+    st.markdown(
+        '<p class="intro">Bienvenue sur la <b>no-code AI platform</b> ! Déposez vos datasets csv ou excel ou choisissez en un parmi ceux proposés et commencez votre analyse dès maintenant ! Cherchez les variables les plus intéressantes, visualisez vos données, et créez vos modèles de Machine Learning en toute simplicité.' +
+        ' Si vous choisissez de travailler avec votre dataset et que vous voulez effectuez des modifications sur celui-ci, il faudra le télécharger une fois les modifications faites pour pouvoir l\'utiliser sur les autres pages. </p>',
+        unsafe_allow_html=True)
+    st.markdown(
+        '<p class="intro">Un tutoriel sur l\'utilisation de ce site est disponible sur le repo Github. En cas de bug ou d\'erreur veuillez m\'en informer par mail ou sur Discord.</p>',
+        unsafe_allow_html=True)
+    st.markdown(
+        '<p class="intro"><b>Commencez par choisir un dataset dans la section Dataset !</b></p>',
+        unsafe_allow_html=True)
+
 
 
 
