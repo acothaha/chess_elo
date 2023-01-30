@@ -1,4 +1,9 @@
 rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
+2713,white,"Van Foreest, Jorden",2681,lose,49,B48,Wijk aan Zee,2023
+2713,black,"So, Wesley",2760,draw,41,D27,Wijk aan Zee,2023
+2713,black,"Giri, Anish",2764,draw,29,D20,Wijk aan Zee,2023
+2713,white,"Ding, Liren",2811,draw,27,C67,Wijk aan Zee,2023
+2713,black,"Keymer, Vincent",2696,draw,89,A30,Wijk aan Zee,2023
 2713,white,"Aronian, Levon",2735,draw,31,C65,Wijk aan Zee,2023
 2713,black,Erigaisi Arjun,2722,win,43,C43,Wijk aan Zee,2023
 2713,white,Praggnanandhaa R,2684,draw,54,C80,Wijk aan Zee,2023
@@ -777,26 +782,26 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2627,white,"Hansen, Eric",2606,win,36,B40,lichess.org INT,2021
 2627,white,"Poghosyan, S.",2275,win,49,C03,lichess.org INT,2021
 2627,white,"Muradli, Mahammad",2449,lose,84,E65,lichess.org INT,2021
+2627,black,"Firouzja, Alireza",2759,lose,55,B10,lichess.org INT,2021
 2627,black,"Jacobson, Aaron",2301,win,12,B10,lichess.org INT,2021
+2627,black,"Dubov, Daniil",2710,lose,22,B10,lichess.org INT,2021
+2627,black,"Mamedyarov, S.",2770,lose,69,D41,lichess.org INT,2021
 2627,black,"Bodek, Michael",2397,win,24,D41,lichess.org INT,2021
+2627,black,"Chigaev, M.",2631,draw,56,A05,lichess.org INT,2021
 2627,black,"Hansen, Eric",2606,win,69,E14,lichess.org INT,2021
 2627,black,"Golubka, P.",2452,win,26,A45,lichess.org INT,2021
 2627,black,"Iskandarov, M.",2535,win,54,B10,lichess.org INT,2021
-2627,black,"Zhigalko, S.",2572,win,57,B12,lichess.org INT,2021
-2627,black,"Oatlhotse, P.",2175,win,32,A07,lichess.org INT,2021
-2627,black,"Rosenberg, E.",2125,win,33,A15,lichess.org INT,2021
-2627,black,"Firouzja, Alireza",2759,lose,55,B10,lichess.org INT,2021
-2627,black,"Dubov, Daniil",2710,lose,22,B10,lichess.org INT,2021
-2627,black,"Mamedyarov, S.",2770,lose,69,D41,lichess.org INT,2021
 2627,black,"Tapie, P.",2286,lose,32,B10,lichess.org INT,2021
+2627,black,"Petrosyan, M.",2625,draw,84,A13,lichess.org INT,2021
 2627,black,"Hansen, Eric",2606,lose,44,B10,lichess.org INT,2021
 2627,black,"Golubka, P.",2452,lose,31,D41,lichess.org INT,2021
-2627,black,"Jacobson, Aaron",2301,lose,8,B10,lichess.org INT,2021
-2627,black,"Beerdsen, Thomas",2453,lose,30,B12,lichess.org INT,2021
-2627,black,"Ozates, Tuna",2217,lose,57,B12,lichess.org INT,2021
-2627,black,"Chigaev, M.",2631,draw,56,A05,lichess.org INT,2021
-2627,black,"Petrosyan, M.",2625,draw,84,A13,lichess.org INT,2021
 2627,black,"Rasulov, Vu",2478,draw,59,B18,lichess.org INT,2021
+2627,black,"Jacobson, Aaron",2301,lose,8,B10,lichess.org INT,2021
+2627,black,"Zhigalko, S.",2572,win,57,B12,lichess.org INT,2021
+2627,black,"Beerdsen, Thomas",2453,lose,30,B12,lichess.org INT,2021
+2627,black,"Oatlhotse, P.",2175,win,32,A07,lichess.org INT,2021
+2627,black,"Ozates, Tuna",2217,lose,57,B12,lichess.org INT,2021
+2627,black,"Rosenberg, E.",2125,win,33,A15,lichess.org INT,2021
 2627,white,"Alekseenko, K.",2696,win,22,C69,chess.com INT,2021
 2627,black,"Safarli, E.",2598,draw,43,B14,chess.com INT,2021
 2627,white,"Deac, Bogdan-Daniel",2625,win,56,C50,chess.com INT,2021
@@ -925,16 +930,16 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2627,white,"Aliavdin, N.",2315,win,28,A39,lichess.org INT,2021
 2627,white,"Ter Sahakyan, S.",2640,lose,27,A28,lichess.org INT,2021
 2627,white,"Piliposyan, Robert",2161,win,32,C07,lichess.org INT,2021
-2627,black,"Leenhouts, K.",2414,win,48,E04,lichess.org INT,2021
-2627,black,"Vasquez Schroeder, R.",2443,win,57,C63,lichess.org INT,2021
-2627,black,"Shipov, S.",2541,win,66,A52,lichess.org INT,2021
-2627,black,"Molchanov, Alexe",2402,win,36,C45,lichess.org INT,2021
-2627,black,"Efremova, Y.",2128,win,84,D00,lichess.org INT,2021
 2627,black,"Gabrielian, A.",2464,lose,32,C63,lichess.org INT,2021
 2627,black,"Khamrakulov, D.",2514,lose,52,B10,lichess.org INT,2021
 2627,black,"Jaeggi, D.",2325,lose,32,C63,lichess.org INT,2021
 2627,black,"Plenca, J.",2421,lose,81,C44,lichess.org INT,2021
+2627,black,"Leenhouts, K.",2414,win,48,E04,lichess.org INT,2021
 2627,black,"Ter Sahakyan, S.",2640,draw,56,C83,lichess.org INT,2021
+2627,black,"Vasquez Schroeder, R.",2443,win,57,C63,lichess.org INT,2021
+2627,black,"Shipov, S.",2541,win,66,A52,lichess.org INT,2021
+2627,black,"Molchanov, Alexe",2402,win,36,C45,lichess.org INT,2021
+2627,black,"Efremova, Y.",2128,win,84,D00,lichess.org INT,2021
 2627,white,"Savchenko, B.",2551,win,49,A28,chess.com INT,2020
 2627,black,"Grigoriants, S RUS.",2546,draw,52,D33,chess.com INT,2020
 2627,white,"Lazavik, Denis",2436,win,49,A11,chess.com INT,2020
@@ -973,8 +978,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2627,black,"Sankalp, Gupta",2429,draw,50,B10,chess.com INT,2020
 2627,white,"Wang, Jalen",2123,win,40,A10,chess.com INT,2020
 2627,white,"Zubritskiy, A.",2442,win,29,B22,chess.com INT,2020
-2627,black,"Fernandez, Dan SIN",2466,lose,80,A05,chess.com INT,2020
 2627,black,"Vokhidov, Shamsiddin",2529,draw,61,C42,chess.com INT,2020
+2627,black,"Fernandez, Dan SIN",2466,lose,80,A05,chess.com INT,2020
 2627,white,"Mekhitarian, K.",2554,lose,41,B36,chess.com INT,2020
 2627,white,"Jacobson, Aaron",2262,draw,30,A14,chess.com INT,2020
 2627,black,"Mikhailovsky, Vladimir",2228,win,74,B12,chess.com INT,2020
@@ -995,8 +1000,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2627,black,"Rasulov, Vu",2478,lose,29,A04,chess.com INT,2020
 2627,white,"Bogner, S.",2577,win,46,A11,chess.com INT,2020
 2627,white,"Bartel, Mat",2638,win,27,A13,chess.com INT,2020
-2627,black,"Mekhitarian, K.",2554,win,53,A07,chess.com INT,2020
 2627,black,"Lodici, Lorenzo",2483,lose,59,D37,chess.com INT,2020
+2627,black,"Mekhitarian, K.",2554,win,53,A07,chess.com INT,2020
 2627,white,"Piotrowski, P.",2241,win,33,A04,chess.com INT,2020
 2627,black,"Panarin, M.",2562,win,31,B19,chess.com INT,2020
 2627,white,"Spyropoulos, Nikolaos",2425,win,47,A13,chess.com INT,2020
@@ -1011,8 +1016,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2627,black,"Sadhwani, Raunak",2545,lose,93,C43,lichess.org INT,2020
 2627,white,"Domalchuk-Jonasson, Aleksandr",1997,win,22,A18,lichess.org INT,2020
 2627,white,"Nagy, Ga1",2495,win,27,E69,lichess.org INT,2020
-2627,black,"Mammadov, Z.",2417,win,45,C42,lichess.org INT,2020
 2627,black,"Kuzubov, Y.",2642,lose,68,D32,lichess.org INT,2020
+2627,black,"Mammadov, Z.",2417,win,45,C42,lichess.org INT,2020
 2627,white,"Kretov, E.",2269,lose,32,A00,chess.com INT,2020
 2627,white,"Santiago, Y.",2480,lose,105,C11,chess.com INT,2020
 2627,black,"Vrolijk, Liam",2480,lose,65,D00,chess.com INT,2020
@@ -1020,8 +1025,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2627,white,"Korchmar, V.",2451,win,27,A30,chess.com INT,2020
 2627,black,"Ogloblin, N.",2346,win,56,D02,chess.com INT,2020
 2627,white,"Keymer, Vincent",2591,lose,33,A13,lichess.org INT,2020
-2627,black,"Sebenik, M.",2501,win,49,E04,lichess.org INT,2020
 2627,black,"Maghsoodloo, Parham",2676,draw,70,C24,lichess.org INT,2020
+2627,black,"Sebenik, M.",2501,win,49,E04,lichess.org INT,2020
 2627,white,"Aravindh, Chithambaram VR",2641,lose,29,A14,chess.com INT,2020
 2627,black,"Aravindh, Chithambaram VR",2641,lose,63,A28,chess.com INT,2020
 2627,black,"Ponkratov, P.",2623,lose,32,C43,lichess.org INT,2020
@@ -1044,8 +1049,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2627,white,"Martirosyan, Haik M",2622,lose,59,A17,lichess.org INT,2020
 2627,white,"Petrosyan, M.",2628,win,49,A13,lichess.org INT,2020
 2627,black,"Kovalenko, I.",2643,lose,116,D37,chess.com INT,2020
-2627,black,"Stupak, K.",2515,win,50,A45,lichess.org INT,2020
 2627,black,"Kukhmazov, A.",2442,draw,94,D02,chess.com INT,2020
+2627,black,"Stupak, K.",2515,win,50,A45,lichess.org INT,2020
 2627,white,"Yoshan, V.",2351,win,44,A10,chess.com INT,2020
 2627,white,"Maghsoodloo, Parham",2676,draw,50,A14,lichess.org INT,2020
 2627,white,"Sargsyan, Shant",2596,win,41,A28,lichess.org INT,2020
@@ -1368,8 +1373,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2635,black,"Jones, G.",2679,lose,70,A14,chess.com INT,2020
 2644,white,"Fier, A.",2539,draw,126,B04,chess.com INT,2020
 2644,white,"Mekhitarian, K.",2558,win,68,C67,chess.com INT,2020
-2644,black,"Do Valle Cardoso, Lucas",2238,win,55,B90,chess.com INT,2020
 2644,black,"Santiago, Y.",2488,draw,68,A45,chess.com INT,2020
+2644,black,"Do Valle Cardoso, Lucas",2238,win,55,B90,chess.com INT,2020
 2635,white,"Saduakassova, Dinara",2519,draw,76,A05,Wijk aan Zee,2020
 2635,black,"Mamedov, Rauf",2659,draw,49,B22,Wijk aan Zee,2020
 2635,black,"Van Foreest, Lucas",2523,win,20,B90,Wijk aan Zee,2020
@@ -1560,12 +1565,12 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2560,black,"Dubov, Daniil",2703,draw,38,A46,Moscow,2019
 2560,white,"Raja, H.",2432,lose,63,B54,chess.com INT,2019
 2560,white,"Ganguly, S.",2638,lose,76,C00,chess.com INT,2019
-2560,black,"Kunte, A.",2485,win,48,A05,chess.com INT,2019
 2560,black,"Mohammad, Nubairshah Shaikh",2437,lose,37,E32,chess.com INT,2019
+2560,black,"Kunte, A.",2485,win,48,A05,chess.com INT,2019
 2560,white,"Novikov, Konstantin",2287,win,40,C41,chess.com INT,2019
 2560,white,"Kryakvin, D.",2588,draw,61,C00,chess.com INT,2019
-2560,black,"Ponkratov, P.",2630,lose,33,B50,chess.com INT,2019
 2560,black,"Afanasiev, Nikita",2508,draw,66,D02,chess.com INT,2019
+2560,black,"Ponkratov, P.",2630,lose,33,B50,chess.com INT,2019
 2560,white,"Manukian, Artak",2196,win,51,B13,chess.com INT,2019
 2560,white,"Martirosyan, Haik M",2607,draw,52,B30,chess.com INT,2019
 2560,black,"Andriasian, Zaven",2604,win,51,B90,chess.com INT,2019
@@ -1701,8 +1706,8 @@ rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
 2516,black,"Kulkarni, Rakesh",2332,draw,74,B22,chess.com INT,2018
 2516,white,"Petrosyan, Manuel",2570,draw,58,E11,chess.com INT,2018
 2516,white,"Ter Sahakyan, Samvel",2563,draw,55,C48,chess.com INT,2018
-2516,black,"Manukian, Artak",2196,win,101,B51,chess.com INT,2018
 2516,black,"Andriasian, Zaven",2585,lose,60,C54,chess.com INT,2018
+2516,black,"Manukian, Artak",2196,win,101,B51,chess.com INT,2018
 2516,white,"Kantans, Toms",2478,draw,49,B90,chess.com INT,2018
 2516,white,"Tokranovs, Dmitrijs",2354,win,32,B01,chess.com INT,2018
 2516,black,"Kovalenko, Igor",2635,win,47,C24,chess.com INT,2018
