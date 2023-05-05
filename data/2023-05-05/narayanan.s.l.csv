@@ -1,0 +1,174 @@
+rating,play_as,opponent,opponent_rating,result,move,ECO,site,year
+2660,white,"Tabatabaei, M. Amin",2677,draw,45,E36,Jermuk,2023
+2660,white,"Davtyan, Artur",2506,win,43,A29,Jermuk,2023
+2661,white,"Pranav, V",2545,draw,14,D43,La Roda,2023
+2661,white,"Ivic, Velimir",2595,draw,28,B30,Germany,2023
+2661,black,"Shevchenko, Kirill",2684,lose,73,E10,Germany,2023
+2664,white,"Nisipeanu, Liviu-Dieter",2604,draw,39,A13,Germany,2023
+2664,black,"Blohberger, Felix",2493,draw,39,E10,Germany,2023
+2669,black,"Bosiocic, Marin",2564,lose,40,A29,Germany,2023
+2669,white,"Rapport, Richard",2740,draw,29,E71,Germany,2023
+2562,black,"Vallejo Pons, Francisco",2644,lose,17,B06,Almaty,2022
+2562,white,"Sarana, Alexey",2708,lose,38,A06,Almaty,2022
+2562,black,"Maghsoodloo, Parham",2672,lose,43,E21,Almaty,2022
+2562,black,"Nepomniachtchi, Ian",2782,win,38,C86,Almaty,2022
+2562,black,"Dubov, Daniil",2792,lose,124,E04,Almaty,2022
+2562,white,"Asadli, Vugar",2635,lose,39,D70,Almaty,2022
+2605,black,"Svane, Frederik",2466,win,43,B40,Almaty,2022
+2605,black,"Yoo, Christopher Woojin",2463,lose,40,B30,Almaty,2022
+2605,white,"Sychev, Klementy",2489,draw,35,C70,Almaty,2022
+2605,black,"Makhnev, Denis",2513,win,48,C73,Almaty,2022
+2673,black,"Navara, David",2680,lose,55,C50,Germany,2022
+2588,white,"Vokhidov, Shamsiddin",2471,win,44,E10,Jerusalem,2022
+2588,black,"Vokhidov, Shamsiddin",2471,win,45,C88,Jerusalem,2022
+2588,white,"Fressinet, Laurent",2684,lose,43,C55,,2022
+2588,black,"Fressinet, Laurent",2684,win,48,E10,,2022
+2588,black,"Akobian, Varuzhan",2639,win,38,E54,Jerusalem,2022
+2588,white,"Vokhidov, Shamsiddin",2471,draw,40,C83,Jerusalem,2022
+2588,black,"Guseinov, Gadir",2616,draw,51,C47,Jerusalem,2022
+2663,white,"Kryvoruchko, Yuriy",2658,draw,48,C50,,2022
+2663,black,"Ivanchuk, Vasyl",2678,draw,32,C89,,2022
+2663,white,"Eljanov, Pavel",2697,draw,43,D37,,2022
+2663,black,"Sethuraman, SP.",2645,draw,28,C84,Fagernes,2022
+2663,white,"Andersen, Mads",2604,win,42,D27,Fagernes,2022
+2663,black,"Demchenko, Anton",2645,draw,36,C50,Fagernes,2022
+2663,white,"Sasikiran, Krishnan",2636,win,55,D20,Fagernes,2022
+2663,black,"Ghazarian, Kirk",2446,draw,36,E10,Fagernes,2022
+2663,white,"Puranik, Abhimanyu",2603,draw,19,A05,Fagernes,2022
+2663,black,"Vaishali, Rameshbabu",2451,win,55,B30,Fagernes,2022
+2663,white,"Padmini, Rout",2390,win,31,E97,Fagernes,2022
+2663,black,"Frederic, Clement",2234,win,30,B51,Fagernes,2022
+2657,black,"Krysa, Leandro",2535,win,36,E10,Linares,2022
+2657,white,"Lorenzo De La Riva, Lazaro",2430,win,51,E71,Linares,2022
+2657,black,"Salgado Lopez, Ivan",2595,draw,18,E32,Linares,2022
+2657,white,"Suarez Gomez, Julio",2440,draw,75,E10,Linares,2022
+2657,black,"Rubio Mejia, Luis Ignacio",2399,win,46,A20,Linares,2022
+2657,white,"Naiditsch, Arkadij",2666,lose,38,E51,Linares,2022
+2657,white,"Pulvett Marin, Daniel Eduardo",2497,win,52,E71,Linares,2022
+2654,black,"Terry, Renato",2507,draw,21,A26,Barcelona,2022
+2654,white,"Cheng, Bobby",2540,draw,23,D32,Barcelona,2022
+2654,black,"Garcia Ramos, Daniel",2435,win,68,C53,Barcelona,2022
+2654,white,"Berdayes Ason, Dylan Isidro",2489,win,28,A06,Barcelona,2022
+2654,black,Aronyak Ghosh,2512,draw,24,A07,Barcelona,2022
+2654,white,"Diaz Camallonga, Carles",2474,win,38,D31,Barcelona,2022
+2654,black,"Hernandez, Cristian Andres",2404,win,53,D02,Barcelona,2022
+2654,white,"Ortin Blanco, Inigo",2235,win,57,D35,Barcelona,2022
+2654,black,"Bakshi, Rutuja",2048,win,38,D04,Barcelona,2022
+2659,black,"Shankland, Samuel L",2720,lose,74,E36,Chennai,2022
+2659,white,"Daneshvar, Bardiya",2490,win,90,D86,Chennai,2022
+2659,white,"Hovhannisyan, Robert",2591,draw,46,D43,Chennai,2022
+2659,black,"Puranik, Abhimanyu",2612,win,38,C77,Chennai,2022
+2659,black,"Jianu, Vlad-Cristian",2511,draw,32,A46,Chennai,2022
+2659,white,"Lagarde, Maxime",2631,draw,51,A80,Chennai,2022
+2659,black,"Hamitevici, Vladimir",2473,win,39,E04,Chennai,2022
+2659,white,"Mushore, Emarald Takudzwa",2153,win,33,A18,Chennai,2022
+2659,white,"Turner, Matthew J",2469,win,34,A11,Ovar,2022
+2659,black,"Martin Duque, Jesus",2378,win,37,A30,Ovar,2022
+2659,white,Santos Latasa,2675,draw,33,E10,Ovar,2022
+2659,black,"Dvirnyy, Danyyil",2522,win,48,B62,Ovar,2022
+2659,white,"Ferreira, Jorge Viterbo",2499,draw,40,C55,Ovar,2022
+2659,black,"Krysa, Leandro",2515,lose,73,E10,Ovar,2022
+2659,white,"Sismeiro, Miguel",2162,win,23,A16,Ovar,2022
+2659,black,"Gorshtein, Ido",2476,draw,34,A04,Ovar,2022
+2659,white,"Galego, Luis",2462,draw,35,B28,Ovar,2022
+2662,black,"Yankelevich, Lev",2482,draw,33,D45,Srbice,2022
+2662,white,"Kollars, Dmitrij",2643,draw,30,C78,Srbice,2022
+2662,black,"Pultinevicius, Paulius",2524,win,38,E10,Srbice,2022
+2662,white,Sankalp Gupta,2505,win,29,C19,Srbice,2022
+2662,black,"Hollan, Martin",2391,win,62,B30,Srbice,2022
+2662,white,"Ghazarian, Kirk",2427,draw,94,D44,Srbice,2022
+2662,black,Raja Harshit,2479,draw,34,C89,Srbice,2022
+2662,white,"Sylvan, Jacob",2317,win,37,A50,Srbice,2022
+2662,black,"Dougherty, Michael",2116,win,26,A04,Srbice,2022
+2662,white,"Puranik, Abhimanyu",2608,draw,29,D90,Sharjah,2022
+2662,black,"Yuffa, Daniil",2597,draw,64,E06,Sharjah,2022
+2662,white,"Hakobyan, Aram",2615,draw,38,D38,Sharjah,2022
+2662,black,"Sindarov, Javokhir",2609,draw,33,C50,Sharjah,2022
+2662,white,"Adhiban, Baskaran",2616,draw,106,D45,Sharjah,2022
+2662,black,"Ponkratov, Pavel",2624,draw,43,A05,Sharjah,2022
+2662,white,"Kamalidenova, Meruert",2408,win,28,E44,Sharjah,2022
+2662,black,"Can, Emre",2599,draw,31,E15,Sharjah,2022
+2662,white,"Moroni, Luca Jr",2581,draw,27,D30,Sharjah,2022
+2570,white,"Nguyen, Thai Dai Van",2446,lose,44,B62,Warsaw,2021
+2570,black,"Martirosyan, Haik M.",2707,lose,50,E10,Warsaw,2021
+2570,white,"Caruana, Fabiano",2803,win,33,C55,Warsaw,2021
+2570,white,"Sarana, Alexey",2672,lose,52,B20,Warsaw,2021
+2482,black,"Shirov, Alexei",2702,lose,47,C67,Warsaw,2021
+2482,white,"Vidit, Santosh Gujrathi",2629,win,63,C55,Warsaw,2021
+2482,black,Santos Latasa,2618,draw,66,E10,Warsaw,2021
+2482,black,"Demchenko, Anton",2666,draw,32,C50,Warsaw,2021
+2482,white,"Saric, Ivan",2684,draw,36,B20,Warsaw,2021
+2482,black,"Korobov, Anton",2689,draw,42,E46,Warsaw,2021
+2647,white,"Shahinyan, David",2469,win,75,A56,Yerevan,2021
+2647,white,"Shahinyan, David",2469,win,75,A56,Yerevan,2021
+2647,black,"Sivuk, Vitaly",2529,lose,41,A21,Yerevan,2021
+2647,white,"Daghli, Arash",2427,win,40,E94,Yerevan,2021
+2647,white,"Goganov, Aleksey",2557,draw,42,C53,,2021
+2647,white,Erigaisi Arjun,2634,win,58,D41,,2021
+2647,black,"Puranik, Abhimanyu",2568,draw,31,B33,,2021
+2647,white,"Paichadze, Luka",2566,win,55,A15,,2021
+2647,black,Karthik Venkataraman,2483,win,92,C84,,2021
+2647,white,"Ter-Sahakyan, Samvel",2607,lose,32,B90,,2021
+2647,black,"Minasian, Artashes",2472,win,50,A05,,2021
+2647,white,"Petriashvili, Nikoloz",2432,win,78,A06,,2021
+2647,black,"Baghdasaryan, Vahe",2334,win,27,A21,,2021
+2632,black,"Maghsoodloo, Parham",2695,lose,35,A30,Sharjah,2021
+2632,white,"Eljanov, Pavel",2680,draw,24,D27,Sharjah,2021
+2632,black,"Jumabayev, Rinat",2651,win,31,A05,Sharjah,2021
+2632,white,"Naiditsch, Arkadij",2663,draw,31,C65,Sharjah,2021
+2632,black,"Salem, A.R. Saleh",2679,draw,9,D27,Sharjah,2021
+2632,white,"Tabatabaei, M. Amin",2624,draw,41,E10,Sharjah,2021
+2632,black,"Yilmaz, Mustafa",2624,win,31,E10,Sharjah,2021
+2632,white,"Delgado Ramirez, Neuris",2588,win,54,B30,Sharjah,2021
+2632,black,"El Adnani, Mokliss",2428,win,37,B40,Sharjah,2021
+2624,white,"Kovalenko, Igor",2644,draw,18,D45,Riga,2021
+2637,black,"Stupak, Kirill",2518,draw,22,A49,Moscow,2020
+2637,black,"Abdumalik, Zhansaya",2471,draw,34,B90,Gibraltar,2020
+2637,white,"Khotenashvili, Bela",2446,draw,43,B12,Gibraltar,2020
+2637,black,"Lei, Tingjie",2493,win,23,B90,Gibraltar,2020
+2637,black,"Gschnitzer, Oswald, Dr.",2361,draw,58,A04,Gibraltar,2020
+2626,black,"Korobov, Anton",2668,lose,37,A20,Sitges,2019
+2626,black,"Sethuraman, SP.",2638,win,29,B23,Sitges,2019
+2611,black,"Nabaty, Tamir",2658,win,40,A05,Douglas,2019
+2611,white,"Melkumyan, Hrant",2650,lose,57,C65,Douglas,2019
+2611,black,"Dreev, Alexey",2662,draw,48,A49,Douglas,2019
+2611,white,"Cheparinov, Ivan",2670,draw,40,B92,Douglas,2019
+2611,black,"Demchenko, Anton",2655,win,39,B51,Douglas,2019
+2611,white,"Berkes, Ferenc",2667,draw,31,B07,Douglas,2019
+2611,black,"Sevian, Samuel",2654,draw,38,E21,Douglas,2019
+2611,white,"Zvjaginsev, Vadim",2644,draw,50,C11,Douglas,2019
+2611,black,"Dubov, Daniil",2699,draw,50,A06,Douglas,2019
+2611,white,"Vallejo Pons, Francisco",2694,draw,22,C16,Douglas,2019
+2611,black,"Grandelius, Nils",2691,draw,61,B51,Douglas,2019
+2432,black,"Anton Guijarro, David",2724,lose,37,A15,Khanty-Mansiysk,2019
+2432,white,"Anton Guijarro, David",2724,draw,55,C65,Khanty-Mansiysk,2019
+2611,white,"Anton Guijarro, David",2674,win,56,C65,Khanty-Mansiysk,2019
+2611,black,"Anton Guijarro, David",2674,lose,39,A20,Khanty-Mansiysk,2019
+2616,black,"Wei, Yi",2737,lose,76,A45,ChangSha,2019
+2616,white,"Khademalsharieh, Sarasadat",2481,draw,59,C78,ChangSha,2019
+2616,white,"Cheparinov, Ivan",2666,lose,55,D90,ChangSha,2019
+2603,white,"Vidit, Santosh Gujrathi",2707,win,40,B23,Xingtai,2019
+2593,black,"Sarana, Alexey",2630,lose,84,E10,Moscow,2019
+2593,white,"Mamedov, Rauf",2703,win,35,B36,Moscow,2019
+2593,black,"Harika, Dronavalli",2471,draw,15,A04,Moscow,2019
+2593,black,"Korobov, Anton",2687,draw,54,E21,Moscow,2019
+2593,black,"Alekseenko, Kirill",2634,win,57,C88,Moscow,2019
+2574,white,"Maghsoodloo, Parham",2636,lose,52,E10,Abu Dhabi,2018
+2574,white,"Akopian, Vladimir",2655,draw,63,A61,Abu Dhabi,2018
+2574,white,"Mammadzada, Gunay",2426,win,45,B23,Abu Dhabi,2018
+2574,black,"Wang, Hao",2711,lose,61,C78,Abu Dhabi,2018
+2568,white,"Wang, Hao",2707,lose,42,E10,Sharjah,2018
+2568,black,"Naiditsch, Arkadij",2701,lose,84,C77,Sharjah,2018
+2568,white,"Kryvoruchko, Yuriy",2703,draw,40,E10,Sharjah,2018
+2568,white,"Safarli, Eltaj",2653,lose,47,D90,Dubai,2018
+2568,black,"Amin, Bassem",2700,draw,31,A07,Dubai,2018
+2568,black,"Rakhmanov, Aleksandr",2652,win,52,A07,Dubai,2018
+2568,black,"Sethuraman, SP.",2631,lose,33,A06,Dubai,2018
+2568,white,"Anton Guijarro, David",2653,win,49,D45,Dubai,2018
+2573,white,"Sargissian, Gabriel",2677,lose,50,E10,Moscow,2018
+2573,white,"Najer, Evgeniy",2683,lose,35,E11,Moscow,2018
+2573,black,"Vidit, Santosh Gujrathi",2723,draw,30,D70,Moscow,2018
+2573,white,"Gunina, Valentina",2502,win,82,B12,Gibraltar,2018
+2573,white,"Duda, Jan Krzysztof",2724,draw,49,D85,Gibraltar,2018
+2573,black,"Saduakassova, Dinara",2470,win,31,D31,Gibraltar,2018
+2573,white,"Wang, Hao",2711,lose,57,E10,Gibraltar,2018
