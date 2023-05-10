@@ -177,3 +177,5 @@ def lambda_handler(event, context):
     n = event['n']
 
     main(s3_client, bucket_url, n)
+
+lambda_handler({'n': 1}, None)
