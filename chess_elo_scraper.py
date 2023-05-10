@@ -1,5 +1,6 @@
 import re
 import pandas as pd
+import numpy as np
 from urllib.request import Request, urlopen
 from tqdm import tqdm
 from time import time
