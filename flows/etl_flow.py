@@ -1,5 +1,6 @@
 from pathlib import Path 
 import pandas as pd
+import pandas_gbq
 import boto3
 import json
 from datetime import date
@@ -13,22 +14,22 @@ from prefect_gcp import GcpCredentials
 def lambda_scrape(n: int=1) -> None:
     """with AWS lambda Scrape chess data from web and put it in S3"""
     
-    # aws_credentials_block = AwsCredentials.load("chess-elo-cred")
+    aws_credentials_block = AwsCredentials.load("chess-elo-cred")
     
-    # s3_session = aws_credentials_block.get_boto3_session()
+    s3_session = aws_credentials_block.get_boto3_session()
     
-    # lambda_client = s3_session.client('lambda')
+    lambda_client = s3_session.client('lambda')
 
-    # test_event = dict({
-    #     'n': n
-    # })
+    test_event = dict({
+        'n': n
+    })
 
-    # response = lambda_client.invoke(
-    #     FunctionName='scrape_elo_chess',
-    #     Payload=json.dumps(test_event),
-    #     InvocationType='Event',
-    #     LogType='Tail'
-    # )
+    response = lambda_client.invoke(
+        FunctionName='scrape_elo_chess',
+        Payload=json.dumps(test_event),
+        InvocationType='Event',
+        LogType='Tail'
+    )
     
     for i in tqdm(range(200)):
         time.sleep(n)
@@ -113,8 +114,25 @@ def write_to_bq(df: pd.DataFrame) -> None:
         destination_table='chess_elo.players',
         project_id='esoteric-code-377203',
         credentials=gcp_credentials_block.get_credentials_from_service_account(),
+        chunksize=1000,
         if_exists='replace'
     )
+
+    # bq_client = gcp_credentials_block.get_bigquery_client()
+
+    # job = bq_client.load_table_from_dataframe(
+    #     df, 
+    #     'chess_elo.players')
+    # print(job.result())
+
+
+    # pandas_gbq.to_gbq(
+    #     df, 
+    #     destination_table='chess_elo.players',
+    #     project_id='esoteric-code-377203',
+    #     credentials=gcp_credentials_block.get_credentials_from_service_account(),
+    #     chunksize=1000,
+    #     if_exists='replace')
 
 
 @flow()
