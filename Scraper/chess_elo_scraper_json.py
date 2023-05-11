@@ -122,16 +122,20 @@ class Chess_Elo(object):
                             lst.append(val_temp)
                     except: 
                         pass
-
                 try:
-                    if bool(re.search('^[A-Z]{1}[0-9]{2}$', lst[7])):
-                        lst.insert(8, None)
-
-                    else:
-                        lst.insert(7, None)
-
+                    for i, val in zip(list(json_temp.keys()), lst):
+                        json_temp[i].append(val)
+                    pass
                 except:
-                    lst.insert(7, None)
+                    try:
+                        if bool(re.search('^[A-Z]{1}[0-9]{2}$', lst[7])):
+                            lst.insert(8, None)
+
+                        else:
+                            lst.insert(7, None)
+
+                    except:
+                        lst.insert(7, None)
 
                 
                 for i, val in zip(list(json_temp.keys()), lst):
