@@ -2,12 +2,14 @@ from pathlib import Path
 import pandas as pd
 import boto3
 import json
+from datetime import date
 from time import time
 from prefect import flow, task
 from prefect_aws import AwsCredentials
+from prefect_gcp import GcpCredentials
 
 @task(log_prints=True, retries=3)
-def lambda_scrape(key: str, secret: str, region: str, n: int=10, aws_client):
+def lambda_scrape(aws_client, n: int=10) -> None:
     """with AWS lambda Scrape chess data from web and put it in S3"""
     
     
@@ -28,15 +30,15 @@ def lambda_scrape(key: str, secret: str, region: str, n: int=10, aws_client):
     
     print("Data is scraped")
     
-    return 
+
     
 
 @task(log_prints=True, retries=3)
-def fetch(dataset_url: str, bucket_name: str, aws_client) -> dict:
+def fetch_from_s3(date: str, aws_client) -> dict:
     """Fetching data from S3 and return it as JSON"""
     
-    BUCKET = bucket_name
-    PATH = dataset_url
+    BUCKET = 'chess-elo-bucket'
+    PATH = f's3://chess-elo-bucket/data_json/{date}.json'
     
     s3_client = aws_client.client('s3')
 
@@ -62,7 +64,7 @@ def clean(df: pd.DataFrame) -> pd.DataFrame:
     return df[['rating', 'play_as', 'opponent', 'opponent_rating', 'result', 'move', 'ECO', 'site', 'year']]
 
 
-def chess_result_player(color, result):
+def chess_result_player(color: str, result: str) -> str:
     game_result = result.split('-')
     if color == 'white':
         if game_result[0] == '1':
@@ -80,7 +82,7 @@ def chess_result_player(color, result):
             return 'draw'
 
 
-def play_as_decider(player_name_dependent ,player_name_control):
+def play_as_decider(player_name_dependent: str ,player_name_control: str) -> str:
     try:
         if player_name_dependent == player_name_control:
             return 'white'
@@ -89,8 +91,23 @@ def play_as_decider(player_name_dependent ,player_name_control):
     except:
         return 'black'
 
-    
-@flow
+
+@task()
+def write_to_bq(df: pd.DataFrame) -> None:
+    """Write data into BigQuery"""
+
+    gcp_credentials_block = GcpCredentials.load("de-zoomcamp-gcp-credential")
+
+    df.to_gbq(
+        destination_table='chess_elo.players',
+        project_id='esoteric-code-377203',
+        credentials=gcp_credentials_block.get_credentials_from_service_account(),
+        index=False,
+        if_exists='replace'
+    )
+
+
+@flow()
 def create_df_from_json(json: dict) -> pd.DataFrame:
     """Create pandas dataframe from JSON"""
     
@@ -105,5 +122,29 @@ def create_df_from_json(json: dict) -> pd.DataFrame:
         
     return df
 
-@flow
-def write_redshift()
+
+@flow()
+def etl_s3_to_gcs(url, session):
+
+    json_data = fetch_from_s3(url, session)
+    df = create_df_from_json(json_data)
+    write_to_bq(df)
+
+@flow()
+def chess_elo_parent_flow(url, session):
+
+    lambda_scrape(session)
+
+    etl_s3_to_gcs(url, session)
+
+if __name__ == '__main__':
+
+    date_today = str(date.today())
+
+    aws_credentials_block = AwsCredentials.load("chess-elo-cred")
+    s3_session = aws_credentials_block.get_boto3_session()
+
+    chess_elo_parent_flow(date_today, s3_session)
+
+
+
