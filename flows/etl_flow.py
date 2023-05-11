@@ -3,30 +3,35 @@ import pandas as pd
 import boto3
 import json
 from datetime import date
-from time import time
+import time
+from tqdm import tqdm
 from prefect import flow, task
 from prefect_aws import AwsCredentials
 from prefect_gcp import GcpCredentials
 
 @task(log_prints=True, retries=3)
-def lambda_scrape(aws_client, n: int=10) -> None:
+def lambda_scrape(n: int=1) -> None:
     """with AWS lambda Scrape chess data from web and put it in S3"""
     
+    # aws_credentials_block = AwsCredentials.load("chess-elo-cred")
     
-    lambda_client = aws_client.client('lambda')
-
-    test_event = dict({
-        'n': n
-    })
-
-    response = lambda_client.invoke(
-        FunctionName='scrape_elo_chess',
-        Payload=json.dumps(test_event),
-        InvocationType='Event',
-        LogType='Tail'
-    )
+    # s3_session = aws_credentials_block.get_boto3_session()
     
-    time.sleep(90 * n)
+    # lambda_client = s3_session.client('lambda')
+
+    # test_event = dict({
+    #     'n': n
+    # })
+
+    # response = lambda_client.invoke(
+    #     FunctionName='scrape_elo_chess',
+    #     Payload=json.dumps(test_event),
+    #     InvocationType='Event',
+    #     LogType='Tail'
+    # )
+    
+    for i in tqdm(range(200)):
+        time.sleep(n)
     
     print("Data is scraped")
     
@@ -34,13 +39,17 @@ def lambda_scrape(aws_client, n: int=10) -> None:
     
 
 @task(log_prints=True, retries=3)
-def fetch_from_s3(date: str, aws_client) -> dict:
+def fetch_from_s3(date_choose: str) -> dict:
     """Fetching data from S3 and return it as JSON"""
     
     BUCKET = 'chess-elo-bucket'
-    PATH = f's3://chess-elo-bucket/data_json/{date}.json'
+    PATH = f'data_json/{date_choose}.json'
     
-    s3_client = aws_client.client('s3')
+    aws_credentials_block = AwsCredentials.load("chess-elo-cred")
+    
+    s3_session = aws_credentials_block.get_boto3_session()
+
+    s3_client = s3_session.client('s3')
 
     content_object = s3_client.get_object(Bucket=BUCKET, Key=PATH) 
     file_content = content_object["Body"].read().decode('utf-8')
@@ -50,18 +59,20 @@ def fetch_from_s3(date: str, aws_client) -> dict:
         
         
 @task(log_prints=True, retries=3)
-def clean(df: pd.DataFrame) -> pd.DataFrame:
+def clean(df: pd.DataFrame, n:int) -> pd.DataFrame:
     """Cleaning the data"""
 
     player_name = df['white_player'].mode()
 
+    df['player_name'] = player_name[0]
+    df['ranking'] = n+1
     df['play_as'] = df['white_player'].apply(lambda x: play_as_decider(x, player_name[0]))
     df['rating'] = df.apply(lambda x: x['white_player_rating'] if x['play_as'] == 'white' else x['black_player_rating'], axis=1)
     df['opponent'] = df.apply(lambda x: x['white_player'] if x['play_as'] == 'black' else x['black_player'], axis=1)
     df['opponent_rating'] = df.apply(lambda x: x['black_player_rating'] if x['play_as'] == 'white' else x['white_player_rating'], axis=1)
     df['result'] = df.apply(lambda x: chess_result_player(x['play_as'], x['game_result']), axis=1)
 
-    return df[['rating', 'play_as', 'opponent', 'opponent_rating', 'result', 'move', 'ECO', 'site', 'year']]
+    return df[['player_name', 'ranking', 'rating', 'play_as', 'opponent', 'opponent_rating', 'result', 'move', 'ECO', 'site', 'year']]
 
 
 def chess_result_player(color: str, result: str) -> str:
@@ -96,55 +107,52 @@ def play_as_decider(player_name_dependent: str ,player_name_control: str) -> str
 def write_to_bq(df: pd.DataFrame) -> None:
     """Write data into BigQuery"""
 
-    gcp_credentials_block = GcpCredentials.load("de-zoomcamp-gcp-credential")
+    gcp_credentials_block = GcpCredentials.load("zoomcamp-gcp-creds")
 
     df.to_gbq(
         destination_table='chess_elo.players',
         project_id='esoteric-code-377203',
         credentials=gcp_credentials_block.get_credentials_from_service_account(),
-        index=False,
         if_exists='replace'
     )
 
 
 @flow()
-def create_df_from_json(json: dict) -> pd.DataFrame:
+def create_df_from_json(json_data) -> pd.DataFrame:
     """Create pandas dataframe from JSON"""
     
-    list_name = list(json.keys())
+    list_name = list(json_data.keys())
     
     df = pd.DataFrame()
     
-    for name in list_name:
-        df_temp = pd.read_json(json[name])
-        df_temp = clean(df_temp)
+    for n, name in enumerate(list_name):
+        df_temp = pd.DataFrame(json_data[name])
+        df_temp = clean(df_temp, n)
         df = pd.concat([df, df_temp])
         
     return df
 
 
 @flow()
-def etl_s3_to_gcs(url, session):
+def etl_s3_to_gcs(date):
 
-    json_data = fetch_from_s3(url, session)
+    json_data = fetch_from_s3(date)
     df = create_df_from_json(json_data)
     write_to_bq(df)
 
 @flow()
-def chess_elo_parent_flow(url, session):
+def chess_elo_parent_flow(url, ):
 
-    lambda_scrape(session)
+    lambda_scrape()
 
-    etl_s3_to_gcs(url, session)
+    etl_s3_to_gcs(url)
 
 if __name__ == '__main__':
 
     date_today = str(date.today())
 
-    aws_credentials_block = AwsCredentials.load("chess-elo-cred")
-    s3_session = aws_credentials_block.get_boto3_session()
 
-    chess_elo_parent_flow(date_today, s3_session)
+    chess_elo_parent_flow(date_today)
 
 
 
