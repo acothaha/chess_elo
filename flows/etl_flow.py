@@ -1,6 +1,5 @@
 from pathlib import Path 
 import pandas as pd
-import pandas_gbq
 import boto3
 import json
 from datetime import date
@@ -159,18 +158,20 @@ def etl_s3_to_gcs(date):
     write_to_bq(df)
 
 @flow()
-def chess_elo_parent_flow(url, ):
+def chess_elo_parent_flow(url, n):
 
-    lambda_scrape()
+    for i in range(n):
 
-    etl_s3_to_gcs(url)
+        lambda_scrape(n)
+
+        etl_s3_to_gcs(url)
 
 if __name__ == '__main__':
 
     date_today = str(date.today())
+    n = 10
 
-
-    chess_elo_parent_flow(date_today)
+    chess_elo_parent_flow(date_today, 10)
 
 
 

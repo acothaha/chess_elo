@@ -22,15 +22,15 @@ def main(s3_client, path_init='data', n=100):
 
     name_list_dict = name_list(n)
     date = datetime.today().strftime('%Y-%m-%d')
-    path = f"{path_init}/{date}.json"
     json_result = {}
 
     # Path(path).mkdir(parents=True, exist_ok=True)
 
     for name, values in zip(name_list_dict.keys(), name_list_dict.values()):
         
-        temp = Chess_Elo(values[0], values[-1], path)
+        temp = Chess_Elo(values[0], values[-1])
         json_result[name] = temp.scrape_chess_elo()
+        path = f"{path_init}/{date}/{name}.json"
 
 
     response = s3_client.put_object( 
@@ -55,8 +55,8 @@ def name_list(n):
 
     webpage = web_byte.decode('utf-8')
 
-    result_url = re.findall('(?<=search=)(.*)(?=" title=")', webpage)[:n]
-    result_file_name = re.findall('(?<=<a href="/players/)(.*)(?=">)', webpage)[:n]
+    result_url = re.findall('(?<=search=)(.*)(?=" title=")', webpage)[n]
+    result_file_name = re.findall('(?<=<a href="/players/)(.*)(?=">)', webpage)[n]
     result_name = []
     for name in result_file_name:
         result_name.append(re.findall(f'(?<=<a href="/players/{name}">)(.*)(?=</a>)', webpage)[0])
@@ -67,10 +67,9 @@ def name_list(n):
 
 
 class Chess_Elo(object):
-    def __init__(self, name, url, path):
+    def __init__(self, name, url):
         self.name = name
         self.url = url
-        self.path = path
         self.n = 0
 
     def tqdm_generator(self):
