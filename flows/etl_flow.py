@@ -31,7 +31,7 @@ def lambda_scrape(n: int=1) -> None:
     )
     
     for i in tqdm(range(200)):
-        time.sleep(n)
+        time.sleep(1)
     
     print("Data is scraped")
     
@@ -50,7 +50,7 @@ def lambda_ranking(n: int=100) -> None:
     })
 
     response = lambda_client.invoke(
-        FunctionName='scrape_elo_chess',
+        FunctionName='chess_elo_ranking',
         Payload=json.dumps(test_event),
         InvocationType='Event',
         LogType='Tail'
@@ -192,9 +192,9 @@ def chess_elo_parent_flow(url, n):
 if __name__ == '__main__':
 
     date_today = str(date.today())
-    n = 10
+    n = 1
 
-    chess_elo_parent_flow(date_today, 10)
+    chess_elo_parent_flow(date_today, n)
 
 
 
