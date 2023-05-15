@@ -13,25 +13,25 @@ from prefect_gcp import GcpCredentials
 def lambda_scrape(n: int=1) -> None:
     """with AWS lambda Scrape chess data from web and put it in S3"""
     
-    aws_credentials_block = AwsCredentials.load("chess-elo-cred")
+    # aws_credentials_block = AwsCredentials.load("chess-elo-cred")
     
-    s3_session = aws_credentials_block.get_boto3_session()
+    # s3_session = aws_credentials_block.get_boto3_session()
     
-    lambda_client = s3_session.client('lambda')
+    # lambda_client = s3_session.client('lambda')
 
-    test_event = dict({
-        'n': n
-    })
+    # test_event = dict({
+    #     'n': n
+    # })
 
-    response = lambda_client.invoke(
-        FunctionName='scrape_elo_chess',
-        Payload=json.dumps(test_event),
-        InvocationType='Event',
-        LogType='Tail'
-    )
+    # response = lambda_client.invoke(
+    #     FunctionName='scrape_elo_chess',
+    #     Payload=json.dumps(test_event),
+    #     InvocationType='Event',
+    #     LogType='Tail'
+    # )
     
-    for i in tqdm(range(200)):
-        time.sleep(1)
+    # for i in tqdm(range(200)):
+    #     time.sleep(1)
     
     print("Data is scraped")
     
@@ -60,12 +60,30 @@ def lambda_ranking(n: int=100) -> None:
     
 
 @task(log_prints=True, retries=3)
-def fetch_from_s3(date_choose: str) -> dict:
+def fetch_ranking_from_s3(date_choose: str) -> dict:
     """Fetching data from S3 and return it as JSON"""
     
     BUCKET = 'chess-elo-bucket'
-    PATH = f'data_json/{date_choose}.json'
+    PATH = f'data_json/{date_choose}/ranking.json'
     
+    aws_credentials_block = AwsCredentials.load("chess-elo-cred")
+    
+    s3_session = aws_credentials_block.get_boto3_session()
+
+    s3_client = s3_session.client('s3')
+
+    content_object = s3_client.get_object(Bucket=BUCKET, Key=PATH) 
+    file_content = content_object["Body"].read().decode('utf-8')
+    json_content = json.loads(file_content)
+
+    return json_content
+
+@task(log_prints=True, retries=3)
+def fetch_elo_from_s3(date_choose: str, name: str) -> dict:
+    """Fetching data from S3 and return it as JSON"""
+    
+    BUCKET = 'chess-elo-bucket'
+    PATH = f'data_json/{date_choose}/{name}.json'
     aws_credentials_block = AwsCredentials.load("chess-elo-cred")
     
     s3_session = aws_credentials_block.get_boto3_session()
@@ -168,22 +186,28 @@ def create_df_from_json(json_data) -> pd.DataFrame:
         df_temp = clean(df_temp, n)
         df = pd.concat([df, df_temp])
         
+    
     return df
 
 
 @flow()
 def etl_s3_to_gcs(date):
 
-    json_data = fetch_from_s3(date)
-    df = create_df_from_json(json_data)
+    json_temp = {}
+    ranking = fetch_ranking_from_s3(date)
+
+    for key, value in zip(ranking.keys(), ranking.values()):
+        json_data = fetch_elo_from_s3(date, value[0])
+        json_temp[key] = json_data[key]
+    
+    df = create_df_from_json(json_temp)
     write_to_bq(df)
 
 @flow()
 def chess_elo_parent_flow(url, n):
 
     for i in range(n):
-
-        lambda_scrape(n)
+        lambda_scrape(i+1)
 
     lambda_ranking(n)
 
@@ -192,7 +216,7 @@ def chess_elo_parent_flow(url, n):
 if __name__ == '__main__':
 
     date_today = str(date.today())
-    n = 1
+    n = 3
 
     chess_elo_parent_flow(date_today, n)
 
