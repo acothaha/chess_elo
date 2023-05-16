@@ -55,6 +55,9 @@ def lambda_ranking(n: int=100) -> None:
         InvocationType='Event',
         LogType='Tail'
     )
+
+    for i in tqdm(range(10)):
+        time.sleep(1)
     
     print("Ranking is scraped")
     
@@ -144,7 +147,7 @@ def play_as_decider(player_name_dependent: str ,player_name_control: str) -> str
 
 @task()
 def write_to_bq(df: pd.DataFrame) -> None:
-    """Write data into BigQuery"""
+    """Write data into BigQuery from dataframe"""
 
     gcp_credentials_block = GcpCredentials.load("zoomcamp-gcp-creds")
 
@@ -201,7 +204,6 @@ def etl_s3_to_gcs(date):
         json_temp[key] = json_data[key]
     
     df = create_df_from_json(json_temp)
-    print(df['player_name'].unique())
     write_to_bq(df)
 
 @flow()
@@ -217,6 +219,7 @@ def chess_elo_parent_flow(url, n):
 if __name__ == '__main__':
 
     date_today = str(date.today())
+    # date_today = '2023-05-15'
     n = 10
 
     chess_elo_parent_flow(date_today, n)
