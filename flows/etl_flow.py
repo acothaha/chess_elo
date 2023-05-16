@@ -147,7 +147,7 @@ def play_as_decider(player_name_dependent: str ,player_name_control: str) -> str
 
 @task()
 def write_to_bq(df: pd.DataFrame) -> None:
-    """Write data into BigQuery"""
+    """Write data into BigQuery from dataframe"""
 
     gcp_credentials_block = GcpCredentials.load("zoomcamp-gcp-creds")
 
@@ -209,8 +209,8 @@ def etl_s3_to_gcs(date):
 @flow()
 def chess_elo_parent_flow(url, n):
 
-    # for i in range(n):
-    #     lambda_scrape(i+1)
+    for i in range(n):
+        lambda_scrape(i+1)
 
     lambda_ranking(n)
 
@@ -218,8 +218,8 @@ def chess_elo_parent_flow(url, n):
 
 if __name__ == '__main__':
 
-    # date_today = str(date.today())
-    date_today = '2023-05-15'
+    date_today = str(date.today())
+    # date_today = '2023-05-15'
     n = 10
 
     chess_elo_parent_flow(date_today, n)
