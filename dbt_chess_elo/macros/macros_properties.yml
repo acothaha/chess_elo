@@ -8,3 +8,19 @@ macros:
       - name: payment_type
         description: > 
           year of the match was held
+  - name: null_handle
+    description: >
+      This macro will handle the year column if there is error
+    arguments:
+      - name: value
+        description: > 
+          year of the match was held
+      - name: index1
+        description: > 
+          year of the match was held
+      - name: index2
+        description: > 
+          year of the match was held
+      - name: table
+        description: > 
+          year of the match was held
