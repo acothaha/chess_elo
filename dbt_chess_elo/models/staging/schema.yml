@@ -1,0 +1,14 @@
+
+version: 2
+
+sources:
+    - name: staging
+      database: esoteric-code-377203  # For bigquery
+      schema: chess_elo
+
+      # loaded_at_field: record_loaded_at
+      tables:
+        - name: players
+        - name: ECO_reference
+          freshness:
+            error_after: {count: 6, period: hour}
