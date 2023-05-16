@@ -22,7 +22,8 @@ select
     cast(move as smallint) as move,
     cast(ECO as string) as ECO,
     cast(site as string) as site,
-    {{ year_handler('year') }} as year
+    {{ year_handler('year') }} as year,
+    rn
     
 from chess_elo
 

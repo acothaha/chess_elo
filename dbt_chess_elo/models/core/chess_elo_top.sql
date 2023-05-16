@@ -24,6 +24,7 @@ select
     ECO_referece.name,
     ECO_referece.opening_moves,
     chess_player.site, 
-    chess_player.year
+    chess_player.year,
+    chess_player.rn
 from chess_player
     LEFT JOIN ECO_referece ON chess_player.ECO = ECO_referece.eco_code
