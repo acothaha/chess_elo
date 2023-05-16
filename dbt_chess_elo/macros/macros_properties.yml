@@ -1,0 +1,10 @@
+version: 2
+
+macros:
+  - name: year_handler
+    description: >
+      This macro will handle the year column if there is error
+    arguments:
+      - name: payment_type
+        description: > 
+          year of the match was held
