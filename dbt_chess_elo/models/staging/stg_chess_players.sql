@@ -6,6 +6,7 @@
 with chess_elo as 
 (
   select *,
+  count(rating) over (order by ranking, rn) as _grp
   from {{ source('staging','players') }}
 )
 
@@ -13,7 +14,7 @@ select
     concat(rn, "-", lower(regexp_replace(player_name, '[^A-ZÀ-Ö]', ''))) as id,
     cast(player_name as string) as player_name,
     cast(ranking as smallint) as ranking,
-    cast(rating as integer) as rating,
+    first_value(rating) over (partition by _grp order by ranking, rn) as rating,
     cast(play_as as string) as play_as,
     cast(opponent as string) as opponent,
     cast(opponent_rating as integer) as opponent_rating,
@@ -25,4 +26,4 @@ select
     cast(rn as integer) as rn,
     
 from chess_elo
-ORDER BY ranking, rn
+ORDER BY ranking, rn desc
