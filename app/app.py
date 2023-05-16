@@ -2,6 +2,8 @@ import streamlit as st
 from streamlit_extras.switch_page_button import switch_page
 import base64
 from io import StringIO
+from google.cloud import bigquery
+
 
 st.set_page_config(layout="wide", 
     page_title="testff gan", 
