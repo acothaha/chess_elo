@@ -14,7 +14,7 @@ select
     concat(rn, "-", lower(regexp_replace(player_name, '[^A-ZÀ-Ö]', ''))) as id,
     cast(player_name as string) as player_name,
     cast(ranking as smallint) as ranking,
-    first_value(rating) over (partition by _grp order by ranking, rn) as rating,
+    cast(first_value(rating) over (partition by _grp order by ranking, rn) as integer) as rating,
     cast(play_as as string) as play_as,
     cast(opponent as string) as opponent,
     cast(opponent_rating as integer) as opponent_rating,
