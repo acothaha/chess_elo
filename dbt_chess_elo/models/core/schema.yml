@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: chess_elo_top
+    description: >
+      list of top n chess players with their historical matches. 

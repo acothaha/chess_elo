@@ -12,3 +12,20 @@ sources:
         - name: ECO_reference
           freshness:
             error_after: {count: 6, period: hour}
+
+models:
+  - name: stg_chess_players
+    description: >
+      Records of all matches played by the top n chess player of the world. Including the color they were playing with, the result, the opponent, 
+      the ratings, the openining and the site.
+    columns:
+        - name: tripid
+          description: Primary key for this table, generated with a concatenation of vendorid+pickup_datetime
+        - name: VendorID 
+          description: > 
+              A code indicating the TPEP provider that provided the record.
+              1= Creative Mobile Technologies, LLC; 
+              2= VeriFone Inc.
+        - name: pickup_datetime 
+          description: The date and time when the meter was engaged.
+        - name: dropoff_datetime

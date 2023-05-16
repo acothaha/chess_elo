@@ -6,10 +6,12 @@
 with chess_elo as 
 (
   select *,
+    row_number() over(partition by player_name) as rn
   from {{ source('staging','players') }}
 )
 
 select
+    concat(lower(regexp_replace(player_name, '[^A-ZÀ-Ö]', '')), rn) as id,
     cast(player_name as string) as player_name,
     cast(ranking as smallint) as ranking,
     cast(rating as integer) as rating,
@@ -20,6 +22,7 @@ select
     cast(move as smallint) as move,
     cast(ECO as string) as ECO,
     cast(site as string) as site,
-    cast(year as smallint) as year
-
+    {{ year_handler('year') }} as year
+    
 from chess_elo
+
