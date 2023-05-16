@@ -113,8 +113,8 @@ def clean(df: pd.DataFrame, n:int) -> pd.DataFrame:
     df['opponent'] = df.apply(lambda x: x['white_player'] if x['play_as'] == 'black' else x['black_player'], axis=1)
     df['opponent_rating'] = df.apply(lambda x: x['black_player_rating'] if x['play_as'] == 'white' else x['white_player_rating'], axis=1)
     df['result'] = df.apply(lambda x: chess_result_player(x['play_as'], x['game_result']), axis=1)
-
-    return df[['player_name', 'ranking', 'rating', 'play_as', 'opponent', 'opponent_rating', 'result', 'move', 'ECO', 'site', 'year']]
+    df['rn'] = range(1, df.shape[0]+1)
+    return df[['player_name', 'ranking', 'rating', 'play_as', 'opponent', 'opponent_rating', 'result', 'move', 'ECO', 'site', 'year', 'rn']]
 
 
 def chess_result_player(color: str, result: str) -> str:
@@ -209,8 +209,8 @@ def etl_s3_to_gcs(date):
 @flow()
 def chess_elo_parent_flow(url, n):
 
-    for i in range(n):
-        lambda_scrape(i+1)
+    # for i in range(n):
+    #     lambda_scrape(i+1)
 
     lambda_ranking(n)
 
@@ -218,8 +218,8 @@ def chess_elo_parent_flow(url, n):
 
 if __name__ == '__main__':
 
-    date_today = str(date.today())
-    # date_today = '2023-05-15'
+    # date_today = str(date.today())
+    date_today = '2023-05-15'
     n = 10
 
     chess_elo_parent_flow(date_today, n)
