@@ -4,7 +4,7 @@ import base64
 from io import StringIO
 
 st.set_page_config(layout="wide", 
-    page_title="test gan", 
+    page_title="testff gan", 
     )
 # CSS style
 st.markdown('''
