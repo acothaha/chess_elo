@@ -3,7 +3,10 @@ from streamlit_extras.switch_page_button import switch_page
 import base64
 from io import StringIO
 from google.cloud import bigquery
-
+from google.oauth2 import service_account
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
 
 st.set_page_config(layout="wide", 
     page_title="testff gan", 
@@ -65,7 +68,45 @@ with c1:
 
 
 
+credentials = service_account.Credentials.from_service_account_file('cred_google.json')
+project_id = 'esoteric-code-377203'
+client = bigquery.Client(credentials=credentials, project=project_id)
 
+sql = """
+    SELECT 
+        player_name,
+        ranking, 
+        rating,
+        play_as,
+        opponent,
+        opponent_rating,
+        result,
+        move,
+        name,
+        opening_moves,
+        year,
+        rn
+    FROM 
+        `esoteric-code-377203.chess_elo_production.chess_elo_top`
+    ORDER BY 
+        ranking, rn
+    """
+
+df = client.query(sql).to_dataframe()
+
+name = df['player_name'].unique()
+
+
+
+
+pick_name = st.selectbox('Pick one', name)
+
+df_pick = df.loc[df['player_name'] == pick_name].reset_index(drop=True)
+st.dataframe(df_pick)
+fig, ax = plt.subplots()
+ax.plot(df_pick['rating'])
+
+st.pyplot(fig)
 
 # token = "b788ee6044809ec4c425ec29f08a1f5f79f6b516"
 
