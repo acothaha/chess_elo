@@ -6,6 +6,7 @@ from google.cloud import bigquery
 from google.oauth2 import service_account
 import pandas as pd
 import matplotlib.pyplot as plt
+import plotly.express as px
 import numpy as np
 
 st.set_page_config(layout="wide", 
@@ -98,15 +99,33 @@ name = df['player_name'].unique()
 
 
 
-
 pick_name = st.selectbox('Pick one', name)
 
 df_pick = df.loc[df['player_name'] == pick_name].reset_index(drop=True)
 st.dataframe(df_pick)
-fig, ax = plt.subplots()
-ax.plot(df_pick['rating'])
 
-st.pyplot(fig)
+c3, c4, c5 = st.columns((1, 4, 2))
+
+
+with c4:
+    st.markdown(f'''
+    # testing {pick_name}
+    ''', unsafe_allow_html=True)
+
+
+    if len(df['year'].unique()) < 10:
+        year_plot_choose = list(df['year'].unique())
+
+    else:
+        year_plot_choose = df['year'].unique()[:10]
+
+    # ax.plot(df_pick.loc[df_pick['year'].isin(year_plot_choose), 'rating'])
+    # ax.invert_xaxis()
+    # st.pyplot(fig)
+
+    fig = px.line(df_pick.loc[df_pick['year'].isin(year_plot_choose)], x="year", y="rating", title='Life expectancy in Canada')
+    st.plotly_chart(fig, theme="streamlit", use_container_width=True)
+
 
 # token = "b788ee6044809ec4c425ec29f08a1f5f79f6b516"
 

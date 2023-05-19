@@ -1,4 +1,5 @@
 from pathlib import Path 
+import requests
 import pandas as pd
 import boto3
 import json
@@ -145,7 +146,7 @@ def play_as_decider(player_name_dependent: str ,player_name_control: str) -> str
         return 'black'
 
 
-@task()
+@task(log_prints=True, retries=3)
 def write_to_bq(df: pd.DataFrame) -> None:
     """Write data into BigQuery from dataframe"""
 
@@ -175,6 +176,18 @@ def write_to_bq(df: pd.DataFrame) -> None:
     #     chunksize=1000,
     #     if_exists='replace')
 
+@task(log_prints=True, retries=3)
+def invoke_dbt(df: pd.DataFrame) -> None:
+    """Write data into BigQuery from dataframe"""
+
+    job_id = '300681'
+    account_id = '149500'
+    api_key = 'b8ebe8ac1f515859695bfee398aadb3200b96a2c'
+
+    url = f'https://cloud.getdbt.com/api/v2/accounts/149500/jobs/{job_id}/run/'
+    myobj = {'somekey': 'somevalue'}
+
+    x = requests.post(url, json = myobj)
 
 @flow()
 def create_df_from_json(json_data) -> pd.DataFrame:
@@ -209,8 +222,8 @@ def etl_s3_to_gcs(date):
 @flow()
 def chess_elo_parent_flow(url, n):
 
-    # for i in range(n):
-    #     lambda_scrape(i+1)
+    for i in range(n):
+        lambda_scrape(i+1)
 
     lambda_ranking(n)
 
@@ -218,8 +231,8 @@ def chess_elo_parent_flow(url, n):
 
 if __name__ == '__main__':
 
-    # date_today = str(date.today())
-    date_today = '2023-05-15'
+    date_today = str(date.today())
+    # date_today = '2023-05-15'
     n = 10
 
     chess_elo_parent_flow(date_today, n)
