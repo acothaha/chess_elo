@@ -1,4 +1,4 @@
--- stg_chess_player.sql
+ate-- stg_chess_player.sql
 
 {{ config(materialized="view") }}
 
@@ -22,7 +22,8 @@ select
     cast(move as smallint) as move,
     cast(ECO as string) as ECO,
     cast(site as string) as site,
-    {{ year_handler('year') }} as year,
+    -- {{ year_handler('year') }} as year,
+    cast(date as DATE) as date,
     cast(rn as integer) as rn,
     
 from chess_elo
