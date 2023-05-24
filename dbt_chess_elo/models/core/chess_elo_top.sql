@@ -4,11 +4,6 @@
 with chess_player as (
     select *
     from {{ ref('stg_chess_players') }}
-),
-
-ECO_referece as (
-    select *
-    from {{ ref('stg_ECO_reference') }}
 )
 
 select
@@ -21,10 +16,7 @@ select
     chess_player.opponent_rating, 
     chess_player.result, 
     chess_player.move, 
-    ECO_referece.name,
-    ECO_referece.opening_moves,
     chess_player.site, 
-    chess_player.year,
+    chess_player.date,
     chess_player.rn
 from chess_player
-    LEFT JOIN ECO_referece ON chess_player.ECO = ECO_referece.eco_code
