@@ -1,3 +1,4 @@
 *.txt
+!requirement.txt
 *.json
 lambda_dependencies
