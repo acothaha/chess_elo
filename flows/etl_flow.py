@@ -14,25 +14,25 @@ from prefect_gcp import GcpCredentials
 def lambda_scrape(n: int=1) -> None:
     """with AWS lambda Scrape chess data from web and put it in S3"""
     
-    aws_credentials_block = AwsCredentials.load("chess-elo-cred")
+    # aws_credentials_block = AwsCredentials.load("chess-elo-cred")
     
-    s3_session = aws_credentials_block.get_boto3_session()
+    # s3_session = aws_credentials_block.get_boto3_session()
     
-    lambda_client = s3_session.client('lambda')
+    # lambda_client = s3_session.client('lambda')
 
-    test_event = dict({
-        'n': n
-    })
+    # test_event = dict({
+    #     'n': n
+    # })
 
-    response = lambda_client.invoke(
-        FunctionName='scrape_elo_chess',
-        Payload=json.dumps(test_event),
-        InvocationType='Event',
-        LogType='Tail'
-    )
+    # response = lambda_client.invoke(
+    #     FunctionName='scrape_elo_chess',
+    #     Payload=json.dumps(test_event),
+    #     InvocationType='Event',
+    #     LogType='Tail'
+    # )
     
-    for i in tqdm(range(200)):
-        time.sleep(1)
+    # for i in tqdm(range(200)):
+    #     time.sleep(1)
     
     print("Data is scraped")
     
@@ -115,7 +115,7 @@ def clean(df: pd.DataFrame, n:int) -> pd.DataFrame:
     df['opponent_rating'] = df.apply(lambda x: x['black_player_rating'] if x['play_as'] == 'white' else x['white_player_rating'], axis=1)
     df['result'] = df.apply(lambda x: chess_result_player(x['play_as'], x['game_result']), axis=1)
     df['rn'] = range(1, df.shape[0]+1)
-    return df[['player_name', 'ranking', 'rating', 'play_as', 'opponent', 'opponent_rating', 'result', 'move', 'ECO', 'site', 'year', 'rn']]
+    return df[['player_name', 'ranking', 'rating', 'play_as', 'opponent', 'opponent_rating', 'result', 'move', 'site', 'date', 'rn']]
 
 
 def chess_result_player(color: str, result: str) -> str:
@@ -231,8 +231,8 @@ def chess_elo_parent_flow(url, n):
 
 if __name__ == '__main__':
 
-    date_today = str(date.today())
-    # date_today = '2023-05-15'
+    # date_today = str(date.today())
+    date_today = '2023-05-23'
     n = 10
 
     chess_elo_parent_flow(date_today, n)
