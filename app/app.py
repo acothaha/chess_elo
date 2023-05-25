@@ -8,6 +8,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
 import numpy as np
+import datetime
 
 st.set_page_config(layout="wide", 
     page_title="testff gan", 
@@ -71,6 +72,7 @@ with c1:
 
 credentials = service_account.Credentials.from_service_account_file('cred_google.json')
 project_id = 'esoteric-code-377203'
+
 client = bigquery.Client(credentials=credentials, project=project_id)
 
 sql = """
@@ -83,9 +85,8 @@ sql = """
         opponent_rating,
         result,
         move,
-        name,
-        opening_moves,
-        year,
+        site,
+        date,
         rn
     FROM 
         `esoteric-code-377203.chess_elo_production.chess_elo_top`
@@ -96,34 +97,55 @@ sql = """
 df = client.query(sql).to_dataframe()
 
 name = df['player_name'].unique()
+c_name, c_choose = st.columns((10,2))
 
+with c_choose:
 
+    pick_name = st.selectbox('Pick one', name, label_visibility='hidden')
+with c_name:
 
-pick_name = st.selectbox('Pick one', name)
-
-df_pick = df.loc[df['player_name'] == pick_name].reset_index(drop=True)
-st.dataframe(df_pick)
+    st.markdown(f'''
+        # {pick_name}
+        ''', unsafe_allow_html=True)
 
 c3, c4, c5 = st.columns((1, 4, 2))
 
 
 with c4:
-    st.markdown(f'''
-    # testing {pick_name}
-    ''', unsafe_allow_html=True)
 
+    df_pick = df.loc[df['player_name'] == pick_name].reset_index(drop=True)
+    
 
-    if len(df['year'].unique()) < 10:
-        year_plot_choose = list(df['year'].unique())
+    c41, c42, c43, c44 = st.columns((1,0.13,1,3))
 
-    else:
-        year_plot_choose = df['year'].unique()[:10]
+    with c41:
+
+        start = st.date_input(
+                    'start date',
+                    value=df_pick['date'].min(),
+                    min_value=df_pick['date'].min(),
+                    max_value=df_pick['date'].max(),
+                    label_visibility='hidden' )
+    
+    with c42:
+        st.markdown(f'# -', unsafe_allow_html=True)
+
+    with c43:
+        end = st.date_input(
+                    'end date',
+                    value=df_pick['date'].max(),
+                    min_value=df_pick['date'].min(),
+                    max_value=df_pick['date'].max(),
+                    label_visibility='hidden')
 
     # ax.plot(df_pick.loc[df_pick['year'].isin(year_plot_choose), 'rating'])
     # ax.invert_xaxis()
     # st.pyplot(fig)
 
-    fig = px.line(df_pick.loc[df_pick['year'].isin(year_plot_choose)], x="year", y="rating", title='Life expectancy in Canada')
+    df_pick = df_pick.loc[(df['date'] >= start) & (df['date'] <= end)]
+    df_pick = df_pick.groupby(['date'])['rating'].last().reset_index()
+
+    fig = px.line(df_pick, x="date", y="rating", title='Life expectancy in Canada', markers=True)
     st.plotly_chart(fig, theme="streamlit", use_container_width=True)
 
 
