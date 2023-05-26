@@ -1,14 +1,18 @@
 import streamlit as st
 from streamlit_extras.switch_page_button import switch_page
 import base64
-from io import StringIO
+import json
+from urllib.request import Request, urlopen
+from io import StringIO, BytesIO
 from google.cloud import bigquery
 from google.oauth2 import service_account
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
 import numpy as np
+import boto3
 import datetime
+from PIL import Image
 
 st.set_page_config(layout="wide", 
     page_title="testff gan", 
@@ -35,8 +39,16 @@ st.markdown('''
     text-decoration-thickness: 5px;
     width: 100%;
 }
+.dashboard_title {
+font-size: 20px !important;
+font-weight: bold;
+text-align: right;
+}
+
+
 </style>
 ''', unsafe_allow_html=True)
+
 
 
 
@@ -68,7 +80,7 @@ with c1:
         '<p class="intro"><b>Commencez par choisir un dataset dans la section Dataset !</b></p>',
         unsafe_allow_html=True)
 
-
+## get 
 
 credentials = service_account.Credentials.from_service_account_file('cred_google.json')
 project_id = 'esoteric-code-377203'
@@ -96,7 +108,33 @@ sql = """
 
 df = client.query(sql).to_dataframe()
 
-name = df['player_name'].unique()
+## fetch bio data
+
+cred = []
+
+with open('credentials.txt') as f:
+    for row in f:
+        cred.append(row.rstrip('\n'))
+
+date_choose = datetime.datetime.today().strftime('%Y-%m-%d')
+
+BUCKET = 'chess-elo-bucket'
+PATH = f'data_json/{date_choose}/chess_bio.json'
+
+s3_client = boto3.client(
+    "s3",
+    aws_access_key_id=cred[0],
+    aws_secret_access_key=cred[1]
+)
+
+content_object = s3_client.get_object(Bucket=BUCKET, Key=PATH)
+
+file_content = content_object["Body"].read().decode('utf-8')
+bio_content = json.loads(file_content)
+
+## display
+
+name = (df.sort_values(by='ranking')['player_name']).unique()
 c_name, c_choose = st.columns((10,2))
 
 with c_choose:
@@ -108,17 +146,61 @@ with c_name:
         # {pick_name}
         ''', unsafe_allow_html=True)
 
-c3, c4, c5 = st.columns((1, 4, 2))
+bio_pick = bio_content[pick_name]
+
+c11, c12, c13, c14, c15 = st.columns((0.4, 0.2, 0.6, 0.25, 1))
 
 
-with c4:
+with c11:
+    st.text('')
+    req = Request(bio_pick['image'], headers={'User-Agent': 'Mozilla/5.0'})
+    web_byte = urlopen(req).read()
+    image_pick = Image.open(BytesIO(web_byte))
+    st.image(image_pick, width=250)
 
-    df_pick = df.loc[df['player_name'] == pick_name].reset_index(drop=True)
+with c12:
+    st.text('')
+
+    st.markdown(f'<p class="dashboard_title">Title</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="dashboard_title">Born</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="dashboard_title">Live Rating</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="dashboard_title">FIDE Rating</p>', unsafe_allow_html=True)
+
+
+with c13:
+    st.text('')
+
+    st.markdown(f'<p class="intro">{bio_pick["title"]}</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="intro">{bio_pick["born"]}</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="intro">{bio_pick["live_rating"]}</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="intro">{bio_pick["FIDE_rating"]}</p>', unsafe_allow_html=True)
+ 
+with c14:
+    st.text('')
+
+    st.markdown(f'<p class="dashboard_title">World</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="dashboard_title">FIDE Peak</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="dashboard_title">Rapid</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="dashboard_title">Blitz</p>', unsafe_allow_html=True)
+
+with c15:
+    st.text('')
+
+    st.markdown(f'<p class="intro">{bio_pick["world"]}</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="intro">{bio_pick["FIDE_peak"]}</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="intro">{bio_pick["rapid"]}</p>', unsafe_allow_html=True)
+    st.markdown(f'<p class="intro">{bio_pick["blitz"]}</p>', unsafe_allow_html=True)
+
+c21, c22, c22 = st.columns((4, 1, 1))
+
+df_pick = df.loc[df['player_name'] == pick_name].reset_index(drop=True)
+
+with c21:
     
 
-    c41, c42, c43, c44 = st.columns((1,0.13,1,3))
+    c211, c212, c213, c214 = st.columns((1,0.13,1,3))
 
-    with c41:
+    with c211:
 
         start = st.date_input(
                     'start date',
@@ -127,10 +209,10 @@ with c4:
                     max_value=df_pick['date'].max(),
                     label_visibility='hidden' )
     
-    with c42:
+    with c212:
         st.markdown(f'# -', unsafe_allow_html=True)
 
-    with c43:
+    with c213:
         end = st.date_input(
                     'end date',
                     value=df_pick['date'].max(),
@@ -142,12 +224,24 @@ with c4:
     # ax.invert_xaxis()
     # st.pyplot(fig)
 
-    df_pick = df_pick.loc[(df['date'] >= start) & (df['date'] <= end)]
-    df_pick = df_pick.groupby(['date'])['rating'].last().reset_index()
+    df_line = df_pick.loc[(df['date'] >= start) & (df['date'] <= end)]
+    df_line = df_line.groupby(['date'])['rating'].mean().reset_index()
 
-    fig = px.line(df_pick, x="date", y="rating", title='Life expectancy in Canada', markers=True)
+    fig = px.line(df_line, x="date", y="rating", markers=True)
     st.plotly_chart(fig, theme="streamlit", use_container_width=True)
 
+with c22:
+    # st.dataframe(df_pick)
+    df_pie_white = df_pick.loc[df['play_as'] >= 'white', 'result'].value_counts()
+    # st.dataframe(df_pie_white.index)
+    fig = px.pie(df_pie_white, values="count", names=df_pie_white.index, color=df_pie_white.index,
+                 color_discrete_map={'win':'#B82E2E',
+                                     'lose':'#3366CC',
+                                     'draw':'#7F7F7F'
+                                     })
+    fig.update(layout_showlegend=False)
+    fig.update_traces(textposition='inside', textinfo='percent+label')
+    st.plotly_chart(fig, theme="streamlit", use_container_width=True)
 
 # token = "b788ee6044809ec4c425ec29f08a1f5f79f6b516"
 
