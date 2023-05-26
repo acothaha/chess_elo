@@ -191,14 +191,14 @@ with c15:
     st.markdown(f'<p class="intro">{bio_pick["rapid"]}</p>', unsafe_allow_html=True)
     st.markdown(f'<p class="intro">{bio_pick["blitz"]}</p>', unsafe_allow_html=True)
 
-c21, c22, c22 = st.columns((4, 1, 1))
+c22, c21, c23 = st.columns((1, 4, 1))
 
 df_pick = df.loc[df['player_name'] == pick_name].reset_index(drop=True)
 
 with c21:
     
 
-    c211, c212, c213, c214 = st.columns((1,0.13,1,3))
+    c210, c211, c212, c213, c214 = st.columns((1,1,0.1,1,1))
 
     with c211:
 
@@ -231,17 +231,48 @@ with c21:
     st.plotly_chart(fig, theme="streamlit", use_container_width=True)
 
 with c22:
-    # st.dataframe(df_pick)
-    df_pie_white = df_pick.loc[df['play_as'] >= 'white', 'result'].value_counts()
-    # st.dataframe(df_pie_white.index)
-    fig = px.pie(df_pie_white, values="count", names=df_pie_white.index, color=df_pie_white.index,
-                 color_discrete_map={'win':'#B82E2E',
-                                     'lose':'#3366CC',
-                                     'draw':'#7F7F7F'
-                                     })
+
+    df_pie_total = df_pick['result'].value_counts()
+
+    fig = px.pie(df_pie_total, values="count", names=df_pie_total.index, color=df_pie_total.index,
+                color_discrete_map={'win':'#B82E2E',
+                                    'lose':'#3366CC',
+                                    'draw':'#7F7F7F'
+                                    })
     fig.update(layout_showlegend=False)
+    fig.update_layout(width=400, height=400, margin=dict(b=0), title=dict(text="Total Matches", automargin=True, y=0.9, x=0.29))
     fig.update_traces(textposition='inside', textinfo='percent+label')
     st.plotly_chart(fig, theme="streamlit", use_container_width=True)
+
+    c221, c222 = st.columns((1, 1))
+
+    with c221:
+
+        df_pie_white = df_pick.loc[df['play_as'] >= 'white', 'result'].value_counts()
+
+        fig = px.pie(df_pie_white, values="count", names=df_pie_white.index, color=df_pie_white.index,
+                    color_discrete_map={'win':'#B82E2E',
+                                        'lose':'#3366CC',
+                                        'draw':'#7F7F7F'
+                                        })
+        fig.update(layout_showlegend=False)
+        fig.update_layout(width=100, height=300, title=dict(text="As White", automargin=True, x=0.2))
+        fig.update_traces(textposition='inside', textinfo='percent+label')
+        st.plotly_chart(fig, theme="streamlit", use_container_width=True)
+
+    with c222:
+        df_pie_black = df_pick.loc[df['play_as'] >= 'black', 'result'].value_counts()
+
+        fig = px.pie(df_pie_black, values="count", names=df_pie_black.index, color=df_pie_black.index,
+                    color_discrete_map={'win':'#B82E2E',
+                                        'lose':'#3366CC',
+                                        'draw':'#7F7F7F'
+                                        })
+        fig.update(layout_showlegend=False)
+        fig.update_layout(width=100, height=300, title=dict(text="As Black", automargin=True, x=0.2))
+        fig.update_traces(textposition='inside', textinfo='percent+label')
+        st.plotly_chart(fig, theme="streamlit", use_container_width=True)
+
 
 # token = "b788ee6044809ec4c425ec29f08a1f5f79f6b516"
 
