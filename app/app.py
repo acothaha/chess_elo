@@ -53,34 +53,34 @@ text-align: right;
 
 
 
-st.markdown('''
-    <div class="first_title">
-        Markdown css styles
-    </div>
-    ''', unsafe_allow_html=True)
+# st.markdown('''
+#     <div class="first_title">
+#         Markdown css styles
+#     </div>
+#     ''', unsafe_allow_html=True)
 
 
-c1, c2 = st.columns((3, 2))
-with c2:
-    st.write("##")
-    st.write("##")
-    st.markdown("hilih kindsfgsdfredsvnuhviufhviuhduvhaeiurhvidshvihfduhvifhvuidhfsvihuierhvudsbvuab")
-st.write("##")
-with c1:
-    st.write("##")
-    st.write("##")
-    st.markdown(
-        '<p class="intro">Bienvenue sur la <b>no-code AI platform</b> ! Déposez vos datasets csv ou excel ou choisissez en un parmi ceux proposés et commencez votre analyse dès maintenant ! Cherchez les variables les plus intéressantes, visualisez vos données, et créez vos modèles de Machine Learning en toute simplicité.' +
-        ' Si vous choisissez de travailler avec votre dataset et que vous voulez effectuez des modifications sur celui-ci, il faudra le télécharger une fois les modifications faites pour pouvoir l\'utiliser sur les autres pages. </p>',
-        unsafe_allow_html=True)
-    st.markdown(
-        '<p class="intro">Un tutoriel sur l\'utilisation de ce site est disponible sur le repo Github. En cas de bug ou d\'erreur veuillez m\'en informer par mail ou sur Discord.</p>',
-        unsafe_allow_html=True)
-    st.markdown(
-        '<p class="intro"><b>Commencez par choisir un dataset dans la section Dataset !</b></p>',
-        unsafe_allow_html=True)
+# c1, c2 = st.columns((3, 2))
+# with c2:
+#     st.write("##")
+#     st.write("##")
+#     st.markdown("hilih kindsfgsdfredsvnuhviufhviuhduvhaeiurhvidshvihfduhvifhvuidhfsvihuierhvudsbvuab")
+# st.write("##")
+# with c1:
+#     st.write("##")
+#     st.write("##")
+#     st.markdown(
+#         '<p class="intro">Bienvenue sur la <b>no-code AI platform</b> ! Déposez vos datasets csv ou excel ou choisissez en un parmi ceux proposés et commencez votre analyse dès maintenant ! Cherchez les variables les plus intéressantes, visualisez vos données, et créez vos modèles de Machine Learning en toute simplicité.' +
+#         ' Si vous choisissez de travailler avec votre dataset et que vous voulez effectuez des modifications sur celui-ci, il faudra le télécharger une fois les modifications faites pour pouvoir l\'utiliser sur les autres pages. </p>',
+#         unsafe_allow_html=True)
+#     st.markdown(
+#         '<p class="intro">Un tutoriel sur l\'utilisation de ce site est disponible sur le repo Github. En cas de bug ou d\'erreur veuillez m\'en informer par mail ou sur Discord.</p>',
+#         unsafe_allow_html=True)
+#     st.markdown(
+#         '<p class="intro"><b>Commencez par choisir un dataset dans la section Dataset !</b></p>',
+#         unsafe_allow_html=True)
 
-## get 
+# ## get 
 
 credentials = service_account.Credentials.from_service_account_file('cred_google.json')
 project_id = 'esoteric-code-377203'
@@ -116,7 +116,8 @@ with open('credentials.txt') as f:
     for row in f:
         cred.append(row.rstrip('\n'))
 
-date_choose = datetime.datetime.today().strftime('%Y-%m-%d')
+# date_choose = datetime.datetime.today().strftime('%Y-%m-%d')
+date_choose = '2023-05-26'
 
 BUCKET = 'chess-elo-bucket'
 PATH = f'data_json/{date_choose}/chess_bio.json'
@@ -148,7 +149,7 @@ with c_name:
 
 bio_pick = bio_content[pick_name]
 
-c11, c12, c13, c14, c15 = st.columns((0.4, 0.2, 0.6, 0.25, 1))
+c11, c12, c13, c14, c15 = st.columns((0.5, 0.4, 1, 0.25, 1))
 
 
 with c11:
@@ -191,14 +192,14 @@ with c15:
     st.markdown(f'<p class="intro">{bio_pick["rapid"]}</p>', unsafe_allow_html=True)
     st.markdown(f'<p class="intro">{bio_pick["blitz"]}</p>', unsafe_allow_html=True)
 
-c22, c21, c23 = st.columns((1, 4, 1))
+c22, c21 = st.columns((1, 4))
 
 df_pick = df.loc[df['player_name'] == pick_name].reset_index(drop=True)
 
 with c21:
     
 
-    c210, c211, c212, c213, c214 = st.columns((1,1,0.1,1,1))
+    c210, c211, c212, c213, c214 = st.columns((1.1,1,0.1,1,1))
 
     with c211:
 
@@ -228,51 +229,36 @@ with c21:
     df_line = df_line.groupby(['date'])['rating'].mean().reset_index()
 
     fig = px.line(df_line, x="date", y="rating", markers=True)
-    st.plotly_chart(fig, theme="streamlit", use_container_width=True)
+    fig.update_layout(autosize=True, title=dict(text=f"ELO Overtime", automargin=True))
+    st.plotly_chart(fig, theme="streamlit", use_container_width=True, )
 
 with c22:
 
-    df_pie_total = df_pick['result'].value_counts()
+    color = st.select_slider(
+    'Select a color of the rainbow',
+    options=['White', 'All', 'Black'], value='All', label_visibility='hidden')
 
-    fig = px.pie(df_pie_total, values="count", names=df_pie_total.index, color=df_pie_total.index,
+    if color == 'All':
+        df_pie = df_pick.loc[(df['date'] >= start) & (df['date'] <= end), 'result'].value_counts()
+    else:
+        df_pie = df_pick.loc[(df['date'] >= start) & (df['date'] <= end) & (df['play_as'] == color.lower()), 'result'].value_counts()
+    
+
+    fig = px.pie(df_pie, values="count", names=df_pie.index, color=df_pie.index,
                 color_discrete_map={'win':'#B82E2E',
                                     'lose':'#3366CC',
                                     'draw':'#7F7F7F'
                                     })
     fig.update(layout_showlegend=False)
-    fig.update_layout(width=400, height=400, margin=dict(b=0), title=dict(text="Total Matches", automargin=True, y=0.9, x=0.29))
+    fig.update_layout(width=400, height=400, autosize=True, title=dict(text=f"Result % ({color})", automargin=True, y=0.9))
     fig.update_traces(textposition='inside', textinfo='percent+label')
     st.plotly_chart(fig, theme="streamlit", use_container_width=True)
 
-    c221, c222 = st.columns((1, 1))
 
-    with c221:
-
-        df_pie_white = df_pick.loc[df['play_as'] >= 'white', 'result'].value_counts()
-
-        fig = px.pie(df_pie_white, values="count", names=df_pie_white.index, color=df_pie_white.index,
-                    color_discrete_map={'win':'#B82E2E',
-                                        'lose':'#3366CC',
-                                        'draw':'#7F7F7F'
-                                        })
-        fig.update(layout_showlegend=False)
-        fig.update_layout(width=100, height=300, title=dict(text="As White", automargin=True, x=0.2))
-        fig.update_traces(textposition='inside', textinfo='percent+label')
-        st.plotly_chart(fig, theme="streamlit", use_container_width=True)
-
-    with c222:
-        df_pie_black = df_pick.loc[df['play_as'] >= 'black', 'result'].value_counts()
-
-        fig = px.pie(df_pie_black, values="count", names=df_pie_black.index, color=df_pie_black.index,
-                    color_discrete_map={'win':'#B82E2E',
-                                        'lose':'#3366CC',
-                                        'draw':'#7F7F7F'
-                                        })
-        fig.update(layout_showlegend=False)
-        fig.update_layout(width=100, height=300, title=dict(text="As Black", automargin=True, x=0.2))
-        fig.update_traces(textposition='inside', textinfo='percent+label')
-        st.plotly_chart(fig, theme="streamlit", use_container_width=True)
-
+st.dataframe(df_pick[['date', 'site' ,'player_name', 'play_as', 'opponent', 'move', 'result']][:10]. \
+             style.applymap(lambda x: 'background-color : #B82E2E' if x == 'win' else \
+                            'background-color : #3366CC' if x == 'lose' else \
+                            'background-color : #7F7F7F', subset=['result']), use_container_width=True)
 
 # token = "b788ee6044809ec4c425ec29f08a1f5f79f6b516"
 
