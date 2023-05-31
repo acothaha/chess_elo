@@ -14,25 +14,25 @@ from prefect_gcp import GcpCredentials
 def lambda_scrape(n: int=1) -> None:
     """with AWS lambda Scrape chess data from web and put it in S3"""
     
-    # aws_credentials_block = AwsCredentials.load("chess-elo-cred")
+    aws_credentials_block = AwsCredentials.load("chess-elo-cred")
     
-    # s3_session = aws_credentials_block.get_boto3_session()
+    s3_session = aws_credentials_block.get_boto3_session()
     
-    # lambda_client = s3_session.client('lambda')
+    lambda_client = s3_session.client('lambda')
 
-    # test_event = dict({
-    #     'n': n
-    # })
+    test_event = dict({
+        'n': n
+    })
 
-    # response = lambda_client.invoke(
-    #     FunctionName='scrape_elo_chess',
-    #     Payload=json.dumps(test_event),
-    #     InvocationType='Event',
-    #     LogType='Tail'
-    # )
+    response = lambda_client.invoke(
+        FunctionName='scrape_elo_chess',
+        Payload=json.dumps(test_event),
+        InvocationType='Event',
+        LogType='Tail'
+    )
     
-    # for i in tqdm(range(200)):
-    #     time.sleep(1)
+    for i in tqdm(range(200)):
+        time.sleep(1)
     
     print("Data is scraped")
     
@@ -52,6 +52,32 @@ def lambda_ranking(n: int=100) -> None:
 
     response = lambda_client.invoke(
         FunctionName='chess_elo_ranking',
+        Payload=json.dumps(test_event),
+        InvocationType='Event',
+        LogType='Tail'
+    )
+
+    for i in tqdm(range(10)):
+        time.sleep(1)
+    
+    print("Ranking is scraped")
+
+@task(log_prints=True, retries=3)
+def lambda_bio(n: int=100) -> None:
+    """with AWS lambda Scrape chess data from web and put it in S3"""
+    
+    aws_credentials_block = AwsCredentials.load("chess-elo-cred")
+    
+    s3_session = aws_credentials_block.get_boto3_session()
+    
+    lambda_client = s3_session.client('lambda')
+
+    test_event = dict({
+        'n': n
+    })
+
+    response = lambda_client.invoke(
+        FunctionName='chess_bio',
         Payload=json.dumps(test_event),
         InvocationType='Event',
         LogType='Tail'
@@ -88,6 +114,7 @@ def fetch_elo_from_s3(date_choose: str, name: str) -> dict:
     
     BUCKET = 'chess-elo-bucket'
     PATH = f'data_json/{date_choose}/{name}.json'
+    print(PATH)
     aws_credentials_block = AwsCredentials.load("chess-elo-cred")
     
     s3_session = aws_credentials_block.get_boto3_session()
@@ -222,17 +249,21 @@ def etl_s3_to_gcs(date):
 @flow()
 def chess_elo_parent_flow(url, n):
 
+    lambda_ranking(n)
+
+    lambda_bio(n)
+
     for i in range(n):
         lambda_scrape(i+1)
 
-    lambda_ranking(n)
+    
 
     etl_s3_to_gcs(url)
 
 if __name__ == '__main__':
 
-    # date_today = str(date.today())
-    date_today = '2023-05-23'
+    date_today = str(date.today())
+    # date_today = '2023-05-23'
     n = 10
 
     chess_elo_parent_flow(date_today, n)
