@@ -62,6 +62,34 @@ def lambda_ranking(n: int=100) -> None:
     
     print("Ranking is scraped")
     
+@task(log_prints=True, retries=3)
+def lambda_bio() -> None:
+    """with AWS lambda Scrape chess data from web and put it in S3"""
+    
+    aws_credentials_block = AwsCredentials.load("chess-elo-cred")
+    
+    s3_session = aws_credentials_block.get_boto3_session()
+    
+    lambda_client = s3_session.client('lambda')
+
+    test_event = dict({
+        "key1": "value1",
+        "key2": "value2",
+        "key3": "value3"
+        })
+
+    response = lambda_client.invoke(
+        FunctionName='chess_bio',
+        Payload=json.dumps(test_event),
+        InvocationType='Event',
+        LogType='Tail'
+    )
+
+    for i in tqdm(range(10)):
+        time.sleep(1)
+    
+    print("Ranking is scraped")
+    
 
 @task(log_prints=True, retries=3)
 def fetch_ranking_from_s3(date_choose: str) -> dict:
@@ -101,7 +129,7 @@ def fetch_elo_from_s3(date_choose: str, name: str) -> dict:
     return json_content
         
         
-@task(log_prints=True, retries=3)
+
 def clean(df: pd.DataFrame, n:int) -> pd.DataFrame:
     """Cleaning the data"""
 
@@ -145,6 +173,19 @@ def play_as_decider(player_name_dependent: str ,player_name_control: str) -> str
     except:
         return 'black'
 
+@task(log_prints=True, retries=3)
+def create_df_from_json(json_data) -> pd.DataFrame:
+    """Create pandas dataframe from JSON"""
+    
+    list_name = list(json_data.keys())
+    df = pd.DataFrame()
+    
+    for n, name in enumerate(list_name):
+        df_temp = pd.DataFrame(json_data[name])
+        df_temp = clean(df_temp, n)
+        df = pd.concat([df, df_temp])
+        
+    return df
 
 @task(log_prints=True, retries=3)
 def write_to_bq(df: pd.DataFrame) -> None:
@@ -189,22 +230,6 @@ def invoke_dbt(df: pd.DataFrame) -> None:
 
     x = requests.post(url, json = myobj)
 
-@flow()
-def create_df_from_json(json_data) -> pd.DataFrame:
-    """Create pandas dataframe from JSON"""
-    
-    list_name = list(json_data.keys())
-    
-    df = pd.DataFrame()
-    
-    for n, name in enumerate(list_name):
-        df_temp = pd.DataFrame(json_data[name])
-        df_temp = clean(df_temp, n)
-        df = pd.concat([df, df_temp])
-        
-    
-    return df
-
 
 @flow()
 def etl_s3_to_gcs(date):
@@ -226,13 +251,15 @@ def chess_elo_parent_flow(url, n):
         lambda_scrape(i+1)
 
     lambda_ranking(n)
+    
+    lambda_bio()
 
     etl_s3_to_gcs(url)
 
 if __name__ == '__main__':
 
-    # date_today = str(date.today())
-    date_today = '2023-05-23'
+    date_today = str(date.today())
+    # date_today = '2023-05-23'
     n = 10
 
     chess_elo_parent_flow(date_today, n)
