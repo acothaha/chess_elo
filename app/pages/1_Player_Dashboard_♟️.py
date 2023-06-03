@@ -51,7 +51,6 @@ text-align: right;
 </style>
 ''', unsafe_allow_html=True)
 
-
 st.markdown('''
     <div class="first_title">
        ♟️ Player Dashboard
@@ -59,60 +58,63 @@ st.markdown('''
     ''', unsafe_allow_html=True)
 
 
-credentials = service_account.Credentials.from_service_account_file('cred_google.json')
-project_id = 'esoteric-code-377203'
-
-client = bigquery.Client(credentials=credentials, project=project_id)
-
-sql = """
-    SELECT 
-        player_name,
-        ranking, 
-        rating,
-        play_as,
-        opponent,
-        opponent_rating,
-        result,
-        move,
-        site,
-        date,
-        rn
-    FROM 
-        `esoteric-code-377203.chess_elo_production.chess_elo_top`
-    ORDER BY 
-        ranking, rn
-    """
-
-df = client.query(sql).to_dataframe()
-
-## fetch bio data
-
-cred = []
-
-with open('credentials.txt') as f:
-    for row in f:
-        cred.append(row.rstrip('\n'))
-
-BUCKET = 'chess-elo-bucket'
-
-s3_client = boto3.client(
-    "s3",
-    aws_access_key_id=cred[0],
-    aws_secret_access_key=cred[1]
-)
-
-get_file_s3 = s3_client.list_objects(Bucket=BUCKET, Delimiter='/', Prefix='data_json/')
-
-choose_date_path = get_file_s3['CommonPrefixes'][-1]['Prefix']
-
-PATH = f'{choose_date_path}chess_bio.json'
-
-content_object = s3_client.get_object(Bucket=BUCKET, Key=PATH)
-
-file_content = content_object["Body"].read().decode('utf-8')
-bio_content = json.loads(file_content)
-
 ## display
+
+if 'df' not in st.session_state:
+    credentials = service_account.Credentials.from_service_account_file('cred_google.json')
+    project_id = 'esoteric-code-377203'
+
+    client = bigquery.Client(credentials=credentials, project=project_id)
+
+    sql = """
+        SELECT 
+            player_name,
+            ranking, 
+            rating,
+            play_as,
+            opponent,
+            opponent_rating,
+            result,
+            move,
+            site,
+            date,
+            rn
+        FROM 
+            `esoteric-code-377203.chess_elo_production.chess_elo_top`
+        ORDER BY 
+            ranking, rn
+        """
+
+    st.session_state.df = client.query(sql).to_dataframe()
+    
+if 'bio_content' not in st.session_state:
+    cred = []
+
+    with open('credentials.txt') as f:
+        for row in f:
+            cred.append(row.rstrip('\n'))
+
+    BUCKET = 'chess-elo-bucket'
+
+    s3_client = boto3.client(
+        "s3",
+        aws_access_key_id=cred[0],
+        aws_secret_access_key=cred[1]
+    )
+
+    get_file_s3 = s3_client.list_objects(Bucket=BUCKET, Delimiter='/', Prefix='data_json/')
+
+    choose_date_path = get_file_s3['CommonPrefixes'][-1]['Prefix']
+
+    PATH = f'{choose_date_path}chess_bio.json'
+
+    content_object = s3_client.get_object(Bucket=BUCKET, Key=PATH)
+
+    file_content = content_object["Body"].read().decode('utf-8')
+
+    st.session_state.bio_content = json.loads(file_content)
+
+df = st.session_state.df
 
 name = (df.sort_values(by='ranking')['player_name']).unique()
 
@@ -126,6 +128,8 @@ with c_name:
     st.markdown(f'''
         # {pick_name}
         ''', unsafe_allow_html=True)
+
+bio_content = st.session_state.bio_content
 
 bio_pick = bio_content[pick_name]
 
@@ -210,7 +214,7 @@ with c21:
     df_line = df_line.groupby(['date'])['rating'].mean().reset_index()
 
     fig = px.line(df_line, x="date", y="rating", markers=True)
-    fig.update_layout(autosize=True, title=dict(text=f"ELO Overtime", automargin=True))
+    fig.update_layout(autosize=True, title=dict(text=f"ELO Overtime", automargin=True), margin_b=10)
     st.plotly_chart(fig, theme="streamlit", use_container_width=True, )
 
 with c22:
