@@ -28,7 +28,7 @@ st.markdown('''
     text-align: center;
 }
 .intro {
-    font-size: 20px !important;
+    font-size: 18px !important;
     text-align: justify;
 }
 .title {
@@ -41,7 +41,7 @@ st.markdown('''
     width: 100%;
 }
 .dashboard_title {
-font-size: 20px !important;
+font-size: 18px !important;
 font-weight: bold;
 text-align: right;
 }
@@ -147,14 +147,14 @@ bio_content = st.session_state.bio_content
 
 bio_pick = bio_content[pick_name]
 
-c11, c12, c13, c14, c15 = st.columns((0.5, 0.4, 1, 0.25, 0.5))
+c11, c12, c13, c14, c15 = st.columns((0.4, 0.4, 1, 0.25, 0.5))
 
 
 with c11:
     st.text('')
     st.markdown(
     f"""
-    <div style="text-align: left;"><img src={bio_pick['image']} width="250" alt="My Image" /></div>
+    <div style="text-align: left;"><img src={bio_pick['image']} width="200" alt="My Image" /></div>
     """, unsafe_allow_html=True
     )
 
