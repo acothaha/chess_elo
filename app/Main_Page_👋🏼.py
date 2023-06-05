@@ -57,15 +57,17 @@ st.markdown(
     """
     Hello 👋🏼👋🏼👋🏼!! Aco here!! This is the Final product of my Data Engineering Project. I built a dashboard with Streamlit to display the Top 10 Chess player statistics
     and their head to head statistics. some of the graphs that are shown in the dashboards are interactive, so make sure to hover
-    over it 🖱️. 
+    over it 😁😁. 
     
+    **🖱️ Click [HERE](https://github.com/acothaha/chess_elo)** for detail of the project
+
     **👈 Select a tab on the sidebar** to get started!!!
+
     
-    ### Want to see my other project more?
-    - Check out [streamlit.io](https://streamlit.io)
-    - Jump into our [documentation](https://docs.streamlit.io)
-    - Ask a question in our [community
-        forums](https://discuss.streamlit.io)
+    ### Want to see my other projects?
+    - Machine Learning + Neural Network 💁 [Customer Churn Prediction](https://github.com/acothaha/Customer-Churn-Prediction)
+    - A/B Testing 🐈 [Cookie Cats](https://github.com/acothaha/Mobile-Games-A-B-Testing---Cookie-Cats)
+    - Data Analysis + Data Visualization 🍃 [Market Expansion](https://github.com/acothaha/WEED-market-expansion)
     ### Check out my Social Media
     <div style="float: left;"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="15" height="15"/>&nbsp&nbsp<a href="https://www.linkedin.com/in/acothaha/?locale=en_US">Linkedin</a></div>       
     
