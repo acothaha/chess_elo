@@ -5,3 +5,4 @@ google-cloud-bigquery
 protobuf==3.20.*
 plotly
 db-dtypes
+boto3
