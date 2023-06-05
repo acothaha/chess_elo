@@ -3,3 +3,4 @@
 !requirements.txt
 *.json
 lambda_dependencies
+.streamlit
