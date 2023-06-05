@@ -107,7 +107,7 @@ if 'df' not in st.session_state:
 if 'bio_content' not in st.session_state:
     ## fetch bio data
 
-    cred_aws = [st.secret["aws"]["access_id"], st.secret["aws"]["access_key"]]
+    cred_aws = [st.secrets["aws"]["access_id"], st.secrets["aws"]["access_key"]]
 
     BUCKET = 'chess-elo-bucket'
 
