@@ -8,6 +8,13 @@ The purpose of this particular project is to provide a comprehensive information
 
 This is an end-to-end project that utilize the usage of multiple tools, from the gathering of the data, transforming it, and visualizing it. 
 
+You can see the end result (visualization) [here](https://acothaha-chess-elo.streamlit.app/)
+
+Main Page            |  Player Dashboard           | Head to Head                          |
+:-------------------------:|:-------------------------: | :-------------------------:   |
+![](pics/main%20page.png)  |  ![](pics/player%20dashboard.png)  |  ![](pics/head%20to%20head.png)   |
+
+
 ## **Project Datasets**
 
 In this project, I work mainly with 2 datasets that i scraped from 2 sites.
