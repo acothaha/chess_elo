@@ -1,7 +1,6 @@
-
+test.ipynb
 *.txt
 !requirements.txt
 *.json
 lambda_dependencies
-test.ipynb
 .streamlit
