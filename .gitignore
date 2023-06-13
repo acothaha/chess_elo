@@ -2,3 +2,4 @@
 !requirement.txt
 *.json
 lambda_dependencies
+test.ipynb
