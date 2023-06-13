@@ -1,5 +1,10 @@
+
 *.txt
-!requirement.txt
+!requirements.txt
 *.json
 lambda_dependencies
+<<<<<<< HEAD
 test.ipynb
+=======
+.streamlit
+>>>>>>> 504538a8a40c1592fe50d58c3600ddbf1956af1a

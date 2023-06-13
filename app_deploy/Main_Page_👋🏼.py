@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_extras.switch_page_button import switch_page
 import base64
 import json
 from google.cloud import bigquery
@@ -57,15 +56,17 @@ st.markdown(
     """
     Hello 👋🏼👋🏼👋🏼!! Aco here!! This is the Final product of my Data Engineering Project. I built a dashboard with Streamlit to display the Top 10 Chess player statistics
     and their head to head statistics. some of the graphs that are shown in the dashboards are interactive, so make sure to hover
-    over it 🖱️. 
+    over it 😁😁. 
     
+    **🖱️ Click [HERE](https://github.com/acothaha/chess_elo)** for detail of the project
+
     **👈 Select a tab on the sidebar** to get started!!!
+
     
-    ### Want to see my other project more?
-    - Check out [streamlit.io](https://streamlit.io)
-    - Jump into our [documentation](https://docs.streamlit.io)
-    - Ask a question in our [community
-        forums](https://discuss.streamlit.io)
+    ### Want to see my other projects?
+    - Machine Learning + Neural Network 💁 [Customer Churn Prediction](https://github.com/acothaha/Customer-Churn-Prediction)
+    - A/B Testing 🐈 [Cookie Cats](https://github.com/acothaha/Mobile-Games-A-B-Testing---Cookie-Cats)
+    - Data Analysis + Data Visualization 🍃 [Market Expansion](https://github.com/acothaha/WEED-market-expansion)
     ### Check out my Social Media
     <div style="float: left;"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="15" height="15"/>&nbsp&nbsp<a href="https://www.linkedin.com/in/acothaha/?locale=en_US">Linkedin</a></div>       
     
@@ -78,7 +79,24 @@ st.markdown("""
 
 
 if 'df' not in st.session_state:
-    credentials = service_account.Credentials.from_service_account_file('cred_google.json')
+
+    cred_google = {
+        "type": st.secrets["google"]["type"],
+        "project_id": st.secrets["google"]["project_id"],
+        "private_key_id": st.secrets["google"]["private_key_id"],
+        "private_key": st.secrets["google"]["private_key"],
+        "client_email": st.secrets["google"]["client_email"],
+        "client_id": st.secrets["google"]["client_id"],
+        "auth_uri": st.secrets["google"]["auth_uri"],
+        "token_uri": st.secrets["google"]["token_uri"],
+        "auth_provider_x509_cert_url": st.secrets["google"]["auth_provider_x509_cert_url"],
+        "client_x509_cert_url": st.secrets["google"]["client_x509_cert_url"],
+        "universe_domain": st.secrets["google"]["universe_domain"]
+    }
+
+
+
+    credentials = service_account.Credentials.from_service_account_info(cred_google)
     project_id = 'esoteric-code-377203'
 
     client = bigquery.Client(credentials=credentials, project=project_id)
@@ -107,18 +125,14 @@ if 'df' not in st.session_state:
 if 'bio_content' not in st.session_state:
     ## fetch bio data
 
-    cred = []
-
-    with open('credentials.txt') as f:
-        for row in f:
-            cred.append(row.rstrip('\n'))
+    cred_aws = [st.secrets["aws"]["access_id"], st.secrets["aws"]["access_key"]]
 
     BUCKET = 'chess-elo-bucket'
 
     s3_client = boto3.client(
         "s3",
-        aws_access_key_id=cred[0],
-        aws_secret_access_key=cred[1]
+        aws_access_key_id=cred_aws[0],
+        aws_secret_access_key=cred_aws[1]
     )
 
     get_file_s3 = s3_client.list_objects(Bucket=BUCKET, Delimiter='/', Prefix='data_json/')
