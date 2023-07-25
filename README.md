@@ -29,6 +29,8 @@ In this project, I work mainly with 2 datasets that i scraped from 2 sites.
 
 ## **Tools and Technologies**
 - Python (beautiful soup, Pandas, AWS & GCP SDK, streamlit)
+- HTML
+- CSS
 - AWS services (Lambda, S3, EC2)
 - GCP services (BigQuery)
 - Prefect 
